@@ -1,0 +1,571 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "description": "Information security vulnerabilities and risks; legal, cost, privacy and technology constraints; derivation of strategies; technical and procedural means of achieving desired ends.",
+                "officialURL": "https://omscs.gatech.edu/pubp-6725-information-security-policies",
+                "isFoundational": false,
+                "_id": "external-import-PUBP-6725",
+                "slug": "information-security-policies-and-strategies",
+                "isDeprecated": false,
+                "reviews": [
+                    {
+                        "_updatedAt": "2024-06-24T04:12:11Z",
+                        "_type": "review",
+                        "authorId": "HMOH0Mli8rng3CFXGO61ww4SrWl6WSEFxtELq2Zt/HA=",
+                        "id": "pOz60XhfX3Rjlw5fdilv39",
+                        "_createdAt": "2024-06-24T04:12:11Z",
+                        "workload": 5,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05",
+                            "_updatedAt": "2024-05-09T04:45:52Z",
+                            "startDate": "2024-01-08",
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw"
+                        },
+                        "body": "How you feel about this course will depend entirely on which TA grades your assignments.  While all TAs are supposed to use the same rubric, it simply isn't the case.  A group of us used out-of-band communications to compare assignment submissions and grades.  There was no consistency to the grading and some TAs took marks off for not including things that weren't listed in the rubric.  In one presentation the group annotated their slides to show which section of the rubric the slide aligned with.  The TA who was grading gave them a zero for a whole section (which was later changed in a regrade) because they didn't see the information.\n\nAlso, you will have 2 group projects, that the TAs do not seem to consider while grading.  The fate of your GPA will not be in your hands.  If this wasn't a required course I would not recommend it to anyone.  ",
+                        "_id": "pOz60XhfX3Rjlw5fdilv39",
+                        "_rev": "pOz60XhfX3Rjlw5fdiluxr",
+                        "course": null,
+                        "difficulty": 2,
+                        "rating": 2,
+                        "created": "2024-06-24T04:12:11Z"
+                    },
+                    {
+                        "created": "2024-05-13T14:34:01Z",
+                        "body": "The assignments are good, but like the other reviewers said, the TAs are the one who makes this class difficult. First of all, the instructions given for assignment will always leave you with more questions and when you ask them, you will be given the most vague answers(check canvas, its up for you to interpret, etc). \nAssignment 4 is debate styled and is divided into 2 sections 4a is initial statement and 4b is actual debate with students. This assignment literally has least amount of instructions and no rubric is given. I got full marks for 4a with one TA and another TA graded 4b with less than the average marks(perhaps lowest) and the feedback i got was, my 4a was not sufficient which I believe is unfair(because 4a and 4b are graded different why was i graded for 4a in 4b). Mind you, I had followed all instructions provided for 4b and some of the TAs feedback was not even mentioned in assignment instructions(like using sources). When I put this for regrading request, after a long discussion the head TA pitched in and increased few points and told me the grading is subjective and objective, I was graded harsh. My end grade got up from 87.5 to 89.5 with a B, imo my points were increased to make me feel good and stop me at a B. Unfortunately, my regrading request got dragged for a week and the final grades were released so I could not argue more. \nThe assignment graded are subjective to TA's understanding of expectations so  if you feel like you have done everything right. make sure you put in a regrading request and you tag professor and other TAs to pitch in and not rely on the TA which graded you initially, because initial TA will be the one who pick up your regrading request as well.\n\nIn short, you are literally at the mercy of TA for grading, if you get a hard grader like i did, you will suffer even though you followed every instruction, if not you will get A. My only regret is I did not put regrading request for all of my assignments.",
+                        "semester": {
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05",
+                            "_updatedAt": "2024-05-09T04:45:52Z",
+                            "startDate": "2024-01-08",
+                            "_createdAt": "2024-05-09T04:45:27Z"
+                        },
+                        "authorId": "wPJLKOpnA9jWac1xFnGnUQ==",
+                        "id": "3r9rhykRH8FPhcRCS8al4p",
+                        "_type": "review",
+                        "rating": 2,
+                        "_updatedAt": "2024-05-13T14:34:01Z",
+                        "_rev": "3r9rhykRH8FPhcRCS8al1E",
+                        "difficulty": 3,
+                        "_createdAt": "2024-05-13T14:34:01Z",
+                        "course": null,
+                        "workload": 10,
+                        "_id": "3r9rhykRH8FPhcRCS8al4p"
+                    },
+                    {
+                        "difficulty": 3,
+                        "semester": {
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09"
+                        },
+                        "body": "This class has tearable TAs they take off like 30 or 40 pts for vague and not clear criteria. Overall worst experience in a college class I have ever had. If I met the TAs in person they would hope to get away from me without giving them an earful. The program is so bad I am not impressed so far with the education. The class needs new TAs and management. Id say it was easy but when the big projects get huge deductions for no reason because the TA wanted to be a hard tail then it's not easy. Just aweful.",
+                        "workload": 10,
+                        "id": "78ruYfzFRnPMlC77slFHJw",
+                        "_type": "review",
+                        "created": "2024-05-01T15:26:32Z",
+                        "_updatedAt": "2024-05-01T15:26:32Z",
+                        "course": null,
+                        "_id": "78ruYfzFRnPMlC77slFHJw",
+                        "rating": 1,
+                        "authorId": "gziM9SVjye8lER4sjM7saQ==",
+                        "_createdAt": "2024-05-01T15:26:32Z",
+                        "_rev": "78ruYfzFRnPMlC77slFHFq"
+                    },
+                    {
+                        "_id": "hi6aqM0t9mkSAoHlGk1uS8",
+                        "authorId": "yuc9asgKO6T4I26/zD8S7A==",
+                        "course": null,
+                        "_updatedAt": "2023-07-20T08:40:22Z",
+                        "_type": "review",
+                        "workload": 1,
+                        "rating": 1,
+                        "id": "hi6aqM0t9mkSAoHlGk1uS8",
+                        "created": "2023-07-20T08:40:22Z",
+                        "_createdAt": "2023-07-20T08:40:22Z",
+                        "_rev": "hi6aqM0t9mkSAoHlGk1uQI",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN"
+                        },
+                        "difficulty": 1,
+                        "body": "This course is perfect for you if you want to be trained as a prompt engineer. All the quizzes and projects can be answered/written using AI if you just ask it the right way. TA's would deduct marks for silly things like file format, grammar and missing title, ToC pages. "
+                    },
+                    {
+                        "_type": "review",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22"
+                        },
+                        "authorId": "CWdPvvaia4/DA5b7rSIxpw==",
+                        "body": "I had a bad experience taking this course. It was going fine till i received a bad feedback from a teammate forcing me to withdraw from the course as it would affect my grade. Even after contributing to the assignments, to assign 10% of the overall points just because you don't like someone is unprofessional. Despite getting bad vibes initially and being tempeted to leave very low points to the same person, I kept it professional and left a satisfactory review based on my experience working in multiple companies and different teams. \nThe same person had only contributed to the documentation powerpoint slides for assignment and did not contribute to performing the actual exploit except for looking up some tool he knew from work and preparing slides on the same while I did a part of the exploit as well as add to the slides from the same documentation. \nYour contribution does not warrant a >35 points for the effort even though some work was done for looking up details of the victim and posting screenshots of the same of the slides. You envisoned the slides to look a certain way and others had agreed to accept your view but it does not warrant >35 points and does not mean you did \"more effort\" for the padded slides. \n\nEventually, after having a prior experience from my first course for a similar personality, this time, I withdrew rather than follow ethics and continue giving an undeserving teammate a satisfactory review.  \n\nThe Online MS courses at Georgia Tech have a recurring problem with such personalities that do not understand how the feedback system work. In the previous semester, I had an experienced manager from a multi-national company as my teammate that did not know how to code, I did not leave a bad feedback, just because he couldn't code, and still gave an equal feedback that would not affect his overall score. In your professional career you are going to work with many such groups, and behaving in this manner that would harm someone is unprofessional.  ",
+                        "_updatedAt": "2022-10-07T01:55:46Z",
+                        "_rev": "fzMi4IMaPeM6gf5XM8gpGH",
+                        "workload": 5,
+                        "rating": 1,
+                        "difficulty": 1,
+                        "_createdAt": "2022-10-07T01:55:46Z",
+                        "created": "2022-10-07T01:55:46Z",
+                        "course": null,
+                        "_id": "fzMi4IMaPeM6gf5XM8gpI3",
+                        "id": "fzMi4IMaPeM6gf5XM8gpI3"
+                    },
+                    {
+                        "id": "external-import-f7fb2cd0-ebe9-4988-aa1b-6d09e7509288",
+                        "created": "2021-12-21T20:59:41Z",
+                        "_id": "external-import-f7fb2cd0-ebe9-4988-aa1b-6d09e7509288",
+                        "_createdAt": "2021-12-21T20:59:41Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 3,
+                        "workload": 4,
+                        "difficulty": 1,
+                        "_type": "review",
+                        "course": null,
+                        "semester": {
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall"
+                        },
+                        "body": "Overall this is a solid class. Content was interesting, but the class kind of lacked substance. The instructor would talk about cybersecurity at a superficial level and never really dove deep. The lecture videos were short as a result. The content, as fluffy as it may be, I felt was pretty interesting. The instructor is a career academic and it shows; some of the content doesn't apply in the real world very well or is esoteric. On the whole it was interesting. The quizzes were open book/note no time limit -- they were more challenging than I expected -- *most* questions could be CTRL+F'd, but a few required at least some mastery of the topic. Several times for the life of me I could not find addressed in the lectures or readings at all. The course was so devoid of content I literally could do 3 weeks of lectures in a few hours even while taking notes. At times I forgot I was enrolled in grad school :D This class felt like it has about 4 weeks worth of content in it. The instructor and TAs would often speak about cybersecurity like politicians do. I guess thats a public policy department for you. :) That said, I was impressed by the instructors accuracy; many policy people I've worked with make inaccurate assertions about technology. The instructor was spot on the entire course.\n\nGroup work can suck. I had a team that varied from okay to bad and we did okay on the projects. 1 person on our team did not really contribute at all but was assertive with their opinions, the 2nd only contributed to the second project. The third person and I did 80% of the work. Nothing too abnormal with academic group work. Would have preferred working alone; the hardest part was dealing with the non-contributors.\n\n\n\n\nCons:\n\n* Go Phish very very questionable legally. As students we agree to GaTech's acceptable use policy but the project scope is very vaguely defined and rules of engagement are non existent. One of the first things I learned in cybersecurity is to never attack things without an explicit ROE with scope clearly defined; without it in place you are in questionable ethical and legal territory at best. Any cybersecurity instructor who tells you otherwise should probably find another line of work. Its really ironic *for a cyber security policy class* to ignore this.\n* Grading was all over the place. They would dock points but not tell you why. In other cases they docked points for made up requirements not specified in the rubric. Or the TA would tell you that you did great work on a section of the rubric, not mentioning any issues but dock points anyways. It felt like my grade depended on the TA I got more than the quality of the submission. In the end it all worked out and I got a solid A.\n* Projects, like most Gatech work is vaguely defined. Most of the time that is fine; students get clarification in Piazza and go about their business. However questions in Piazza were frequently responded to with non-answers. The only TA I ever got useful answers from was Beau who was absolutely fantastic.",
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "body": "Good course!  Recommended.",
+                        "_id": "external-import-b79601db-5213-4a0a-90e7-d6b8dc688cfe",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-b79601db-5213-4a0a-90e7-d6b8dc688cfe",
+                        "created": "2021-12-05T20:57:22Z",
+                        "_type": "review",
+                        "rating": 5,
+                        "difficulty": 2,
+                        "course": null,
+                        "_createdAt": "2021-12-05T20:57:22Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "workload": 12,
+                        "semester": {
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall"
+                        }
+                    },
+                    {
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-1b67056c-f9b3-4c3d-97ff-5a106e925fa5",
+                        "created": "2021-05-19T13:01:19Z",
+                        "_type": "review",
+                        "difficulty": 2,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "rating": 5,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "workload": 4,
+                        "body": "This was a very nice introductory class into the Cybersecurity program. The workload is pretty well balanced and the professor is very nice and holds regular office hours. The first 2 projects are by far the biggest chunk of time and effort in this class, but if you have good group members then they will both be pretty fun despite taking a little bit of time to complete. After project 2 it is smooth sailing until the end of the semester.",
+                        "_createdAt": "2021-05-19T13:01:19Z",
+                        "course": null,
+                        "_id": "external-import-1b67056c-f9b3-4c3d-97ff-5a106e925fa5"
+                    },
+                    {
+                        "_createdAt": "2021-05-11T19:19:23Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1"
+                        },
+                        "id": "external-import-c0ddb1df-287e-4ab7-a834-f1f8bb7fc767",
+                        "created": "2021-05-11T19:19:23Z",
+                        "_type": "review",
+                        "_id": "external-import-c0ddb1df-287e-4ab7-a834-f1f8bb7fc767",
+                        "difficulty": 1,
+                        "course": null,
+                        "workload": 5,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "body": "This course was not good, but it fulfills its purpose of being an easy class when you need a slow semester, so there's that.\n\nYou can skip all the lectures and use the readings to find answers for the quizzes. I ended up with something closer to Cs on the quizzes because I wasn\u2019t too worried about it, but these are points you probably want to spend a little extra time making sure you get.\n\nThe first two group projects were annoying as all group projects are, but as long as you follow the rubrics you will receive As for the projects. Both projects require maybe 10 hours of work from one person.\n\nThe two individual projects were just rehashing earlier material in the course. There was a discussion project which I think I put maybe one hour of work into and received an A for it. For the final paper, I put a couple of hours in and received a high B.\n\nOne note I'm seeing in recent reviews and also from other channels in the course is that an 89.5%+ isn't rounded up, so really try and get the easy quiz points when you can.\n\nBonus points for this class being called \"Information Security Policies\" and hopefully not looking too out of place on a transcript (not that it really matters) as opposed to Digital Marketing or the like.",
+                        "rating": 2
+                    },
+                    {
+                        "difficulty": 3,
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-05-09T06:26:13Z",
+                        "semester": {
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z"
+                        },
+                        "body": "Very lumpy time commitment; from 5 to 25 hrs per week based around key deliverables below. \n\nThe exams are slightly picky, a lot of Ctrl+F as they're open book and will require digging into the reading materials a lot.\n\nProject #1 - Phishing [team]. You will spend more time synching comms than doing the work but was it ever different? Just build a website as that's what 75% of the exemplary assignments do, even if paper only exercise is valid.\n\nProject #2 - Ransomware [team]. Paper report. Crafting work modules from team members for coherence is the issue. \n\nProject #3 - Legal debate. Too much legislation to usefully digest in the timeframe. Canvas is a horrible platform to track debate threads.\n\nProject #4 - Diamond Model. Take a framework, apply it, write it up. Most unclear project for me - examples would help. Incident Response format or a Policy Recommendation? \n\nI have no real idea what the expectations are for the deliverables - 2 with perfect/near perfect score and 2 with below average scores. In retrospect, I can't identify the quality differentials myside so perhaps it's my interpretation or TA review.\n\nI found these to be the most helpful, knowledgeable and decent TA's I'd experienced thus far in the program - thanks to all involved. I suspect it may be the maturity and the class size that helps.\n\nProf K is a decent guy who makes himself available for the office hrs which is a rare treat in OMS. Lectures are also very high quality + relevant which is another rare treat in OMS.\n\nBTW, I am part of the 89% crew so bear that in mind.",
+                        "id": "external-import-3dc5e090-db92-4894-b56f-d5d07719804e",
+                        "created": "2021-05-09T06:26:13Z",
+                        "rating": 3,
+                        "workload": 12,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review",
+                        "_id": "external-import-3dc5e090-db92-4894-b56f-d5d07719804e"
+                    },
+                    {
+                        "rating": 4,
+                        "course": null,
+                        "id": "external-import-97f9a022-8159-484b-b06d-a11c2be42dcb",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06"
+                        },
+                        "body": "If you get 89.5% in this course you will end up with B which means 3 out of 4.  Good grading system when i work myself off all semester and got B. Ridiculous!",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-04-24T04:05:13Z",
+                        "_type": "review",
+                        "created": "2021-04-24T04:05:13Z",
+                        "_id": "external-import-97f9a022-8159-484b-b06d-a11c2be42dcb",
+                        "difficulty": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "workload": 10
+                    },
+                    {
+                        "id": "external-import-1c7ed554-7241-41f6-b30c-c73bd12b1a14",
+                        "difficulty": 2,
+                        "_createdAt": "2021-03-14T20:19:43Z",
+                        "workload": 5,
+                        "body": " ",
+                        "rating": 2,
+                        "_id": "external-import-1c7ed554-7241-41f6-b30c-c73bd12b1a14",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "created": "2021-03-14T20:19:43Z",
+                        "_type": "review",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "course": null,
+                        "semester": {
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z"
+                        }
+                    },
+                    {
+                        "difficulty": 2,
+                        "_createdAt": "2021-02-14T21:27:22Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "rating": 4,
+                        "workload": 7,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HiC5",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2020-2",
+                            "_updatedAt": "2022-07-22T00:46:39Z",
+                            "startDate": "2020-05-11"
+                        },
+                        "_id": "external-import-7ec851f1-c59a-48a6-9513-754987350552",
+                        "body": "With the exception of the group projects, I found this course to be quite easy. Workload isn't too bad, but the material is interesting if you have an interest in the broader implications of cybersecurity and policy. The group projects aren't too bad, but coordinating with groups can be tough when everyone is remote.",
+                        "_type": "review",
+                        "course": null,
+                        "id": "external-import-7ec851f1-c59a-48a6-9513-754987350552",
+                        "created": "2021-02-14T21:27:22Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "id": "external-import-8501376a-4753-4558-ad6b-0d082b905c5e",
+                        "created": "2020-11-28T17:23:48Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_id": "external-import-8501376a-4753-4558-ad6b-0d082b905c5e",
+                        "body": "**Breakdown**\n\n* 4 Assignments (85%)\n* 4 Quizzes (15%)\n\n**Assignments**\n\n1. Go Phish (develop a phishing campaign against a TA, write up a presentation about it)\n2. Organization Policy (develop an organization policy against ransomware attacks)\n3. Legislative Challenge (analyze a cybersecurity bill, propose amendment in group discussion, reply to others' amendments as supporting/rejecting, vote on the results)\n4. Term Paper (apply diamond model intrusion analysis to a recent cyberattack event, 2000 word paper deliverable)\n\nFirst two assignments are group projects, and groups are randomly assigned. I was lucky to be in a group with agreeable and productive members. Our skillsets were complementary, and we were able to divide the workload evenly (enough) that I could spend <5 hours a week to cross the finish line. There is a peer survey element that reduces the grades of non-participant members.\n\nLast two assignments required significant reading, research, analysis, and writing. If this is not your cup of tea, the experience could be a struggle, especially if English is not your native language.\n\nOverwhelming majority of the grade in this course is based on nondeterministic deliverables. This is good in that given the scale of the course (100s of students) in that scrutiny on a per-assignment basis is diluted, making it less strenuous to score high marks. On the flip side, nondeterminism can be stressful, because it may not be fully clear what is expected in the deliverable.\n\n**Quizzes**\n\nOpen book, unlimited time. Must finish once started. Mostly multiple choice, true/false. Based on assigned readings and lecture videos. Should be a straightforward 15%.",
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z",
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester"
+                        },
+                        "workload": 7,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 2,
+                        "_type": "review",
+                        "course": null,
+                        "_createdAt": "2020-11-28T17:23:48Z",
+                        "rating": 3
+                    },
+                    {
+                        "_type": "review",
+                        "course": null,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2020-2",
+                            "_updatedAt": "2022-07-22T00:46:39Z",
+                            "startDate": "2020-05-11",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HiC5"
+                        },
+                        "_id": "external-import-72d369fa-1329-4dc2-b340-a96a8b83147e",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "_createdAt": "2020-07-30T01:15:26Z",
+                        "body": "The first word I thought of when thinking on how to review this class was 'bizarre' (based on how different it was structured to other OMSCS classes) but upon reflection I think a better description would be 'barren'. Mind that I took this course during the Summer, and even then it seemed like there was such little content to this class. There were 4 assignments (2 group, 2 individual), 4 quizzes, and that is it. It makes this the perfect class to pair with something else, but I was somewhat disheartened since I feel this class has the potential to be really interesting and rewarding with some more thought put into the assignments and a refreshed lecture format.\n\nIn terms of lecture format, it feels somewhat jarring from what I've been used to in CS classes, as most of it is ppt driven and not as interactive. It kind of feels like it was created around being for a professional certificate rather than a class, as at the start of every 5-10 minute lecture video the presenter welcomes you back to the course. Most modules seemed to breeze by since they were pretty short, but I did enjoy the material (but again, needs some more depth here).\n\nIn terms of work, there were 4 open book quizzes (no time limit but no retakes) around the lecture material. You can pretty much take the quizzes while watching along with the lectures, so these act more like a check to make sure you are following the course content.\n\nThe rest of the grade was split into 4 assignments, A group phishing project where you design and implement a front facing attack (think email formatting, not coding), a group project in writing a security policy, and individual assignment where the class is split into 4 groups to debate a cyber security bill, and a final individual paper. Each of these are count for 20-25% of your grade.\n\nThese assignments were very straightforward, although the security policy was a bit ambiguous at times. The group projects could probably be finished individually without much sweat, but its nice if you get a good group to bounce ideas off of.\n\nI feel that this class will likely be going through a overhaul to heighten the difficulty and scope, one because its relatively new within OMSCS, and because at the end of the semester I (and my group mates) was kind of surprised it was already over. Compared to a class like SDP where there are constant weekly assignments, or KBAI where there is a gradual building of code, the structure of the course was flat and not really progressing towards some crescendo.\n\nThe instructor staff was friendly, responsive on piazza, and professional, but as noted in other reviews there seemed some expectation for more student discussion, which was bizarre since the assignments were so straightforward and far-few between that there was not much by default to discuss.",
+                        "created": "2020-07-30T01:15:26Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "rating": 3,
+                        "difficulty": 1,
+                        "workload": 3,
+                        "id": "external-import-72d369fa-1329-4dc2-b340-a96a8b83147e"
+                    },
+                    {
+                        "id": "external-import-47b865b5-8806-4251-b5fe-7bc49106b3fb",
+                        "created": "2020-05-17T21:22:18Z",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06"
+                        },
+                        "rating": 1,
+                        "_id": "external-import-47b865b5-8806-4251-b5fe-7bc49106b3fb",
+                        "body": "It is telling how few students bother to review this class. No one cares. It is an easy intro class for policy students, an easy elective for everyone else. The professor is a hack, an old-school contrarian who spends more time making inflammatory tweets on Twitter than responding to students in his course. Sure, he looks engaging because he bothers to comment on posts ever so often. But take a closer look at what he is saying, and to who, and you'll notice there is something wrong, something insidious.\n\nThe group of TAs are hit or miss individually. Perhaps they are nice people, but they are inexperienced, impractical, and really have no business grading academic papers. A few cannot even effectively communicate. Just tune in to a weekly Office Hours (which no one does) and see how they interact. Like hipsters at a coffee shop, they try to make the mundane seem deep and insightful. I wonder if the students who praise this course were one of two who participated every single week in these events. \n\nAlso the professor said several times they were \"hoping\" for more interaction on the Piazza boards, or \"hoping\" students would do this or that. Well, this is an online course. Stop hoping, and start using the medium correctly. That means making it easier to find information, what is due and what is expected. That means giving students a reason to participate. Ungraded discussion boards are a waste of time, especially if no one is moderating. I do not care if this is a masters class. The medium isn't. Use it right or get off the screen.\n\nEven with that, the course curriculum is staid, outdated, and not engaging. One project had students debate legislation that died several years ago, rather than current topics. Two group projects were mishandled by the inexperienced TAs, who decided to disrupt the entire class by randomly reassigning groups between projects.\n\nBottom line: This course is good for a grade. It's not interesting, and will probably not help you if you've paid any attention to anything in the world prior to taking the class. Final note - I did not bother with most of the readings or lectures and still passed the quizzes easily.",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "difficulty": 1,
+                        "workload": 2,
+                        "_createdAt": "2020-05-17T21:22:18Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "_type": "review",
+                        "course": null
+                    },
+                    {
+                        "id": "external-import-92a4d470-9312-4594-b327-ae02d8fbab30",
+                        "created": "2020-05-08T17:39:06Z",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "course": null,
+                        "difficulty": 2,
+                        "_id": "external-import-92a4d470-9312-4594-b327-ae02d8fbab30",
+                        "body": "This class was okay. The lectures were organized well and provided a good overview of the material. The readings were hit and miss. A few of them were good and provided some good insights into the struggles of information security policies.\n\nThe group projects are probably what left a sour taste in my mouth with this class. It is really up to the luck of the draw with this.\n\nOverall, it was an okay class. I believe it would be better if it didn't have the group projects.",
+                        "_createdAt": "2020-05-08T17:39:06Z",
+                        "workload": 4,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06"
+                        },
+                        "_type": "review",
+                        "rating": 3
+                    },
+                    {
+                        "created": "2020-05-04T13:57:55Z",
+                        "_id": "external-import-70a2372c-f50d-496a-a142-96acfecf2208",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "difficulty": 2,
+                        "_type": "review",
+                        "rating": 4,
+                        "course": null,
+                        "id": "external-import-70a2372c-f50d-496a-a142-96acfecf2208",
+                        "workload": 6,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06"
+                        },
+                        "_createdAt": "2020-05-04T13:57:55Z",
+                        "body": "On balance, I enjoyed this class.  There were 2 group projects which worked ok for me since my group was good, but this can be a dice roll.\n\nThe lectures I found enjoyable, although it is so painfully obvious Dr. Mueller is reading something; a teleprompter or something along those lines would make this much less obvious and jarring.\n\nI can't comment on if the subject matter was at the right level since I have no background there; I just took what I got and assumed it was all appropriate.\n\nThere were some student-led Zoom meetings which I thought was nice even before the \"Pandemic of 2020\" got going into full-on quarantine mode.\n\nOne of my projects was graded by Dr. Mueller, and I did see him participate in Piazza which I find at Ga Tech a rare treat.  Instructors interacting with ... students?  \n\nThe exams were open book and un-proctored, but as a result did have a few questions here and there that got a bit into minutae, but overall I felt they covered the material in a reasonable way.\n\nI only have a couple complaints with the course.  While the TA's were friendly and professional on the various social platforms, I think some of them were a bit too \"green\" to be grading.  This was not a grueling class, but on our first project I think the TA completely missed one of our main points and our grade was punished for it.\n\nIn one instance, Dr. Mueller was lecturing about a subject I wanted to know more about, so I went to Wikipedia to find out more info and get more sources.  To my irritation, I realized at least some of the lecture I'd just heard was word-for-word what I was reading in Wikipedia.  With the fervor that the online program at Tech has about cheating and plagiarism, I expected more from the staff. (There may have been something in the lecture slides citing this use of Wikipedia or its sources, but I did not see any.)\n\nLastly, I'm not sure how anything I learned in the class prepared me in any way for the projects.  The lecture material didn't even quite touch on the project material, nor vice versa, so I'm not sure what the point was; it was a very curious and odd mashup.  Moreso the first project than the rest.\n\nThe term paper however, (whose grades have yet to be released; days after they were due to the registrar!) does take on a lot of the subject matter, and uses techniques learned early in the class.\n\nAs an intro class, I thought it was a good overview.  You're not going to waltz into a company as a C-level with this as your background, but that isn't the point.\n",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC"
+                    },
+                    {
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester"
+                        },
+                        "body": "Very easy, and good class. Light workload, and solid overview of security policy. Does involve group projects, so managing other people can be an extra headache and time suck to take into account. Overall a good class to take if you have the opportunity. ",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "_type": "review",
+                        "difficulty": 1,
+                        "course": null,
+                        "id": "external-import-52a485ed-3fdf-463e-8ed7-8864d2552d4c",
+                        "workload": 4,
+                        "rating": 4,
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "_createdAt": "2020-04-27T15:58:59Z",
+                        "created": "2020-04-27T15:58:59Z",
+                        "_id": "external-import-52a485ed-3fdf-463e-8ed7-8864d2552d4c"
+                    },
+                    {
+                        "_type": "review",
+                        "body": "Excellent into course! I honestly very much enjoyed all the material and lecture. I attended some office hours and loved reading about all the research that Dr. Milton and Prof. Kuebrik was involved in. The class was easy to manage with my workload and other responsibilities and the group papers were helpful. 10/10!",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "rating": 5,
+                        "workload": 5,
+                        "difficulty": 2,
+                        "id": "external-import-1a3d2530-d60b-4a3b-8e05-133b42d20d17",
+                        "created": "2020-03-19T21:28:56Z",
+                        "course": null,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19"
+                        },
+                        "_id": "external-import-1a3d2530-d60b-4a3b-8e05-133b42d20d17",
+                        "_createdAt": "2020-03-19T21:28:56Z",
+                        "_updatedAt": "2022-07-11T19:08:19Z"
+                    },
+                    {
+                        "course": null,
+                        "workload": 10,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19"
+                        },
+                        "created": "2020-01-08T19:58:56Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "difficulty": 2,
+                        "_createdAt": "2020-01-08T19:58:56Z",
+                        "_id": "external-import-9bc3500e-5380-4a1e-9a56-bff1630ebb02",
+                        "_type": "review",
+                        "rating": 5,
+                        "id": "external-import-9bc3500e-5380-4a1e-9a56-bff1630ebb02",
+                        "body": "As a non-Cybersecurity specialization, I took this class as an elective, and I thoroughly enjoyed it. The material was well-organized and the lectures were some of the best I've seen in the program. There were ~weekly open-book quizzes that helped reiterate the readings and lectures. Overall, there were 4 projects: the first 2 are group projects, and the group is assigned by the instructors (same group for both); the last 2 are individual.\n\nThe material is not difficult to grasp, but the projects will require you to be thorough with fulfilling the requirements and some creativity/thought to produce a well-polished final product. For example, these were the projects for our semester...\n\nProject 1 Phishing campaign to an assigned TA: Your group needed to design a phishing campaign that would get pass the filters and \"trick\" your TA into clicking it. Some (minor) points were deducted if you can't get past the GaTech firewall. Then, put together a powerpoint presenting the campaign.\n\nProject 2 Cybersecurity Policy: Your group would need to do some research on the industry assigned and the network devices used in that industry. Put together a memo (1000 words) and full cybersecurity policy (2000 words) to provide a \"guidance\" for the industry mentioned.\n\nProject 3 Policy Debate: Individually, you would be assessing the effectiveness (or non-effectiveness) of a current policy to be passed in congress.\n\nProject 4 Diamond Model: Individually, you would pick a cybersecurity incident, do research on it, and analyze it per the Diamond Model (one of the first topics in the course). Paper is to be ~2000 words.\n\nEven though I normally despise writing papers, I still enjoyed this course. I thought the material was fairly interesting and I feel like I learned a lot about cybersecurity policies. There was such an abundance of information that I never felt like I was ever severely stuck in a writer's block to fulfill the paper requirements. In fact, I find myself needing to cut back on the writing! Overall, this was a really solid and enjoyable course."
+                    },
+                    {
+                        "id": "external-import-3333bdf2-fe88-4f32-99e6-0a98210c5af0",
+                        "created": "2019-07-23T03:41:45Z",
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "difficulty": 3,
+                        "_type": "review",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2019-1",
+                            "_updatedAt": "2022-07-22T00:47:13Z",
+                            "startDate": "2019-01-07",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0ILeM"
+                        },
+                        "body": "Course Overview\nBoth public- and private-sector organizations are increasingly treating cyber-security issues as top-level risks.  Major data breaches at companies such as Target and information security leaks such as those by Edward Snowden have enormous impacts on organizations.  This course examines strategies for managing information security risks, developing knowledge suitable for a range of organizational roles such as board of directors, top management, chief information security officers, and persons reporting to such actors.  The course examines the challenge of constructing and complying with Federal, State, local and organizational information security policies and legislation. It also examines key public policy cyber-security issues, recognizing the need for public-private partnerships, legislation, international coordination, and other systemic approaches for managing these risks.  More generally, the course seeks to develop the multi-disciplinary thinking that will take account of the technology, business strategy, policy, and law of information security.\n\nSYLLABUS\nThis mixed undergraduate- and graduate-level course takes a multi-disciplinary approach to the study of information security \u2013 a current topic of intensive research, system implementation, standards development, and public policy debate. The course is primarily lecture-based, with Socratic discussion of assigned readings, as well as active student participation via lively discussions and debates. Class sessions often include small-group, in-class activities to ensure hands-on experience in apply the concepts presented during lectures. There are no pre-requisites for this course, and students from varied backgrounds are welcome in the course. This course features a collaboration with an Atlanta-based company where students will analyze real-world security events along with their coursework to develop security policies that will bring students closer to being practicing security professionals. The course also features semester-long attention to security issues in the development of augmented reality systems, as an example of cutting-edge information security issues. The professors draw on their extensive experience in information technology, as well as the business, government, and legal aspects of current cyber-security debates.\n\nObjectives\nThis course will enable students to understand how and why information security strategies and policy are developed and managed. Specific objectives include:\n\nUnderstanding the legal and policy issues surrounding technologies that protect intellectual property, sensitive information, and other organizational information assets;\nUnderstanding the role of technical standards to supplement legal and regulatory requirements;\nAnalyzing data breaches and related events to design and implement organizational strategies to address such risks;\nUnderstanding the tensions between information security and usability;\nUnderstanding the tensions between information security and privacy;\nDeveloping the multidisciplinary skills needed to analyze, manage, and resolve the challenges associated with information security law and policy;\nGaining a basic grounding for future technical and other research in security policy via the examination of current research issues and problems; and\nGaining experience handling real-world security policy challenges through analysis of software and business artifacts using written and oral communication.\n\nProjects\nThere will be three projects in the course, with the precise content developed close to the beginning of the semester in order to take advantage of current developments:\n\nInformation security law and policy paper. Students will be assigned to write a paper on a current information security law or policy issue. For this paper, the student will first argue the case for one stakeholder in the debate, and then argue for an opposing view, before concluding with a brief discussion of the student\u2019s own view. The paper length for undergraduates will be at least 1,200 words and no more than 1,800 words. The paper length for graduate students will be at least 1,800 and no more than 2,700 words. A model paper for the format will be provided on T-Square. Due date: February 23.\nData breach and company strategy. Based on the presentation of an actual data breach by an Atlanta-based company, students will work in small teams to develop a company policy/strategy to address information security risks in the wake of a major data breach. Due date: March 31.\nAugmented reality security project. Drawing on the augmented reality expertise of Professor MacIntyre, teams of students will conduct a security assessment of a technical artifact that could be incorporated into an augmented reality system in a home or business. Due date: April 20.\n\nProject Presentation\nDuring the last week of class, each student will give an oral presentation in which they will describe one of their projects and what they learned in the course. Length of presentations will depend upon course enrollment.\n\nEvaluation Procedures\nFinal grades in the course will be determined as follows:\n\nLaw and policy project\t25%\nData breach project\t25%\nAugmented reality project\t25%\nReviews of reading\t15%\nClass attendance\t5%\nProject presentation\t5%",
+                        "_createdAt": "2019-07-23T03:41:45Z",
+                        "rating": 3,
+                        "workload": 10,
+                        "_id": "external-import-3333bdf2-fe88-4f32-99e6-0a98210c5af0",
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS"
+                    }
+                ],
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "_type": "course",
+                "creditHours": 3,
+                "_rev": "iLpqNfBINCDhaBRaVK7v39",
+                "codes": [
+                    "PUBP-6725"
+                ],
+                "name": "Information Security Policies and Strategies",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    },
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "tags": [
+                    "ISP"
+                ],
+                "id": "external-import-PUBP-6725",
+                "created": "2022-07-05T23:23:15Z",
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/66fbda2388ee5eb02d2d3062b51594e9dd633459.pdf",
+                "_updatedAt": "2022-08-25T05:50:47Z",
+                "syllabus": {
+                    "file": {
+                        "_type": "file",
+                        "asset": {
+                            "_ref": "file-66fbda2388ee5eb02d2d3062b51594e9dd633459-pdf",
+                            "_type": "reference"
+                        }
+                    }
+                },
+                "rating": 3,
+                "difficulty": 1.9090909090909092,
+                "workload": 6.409090909090909
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "information-security-policies-and-strategies"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

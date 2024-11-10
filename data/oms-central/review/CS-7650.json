@@ -1,0 +1,238 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "codes": [
+                    "CS-7650"
+                ],
+                "_type": "course",
+                "creditHours": 3,
+                "_id": "37caec13-5946-4223-8bff-377d5880c51f",
+                "isDeprecated": false,
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "syllabusUrl": null,
+                "id": "37caec13-5946-4223-8bff-377d5880c51f",
+                "name": "Natural Language Processing",
+                "_rev": "Ge7QFtjd7Oo12iAJ8czJmv",
+                "officialURL": "https://omscs.gatech.edu/cs-7650-natural-language-processing",
+                "_createdAt": "2023-08-12T05:20:43Z",
+                "slug": "natural-language-processing",
+                "isFoundational": true,
+                "reviews": [
+                    {
+                        "id": "0zwV6JWkoiMq9vnKyWemuf",
+                        "_createdAt": "2024-08-08T19:25:23Z",
+                        "rating": 4,
+                        "course": null,
+                        "_type": "review",
+                        "body": "This is an overall great course and newly developed. This is great staying away from the hideous old videos for most of the other OMSCS courses.\n\nIt's still currently small in numbers and hard to get in, however it will grown soon with more potential TAs graduating every semester. \n\nThe material is extensive, very extensive to be honest. In fact too extensive and you barely get tested on anything. Even if about half the videos were taught, you would still get a good education and would not even affect the assignments/exams.\n\nThe quizes are mostly hard even though they are usually 2-3 questions, they are tricky so take your time, you only get 2 attempts each.\n\nMidterm and final exams are take home open everything (except for your favourite GPT). These are written questions you need to answer. I found them ok overall but take time to complete.\n\nThe 6 homework assignments are the real meat here taking up 70% of the grade. They are all coding with some written question in the final assignment which counts 20% of the overall grade. The first 5 homeworks are autograded on Gradescope but some take quite a while to run.\n\nMy suggestion is to use Google Colab with paid subscription, this is the most efficient way of working through these since the starter code is adapted for this platform in mind. You can do it on your environment as well and works ok for some assignments but a pain to adapt for others.\n\nThe homework assignments do build up, from only a few lines in the first assignment to quite a sizeable amount of lines in the last one. Be prepared for this. Another tip is to start early HW5 (the last one). I left mine at the last minute along with the exam since the deadline was on Wednesday instead of the usual Sunday. I rushed through the final assignment and the exam merely missing an A by a hairline!\n\nFinal note on the videos, the first half of the course with the videos made by the professor are absolutely the best. The second half where Meta AI folks do the videos are absolutely horrible, dry and for most part pointless. I would not suggest you skip them but prepare to be bored to death. I really hope these are done again in the future as this is one of the best classes in OMSCS.",
+                        "_updatedAt": "2024-08-08T19:25:23Z",
+                        "created": "2024-08-08T19:25:23Z",
+                        "workload": 12,
+                        "_id": "0zwV6JWkoiMq9vnKyWemuf",
+                        "authorId": "sTsralZklUgAsWN86aZZzA==",
+                        "_rev": "0zwV6JWkoiMq9vnKyWemqc",
+                        "semester": {
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4",
+                            "_updatedAt": "2024-07-23T22:42:48Z",
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z",
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester",
+                            "term": "summer"
+                        },
+                        "difficulty": 3
+                    },
+                    {
+                        "_rev": "sXNT9jQ5R8cHcddH2VsFRh",
+                        "course": null,
+                        "_id": "sXNT9jQ5R8cHcddH2VsFWD",
+                        "_createdAt": "2024-07-21T23:18:03Z",
+                        "workload": 20,
+                        "difficulty": 4,
+                        "authorId": "DRhNRbP80f8K8JAh8aMKfQ==",
+                        "semester": {
+                            "_updatedAt": "2024-05-09T04:45:52Z",
+                            "startDate": "2024-01-08",
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05"
+                        },
+                        "_updatedAt": "2024-07-21T23:18:03Z",
+                        "id": "sXNT9jQ5R8cHcddH2VsFWD",
+                        "created": "2024-07-21T23:18:03Z",
+                        "_type": "review",
+                        "body": "Heavy Math, Lot of coding. If you are new to deep learning or AI.\nLearning curve will be high. It works with other courses too. DON'T TRUST SOME RANDOM 5+ year experienced SWE/MLE says its easy class.\n \nYeah NLP is now worth to take for all specializations because of GPT HYPE. I don't trust cynical people say its just stochastic parrot. If we think about Electric Vehicle last 10 years. People make same repatory(Its not worth to make EV and difficult to commercialize it). \n\nAssignments, projects, reading papers for final project. It's not easy at ALL. Everything you learn from this course will give you strong benefit.\nKeep in mind always try hard. \n ",
+                        "rating": 4
+                    },
+                    {
+                        "_type": "review",
+                        "rating": 3,
+                        "workload": 4,
+                        "_createdAt": "2024-05-12T17:48:52Z",
+                        "course": null,
+                        "semester": {
+                            "startDate": "2024-01-08",
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05",
+                            "_updatedAt": "2024-05-09T04:45:52Z"
+                        },
+                        "difficulty": 1,
+                        "_id": "kKYku18LOom8mNf1wFwqb0",
+                        "body": "The explanation of Professor Riedl on lectures is one of the best in OMSCS. This is mainly the only part I liked of this course, the bad this is the assignments.\n\nThe assignments took me less than 4 hours each, the final mini-project around 10 hours. Quizzes are open book as well as the final exam.\n\nThere were weeks I did not touch anything about this class, the time commitment is so low. I spend less than 4 hours a week for this class, and I feel I did not gain deep knowledge about this field.\n\nThis class have to be redesigned at least for this assignments and be at the same rigors as DL, BD4H or HDDA.",
+                        "id": "kKYku18LOom8mNf1wFwqb0",
+                        "created": "2024-05-12T17:48:52Z",
+                        "authorId": "si1qPcPD8F7O6B+oxH+PpA==",
+                        "_rev": "kKYku18LOom8mNf1wFwqX2",
+                        "_updatedAt": "2024-05-12T17:48:52Z"
+                    },
+                    {
+                        "semester": {
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall"
+                        },
+                        "authorId": "AKIULDq0TCEmiKRoPhhUHg==",
+                        "workload": 9,
+                        "_updatedAt": "2024-05-06T03:26:11Z",
+                        "created": "2024-05-06T03:26:11Z",
+                        "_id": "kxVXHSgulMmyM4LLrdSFj9",
+                        "course": null,
+                        "body": "Note this review is actually for spring 2024.\n\nThis is an OK class. For background I've been in the program since 2022 and this was taken along with 2 other class while I took a semester off from work to do this full time. I'm in the ML track and so have done 7643 and was doing DL concurrently with this.\n\nLECTURES:\nThe lectures by Prof Reidl are great. The only criticism is that they are a bit long. That said you will always leave the lectures understanding what concept is being taught. I credit this class for really understanding LSTM, Transformers and some other DL things.\n\nThere are some Meta AI lectures. These are definitely better than the ones in DL but not great. If Mark's lectures are a 5 then these are a 3. The info is good for the most part and they mostly get the point across\n\nMost of the lecture content in this course is focused on actual NLP. That means the BOW model, machine reading, embeddings, information retrieval and more. This is a survey class, it's not a class about LLMs. You spend only a bit of time on them really. If you want to learn about LLMs take DL and then watch some of Andrej Karparthy's great YouTube videos.\n\nQuizzes: \nThere is a trivial quiz at the end of each section. These are a little challenging because the sections can be very long (2+ hrs) and can be a bit detail oriented. You get two tries on each and they are open so can't complain here.\n\nHomework:\nOh boy... This is a very big disappointment. Coming out of ML and seeing what DL is doing with HW I was really left scratching my head. The assignments are all very, very easy jupyter notebooks. Most time is spent debugging the testing framework you are given or trying to understand what you are actually required to do. None of them are super hard but I found them very annoying. \n\nMy bigger frustration is that they do a poor job reinforcing lecture. In DL you have to implement a transformer from Pytorch primitives. The furthest you go here in terms of DL is implementing an LSTM. We don't even use the built in PyTorch transformer module at any point. I'm not sure why an NLP class doesn't  have you work with one of the most important NLP mechanisms out there right now.\n\nAs is I also don't feel the HW does a great job of reinforcing what is in lecture unless you do the notebook while watching the lectures at the same time. They almost need to be thought of as a companion to the lectures. So if that was the goal when creating them that is reasonable.\n\nPROJECT:\nThe project was to implement an attention mechanism. I think the project would have been a great opportunity to either use the PyTorch transformer or build one from scratch. The lecture walk through is good enough for that. Instead we implement a mechanism from 2016 that doesn't really have a purpose in this day and age. The idea is that we are trying to get experience working with attention mechanisms but that's really a small part of it. \n\nI will say it is good that they force you to write your train and test loops from scratch. This aligns with the expectation that the prior notebooks have trained you for the project. I am just not convinced the project does a good job of reinforcing NLP since it's so hard to get good results from this sort of network. I'd give this project a 2/5 in current state.\n\nExams:\nMidterm was childish. Felt like something from high school. You are given a set of question you must answer in a word doc like format based on a paper you have read. The problem is that they really don't let you flex your muscles if you are used to writing quality papers like you would do in ML4T, ML or even DL to an extent. They also expected you to identify very specific things, even though you are ostensibly just giving a summary. This was the lowest point of the class for me. 1/5. \n\nFinal was open everything short respsone. They ask potentially very deep systems design questions but then expect you to answer 1-2 paragraphs. Based on the grading for midterm being very specific I found this to be impossible. Weirder still is that half the questions seemed to focus on LLMs. This was strange since we spent very little time talking about them in the class. When asking the TAs if we should incorporate stuff from outside the class we were told it shouldn't be needed. Not sure how that works since some questions had virtually no coverage in the course. \n\nNow that said, none of the questions were hard. I just don't understand why we were being asked those questions given everything else we learned in the class.\n\nSummary:\nSo who is this class for? I think this is a good course if you are in the CS track and want to try something ML related that isn't brutal like DL and is not ML4T. This course does a great walkthrough of NNs and can take you from nothing to writing PyTorch code. That's pretty cool.\n\nIf you already know NNs, have taken DL or something like that then some of the non NN NLP stuff is interesting. I just don't think the treatment is rigorous enough to really learn a lot. I now know a bunch of concepts but I don't feel I can strongly apply them. The NN side get's completely covered in the 4th section of DL. You will learn nothing new here related to NNs if you have taken DL. Again, you never use a transformer in this class.\n\nThe TAs are trying their best. I think this course could be super great if you have the lectures form the base and then have the students go out and extend them. I think lectures can be tightened up and can assume a bit more prior knowledge. I could have skipped the whole module on Bayes having seen it in AI4R for example.  Have this go from a 10hr/week course to a 15, clean up the notebooks and make requirements more clear (why is GT allergic to type hints?), and give us a more modern project. Do that and I think you have a winner.\n\nI got a mid A for what it's worth. Many weeks I completely forgot about this course. ",
+                        "_createdAt": "2024-05-06T03:26:11Z",
+                        "id": "kxVXHSgulMmyM4LLrdSFj9",
+                        "difficulty": 2,
+                        "_rev": "kxVXHSgulMmyM4LLrdSFge",
+                        "rating": 3,
+                        "_type": "review"
+                    },
+                    {
+                        "created": "2024-03-16T18:34:51Z",
+                        "id": "AgEhUg8XGOUYS5Brcv3sg2",
+                        "_updatedAt": "2024-03-16T18:34:51Z",
+                        "_id": "AgEhUg8XGOUYS5Brcv3sg2",
+                        "rating": 5,
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "difficulty": 3,
+                        "body": "This is my 7th course and by far the best. It does a good balance of theory/lecture,  programming assignments and paper overview. It doesn't beat you to death with sadistic assignments and provides a shell where you focus on the conncepts learned and see it working. I finally understood the intuition of a Transformer model and its variants. Prof. Riedl is stupendous and i wish he finished the entire modules. \n\nHe should come up with advanced NLP since there is lot of interest on how to quantize and FineTune a LLM models using HITL RLHF or DPO. I think Finetuning itseld can be a course starting with multiple sub-word, PE and attention techniques that can be explored.  \n\nOnly thing that they can improve is better homework recitation by TA. ",
+                        "_createdAt": "2024-03-16T18:34:51Z",
+                        "workload": 10,
+                        "course": null,
+                        "_rev": "AgEhUg8XGOUYS5Brcv3seB",
+                        "_type": "review",
+                        "authorId": "DdWQS12tsZ78dqc1ajCb8g=="
+                    },
+                    {
+                        "_createdAt": "2023-12-18T04:33:05Z",
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "difficulty": 3,
+                        "_type": "review",
+                        "_updatedAt": "2023-12-18T04:33:05Z",
+                        "created": "2023-12-18T04:33:05Z",
+                        "_rev": "Pm4H4xdFhHJgzHn4ZeUjaO",
+                        "course": null,
+                        "rating": 4,
+                        "workload": 10,
+                        "id": "Pm4H4xdFhHJgzHn4ZeUjdm",
+                        "_id": "Pm4H4xdFhHJgzHn4ZeUjdm",
+                        "authorId": "UfLZ7HeMFhLz8He29deVEQ==",
+                        "body": "My 8th course in the program and one of my favorites so far. There are about 18 hours of lecture content. Reidl's lectures are very good, I actually went through all of his twice to try and fully absorb the content. A handful of the modules are done by guest lecturers from Meta and are much worse in comparison--some of them seem to be reading straight from teleprompter, most just do a terrible job at explaining things. Most of the content of the course focuses on neural networks, although there is some content on foundational math in the beginning. If you have a strong foundation of ML, I would expect this class to be not too hard. If you don't, you might have to do a little more work to catch up.\nThere are 6 homework assignments that entail filling out various functions in a jupyter notebook, you are given a lot of supporting functionality, and they are graded based off included tests. I'd say they ramp up in complexity pretty steadily. The first 4 are a breeze, and can be done in an afternoon or two very easily. The 5th was somewhere in between. The 6th is a \"project\" that is still just a notebook with some instructions, but more open ended about the approach you can use and doesn't have any auto-grading. We had an extra half a week for the project, but I spent as much time on the project as I did every other assignment combined, so start early. Everything is done with Pytorch, and you actually build models that do stuff, which makes the learning feel well applied. I feel like I am walking away with a toolkit to do more projects using what I learned--a first for me in this program. \nThere were two exams. They consisted of a series of short answer questions, with unlimited time and open notes/internet to complete. In order to make this somewhat challenging, they're structured to make you apply concepts from the course in more creative scenarios, not just regurgitate facts from the lectures (most of the time). I found it took me quite a bit of time to think through each question, but I learned in the process of completing the exam. It was challenging, but honestly, it's the most fair and effective exam structure I've ever encountered (and my philosophy is generally that exams are a waste of time).\nBesides the bad lectures from Meta, my criticism of the class, at least in this semester, is that the TAs are still figuring a lot of things out about how to best run the course. They were very slow on grading, and very inconsistent with responding to questions on Ed. Some of the instructions in the homeworks were very confusing, and at times I felt the challenge was in interpreting what was written, not in actually doing the task itself. I expect some of this will resolve as time goes on and they improve the logistics of the course. They also are very strict about not releasing anything early, including lecture content, which is released on a weekly basis and includes short quizzes which must be done in the week they are released. In this semester, we weren't allowed to download lecture videos or slides from the lectures. I don't really understand why, but these things were a big inconvenience to me when I had some international travel during the semester. \nMy time estimate is an average across the semester. In the early part of the course, I would often spend 3-5 hours a week on the course. During exams and toward the end, it was closer to 15-20. "
+                    },
+                    {
+                        "_createdAt": "2023-11-29T22:36:17Z",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr"
+                        },
+                        "id": "llHPdpE6t2d8pDZnVMLQoU",
+                        "created": "2023-11-29T22:36:17Z",
+                        "_type": "review",
+                        "body": "I have liked this course so far. The first half or more of the course is going deeper into NLP concepts I had already seen in DL. The homework assignments are not too hard. The project is very interesting. NLP is a lot easier than ML and DL. I would recommend it for a summer class.",
+                        "_updatedAt": "2023-11-29T22:36:17Z",
+                        "workload": 10,
+                        "_id": "llHPdpE6t2d8pDZnVMLQoU",
+                        "_rev": "llHPdpE6t2d8pDZnVMLQlN",
+                        "authorId": "ImzcgxSUGzJX34bAJBzljg==",
+                        "rating": 4,
+                        "course": null,
+                        "difficulty": 3
+                    },
+                    {
+                        "id": "74YIe9XdVDrfGXcoKZdXrv",
+                        "difficulty": 1,
+                        "course": null,
+                        "_rev": "74YIe9XdVDrfGXcoKZdXqz",
+                        "_updatedAt": "2023-11-15T08:59:03Z",
+                        "created": "2023-11-15T08:59:03Z",
+                        "_type": "review",
+                        "_id": "74YIe9XdVDrfGXcoKZdXrv",
+                        "body": "This course does a good job of explaining modern NLP topics, such as word embeddings, RNNs/LSTMs, attention, Transformers, and Key/Value stores. It also covers some info retrieval topics. \n\nThe early lectures of the class are very detailed and cover the topics very well. The explanations are stellar.\n\nThe homeworks are simple and basic. Can be done in a few hours. This class is so light it can easily be paired with others. The exams are open book and you are given ample time to do them without honor lock. The late policy is very flexible (5 free late days for the semester).\n\nThe downsides of this course are vague lectures from Meta towards the end which just throw a lot of terminology in a survey fashion, rather than explain any concepts. The professor should re-record them with his explanations (since he does a great job in the other lectures). And the course could easily have 3x more homework and still be quite doable. I've sometimes ignored the class for weeks and done well.\n\nNo topics on pretrained model refinement or Reinforcement from Human feedback. \n\nOverall a good class. I learned a lot. But I would have preferred some more projects that delve into more of the typical NLP tasks. Rather than just a couple of basic tasks.",
+                        "semester": {
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall"
+                        },
+                        "rating": 4,
+                        "workload": 5,
+                        "_createdAt": "2023-11-15T08:59:03Z",
+                        "authorId": "G7mwFE9ZjXyQeoeJJF5M6g=="
+                    }
+                ],
+                "description": "Topics include lexical analysis, parsing, interpretation of sentences, semantic representation, organization of knowledge, inference mechanisms. Newer approaches combining statistical language processing and information retrieval techniques.",
+                "_updatedAt": "2023-08-12T05:24:26Z",
+                "created": "2023-08-12T05:20:43Z",
+                "rating": 3.875,
+                "difficulty": 2.5,
+                "workload": 10
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "natural-language-processing"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "isExperimentalCompile": true,
+    "gsp": true,
+    "scriptLoader": []
+}

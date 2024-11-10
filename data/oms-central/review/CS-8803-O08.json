@@ -1,0 +1,599 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "id": "external-import-CS-8803-O08",
+                "created": "2022-07-05T23:23:15Z",
+                "syllabus": {
+                    "file": {
+                        "_type": "file",
+                        "asset": {
+                            "_ref": "file-2a3b73f95d5e5390180895afd5fb351ea81d2a8a-pdf",
+                            "_type": "reference"
+                        }
+                    }
+                },
+                "tags": [],
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/2a3b73f95d5e5390180895afd5fb351ea81d2a8a.pdf",
+                "description": "The objective of this course is to learn the theory and practice behind building automatic translators (compilers) for higher level programming languages and to engineer and build key phases of a compiler in Java or C++ for a small language.",
+                "isFoundational": true,
+                "creditHours": 3,
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "codes": [
+                    "CS-8803-O08"
+                ],
+                "_id": "external-import-CS-8803-O08",
+                "textbooks": [
+                    {
+                        "name": "Engineering: A Compiler, 2nd Edition",
+                        "_key": "b9cb48094e408f78e908b271982d93ab",
+                        "url": "https://amzn.to/3Km7ARa"
+                    }
+                ],
+                "name": "Special Topics: Compilers - Theory and Practice",
+                "_rev": "iLpqNfBINCDhaBRaVOIQFb",
+                "_updatedAt": "2022-08-25T21:43:05Z",
+                "slug": "special-topics-compilers-theory-and-practice",
+                "_type": "course",
+                "isDeprecated": false,
+                "officialURL": "https://omscs.gatech.edu/cs-8803-o08-compilers-theory-and-practice",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "reviews": [
+                    {
+                        "workload": 28,
+                        "created": "2024-08-04T21:33:06Z",
+                        "authorId": "qijT54rwyDuqUGRJr6it6A==",
+                        "difficulty": 5,
+                        "_createdAt": "2024-08-04T21:33:06Z",
+                        "course": null,
+                        "semester": {
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4",
+                            "_updatedAt": "2024-07-23T22:42:48Z",
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z",
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester"
+                        },
+                        "id": "uSG6j0nzFMARMpT3a6y3GE",
+                        "rating": 5,
+                        "_id": "uSG6j0nzFMARMpT3a6y3GE",
+                        "_updatedAt": "2024-08-04T21:33:06Z",
+                        "_rev": "uSG6j0nzFMARMpT3a6y3CG",
+                        "body": "This is easily the best course I've taken so far. I would highly recommend this course to everyone who is taking systems specialization. It's a shame that it isn't a core course.\n\nContent:\n\nAs with most OMSCS courses, this one is about breadth. It emphasizes both - theory and practice. I knew very little about compilers and came away with a solid understanding of various components. I think the only part that is outdated is the attribute grammar framework. The third edition of the textbook doesn't even mention it. Lectures are okay, although they mostly follow the textbook.\n\nTAs:\n\nThe TAs are the primary reason why this course is outstanding. They are highly knowledgeable about the subject and are genuinely enthusiastic about teaching. Most of the questions are resolved very quickly. There is a fast turnaround time for grading - one week at the most and even shorter around institute deadlines like withdrawal and grading dates.\n\nHomework:\n\nDon't take this one lightly. The questions are quite challenging. I recommend writing code to solve them, and verify answers. For the liveness analysis, the code you write will also be helpful for Project.\n\nProject:\n\nIn summer there are three phases - 1) Generate Parse Tree 2) Generate IR 3) Generate MIPS assembly. The difference from a full semester is that you don't have to handle floats, and you don't have to handle one register allocation algorithm. In hindsight I should have taken this course in a full semester. But I'm interested in some other high workload courses that aren't offered in the summer.\n\nThe great thing about the project is that all the tests are given to you up front. If you pass the autograder tests, and don't do anything obviously incorrect to bypass them, you will know how you perform right away. There is no submission limit, you get feedback in under a minute, and you're actually encouraged to submit early and frequently while you implement various functionalities.\n\nThere is zero starter code and a single dependency - ANTLR4. Other than that it's up to you how to implement the compiler. You don't get this level of design and implementation freedom often.\n\nFinal:\n\nThe final was a bit difficult for me. There was one significantly challenging question that I just didn't have enough time for. Also, given the amount of effort one has to put in the homework and project, the final has way too much weight. I think 25% would be a fair amount. I would recommend completing the extra credit portion in the Project, even though I didn't do it. It's worth 5 points in the finals, and gives you enough leeway for a grade.\n",
+                        "_type": "review"
+                    },
+                    {
+                        "_id": "CZnPCJFeW1IiYXKDMZkegw",
+                        "workload": 25,
+                        "semester": {
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z",
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4",
+                            "_updatedAt": "2024-07-23T22:42:48Z"
+                        },
+                        "authorId": "yM5flpsoDbCzSiqfOIGgpQ==",
+                        "_updatedAt": "2024-08-01T03:03:30Z",
+                        "_createdAt": "2024-08-01T03:03:30Z",
+                        "_rev": "CZnPCJFeW1IiYXKDMZkede",
+                        "rating": 5,
+                        "course": null,
+                        "id": "CZnPCJFeW1IiYXKDMZkegw",
+                        "_type": "review",
+                        "created": "2024-08-01T03:03:30Z",
+                        "difficulty": 5,
+                        "body": "Final grade: A. I took GIOS + AI in my first Spring semester 2024, which averaged 15-20 hrs/week together.\n\nCompilers in Summer semester 2024 was more challenging than those two courses combined, needing 25 hrs/week, especially in phases 2 and 3. Phase 1 was much lighter in comparison.\n\nThis was my first time using Java for a project, but I had a few years of coding experience prior. You'll be forced to get good at Java fast (or C++). My compiler project totaled 5k lines (not counting autogenerated ANTLR4 code): ~200 for phase 1, 2000 for phase 2, and 2800 for phase 3.\n\nTip: Code your liveness analysis for phase 3 and use it to check homework 3 answers. Do not do it manually.\n\nThe final exam was okay, difficulty-wise. I highly recommend this course. You learn theory and apply it in the project to build a compiler from scratch."
+                    },
+                    {
+                        "created": "2024-05-19T05:02:48Z",
+                        "semester": {
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05",
+                            "_updatedAt": "2024-05-09T04:45:52Z",
+                            "startDate": "2024-01-08",
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "_updatedAt": "2024-05-19T05:02:48Z",
+                        "authorId": "SSSOP28ZCXJKKGVI/KdIhg==",
+                        "id": "KR1PJZ1p52ZyMf7XRvWLbr",
+                        "body": "This course is very difficult, but totally worthwhile.\n\nI found Distributed Systems to be significantly easier than this course, though if I had to pick between the two I'd probably pick Compilers since it was so much fun. I paired this class with Software Analysis and the two worked well together. Software Analysis goes over some of the same concepts like dataflow analysis. Software Analysis also tapers off in difficulty around the last two phases of Compilers which is nice.\n\nYou'll build a compiler from scratch in either C++ or Java. You use ANTLR to handle scanning/parsing, but everything else is totally your design.\n\nThe project is split up into phases. Each phase you build upon your compiler to add some new functionality. The auto-grader on Gradescope gives you a very good idea of where you're at.\n\nMy compiler was ~9,000 lines in the end. The first two phases were very easy, while the last two phases I spent at least 100 combined.\n\nThe lectures are good. The textbook was interesting, but it went much more in depth than the rest of the course, so it didn't feel particularly useful. The homework is very disconnected from the project and focuses on the theory.\n\nThe final is a very large portion of your grade, but the questions are similar to the homework",
+                        "_createdAt": "2024-05-19T05:02:48Z",
+                        "course": null,
+                        "workload": 40,
+                        "difficulty": 5,
+                        "rating": 5,
+                        "_type": "review",
+                        "_id": "KR1PJZ1p52ZyMf7XRvWLbr",
+                        "_rev": "KR1PJZ1p52ZyMf7XRvWLaV"
+                    },
+                    {
+                        "difficulty": 4,
+                        "_type": "review",
+                        "workload": 16,
+                        "_rev": "biJ44PowJMKgkMZd0te2f8",
+                        "semester": {
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15"
+                        },
+                        "body": "I was interested in this subject, and the class did not disappoint. Really interesting content that makes you realize how applicable theory can actually be for something software engineers use on a daily basis. While previous reviews from years ago seem to indicate TAs gave ambiguous answers and the assignments are vague with requirements, that was not the case this semester (and is probably no longer the case); TAs were absolutely fantastic and the grading for the project was very fair - you could have a very good idea of your score with the autograder.\n\nWhile many may understand the general phases of a compiler, there was a lot more to them than I expected; things like NFA/DFA conversions and minimizations, liveness analysis, (super)local value numbering/other optimizations, and NP-complete graph coloring problem for register allocation are examples of things I had never heard of.\n\nThis class does not delve too much into compiler optimizations because there is so much content to cover to just to explain what a compiler does at a high level. In the summer, the content is reduced even further (less requirements for the project). Unfortunately, the continuation of this class that dives into advanced optimizations is only offered in person, but I hope to see it for OMSCS in the future. \n\nGeneral advice:\n\n- Read the textbook if you want to maximize learning (and get the 2nd edition if they're still requesting that, since there is some content that has been removed/rearranged in the 3rd).\n\n- The homework and exam questions were honestly more difficult than the project. Building a compiler is a long process, but after you know what to do and as long as you manage your time it's fairly straightforward (and I think the LOC in other reviews are somewhat of an exaggeration; the amount of code I wrote didn't total to be over 5000 lines, and that includes very inefficient modularity). Free response questions are human error prone and most of the points I lost were from careless mistakes.\n\nWays this class could be improved:\n\n- I feel like making the final exam 35% of the grade put a lot of stress on me; potentially giving more weight to the homework (which are similar to the exam) could alleviate some of that pressure.\n\n- Perhaps the timing is made a little off in the summer just because of the shortened term, but there were cases where I had to watch/read ahead of schedule to finish homework at a comfortable pace. If the homework is opened earlier (or there was at least corresponding sections explicitly stated that we should read/watch before completing it) I think it would've improved the experience.\n\nProbably the most interesting/fun class I've taken so far, but I think you kind of have to be interested in the topic to begin with. This class made me more interested in this topic.",
+                        "_id": "biJ44PowJMKgkMZd0te2jB",
+                        "course": null,
+                        "authorId": "LefJrbGb0JcEykix98KsUQ==",
+                        "rating": 5,
+                        "_updatedAt": "2023-08-07T17:29:29Z",
+                        "id": "biJ44PowJMKgkMZd0te2jB",
+                        "created": "2023-08-07T17:29:29Z",
+                        "_createdAt": "2023-08-07T17:29:29Z"
+                    },
+                    {
+                        "_type": "review",
+                        "body": "I'm really glad I took this course. I'm really glad it's over now.\n\nThis does what it says on the tin. You build an end-to-end compiler with generated scanner/parser, semantic checking, IR generation, a limited amount of optimisation, register allocation, and instruction selection. From scratch, with no starter code. You also have chunky homework due every other week. And an exam that does actually take the three hours they give you. \n\nI learned an absolute ton. It demystified some big topics. It helped me understand how some of the people at work had approached some interesting issues. And it's very satisfying when your compiler makes the code run as intended at the end.\n\nThe downside is that this class is a full time job. I only stayed sane because my team was laid off earlier this year and I'm not working at the moment. It ate my life, especially the last month. I'm usually sceptical of reported timings on OMSCentral because they seem to be skewed by less experienced candidates. As far as I can tell, those people don't tend to take this class. I was a senior SWE at FAANG and it took me 25-30 hours a week. And it won't be much better in spring/fall because you could see several points where they stripped out big requirements to fit the summer semester.",
+                        "_rev": "9DpPdp4pqKYQrMIJnGFctk",
+                        "workload": 30,
+                        "_id": "9DpPdp4pqKYQrMIJnGFcxW",
+                        "_createdAt": "2023-08-06T10:15:34Z",
+                        "difficulty": 5,
+                        "authorId": "RuW3kVPIXMNseTxU8DcUoQ==",
+                        "_updatedAt": "2023-08-06T10:15:34Z",
+                        "created": "2023-08-06T10:15:34Z",
+                        "rating": 5,
+                        "semester": {
+                            "startDate": "2023-05-15",
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z"
+                        },
+                        "course": null,
+                        "id": "9DpPdp4pqKYQrMIJnGFcxW"
+                    },
+                    {
+                        "created": "2023-08-02T20:02:25Z",
+                        "body": "Broadly speaking, this course is a good introduction to how a compiler works. Implementing one from beginning to end (kind of, you still leverage a parsing framework) is a great way to learn the broad stages of compilation and should help you feel a bit more connected to what's happening under the hood when you type `make`.\n\nThat said, my biggest gripe with the course is that it didn't really get into any of the interesting meat of modern compilers. For example, a compiler frontend isn't particularly complex - yes it's nice to cover how a compiler might traverse a parse tree to perform semantic checking, build a symbol table, and emit corresponding IR instructions, but these are just not that difficult and are pretty well-solved problems. 2 of the 3 project phases focused on the frontend, when it really should have just been 1. These can be condensed just by simplifying the language a bit - the (relative) complexity of the current Tiger language adds a lot of tedious work without much learning benefit.\n\nMeanwhile, the project barely covered what modern compilers really focus a lot of energy on - optimization! The only degree to which the project covered optimization was in implementing a register allocator (which is really only an optimization relative to...not using registers). I really think the project's phase 3 (implementing the backend) should have been phase 2, and phase 3 should have focused on optimization in much more depth. It should have at least covered things like live range splitting, dead code elimination, constant propagation, and perhaps inlining. The grading should have a minimum performance requirement. Currently, the only degree to which performance is evaluated is in an optional class competition (with the winner receiving some extra credit).\n\nUltimately, if you've been a software engineer for some amount of time, you've likely been exposed to and made aware of many compiler optimizations to keep in mind as you write code. This course will not actually teach you much about how to implement these optimization as I had hoped. If you're a bit earlier in your career, or just have not really been exposed to a compiler aside from clicking \"build\", then it's a solid introduction.",
+                        "_updatedAt": "2023-08-02T20:02:25Z",
+                        "_type": "review",
+                        "_createdAt": "2023-08-02T20:02:25Z",
+                        "id": "ph5Aem2mzqa5NpY5m53huY",
+                        "_id": "ph5Aem2mzqa5NpY5m53huY",
+                        "authorId": "jqq7OxRh9cZ83cz7T7jnzQ==",
+                        "_rev": "ph5Aem2mzqa5NpY5m53hrE",
+                        "course": null,
+                        "workload": 15,
+                        "semester": {
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15",
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester",
+                            "term": "summer"
+                        },
+                        "difficulty": 3,
+                        "rating": 2
+                    },
+                    {
+                        "semester": {
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z"
+                        },
+                        "rating": 5,
+                        "course": null,
+                        "body": "I took this class without having had any undergrad compiler exposure. I doubled up with Computer Law, which was a perfect choice (low effort and no timing overlap).\n\nI prepared well for the class and it served me well:\n- Learned about DFA, NFAs & Regular languages by completing half of the Stanford Automata Theory course: https://online.stanford.edu/courses/soe-ycsautomata-automata-theory. The Automata course is not necessary as the compilers course goes over DFAs and NFAs in great detail, but it helped me get a head start and also understand it deeper (there are no proofs in the compilers class, while the Stanford Automata course actually explains the why.  E.g why do DFAs, NFAs and regexes have an equivalent representation? In the compiler class, you are just asked to transform between those representations without explaining why that is possible)\n- Created a skeleton ANTLR visitor compiler + Grammar in Java using this awesome Youtube tutorial: https://www.youtube.com/playlist?list=PL5dxAmCmjv_4FGYtGzcvBeoS-BobRTJLq\n- I took HPCA in previous semesters, hence I was familiar with the basic MIPS instructions. An understanding of computer architecture is maybe not necessary but helped me to understand some concepts better.\n\nI worked alone and that worked out great. Also, it seems like most teams of two did not 100% finish the last part of the compiler. \n- No communication or coordination needed. I worked weeks ahead of the lecture schedule and also started implementing the next part of the project before it was released.\n- I did not write unit tests (that's problematic if you work with someone else)\n\nTipps\n- Make sure to understand the homework well. You'll do the same stuff in the exam under time pressure.\n- Do the homework using pen-and-paper, but when possible, verify using code/your compiler. For instance, we had to do live range analysis and register allocation for the homework. My compiler already had that functionality implemented so I could double-check my results. Therefore you benefit double from working ahead of schedule.\n\nThings I disliked:\n- Lecture quizzes were too simple and did not prepare well for the homework. The homework is difficult and requires you to understand the subject well. \n- Consider releasing the homework earlier. In order to code up the projects, we had to understand the lecture material weeks ahead of schedule at times. I had to re-learn the content weeks later to complete it.\n- The lectures are frustrating at times. The professors' accent, grammar, and explanations at times impeded my understanding of the subject. The book on the other hand was very precise and more understandable. \n\nI also disagree with previous reviews that claim that we are not taught how to implement register allocation (virtual -> physical registers) properly. We were shown how Brigg's algorithm works and where then asked to implement it in the project. \nBy the same token, instruction selection (IR instruction -> MIPS instructions) was not as impossible as other reviews make it out to be. Make sure to understand a MIPS calling convention (this is the excellent one I implemented: https://courses.cs.washington.edu/courses/cse410/09sp/examples/MIPSCallingConventionsSummary.pdf) and how the stack has to be created from it using offsets from the stack pointer. You don't have to translate loop constructs or something like that into MIPS, as that has already been done in the IR. Most IR instructions have a 1:1 MIPS translation, but not all - but you'll figure that out during the implementation.\nEach part of the compiler is also easy to test, as we are provided with the necessary tools to do so (test suite for part 1, IR interpreter for part 2, QTSpim and test cases for part 3).\n\nOverall, if you are motivated to learn the foundations of compilers, even if you do not have previous exposure, this is an excellent way to do it. Writing a compiler from scratch is intimidating at first, but looking back, it's no different than any other software project (and that perspective is exactly what I was looking for taking this course).  I encourage anyone to take this class if they are willing to put in the effort.\n",
+                        "id": "AnVLGnCOep77YjL1sigMfj",
+                        "created": "2023-05-04T16:47:42Z",
+                        "_createdAt": "2023-05-04T16:47:42Z",
+                        "workload": 30,
+                        "_type": "review",
+                        "_updatedAt": "2023-05-04T16:47:42Z",
+                        "authorId": "knlR4vniShLAQhvgS5zc2g==",
+                        "_rev": "AnVLGnCOep77YjL1sigMes",
+                        "_id": "AnVLGnCOep77YjL1sigMfj",
+                        "difficulty": 5
+                    },
+                    {
+                        "semester": {
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z",
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_createdAt": "2021-12-16T19:29:06Z",
+                        "_type": "review",
+                        "rating": 5,
+                        "id": "external-import-5b9b33b9-bdc1-4c4f-9acc-2032acab4731",
+                        "created": "2021-12-16T19:29:06Z",
+                        "difficulty": 4,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_id": "external-import-5b9b33b9-bdc1-4c4f-9acc-2032acab4731",
+                        "body": "Take this course if you want to learn how compilers work end to end, and if you have the time to dedicate to it.\n\nThis class is great for breadth and gaining practical experience in how compilers work. A large time portion of the class is spent on the coursework which involves writing a compiler from scratch\n\nThe best part about the coursework is that the problems are ambiguous and don't just involve execution, this makes it challenging and parallel with real life. Additionally i loved that we get to create the entire compiler from scratch (other than using parser generators on the frontend which is how it's done in practice) - this gives a full breadth of knowledge on different parts of the compilation process\n\nImprovements:\n- As other reviews have mentioned the assignments don't need to be as elongated as they are and involve a lot of hand written manual solutions\n- The exam carries around a third of the overall weighting which is hugely disproportionate to the amount of time spent on the coursework and it's mostly just a repetition of the assignments it would have been a better approach to drop the exam entirely and give more time to the coursework, for example covering optimisation ",
+                        "course": null,
+                        "workload": 30,
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "id": "external-import-ccb71a84-b02e-4689-ba65-42cf88614abc",
+                        "course": null,
+                        "rating": 5,
+                        "_id": "external-import-ccb71a84-b02e-4689-ba65-42cf88614abc",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 4,
+                        "_createdAt": "2021-12-16T17:07:22Z",
+                        "created": "2021-12-16T17:07:22Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "workload": 20,
+                        "body": "I loved this class. It's an excuse to implement a bunch of really interesting algorithms.\n\n**Advice**:\n\n- Be completely comfortable coding in whichever language you're going to use (Java or C++) because the project is thousands of lines of code, written from scratch with no skeleton / starter code. It's a lot of work, even for those of us who've been programming a long time, so you don't want to be struggling with fundamentals.\n- Write code to answer the homework problems for you. Doing them by hand is way less fun and far more error-prone.\n- Don't take this unless you're pretty interested in the topic. To reiterate, it's a ton of work.\n\n**Complaints**: The final is a large part of the grade, there's no study guide and no previous quizzes or tests to tell you what to expect, and it's very tough. I didn't feel like it added anything to the class except stress."
+                    },
+                    {
+                        "created": "2021-12-13T23:10:30Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23"
+                        },
+                        "_type": "review",
+                        "rating": 2,
+                        "body": "My main issue with this course is that there is too much mundane and tedious work. I feel like I could've learned 80-90% of the material through doing only 50% of the assigned work; in other words, the amount of content learned per hour of work in this course is very low. \n\nFor example, some of the homework and exam questions require running algorithms by hand on programs of substantial size. An analogy would be, imagine in an algorithms course you get a homework question that is run Dijkstra's by hand, showing each step, for a graph with 50 vertices. Does it help the student learn? Sure. But is it efficient in doing so? No.\n\nSame goes for the project. I do get that writing a full compiler from beginning to end is cool, but there are parts of the project that were huge time sinks but didn't teach me much about compilers. One example: having to write dozens of if-statements to account for global vs. local, array vs. scalar, float vs. int and various combinations of these for assign and other instructions in phase 3. I would suggest stripping out some of the complexities that are time-sinks but aren't that valuable in terms of learning.\n\nTA's are very responsive and helpful though. ",
+                        "workload": 40,
+                        "id": "external-import-9d70d55c-7f25-429f-95ed-6d84be9a7643",
+                        "difficulty": 5,
+                        "_id": "external-import-9d70d55c-7f25-429f-95ed-6d84be9a7643",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-12-13T23:10:30Z",
+                        "course": null
+                    },
+                    {
+                        "workload": 48,
+                        "_id": "external-import-69156878-848b-437d-acad-7ce47dc1eb34",
+                        "difficulty": 5,
+                        "rating": 1,
+                        "course": null,
+                        "body": "# DO NOT TAKE\nThe amount of time and energy this course requires is orders of magnitude greater than what you will learn, and take away from the course. You might think: \"I'm a professional software engineer, it shouldn't be that bad for me\". Perhaps the concepts will be easier for you, but there is no escaping the work load. It's like a second job where you don't get paid, and you have to work nights, weekends, holidays, and especially while you take vacation from your other job.\n\n# Project\nThe main problem with this class is the project. I am not even done with the project, and my code base is over 9,000 lines of C++. You have to implement a compiler using C++ or Java, making use of an Antlr4 lexer/parser generator. This Antlr thing was clearly meant for Java developers, as the C++ examples and documentation are very scarce. There are also some bugs in the C++ interface which can trip you up for hours. The compiler you are tasked to create supports the \"Tiger\" language. It would be nice if the language was more \"Toy\". This language is moderately complex in that it supports global statics, local variables, arrays, floats, integers, and integer promotion to float. Plus the usual full suite of operators. This means that there is heavy case analysis in the code. The last disappointing part of the project is the fact that you must generate assembly code in MIPS. MIPS is a dead language, yet I've been spending weeks of my life figuring out how it works.\n\n# Homework\nThe homework for this class is also very involved, and each one can take a full week of effort (There are 4). They are manually graded, and require drawing up a lot of diagrams. The homework is more reasonable than the project, because it forces you to watch the lectures, and apply the learning at a smaller scale.\n\n# TAs\nThe TAs for this class are fantastic. They frequently provide great feedback via Ed discuss, and they grade fairly. The trouble is the TAs cannot debug your 9,000 lines of code for you.",
+                        "id": "external-import-69156878-848b-437d-acad-7ce47dc1eb34",
+                        "created": "2021-11-26T02:43:02Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_createdAt": "2021-11-26T02:43:02Z",
+                        "_type": "review",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "_type": "review",
+                        "body": "This was a fun course for me personally and hits a programming bucket list item (write a compiler), so I was very motivated to take this course. It was a big challenge and took a toll on my psyche but I ultimately don't regret it since I needed some extrinsic motivation to go through with an undertaking like this.\n\n## Pros\n\n- If you like project-focused classes, this is probably the biggest one - the whole semester you write a compiler in phases (lexing/parsing, semantic analysis/IR codegen, machine codegen).\n- I can't understate the value of learning how compilers work end-to-end. It really helps turn compilers from magic black boxes to something you can conceivably understand and use to your advantage, as either a compiler writer or someone optimizing code.\n- You can use Java or C++.\n- TAs were very helpful and kind.\n- The homework mostly helped build understanding of some of the concepts needed to implement the compiler.\n- Feedback from the autograder was useful and the grading on the project wasn't too all-or-nothing.\n\n## Cons\n\n- Optionally a group project. Be very careful - the overhead of collaboration can hurt you more than it helps you sometimes.\n- There is a certain amount of irreducible complexity and labor associated with writing an entire compiler from scratch, so it always feels like there is just too much work to do a good job on each phase of the compiler.\n- The project is open-ended, but has no supporting boilerplate code. You write everything from scratch, and that burns a lot of time exercising skills that don't get you a better grade (argument parsing, assembling your build system, etc).\n- Dr. Pande's grading schemes are kind of brutal. The compiler has a good grading suite but the homework assignments and final exam feel tedious (especially doing live variable analysis by hand on complex programs, that felt downright sadistic after having implemented it in code 3 separate times already).\n- Both the lectures and textbook don't fully explain concrete strategies for implementing instruction selection, so almost every team failed to do that step completely right. Having at least some material on how to handle mapping from virtual to physical registers in MIPS when you have multiple different register allocation algorithms in play would help, a lot. Even just some prewritten material providing common ways of implementing various constructs in MIPS (loops, function calls, recursion, etc) without stomping on your own registers would have helped.",
+                        "course": null,
+                        "workload": 40,
+                        "difficulty": 5,
+                        "_createdAt": "2021-08-23T18:20:00Z",
+                        "semester": {
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer"
+                        },
+                        "id": "external-import-e0eac93b-a600-4621-9ed1-f66dc74de495",
+                        "created": "2021-08-23T18:20:00Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 4,
+                        "_id": "external-import-e0eac93b-a600-4621-9ed1-f66dc74de495",
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "course": null,
+                        "_id": "external-import-6174618b-f6ec-43da-99f8-e2283a1353a1",
+                        "body": "This is a light version of compiler course comparing CS6241-A. Because of the time limitation, it does not touch interesting LR parser and other topics in backend. Lecturer is very knowledgeable to compiler world; bad thing is the semester is too short that you can't learn too much from him.\n\nThe project is also a short version of compiler for Tiger Language. It covers a full cycle of compiler phase from source code to assembly but it doesn't include loader. ANTLR is used as the compiler framework, instead of LLVM being used at CS6241-A, it's fine for people who want to learn compiler, but you might want to study LLVM if you really want to work on compiler world in the future. The setting for the project is clear but not optimized. The final project asks to get the least number of machine instruction; which makes students choose some uncommon mechanism to optimize their code.\n\n\nPro:\n1. You get touch on the full cycle of a compiler implementation.\n2. Project is fun and challenged.\n3. If you want, you can explore a lot more on compiler theorem.\n\nCon:\n1. Semester is too short for people who has no compiler background.\n2. Project could be challenged for the student who has no CS background and don't know MIPS",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "created": "2021-07-27T18:21:04Z",
+                        "difficulty": 5,
+                        "_createdAt": "2021-07-27T18:21:04Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "rating": 5,
+                        "workload": 20,
+                        "id": "external-import-6174618b-f6ec-43da-99f8-e2283a1353a1"
+                    },
+                    {
+                        "semester": {
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "id": "external-import-32ed8776-0bb0-420e-8189-233e84d065d7",
+                        "workload": 15,
+                        "_id": "external-import-32ed8776-0bb0-420e-8189-233e84d065d7",
+                        "difficulty": 4,
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "body": "What a great course! The reward is definitely proportional to the workload, as is true with most of the great OMSCS courses. The material is pretty introductory as far as compiler theory goes; you won't cover any crazy optimizations or more complex language features, but you *will* master the fundamentals of compilation in theory and practice (or else this course will eat you alive).\n\nFirst, the lecture/textbook material:\n- I found the lectures to be very helpful and clear, even despite some minor errata. The course staff are good about providing addenda correcting any errors.\n- The textbook was neat and had a lot of good info in it, but I didn't find it to be absolutely necessary; most of the exam/homework material relied more heavily on the lectures. Good for background, but I personally didn't find it vital to read the book.\n\nThe homework and final:\n- The homework assignments took a fair amount of time and thought, and I found that a careful attention to detail was vital for each of them (many of the questions involve stepping through a particular algorithm manually and displaying state at each individual step; I found it necessary to check and recheck my work to make sure no typos led me to the wrong answers). That being said, they were interesting, stayed centered around the core concepts, and were good preparation for the final exam.\n- The final exam was fairly challenging in a vacuum, but I found it to be a decent continuation of the homework assignments. There weren't many surprises, but I still felt like the exam was a challenge. As long as you really put effort into the homework assignments and keep up with the lecture material, you'll be in pretty good shape.\n\nThe project(s):\n- The project in this class is super cool. You pretty much start from nothing and build a working compiler.\n- By its very nature, building a compiler is a very complex undertaking, even a toy compiler like this. Starting early on the project phases is *mandatory*.\n- You have the option to work with a partner, which I recommend, given the amount of work required.\n- Looking at past reviews, it does appear that the project has gotten some reworks. A significant portion of the work is autograded, so you'll get feedback on how things are running long before the deadline. In addition, the rubric is quite clear and well laid out (no \"random\" grading that I saw). In addition, the project makes use of some more modern parser generator tools, so you won't be manually implementing a scanner or parser or anything like that.\n\nThe staff/logistics:\n- Professor Pande and the TAs were all very helpful and responsive. The team behind this course is very knowledgeable and genuinely interested in seeing you succeed.\n- My only gripe with this course has to do with the pacing. I found that the homework and project deadlines didn't line up very well with the material being covered each week. In some cases I found myself needing to understand a concept or algorithm from a lecture three weeks ahead in the syllabus in order to implement the project in a timely manner. Not sure there's any way around this, but I found that I needed to really manage my time carefully to account for the gap.\n\nOverall, I highly recommend this course. I don't think that my experience lines up with it being \"the most difficult course in OMSCS,\" and I encourage anybody who's scared off by its reputation to reconsider and give it a try!",
+                        "created": "2021-05-19T21:30:48Z",
+                        "_createdAt": "2021-05-19T21:30:48Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review",
+                        "rating": 5
+                    },
+                    {
+                        "course": null,
+                        "difficulty": 4,
+                        "_createdAt": "2021-03-19T14:17:09Z",
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_id": "external-import-0a0cbbbe-bac7-498a-8aca-8df00035f542",
+                        "id": "external-import-0a0cbbbe-bac7-498a-8aca-8df00035f542",
+                        "rating": 4,
+                        "body": "It's a tough class with demanding project. I had to take 2 days off work to finish first project on time, but I worked alone without group. I wouldn't suggest taking this if you don't have much of programming/CS background. My tips would be to learn as much as possible about graph and graph algorithms, ANTLR4, and MIPS. that way you can have more time to spend actually doing the project and the course will be more enjoyable. Also, learn how to use makefile, I spent stupid amount of time trying to get my project working. \n\nPros:\n1. You will learn something that is actually useful.\n\nCons:\n1. The project is kind of big, naturally there are many ambiguities and it's your responsibility to confirm everything in piazza. (if the assignment is more properly described I'd give this course a strong like)\n",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "workload": 30,
+                        "created": "2021-03-19T14:17:09Z",
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester"
+                        }
+                    },
+                    {
+                        "_id": "external-import-fd1ab6b6-3766-4690-9570-7e1211a24c75",
+                        "rating": 5,
+                        "created": "2020-12-03T15:50:52Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "course": null,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:29Z",
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2020-3"
+                        },
+                        "body": "This is by far the most rewarding course I've taken in OMSCS so far. Do not get scared by the other reviews on this page or what people on Reddit say. If you really want to maximize the ROI of the Masters and are not just in it for the diploma, take this course. This felt like a true Master's/graduate level course that really challenged me and was not just a \"check the boxes\" kind of course.\n\nYou will essentially build a compiler from scratch in either Java or C++. You will intimately know all the theory and practical details of what makes up a compiler and will really give you a solid foundation as a software engineer. I really noticed this towards the end of the semester when I took a look at the GCC source code and realized that I understood at a high level how the different GCC phases worked. I then looked at LLVM and really understood for the first time why it's so powerful.\n\nI also applied these concepts to my day-to-day job as a full time software engineer, where I created a transpiler to help upgrade our code from one JS framework to another automatically. I noticed that this knowledge helps me pick up new programming languages faster because I know what the foundational elements of a language are now. It is also another way to think about solving problems.\n\nI will agree that it is a large commitment, but the more you invest into it, the more you will get out of it. I did the projects alone (can be done in teams) because I wanted to really understand everything from end-to-end. Attend the office hours to get all your curious questions answered. The book is very helpful and deep dives into what the lectures do not cover.\n\nAgain, this course is not for those who are in it for the easy A or the diploma. This course is for those who are genuinely curious about what happens in the blackbox of compilers and really want to dive under the hood to understand them. This course will not hold your hand, but if you're really invested and do the readings and work hard on the projects, I promise you'll come out the other end really understanding compilers, assemblers, transpilers, linters, linkers, finite state machines, ASTs, and much more.",
+                        "difficulty": 5,
+                        "_createdAt": "2020-12-03T15:50:52Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "id": "external-import-fd1ab6b6-3766-4690-9570-7e1211a24c75",
+                        "_type": "review",
+                        "workload": 20
+                    },
+                    {
+                        "_createdAt": "2018-06-01T02:43:28Z",
+                        "course": null,
+                        "body": "### Good:\n* Very practical. The projects use industry-standard compiler tools and algorithms, so you could easily apply the knowledge gained in this class elsewhere if you needed to.\n* You will (most likely) learn a LOT. It is impossible to make it through this class without deeply understanding the parts of the compiler you're supposed to implement (lexing, parsing, symbol table generation, semantic analysis, IR generation, register allocation, instruction selection), the abstractions used under the hood (regular languages, context-free languages, parse trees, attribute grammars, control flow graphs, SSA, live ranges, live webs, etc.).\n* The 4 written homeworks were relatively short, but very topical, and struck a good balance between reinforcing the practical things we had to know for the projects and complementing them with the theoretical things we learned in lectures.\n* When you're done, you'll be happy you took it (if you were able to make it).\n\n### Bad:\n* The professor is uninvolved, and the TAs run the show. However, at least my semester, the TAs were distinctly unhelpful.\n  * Answers on Piazza were vague; project descriptions were underspecified or flat out *wrong* (this is not an opinion - one of the requirements of the first project was provably impossible, and when I pointed this out to the TAs, they were unable to understand the issue, despite agreeing with me that it was impossible).\n  * It turns out that compilers are *extremely* detailed, and those details are really important; expect to spend a lot of time looking for clarifications that may or may not be provided. We had to just make arbitrary decisions on a lot of issues, and document those decisions in our writeup.\n* The 2 projects are both group projects (3 person teams), and you must have the same group for each project (since project 2 builds on project 1).\n  * The only allowed languages are Java and C++. Be very comfortable in at least one of them.\n  * The projects are both large enough that you can afford to have 1 slacker, but not 2.\n  * The projects are sizable enough (i.e. 10,000+ lines of code) that you will either learn/use good software engineering practices, or fail. Again, your group composition can make or break you.\n  * Both projects are \"green field\" projects, meaning there is no starter code, no push in the right direction. This is a double-edged sword because it forces you to think about the design you want, but it's definitely less forgiving than it could be.\n\nOverall, this class wouldn't be that hard, if it weren't for the projects (which I hope get reworked). The material is interesting, and it's useful to be able to imagine the internals of whatever compiler you happen to be using (e.g. for work) so you can structure your code to provoke certain optimizations.",
+                        "_updatedAt": "2022-07-11T19:08:17Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LW7q",
+                        "workload": 35,
+                        "semester": {
+                            "_id": "external-import-2018-1",
+                            "_updatedAt": "2022-07-22T00:47:47Z",
+                            "startDate": "2018-01-08",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFRHKv",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "id": "external-import-d81f6888-51b5-4a1e-8c7d-c2222599e62c",
+                        "created": "2018-06-01T02:43:28Z",
+                        "_type": "review",
+                        "_id": "external-import-d81f6888-51b5-4a1e-8c7d-c2222599e62c",
+                        "difficulty": 5,
+                        "rating": 4
+                    },
+                    {
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN1o6U",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2017-3",
+                            "_updatedAt": "2022-07-22T00:47:57Z",
+                            "startDate": "2017-08-21"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:17Z",
+                        "difficulty": 5,
+                        "_id": "external-import-a352ba87-0804-4ee1-b5de-9b7ce850e8dc",
+                        "_createdAt": "2018-05-07T02:16:44Z",
+                        "id": "external-import-a352ba87-0804-4ee1-b5de-9b7ce850e8dc",
+                        "workload": 20,
+                        "course": null,
+                        "body": "If you take this course without having taken the undergraduate equivalent, you will be in for a wild ride (i.e. what are you doing here, walk away slowly). Per other descriptions, you will be implementing an entire compiler! \n\nPros:\n\n1. The lectures are very good and don't cover useless material like other courses (cough, cough, CV). \n2. The projects are useful. You will get an actual compiler at the end of the day.\n3. There's no hand holding while creating the compiler - you will build everything from the ground up.\n4. The TAs (now gradudated) responded almost instantly on Slack and Piazza.\n\nCons:\n\n1. The HW is graded far too rigorously.\n2. The actual project is haphazardly graded (i.e. they're not using a rubric so you will get a somewhat random grade).\n3. The project specification is so vague that you will be constantly asking for clarification on Piazza. This was nerve wrecking and frustrating. The lack of professionalisim on behalf of the TAs made this worse.",
+                        "_rev": "Gng42kcwkgwKuUtBk2LW7q",
+                        "rating": 4,
+                        "created": "2018-05-07T02:16:44Z",
+                        "_type": "review"
+                    },
+                    {
+                        "id": "external-import-60f7d761-c23e-4474-b096-a06dd129263f",
+                        "created": "2018-04-06T21:07:36Z",
+                        "semester": {
+                            "startDate": "2017-08-21",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN1o6U",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2017-3",
+                            "_updatedAt": "2022-07-22T00:47:57Z"
+                        },
+                        "body": "PROS:\n1. If you are interested in this material, it is a good class in terms of what is being taught. You will build a compiler from the ground up.\n2. The grading was generous.\n\nCONS:\n1. You better learn about registers and memory on your own because it is NOT covered in the least. A lot of times is spent on parsing, regex, languages, etc. and zero time is spent on the technical part of a compiler.\n2. As another reviewer said, the course is run mostly by the TAs. When I took it, there was one very vocal TA in that they were active on Piazza and Slack, but their answers were TERRIBLE. When I realized this, I tried phrasing my questions as yes\\no or as multiple choice, to try and steer them towards actually answering them, but never did they just give me an answer! \n3. The professor participated in office hours, but had no idea what the current homework was. He would be asked a question and would have to look at the homework as if it was the first time he's ever seen it. The homework had plenty of typos and ambiguities.\n4. All the answers, from the professor and the TAs were always so laconic. This is an online class based mostly on text. This is a place to answer in full sentence and elaborate, or else what is the function of having a class vs. just having lectures?\n5. The lectures are very general, so not very helpful for the homework and the project.\n\nThis class makes all other classes I've taken before and after seem like a dream.",
+                        "_createdAt": "2018-04-06T21:07:36Z",
+                        "rating": 1,
+                        "_rev": "6dNgvzjgwH6OT4iz0DRwmI",
+                        "workload": 20,
+                        "_id": "external-import-60f7d761-c23e-4474-b096-a06dd129263f",
+                        "_updatedAt": "2022-07-11T19:08:17Z",
+                        "course": null,
+                        "_type": "review",
+                        "difficulty": 5
+                    },
+                    {
+                        "created": "2017-12-19T23:43:24Z",
+                        "_rev": "6dNgvzjgwH6OT4iz0DRwmI",
+                        "rating": 4,
+                        "workload": 35,
+                        "_updatedAt": "2022-07-11T19:08:17Z",
+                        "_type": "review",
+                        "_id": "external-import-40977749-0ddd-4f15-98f6-89c5fcba4174",
+                        "id": "external-import-40977749-0ddd-4f15-98f6-89c5fcba4174",
+                        "body": "This is an incredibly difficult class with a very large time commitment. The lectures are dense but helpful for the most part. These lectures gloss over some details which force you to read the book which has moments of utility but is by and large, a jargon-riddled dumpster fire. The book uses some dreamed up syntax to express some of the algorithms which is pretty taxing to understand. The best approach is just to re-write the algorithm in code into you get the results you expect. The homework is very difficult because the questions are vague but expect precise answers. Fortunately, if you head my advice for dealing with the text book, you can use the same approach and produce code to solve your homework. You don't get credit for the code but it certainly make producing nice LaText and reduces the chance of you transliterating something in your process. If you can explain your approach, you might be able to retain some points but overall, the homework grading is very strict. The coding portion of the project is massive. Absolutely massive. I think it should have been split into at least 3 projects but that may have slowed the class down and there is a lot of ground to cover. I have no complaints about the project grading or what they asked of us. The project document is pretty vague and you have to interpret and justify a lot of your design decisions, just like in real life :)\n\nThe final was not fun and was pretty much like the homework. Treat the homeworks like a practice exam in order to get a feel for the final. The final grading has a decent curve so don't give up, always submit at least something. The way the assignments are weighted, you can't afford to skip any single task.",
+                        "difficulty": 5,
+                        "_createdAt": "2017-12-19T23:43:24Z",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN1o6U",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2017-3",
+                            "_updatedAt": "2022-07-22T00:47:57Z",
+                            "startDate": "2017-08-21"
+                        },
+                        "course": null
+                    },
+                    {
+                        "workload": 25,
+                        "_id": "external-import-bdc7db13-4098-4a8e-baa1-affc67d5c777",
+                        "_updatedAt": "2022-07-11T19:08:17Z",
+                        "id": "external-import-bdc7db13-4098-4a8e-baa1-affc67d5c777",
+                        "_type": "review",
+                        "_createdAt": "2017-12-19T09:27:13Z",
+                        "rating": 4,
+                        "course": null,
+                        "difficulty": 4,
+                        "created": "2017-12-19T09:27:13Z",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2017-3",
+                            "_updatedAt": "2022-07-22T00:47:57Z",
+                            "startDate": "2017-08-21",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN1o6U"
+                        },
+                        "body": "The first pre-requisite of this course is patience. Lectures are long and intense and the project is also very long, but you get to learn. Homeworks require pen and paper work but are interesting and not as hard as project. Final is said to be consisting of some MCQs and some essay type questions, but what we got are 3 MCQs (worth about 10%) and rest problems. Final is similar to homework problems.  \n\nThere are a few logistic issues like you dont have a practice exam or you dont know the cutoffs for grades, but overall it was a decent course. Grading is not that strict, but cutoffs are high (not as high as absolute grading). \nBeing patient and not giving up will be rewarded in this course.",
+                        "_rev": "6dNgvzjgwH6OT4iz0DRwmI"
+                    },
+                    {
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:17Z",
+                        "_createdAt": "2017-08-06T15:09:21Z",
+                        "rating": 5,
+                        "created": "2017-08-06T15:09:21Z",
+                        "body": "This was a fantastic course. The lectures, HW, projects were self sustaining and HARD, but you will walk away a much better programmer and have had an opportunity to really apply topics related to computer science. I loved the course topic and organization so much, that I may take it again in Spring or Fall at some point in future. \n\nThe projects require a SOLID understanding of C++ or Java, and if you are not an super start programmer with strong data structure and algorithm skills you will need a VERY STRONG partner. This class is not watered down at all, and partially what made the class so great. If this course is a reflection of the Professors other courses, I plan to take all of them.",
+                        "difficulty": 5,
+                        "_rev": "6dNgvzjgwH6OT4iz0DRwmI",
+                        "_type": "review",
+                        "workload": 50,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2017-2",
+                            "_updatedAt": "2022-07-22T00:48:07Z",
+                            "startDate": "2017-05-15",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0IVUb"
+                        },
+                        "id": "external-import-d1a44dc3-3497-46d6-82d6-9fffeb0a76f5",
+                        "_id": "external-import-d1a44dc3-3497-46d6-82d6-9fffeb0a76f5"
+                    },
+                    {
+                        "id": "external-import-3735f02a-d3eb-4c4d-9fc6-3ab915a66937",
+                        "created": "2017-07-25T01:00:21Z",
+                        "_createdAt": "2017-07-25T01:00:21Z",
+                        "_updatedAt": "2022-07-11T19:08:17Z",
+                        "course": null,
+                        "workload": 30,
+                        "difficulty": 5,
+                        "rating": 5,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0IVUb",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2017-2",
+                            "_updatedAt": "2022-07-22T00:48:07Z",
+                            "startDate": "2017-05-15",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_id": "external-import-3735f02a-d3eb-4c4d-9fc6-3ab915a66937",
+                        "body": "Excellent course: content, organization, staff, and programming assignments. \nVery interesting to learn how code is compiled, and how compilers optimize the code internally to make it more efficient. The course covers all compilers phases. Lectures are crystal clear. Professor has been very committed to the office hours (weekly), open to different types of question. TA is very prompt, rarely let a day pass with unresolved piazza questions, with clear concise answers. \n\nProgramming projects! Not for the faint of heart. Implemented either in C++ or Java. No starter code. As I understand, the summer version of the projects is a bit different than Fall/Spring which included more compiler phases but with starter code. Be very well prepared with one of those 2 languages. And explore data structures, you'll need to use lots of sets, vectors, stacks,... etc as well as structs. Projects can be done solo or in teams of 2, but we were strongly advised to work in teams. And having taken the solo option and spent tons of time to keep up with this choice, I recommend you find a team mate unless you're an experienced programmer. \n\nThere are 2 projects, the first is a front-end project where you implement a simple scanner, and implement a parser generator and an LL(1) parser. The second project was much harder, where you implement 3 methods of register allocation on IR code and convert the code into assembly, and simulate the assembly using SPIM simulator. \n\nThere were 4 HWs, that take a bit of time, pen and paper work, but they were excellent in measuring how well you undrstand the material. \n\nThere's a final exam, haven't taken it yet, but it should cover the entire syllabus. \n\nAs I remember Projects: 35%, HW; 35%, final exam: 30%\n\nPerhaps the only con would be the absence of an auto grader, and being given basic tests to try our code against, you will have to devise your own tests, otherwise risk failures with the grading tests. \n\nHighly recommended.",
+                        "_rev": "6dNgvzjgwH6OT4iz0DRwmI",
+                        "_type": "review"
+                    }
+                ],
+                "rating": 4.130434782608695,
+                "difficulty": 4.6521739130434785,
+                "workload": 28.782608695652176
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "special-topics-compilers-theory-and-practice"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "isExperimentalCompile": true,
+    "gsp": true,
+    "scriptLoader": []
+}

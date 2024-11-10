@@ -1,0 +1,373 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "id": "external-import-CS-6795",
+                "syllabus": {
+                    "file": {
+                        "_type": "file",
+                        "asset": {
+                            "_ref": "file-f2cbb4b152db85d63db9d1224df1fdd7ef964ca2-pdf",
+                            "_type": "reference"
+                        }
+                    }
+                },
+                "slug": "introduction-to-cognitive-science",
+                "codes": [
+                    "CS-6795"
+                ],
+                "reviews": [
+                    {
+                        "difficulty": 1,
+                        "_id": "2IKTrcBTPXc7cMTx6jivp3",
+                        "course": null,
+                        "_rev": "2IKTrcBTPXc7cMTx6jivjm",
+                        "rating": 4,
+                        "workload": 8,
+                        "semester": {
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4",
+                            "_updatedAt": "2024-07-23T22:42:48Z",
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z",
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester"
+                        },
+                        "body": "This is a super easy course and it's good for your GPA. However, if you're looking to learn something valuable for coding, it might not be suitable for you.\n\nQuiz: There are 10 open-book quizzes, and you can attempt each quiz twice.\n\nIndividual Exercises: There are 5 short essays based on the lectures and slides.\n\nTerm Project: You can choose a topic from the list provided by the professor. The topics are related to computing areas and cognitive science. By the end of the course, you will need to complete 3 essays for this project, with the final essay having a word limit of 5000 words. Additionally, you will need to record a video presentation for your term project. Although it is simple, it is recommended to start the term project early because it may take more time than expected.\n\nOverall, this course is more focused on essays and theory.",
+                        "_updatedAt": "2024-08-02T06:04:32Z",
+                        "_createdAt": "2024-08-02T06:04:32Z",
+                        "created": "2024-08-02T06:04:32Z",
+                        "_type": "review",
+                        "authorId": "clVfgmNhWigDU55wrxSU5Q==",
+                        "id": "2IKTrcBTPXc7cMTx6jivp3"
+                    },
+                    {
+                        "id": "2IKTrcBTPXc7cMTx6gCuZh",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4",
+                            "_updatedAt": "2024-07-23T22:42:48Z",
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z",
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME"
+                        },
+                        "_type": "review",
+                        "rating": 5,
+                        "_rev": "2IKTrcBTPXc7cMTx6gCuUQ",
+                        "workload": 12,
+                        "created": "2024-08-01T15:50:52Z",
+                        "_id": "2IKTrcBTPXc7cMTx6gCuZh",
+                        "_updatedAt": "2024-08-01T15:50:52Z",
+                        "difficulty": 3,
+                        "body": "I had taken KBAI, I knew that Professor Goel is a great professional always surrounded by other great professionals, including TAs.\nI needed a topic for summer, not too hard (I had tried AI on the Summer term while having a full-time job, and that was way too intense)... I saw this topic, and I said \"Well, no programming, but still seems interesting, so, why not?\". \nWhat a pleasant surprise!\nI've discovered a very interesting open research area, this topic has a very large amount of scientific content (from a nice book to read, to a lot of scientific papers), I've learnt a great amount of new information, from neuroscience to bio-inspired algorithms. \n\nAlso, I consider that a lot of stuff here can be translated into programming experiments... as well as your term project if you want, you have room to do a lot of awesome stuff here, it can be as challenging and technical as you want: you can select multiple topics, just to mention a couple of examples included in 2024, from AI, HCI, or Robotics, to Anthropology, Philosophy or Psychology! \nFor me, one of the most satisfying and interesting topics I have selected so far!\n\nMoreover, the TAs have been very helpful, the feedbacks they give are very detailed and useful.\n\nI definitively recommend CS 6795!",
+                        "authorId": "nxSQb6FOcVHHJT2ueblSNQ==",
+                        "_createdAt": "2024-08-01T15:50:52Z",
+                        "course": null
+                    },
+                    {
+                        "semester": {
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4",
+                            "_updatedAt": "2024-07-23T22:42:48Z",
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z"
+                        },
+                        "_id": "CZnPCJFeW1IiYXKDMYKtSA",
+                        "id": "CZnPCJFeW1IiYXKDMYKtSA",
+                        "created": "2024-07-31T18:15:08Z",
+                        "_createdAt": "2024-07-31T18:15:08Z",
+                        "_rev": "CZnPCJFeW1IiYXKDMYKtOs",
+                        "workload": 6,
+                        "course": null,
+                        "rating": 5,
+                        "difficulty": 3,
+                        "authorId": "VduxEDv7ZJd2+dxQt/thjA==",
+                        "_type": "review",
+                        "_updatedAt": "2024-07-31T18:15:08Z",
+                        "body": "This is a great course to take in a Summer term. It's similar to EdTech & HCI: involves quizzes, writing assignments, and a project. I chose to write a Survey Paper, and read a lot of interesting literature to understand 'how educational software can use LLMs in design for cognitive development'; you could pick any topic or opt for a project if you'd like to code (which otherwise this course doesn't necessitate). "
+                    },
+                    {
+                        "difficulty": 1,
+                        "_type": "review",
+                        "workload": 10,
+                        "rating": 4,
+                        "id": "6fR00wtLQO0Glm9dfdpwQV",
+                        "created": "2024-05-02T15:33:02Z",
+                        "semester": {
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z"
+                        },
+                        "_updatedAt": "2024-05-02T15:33:02Z",
+                        "_createdAt": "2024-05-02T15:33:02Z",
+                        "_id": "6fR00wtLQO0Glm9dfdpwQV",
+                        "authorId": "Zipr8wSl9cgM/YJwGrdmYg==",
+                        "body": "Spring 2024.\n\nOverview: Very enjoyable and chill course if you are remotely decent at writing. This is a no-code class, unless you want to code for your final project, but that is completely optional. This is a great class to pair up with another class or to take over the summer. I took this alongside another class, but at times wished I didn't purely because the course material is so interesting, and I couldn't sink as much time into it as I wanted.\n\nThis class is also relatively flexible. You can work ahead by around 2-3 weeks, because assignments are released on a 2-3 week schedule. There are weekly quizzes, but they are very easy, and as long as you have internet access for 10 minutes, you should be able to complete them.\n\nMy biggest complaint is that TA feedback was very poor, given that they took 10 days to return assignments and that the class size is relatively small compared to other OMSCS classes. On average, feedback on my written assignments averaged under 10 words, and feedback on my project submissions amounted to one short and vague paragraph.\n\nAssignments:\n- Quizzes: Weekly, MC, timed 10 minute quizzes on the readings. You have two tries, and they are unproctored, open-note, open-book, open-everything-but-another-human. Lowest grade is dropped.\n- Writing assignments: Due roughly every week, but staggered with project milestone check-ins. Max word counts range from 3k-4k; I mostly floated around 30-50% of the max word count and got full points on all the assignments.\n- Final Project: Pick a topic that is related to the class material. You can choose to do a lit review, to create a tool, or to conduct an experiment. Regardless, you will need to submit reports--an initial proposal (max 3k words), a progress report (max 6k words), a final research paper (max 10k words), and a final presentation (5 minute video recording + poster). These were graded a bit more harshly than the writing assignments, but again, I typically floated around 40-50% of the max word count and at worst got an 87%.\n- Participation: Post a few times on the discussion board and read posts. I had this done by the first participation check-in.",
+                        "_rev": "6fR00wtLQO0Glm9dfdpwLr",
+                        "course": null
+                    },
+                    {
+                        "created": "2024-05-02T10:05:10Z",
+                        "body": "For spring 2024,\nAn easy course to pair up with. I wanted a break after undergoing super intense courses and paired it with AIES. Regraded usually are penalized and ensure you double check your references.",
+                        "_updatedAt": "2024-05-02T10:05:10Z",
+                        "_rev": "78ruYfzFRnPMlC77sqXAVO",
+                        "_type": "review",
+                        "_createdAt": "2024-05-02T10:05:10Z",
+                        "course": null,
+                        "_id": "78ruYfzFRnPMlC77sqXAZU",
+                        "workload": 5,
+                        "authorId": "XD/oW6fEzRWbZM6AQpKFNw==",
+                        "rating": 3,
+                        "semester": {
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09"
+                        },
+                        "id": "78ruYfzFRnPMlC77sqXAZU",
+                        "difficulty": 2
+                    },
+                    {
+                        "_createdAt": "2023-05-17T13:40:40Z",
+                        "_updatedAt": "2023-05-17T13:40:40Z",
+                        "workload": 3,
+                        "authorId": "A3tdt0uS77DH++HIzGyzcg==",
+                        "difficulty": 1,
+                        "_rev": "ecR10o0AnH3C3xf9KadAQT",
+                        "rating": 3,
+                        "body": "This course is a walk in the park. Standard \u201ceasy A\u201d what you put into it is what you get out of it type of course. There are weekly lectures and readings \u2014 if you have any knowledge of basic psychology, cognition, or even just straight up common sense you don\u2019t need to watch the lectures or do the readings. Weekly quizzes are 3 quick questions, open-book/open-note and you get 2 tries on the quiz. On average it took me 2 minutes to complete the quizzes each week.  6 individual papers spread out basically every couple weeks. 4 project milestones. No exams in this course. \n\nPros: Aside from it being an Easy A, they give you the option to work individually for semester long project or you can opt to work in a group that you\u2019ll be able to find off Ed based on your interests. This option is nice because you wont be forced into a group project and can pursue your own interests. The project is 100% self driven \u2014 from the topic you decide, to the tasks you want to impose on yourself. Participation is 10% of your grade and it\u2019s also mostly up to you how you earn that 10%. Your options are peer reviews, course surveys, and Ed Discussions. Ed Discussions are graded by telemetry of frequency of activity on Ed rather than quantity of posts themselves. If you just go on Ed a couple times a week and click through each post to make it seem like you \u2018read it\u2019, maybe post 2-3 times the entire semester you\u2019ll get a 100% on participation. \n\nCons: This class is the most non-technical class I\u2019ve taken in this program. With the way it is currently designed, it has nothing to do with CS at all it\u2019s more like PSYCH101. They briefly touch on AI in the second to last lecture but it is brief and it\u2019s super non-practical. The individual assignments are BS you basically are just making stuff up. Legit feels like a diary post sometimes. However, if you\u2019re good at writing in general, these assignments will take you 2 hours MAX every other week. ",
+                        "_id": "ecR10o0AnH3C3xf9KadASX",
+                        "created": "2023-05-17T13:40:40Z",
+                        "course": null,
+                        "_type": "review",
+                        "id": "ecR10o0AnH3C3xf9KadASX",
+                        "semester": {
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester"
+                        }
+                    },
+                    {
+                        "id": "OV5ATMLN505bkVosETixU1",
+                        "course": null,
+                        "_id": "OV5ATMLN505bkVosETixU1",
+                        "authorId": "NY4g4d52fN39h+Un1yQDkg==",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb"
+                        },
+                        "_updatedAt": "2023-05-04T04:49:35Z",
+                        "_type": "review",
+                        "_rev": "OV5ATMLN505bkVosETixRs",
+                        "_createdAt": "2023-05-04T04:49:35Z",
+                        "created": "2023-05-04T04:49:35Z",
+                        "workload": 10,
+                        "difficulty": 2,
+                        "body": "This is an excellent course!  We pick our own projects, and I picked one that I was excited about, so I spent way more time than necessary. You learn about how the mind is modelled. We had a quiz almost every week, but they're straightforward. Overall, one of the best courses in the program.",
+                        "rating": 5
+                    },
+                    {
+                        "created": "2022-12-19T18:43:43Z",
+                        "_id": "j7jxVlxURPwTRn3W265rfD",
+                        "_createdAt": "2022-12-19T18:43:43Z",
+                        "rating": 2,
+                        "authorId": "H3RGTMSWFqWW1HOjO3UA+A==",
+                        "_type": "review",
+                        "id": "j7jxVlxURPwTRn3W265rfD",
+                        "workload": 8,
+                        "body": "This was an interesting course! An easy and enlightening course about the mind and how it works. ",
+                        "_rev": "j7jxVlxURPwTRn3W265rcW",
+                        "course": null,
+                        "semester": {
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_updatedAt": "2022-12-19T18:43:43Z",
+                        "difficulty": 1
+                    },
+                    {
+                        "course": null,
+                        "id": "j7jxVlxURPwTRn3W1wyM34",
+                        "difficulty": 2,
+                        "workload": 6,
+                        "_type": "review",
+                        "rating": 5,
+                        "_createdAt": "2022-12-15T17:57:11Z",
+                        "_id": "j7jxVlxURPwTRn3W1wyM34",
+                        "body": "This is a powerful/impressive class. The best I have taken (7 so far). This is a course for you. This is to focus on the MIND! As other students mentioned, you can take whatever you want from this course. It is designed so you can skip most of it and do well at the end. \nThere is a long-course project which you choose. It can be individual or group. In my case, I did it individually because I knew exactly what I wanted to do. \n\nYou will do zero programming, but tbh; who cares? This is the most amazing class I have taken (I already have a Ph.D. in Math). The TAs are EXTREMELY helpful and responsive. ",
+                        "_updatedAt": "2022-12-15T17:57:11Z",
+                        "created": "2022-12-15T17:57:11Z",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3"
+                        },
+                        "authorId": "w3/TZyt8z7W+kTn0wqaCZg==",
+                        "_rev": "j7jxVlxURPwTRn3W1wyM0N"
+                    },
+                    {
+                        "created": "2022-12-04T18:51:47Z",
+                        "_rev": "7NXHJdWuSpkHVnuJnXrGH2",
+                        "_id": "7NXHJdWuSpkHVnuJnXrGHi",
+                        "difficulty": 3,
+                        "id": "7NXHJdWuSpkHVnuJnXrGHi",
+                        "_type": "review",
+                        "workload": 8,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22"
+                        },
+                        "authorId": "CU+6kBgOqN1KD7ZDImMi9A==",
+                        "_createdAt": "2022-12-04T18:51:47Z",
+                        "course": null,
+                        "body": "This is an excellent course and very similar to HCI and Ed Tech. \n\nThere are 28 lectures, and so you're assigned two lectures as well as some readings every week. \n\nQuizzes are trivial if you actual watch the lectures or do the readings. \n\nThe term project is similar to Ed Tech and HCI in that you pick any topic, relate it to cognitive science, design an experiment/tool/program/literature review and there are periodic milestones for checking in. \n\nThe densest part of this class are the readings, and I honestly did not do many of them. The only essential one in my opinion was the first and only book we read in class, Paul Thagard's \"Mind: Introduction to Cognitive Science.\" PDFs can easily bef ound online. I think if you just keep pace with this book, you can omit other readings. It will make quizzes a little more difficult but you can skim the weekly readings for answers. \n\nThis class isn't really rigorous, but it does contain work. It's all writing papers, no coding. I learned so much from lectures and exercises, and was actually interested in my term project. \n\nJust like HCI and Ed Tech, this class is a \"you get what you put in it\" type. The material was enjoyable and interesting, and the lectures were of similar quality to HCI and Ed Tech. \n\nTAs were responsive and fair which was great.",
+                        "rating": 4,
+                        "_updatedAt": "2022-12-04T18:51:47Z"
+                    },
+                    {
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQ0gf",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2022-2",
+                            "_updatedAt": "2022-07-22T00:45:42Z",
+                            "startDate": "2022-05-16"
+                        },
+                        "body": "This class was absolutely phenomenal. I couldn't recommend it enough. It has a lot of similarities to KBAI, but it is very much its own class. I've never taken a class where I felt there was so much emphasis on the student's learning rather than being able to pass exams and assignments.\n\nThis class is fundamentally different from all other OMSCS classes I've taken. It's incredibly heavy on philosophy. The main question the class tries to answer is \"how does the mind produce intelligent behavior?\". There are no exams and no programming assignments. The lion's share of the work is reading books and papers about cognitive science. In the past semester there was apparently a group semester-long project that was disliked by many. But they got rid of that in favor of an individual semester-long project. Though it was a lot of work (they expect it to take at least 60 hours), it was a lot of fun. For those interested in AI, this class gives you so many powerful tools for building a potentially robust agent that can display human-like behavior. \n\nThat being said, and to put it bluntly, if you're an ML Chad, you probably won't enjoy this course. While ML is the current dominant paradigm in AI, this class doesn't build on ML. It puts ML into perspective in the history of both the fields of AI and Metacognition while exposing ML's glaring shortcomings as consisting of mostly subsymbolic systems (though still acknowledges its power). This class is about understanding the mind so we can model it, not about how we can engineer data to mimic human behavior.\n\nI will say that the only thing I didn't like about this course is its religious bias. It very clearly pushes a atheistic and materialistic views. I realize that's almost unavoidable when presenting so many different research papers and books in this society, but even the lectures pushed this agenda.\n\nTry to take this course!",
+                        "created": "2022-08-06T16:01:26Z",
+                        "_createdAt": "2022-08-06T16:01:26Z",
+                        "_rev": "LZcH8OQfhbE1IkMdNHi89K",
+                        "course": null,
+                        "id": "LZcH8OQfhbE1IkMdNHi8A6",
+                        "_updatedAt": "2022-08-06T16:01:26Z",
+                        "workload": 18,
+                        "difficulty": 3,
+                        "rating": 5,
+                        "authorId": "eR8+tD2cwwQQYqHYSKCHMQ==",
+                        "_id": "LZcH8OQfhbE1IkMdNHi8A6",
+                        "_type": "review"
+                    },
+                    {
+                        "body": "I loved this class. I really enjoyed the material. It's similar to HCI, but much more on the human side -- investigating \"How does mind work\".\n\nIt's almost entirely reading and writing. A lot of reading. Little to no coding, depends on your term project team size. There are 6 individual exercises (they started as group assignments until students/TAs realized how unrealistic that was in an online course), 2 group projects (with the same group, it's a 2 part project), and a term project with groups of 3-5. \n\nThe term project is very open ended. They seed a list of fields at the beginning and you form a group based on the topic that is most interesting to you. The amount of work scales to the group size. 3 people is a lit review, 4 requires some sort of experiment, 5 requires coding. So you could easily get away without doing any coding -- even in a 5 person team, not everyone will need to code.\n\nThere are weekly quizzes, open book no time limit. No exams.\n\nOverall, if you liked KBAI or HCI, you'll like this class too!\n\nYMMV - since this was a pilot semester, things could change in the next offering. The teaching staff was very receptive to feedback, such as the early switch to individual exercises. The other review for this class must have been written before the course staff made the change. There is certainly an emphasis on group work (Cognition is best studied in that environment), but it was doable, in my opinion. I recommend this course.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "rating": 5,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester"
+                        },
+                        "_id": "external-import-00774976-637c-459f-8bd4-735286a50a1e",
+                        "difficulty": 2,
+                        "_type": "review",
+                        "course": null,
+                        "id": "external-import-00774976-637c-459f-8bd4-735286a50a1e",
+                        "created": "2022-04-24T21:58:50Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "workload": 12,
+                        "_createdAt": "2022-04-24T21:58:50Z"
+                    },
+                    {
+                        "id": "external-import-f1bcf393-5498-45d1-8d07-973733fb1a88",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10"
+                        },
+                        "body": "Class is not over yet but I came here to express my disappointment that they decided to scale the class by turning projects into group projects instead of limiting enrollment until they could hire more TAs.\n\nThe group projects are not big enough for the number of people assigned to them. Because this is OMSCS, many of us work full time, are parents, and live in different time zones, so coordinating on group projects adds a lot of overhead for little learning reward. Working in a group also limits your ability to do self-directed work as you are limited by what your classmates want to do or are willing to commit time to (and as discussed previously, everyone has different constraints on their time). I was hoping the class would run more like one of Joyner's EdTech or HCI courses: lots of reading, lots of research, high expectations, but self-directed.\n\nThe only reason I didn't drop this class immediately is because I'm close to graduating and was otherwise looking forward to the class material. \n\nIf the class is going to continue relying on group projects to scale enrollment I cannot recommend it.",
+                        "workload": 15,
+                        "_id": "external-import-f1bcf393-5498-45d1-8d07-973733fb1a88",
+                        "course": null,
+                        "created": "2022-02-01T17:00:23Z",
+                        "difficulty": 3,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2022-02-01T17:00:23Z",
+                        "_type": "review",
+                        "rating": 2
+                    }
+                ],
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "_updatedAt": "2022-08-25T21:40:22Z",
+                "isFoundational": true,
+                "_type": "course",
+                "officialURL": "https://omscs.gatech.edu/cs-6795-introduction-cognitive-science",
+                "_id": "external-import-CS-6795",
+                "name": "Introduction to Cognitive Science",
+                "textbooks": [
+                    {
+                        "name": "Mind: Introduction to Cognitive Science, 2nd Edition",
+                        "_key": "1cc0aca06b0f5a98f640426310ccf2ba",
+                        "url": "https://amzn.to/3dXgOHK"
+                    }
+                ],
+                "description": "Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action.",
+                "isDeprecated": false,
+                "created": "2022-07-05T23:23:15Z",
+                "_rev": "iLpqNfBINCDhaBRaVOI1nD",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "tags": [],
+                "creditHours": 3,
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/f2cbb4b152db85d63db9d1224df1fdd7ef964ca2.pdf",
+                "rating": 4,
+                "difficulty": 2.076923076923077,
+                "workload": 9.307692307692308
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "introduction-to-cognitive-science"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "isExperimentalCompile": true,
+    "gsp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,108 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "created": "2022-07-05T23:23:15Z",
+                "_rev": "vLev53Cwnp4JOI2CCP4J8G",
+                "isDeprecated": false,
+                "slug": "computing-for-good",
+                "tags": [],
+                "name": "Computing for Good",
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/48be65b9563473cf64e6e8d8871921dfc87952e5.pdf",
+                "reviews": [
+                    {
+                        "course": null,
+                        "body": "This class has a lot of promise but there are several kinks to be worked out.\n\nFirst of all, as others have noted, the project selection/matching process was a mess. We had to submit 2 assignments (skills & interests, initial goals) which it feels like were completely ignored because we were actually matched up based on our responses to Ed threads. And we were only allowed to reply to 1 thread at a time so if you didn't get your first choice, it felt like you were scrambling for a project to join.\n\nThe experience with the project will vary greatly based on the client and group mates you get assigned. Our frontend developer was in another class so our FE was always behind the backend in terms of available features so client demos were difficult. Not this person's fault, but our mentor picked the group makeup so we couldn't add a 2nd FE person even if we wanted to.\n\nThe tech survey and midterm paper were interesting to write but they feel like a distraction from working on your project. We made no progress for almost 2 weeks around the midterm and had to explain to our client that we had an assignment due that was unrelated to the project.\n\nWe were also promised resources at the beginning of the project from our mentor such as GT servers on which to host our work. That ended up not working out and we had to pay out of pocket for some AWS/Azure hosting. And we encountered some significant technical issues with our client in our end of semester deployment so it seems uncertain right now as to whether all our hard work will even get deployed and used.\n\nFinally, it's clear they have not done much to adapt the course to OMSCS. Friday deadlines are very difficult, especially when you don't get details until Sunday or Monday so you don't even have a weekend to work them. This probably works well for on campus students who are doing this full time but for those of us with jobs and families, it was incredibly difficult. Also, you were advised to attend an instructor's/TA's office hours if you were interested in their projects and they weren't necessarily at convenient times.",
+                        "_type": "review",
+                        "workload": 9,
+                        "_rev": "7YXCB5lEK7kKTPSVqUsKLB",
+                        "created": "2022-04-25T04:46:31Z",
+                        "_id": "external-import-f36ea182-b514-463c-94d3-1bb17b0419a0",
+                        "_updatedAt": "2022-08-01T19:08:01Z",
+                        "_createdAt": "2022-04-25T04:46:31Z",
+                        "rating": 3,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10"
+                        },
+                        "difficulty": 3,
+                        "id": "external-import-f36ea182-b514-463c-94d3-1bb17b0419a0"
+                    },
+                    {
+                        "course": null,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester"
+                        },
+                        "id": "external-import-2622f33b-8a0d-4989-9825-214fbc4a6f1b",
+                        "_updatedAt": "2022-08-01T19:13:50Z",
+                        "difficulty": 1,
+                        "_id": "external-import-2622f33b-8a0d-4989-9825-214fbc4a6f1b",
+                        "_rev": "7YXCB5lEK7kKTPSVqUt5QW",
+                        "_type": "review",
+                        "rating": 2,
+                        "workload": 8,
+                        "created": "2022-03-13T01:32:31Z",
+                        "_createdAt": "2022-03-13T01:32:31Z",
+                        "body": " I'm writing this review midway through semester- the first semester C4G is being offered.\n\n### Pros:\n- you get to work on a project that is meaningful to you and potentially helps a non-profit or similar organization\n\n### Cons:\n- the project matching process is a mess\n- there is very little time to research and coordinate with partner org if you want to propose your own project\n- there is meaningless busy-work including multiple research papers that distracts from the actual project\n- (at least some) TAs have mandatory weekly office hours. Some take place Mon-Fri 9am-5pm ET\n- assignments and deadlines are often posted 7-10 days before they're due (hopefully this will improve in future semesters)\n- all assignments are due on Friday nights\n\n\nThis course has great potential as an opportunity for students to make a difference for a non-profit or other organization. Unfortunately, the cons outweigh the pros in my experience.\n\nAlso, for students in ML specialization: it's very very difficult to find/propose a project that involves ML."
+                    }
+                ],
+                "id": "external-import-CS-6150",
+                "_updatedAt": "2022-08-25T21:36:28Z",
+                "creditHours": 3,
+                "syllabus": {
+                    "file": {
+                        "_type": "file",
+                        "asset": {
+                            "_ref": "file-48be65b9563473cf64e6e8d8871921dfc87952e5-pdf",
+                            "_type": "reference"
+                        }
+                    }
+                },
+                "_id": "external-import-CS-6150",
+                "isFoundational": false,
+                "description": "Exploring challenges faced by underserved populations and developing countries from a computing perspective.",
+                "textbooks": [
+                    {
+                        "name": "Geek Heresy: Rescuing Social Change from the Cult of Technology",
+                        "_key": "5d0c1ce65707e2346f7ff5efe65e705c",
+                        "url": "https://amzn.to/3KiiVSl"
+                    }
+                ],
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "_type": "course",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "officialURL": "https://omscs.gatech.edu/cs-6150-computing-good",
+                "codes": [
+                    "CS-6150"
+                ],
+                "rating": 2.5,
+                "difficulty": 2,
+                "workload": 8.5
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "computing-for-good"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

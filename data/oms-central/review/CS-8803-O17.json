@@ -1,0 +1,266 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "name": "Special Topics: Global Entrepreneurship",
+                "_type": "course",
+                "description": "This course will provide you with real-world, hands-on learning on what it\u2019s like to create a startup. You will learn the language and values of entrepreneurship, and then work to hone your entrepreneurial skills.",
+                "creditHours": 3,
+                "_id": "d604ba2a-98bd-4b6a-a4bb-4d6a76c8a51d",
+                "_updatedAt": "2022-08-25T21:43:21Z",
+                "codes": [
+                    "CS-8803-O17"
+                ],
+                "_rev": "iLpqNfBINCDhaBRaVOITlf",
+                "syllabus": {
+                    "file": {
+                        "_type": "file",
+                        "asset": {
+                            "_ref": "file-ed98a1f52f9424d1525c07c00f5e0a8417b9463e-pdf",
+                            "_type": "reference"
+                        }
+                    }
+                },
+                "reviews": [
+                    {
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "course": null,
+                        "created": "2024-07-12T17:13:50Z",
+                        "_id": "3djHATcQ52QBDB5OSSwNmU",
+                        "difficulty": 2,
+                        "_createdAt": "2024-07-12T17:13:50Z",
+                        "_updatedAt": "2024-07-12T17:13:50Z",
+                        "_type": "review",
+                        "authorId": "tetCdLOcmhTWCuaat2HjAg==",
+                        "id": "3djHATcQ52QBDB5OSSwNmU",
+                        "_rev": "3djHATcQ52QBDB5OSSwNlc",
+                        "rating": 2,
+                        "workload": 5,
+                        "body": "Video version: https://youtu.be/pXluusB4CZ0\n\nThis class has a lot of potential, but unfortunately its current form feels very half-baked. The lectures are very engaging and informative. \n\nThey're targeted at someone with a technical background who doesn't have much business experience. I think this type of class would be very beneficial for many students in OMSCS, but they really need to improve the rest of the course.\n\nThe course centers around a semester-long group project. Your team generates an initial idea and conducts customer discovery interviews (15 per week) for 8 weeks. You also fill out a business model canvas and submit a short video presentation each week. At the end of the semester you submit a longer video presentation to summarize your findings.\n\nThe requirements for the presentations do not change over these 8 weeks and so they end up feeling very repetitive. Also, the requirements are very vague and our team received wildly different feedback and grades depending on which TA graded our presentation, even though we used the same format for each presentation. Sometimes we would get marked down for not including something that was not mentioned in the requirements. A few times a TA posted in the forum that many teams were getting marked down for the same thing that wasn't mentioned in the requirements, but this was always after the fact and we were never made aware of these expectations before they were included in the grading rubric.\n\nThe TAs were also very unresponsive in the forums, often taken many days to answer even simple questions, and unfortunately this usually meant that answers were given only a day or two before deliverable due date. In general, these responses were also very vague and unhelpful. The professor posted a few times and seemed pleasant, but he's just not very involved with the administration of the course.\n\nThis course is still relatively new, so hopefully the instructional staff can sort out these issues. I would love to see more detailed and varied deliverable requirements, possibly focusing on different sections of the business model canvas aside from customer discovery. Case studies would also be great assignments since this is a business course.\n\nThis course is well-situated within OMSCS and thus has a lot of potential, but the execution and involvement of the instructional staff really must be improved to make it a worthwhile for students."
+                    },
+                    {
+                        "_type": "review",
+                        "rating": 3,
+                        "id": "3djHATcQ52QBDB5OSNDyW0",
+                        "body": "Really great class for aspiring entrepreneurs. \n\nBut if you are not interested in entrepreneurship, and doing it just to clear a module, I recommend not taking this. 55% of the grades are project dependent, and teammates are randomly assigned. During the module I was paired with 3 other teammates who couldn't be bothered by the group project aside from giving the bare minimum (we were, after all, just trying to clear an easy/fluff module). And as the result we got really bad grades for the project. \n\nWell if you care about grades, maybe this is not the module for you",
+                        "_id": "3djHATcQ52QBDB5OSNDyW0",
+                        "difficulty": 1,
+                        "_createdAt": "2024-07-06T06:40:44Z",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr"
+                        },
+                        "workload": 4,
+                        "authorId": "vXVdSdTLx9SqaING9vcP6g==",
+                        "created": "2024-07-06T06:40:44Z",
+                        "_rev": "3djHATcQ52QBDB5OSNDyV8",
+                        "course": null,
+                        "_updatedAt": "2024-07-06T06:40:44Z"
+                    },
+                    {
+                        "_createdAt": "2024-05-16T17:24:15Z",
+                        "workload": 9,
+                        "_updatedAt": "2024-05-16T17:24:15Z",
+                        "difficulty": 3,
+                        "_rev": "unq4cjvuO2mGaoLu3THkdM",
+                        "rating": 1,
+                        "course": null,
+                        "authorId": "mlMfSSDwuhT2Gjro5v5c4w==",
+                        "body": "The course materials are often incorrect and poor, and the staff are not knowledgeable and are dismissive of student questions. \n\nThe grading is inconsistent and there is no feedback from the staff on what they want changed, and no rubric for any of the submissions.\n\nThe customer discovery is the highlight, but frankly you can do that on your own for less than the cost of the class.\n\nI would avoid this class if you can. ",
+                        "id": "unq4cjvuO2mGaoLu3THkfO",
+                        "_type": "review",
+                        "_id": "unq4cjvuO2mGaoLu3THkfO",
+                        "created": "2024-05-16T17:24:15Z",
+                        "semester": {
+                            "_updatedAt": "2024-05-09T04:45:52Z",
+                            "startDate": "2024-01-08",
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05"
+                        }
+                    },
+                    {
+                        "course": null,
+                        "workload": 9,
+                        "_updatedAt": "2023-12-13T17:46:15Z",
+                        "authorId": "iDISwmt3vNzgCaXFWUieWg==",
+                        "_createdAt": "2023-12-13T17:46:15Z",
+                        "_id": "EMDrCE8zqCAoxcS5bI55g8",
+                        "_type": "review",
+                        "body": "I recently completed the Global Entrepreneurship Course, and I must say, it has been nothing short of exceptional. This comprehensive course covers a wide range of topics related to entrepreneurship. The content is well-structured, engaging, and highly informative, making it an invaluable resource for aspiring entrepreneurs.\n\nOne of the standout features of the course is the teaching style of Professor McGreggor and his active participation which fosters a collaborative learning environment that allows students to learn from each other's experiences and insights. This approach not only makes the learning process more enjoyable but also helps to solidify the concepts being taught.\n\nAnother aspect I appreciated about the Global Entrepreneurship Course is its practicality. Weekly presentations in the Global Entrepreneurship course provide students with a practical way to apply their knowledge, develop essential skills, and gain confidence in dealing with real-world problems. This interactive format encourages students to apply the concepts they've learned in class to practical scenarios, enabling them to gain firsthand experience in dealing with challenges faced by entrepreneurs.\n\nOverall, I highly recommend the Global Entrepreneurship Course for anyone looking to gain a solid foundation in entrepreneurship or enhance their existing skills. The course is truly transformative and has equipped me with the knowledge and confidence to pursue my entrepreneurial dreams.",
+                        "_rev": "EMDrCE8zqCAoxcS5bI55SL",
+                        "difficulty": 4,
+                        "created": "2023-12-13T17:46:15Z",
+                        "semester": {
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z"
+                        },
+                        "rating": 5,
+                        "id": "EMDrCE8zqCAoxcS5bI55g8"
+                    },
+                    {
+                        "created": "2023-05-10T19:35:49Z",
+                        "_id": "AnVLGnCOep77YjL1sz06o0",
+                        "_updatedAt": "2023-05-10T19:35:49Z",
+                        "_rev": "AnVLGnCOep77YjL1sz06n9",
+                        "_type": "review",
+                        "rating": 4,
+                        "id": "AnVLGnCOep77YjL1sz06o0",
+                        "body": "Many high points and low points in this course. I absolutely loved the lecture videos and felt that Professor McGreggor was one of the first instructors to teach me how to properly give an engaging presentation - I will never spin up wordy, dull PowerPoints again. That said, the requirements for this course are often in contradiction to the lessons offered by the lecture videos. For one, a 3-minute summary of your Customer Discovery process is due at the end of each week, which requires you to follow a very strict presentation format and inevitably produce a dull analysis and read directly off of slides. \n\nThere are weekly quizzes that test your understanding of the video lecture material - most of them are trivial but it also takes a bit of learning to understand what the instructional team wants you to know as some questions are obscurely worded or have multiple potentially correct answers.\n\nThe greatest stressors from this course came from the weekly presentations. It felt like each week, the TAs chose to fixate on a particular issue associated with my presentations that I had repeated previously but, for whatever reason, has only now become an issue. For example, for the first 3 or so presentations I had overloaded my slides with text, but only got a deduction for this during Week 3. Once I addressed this issue, I was then getting points off for reading off of the slides. It seems very silly looking back that I wasn't able to pick up on these things, but I'm confident other students share my sentiment that you were often at the mercy of your TA in terms of how pointed their criticisms would be.\n\nDespite frequently ambiguous requirements and a bit of anxiety surrounding presentation requirements and other deliverables, it's very easy to get an A in this course in its current format. As of Spring 2023, the maximum possible grade in this course is 110, not 100 - I believe a peer feedback or participation grade worth 10% was added at some point. This meant that I finished with a 103 in the course after averaging in the low-to-mid 90s on the presentations and quizzes, a 20/100 on my final participation grade worth 10%, and a 100/100 on the final presentation.\n\nAll in all, the course has some major headaches that could be remedied by the instructional team, but if you put in a modest level of effort you'll end up with a high A.",
+                        "_createdAt": "2023-05-10T19:35:49Z",
+                        "workload": 6,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z"
+                        },
+                        "authorId": "ysijcFNZ+u0A9GPN24ntOg==",
+                        "difficulty": 2,
+                        "course": null
+                    },
+                    {
+                        "_updatedAt": "2023-02-06T16:58:48Z",
+                        "course": null,
+                        "id": "GMM8JkOty2PpzEEMdFz3ru",
+                        "difficulty": 2,
+                        "_id": "GMM8JkOty2PpzEEMdFz3ru",
+                        "body": "Based on personal experience\nPros:\n- New concepts for fairly technical background people like myself. (Learn about the Business Model Canvas, which is apparently a widely used template in the business world)\n- Less technical\n- Fun\n- Easy quizzes, as long as you pay attention to the lecture of the week, you will easily score high.\n\nCons:\n- Fairly mundane assignments... but also gives you predictability\n- Mostly work surrounded Customer Discovery\n",
+                        "created": "2023-02-06T16:58:48Z",
+                        "workload": 5,
+                        "authorId": "m2i/FCBPqKPCqMmtpsbukw==",
+                        "_rev": "GMM8JkOty2PpzEEMdFz3oP",
+                        "_createdAt": "2023-02-06T16:58:48Z",
+                        "_type": "review",
+                        "semester": {
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z"
+                        },
+                        "rating": 4
+                    },
+                    {
+                        "_updatedAt": "2023-01-20T04:42:49Z",
+                        "body": "There are positives and negatives to the course.\n1. Positives\na. You do customer discovery, which can lead to interesting discoveries of what customer wants. \n2. You also get in the practice of continuously talking to customers, which is needed for a startup.\n3. The course videos are interesting, and talk about problems, issues and how startups work.\n4. There is good practice in succinctly talking about your startup.\n5. Some interesting conversations in Ed forums.\n\nNegatives\n1. You only do customer discovery. There is nothing about going to the next step in Entrepreneurship, like getting a company set up, finding funding, etc. Customer discovery is important, but you effectively are stuck at customer discovery, and doing almost nothing else in the course\n2. The exams and quizzes are exercises in making sure you have listened to the course videos. However, it has way too much weight for having to recall some detail from the lectures.\n3. The TAs are ok - some questions in Ed are unanswered for weeks. In addition, the TAs ask you to do more than customer discovery - think about MVP, when the rubrics tell clearly to do customer discovery\n4. The peer feedback weight is way too high. If you write succinctly, you will be penalized in some sort of AI based grading that is done. It is also free points for effectively a small amount of work.\n5. Probably one of the key items is that much of the feedback was given by classmates in Ed, but was not implemented. \n6. This course required the least amount of work among all the courses taken so far, and felt far less rigorous than any other OMSCS course.\n\nOverall an ok course if you want to dip into startups. But don't expect too much from the class.\n",
+                        "_createdAt": "2023-01-20T04:42:49Z",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22"
+                        },
+                        "id": "q9mWKUfVDYxuLaidW6CQbS",
+                        "authorId": "CBgdM14WpvrWTNYP/aNXTg==",
+                        "difficulty": 2,
+                        "_rev": "q9mWKUfVDYxuLaidW6CQYD",
+                        "rating": 3,
+                        "_id": "q9mWKUfVDYxuLaidW6CQbS",
+                        "created": "2023-01-20T04:42:49Z",
+                        "course": null,
+                        "workload": 8,
+                        "_type": "review"
+                    },
+                    {
+                        "rating": 2,
+                        "created": "2022-11-29T20:06:43Z",
+                        "_rev": "umwsvGRG2B01q89aZKDnQm",
+                        "_type": "review",
+                        "difficulty": 1,
+                        "authorId": "CU+6kBgOqN1KD7ZDImMi9A==",
+                        "_createdAt": "2022-11-29T20:06:43Z",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx"
+                        },
+                        "id": "umwsvGRG2B01q89aZKDnW5",
+                        "course": null,
+                        "_updatedAt": "2022-11-29T20:06:43Z",
+                        "_id": "umwsvGRG2B01q89aZKDnW5",
+                        "body": "I paired this with Intro to Cogntivie Sciences (CS 6795). This is my third semester of OMSCS, so far I've taken: HCI + SDP (Fall 2021), and Educational Technology (Spring 2022).\n\nThis is the first semster the course has been offered and from what I've gathered from lurking on /r/OMSCS and OMSCentral and the OSMCS Slack, this course will be grouped in the Digital Marketing/AIES group of courses.\n\nThe concept of the course is you go through the process of starting a startup. All the lectures, ideas, presentations are based on starting a startup. The course goes like this:\n\n- Two lectures two watch every week\n - One quiz to take about the lectures (4 questions, multiple choice, one attempt)\n- One weekly presentation (3 minutes max) after week 5 and all the way up to the end of the course.\n\n- The class has two exams: open notes open book\n- There is also a final presentation (15 minutes max)\n\nThe biggest workload is the presentation because they require 7 interviews for \"customer discovery\" every week at first, which is ramped up to 9-10 interviews later in the semester. You can't use surveys, you can't interview friends/family, and you can't repeat interviews. The goal is to end the semster with ~100 interviews.\n\nThe class is really easy, and getting an A should be trivial. The presentations are kind of annoying but I just write a script, and plough through them. They only have to be 3 minutes\n\nThey give you a lot of interview stipulations (no friends or family, no repeats, etc.) but at the end of the day there is no enforcement or submission of interview notes. They have no way of knowing how many people you interviewed or anything. \n\nIn terms of the lectures, they're somewhat informative but not well structured. If you're used to Dr. Joyner's lectures or Dr. Goel, Dr. Orso, you will be disappointed. It's a PPT with stock images (some are kind of funny lol) accompanied by a stream of conciousness. They are kinda enterntaining. To easily get through the class, you do have to watch them but I watched at 2x speed and was fine.\n\nThe quizzes and exams are based off the lectures, and they can be tricky sometimes, but it's always easy. The \"tricky\" questions refer specific verbage in the presentation which can be found.\n\nThe TAs are okay but my biggest problem in this class is participation. You can only do 2 peer reviews (which as I understand don't even count for participation but their own grade) so participation comes from Ed Discussion.\n\nProblem is, none of the TAs or the Professor participate other than announcements and answering questions. In HCI, Ed Tech, and CogSci, TAs would make discussion posts (Monday Reflections, Wednesday Media, Funny Friday, whatever) which PROMPTED discussion. Ed Discussion in GE is a ghost town aside from the few actively participating students.\n\nResponse time from TA and the professor are also extremely variable. I had a question about a quiz question I got wrong and I couldn't get a response from both the TA and the professor for 4 weeks. Even after a direct email to the course Professor and TAs.\n\nAt the end of the day, it's an OK course. I learned some about startups, I'm getting an easy A, and after this semester will be halfway done, which feels great. I'm sure it'll improve next semester. I don't understand the name of the course, \"Global Entrepreneurship.\" There's nothing global about this class, it focuses solely on startups. Ironically, it's easily the most isolating course I've been in.\n\nThe other disappointment is the lack of meaningful assignments. The term project is \"Customer Discovery\" which is basically trying to interview the customers for your startup to learn their pains/goals. There's nothing else. From the POV of working full time + term project for CogSci I'm glad. From the POV of someone who enjoys learning through practical projects I'm left disappointed.",
+                        "workload": 2
+                    }
+                ],
+                "isFoundational": false,
+                "slug": "special-topics-global-entrepreneurship",
+                "textbooks": [
+                    {
+                        "name": "Talking to Humans: Success Starts with Understanding your Customers",
+                        "_key": "00a1e2896a27e65f8b414f75b72c3024",
+                        "url": "https://amzn.to/3ApMYTT"
+                    },
+                    {
+                        "name": "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers",
+                        "_key": "c0cf6555325881c77cb18745702574c2",
+                        "url": "https://amzn.to/3R8SNf3"
+                    },
+                    {
+                        "name": "Value Proposition Design: How to Create Products and Services Customers Want",
+                        "_key": "7bf6064cbb21afb2dcebcd2fd50d0dc3",
+                        "url": "https://amzn.to/3ceyiio"
+                    }
+                ],
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "tags": [
+                    "GE"
+                ],
+                "officialURL": "https://omscs.gatech.edu/cs-8803-o17-global-entrepreneurship",
+                "id": "d604ba2a-98bd-4b6a-a4bb-4d6a76c8a51d",
+                "created": "2022-08-15T14:50:39Z",
+                "isDeprecated": false,
+                "_createdAt": "2022-08-15T14:50:39Z",
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/ed98a1f52f9424d1525c07c00f5e0a8417b9463e.pdf",
+                "rating": 3,
+                "difficulty": 2.125,
+                "workload": 6
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "special-topics-global-entrepreneurship"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

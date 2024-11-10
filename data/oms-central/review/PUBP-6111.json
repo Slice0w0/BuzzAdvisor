@@ -1,0 +1,116 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "_id": "external-import-PUBP-6111",
+                "isFoundational": false,
+                "codes": [
+                    "PUBP-6111"
+                ],
+                "_rev": "959qsafI8uoLDPJecfT5oP",
+                "slug": "internet-and-public-policy",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "syllabusUrl": null,
+                "reviews": [
+                    {
+                        "difficulty": 1,
+                        "id": "FYC3eoY5AHSm2uCznVsfE6",
+                        "semester": {
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z"
+                        },
+                        "body": "I took this class because I wanted a lighter semester but I didn't want to delay graduation. I am in the OMSCS program doing the ML specialization.\n\nHonestly, I was pleasantly surprised at how nice this class was. I wrote down 2 hours a week of work but it was more like you'll spend multiple weeks not doing much and then just sit down and hammer out whatever assignment was given.\n\nThe assignments were reasonable and relevant. The projects (it depends on your group, but mine was solid) are straight-forward and feasible. If you are not a confident programmer and you don't have a confident programmer in your group, I could see the phishing project being an issue. I am a senior SDE with a CS undergrad so it was more fun than anything.\n\nThere are some assignments that you have unlimited time to do and honestly just watch the lectures to be able to complete them. They won't ask a question verbatim as in the lecture, so you have to actually understand what the lecture said.\n\nThe vibe of the course is chill but I was surprised at how both dry, yet interesting the content was. An allusion to this would be watching the show \"How It's Made\". It's kind of dry to watch a couch being made but at the same time you're like \"oh that's how they do that\". Lol.\n\nAlso, useful info is there are no tests. There is a research essay at the end that took maybe the weekend, but overall your weekends will be pretty open for this course.\n\nMy final note is perhaps the most important: There is no unreasonable bullshit busywork. You don't have to graph some stupid shit for no reason or talk about some useless thing in a giant essay just to fill the course. The assignments are reasonable and straight-forward and I really appreciate that they made the course as straight-forward as possible to learn the material. ",
+                        "created": "2024-04-04T01:44:31Z",
+                        "_updatedAt": "2024-04-04T01:44:31Z",
+                        "workload": 2,
+                        "authorId": "B9ODZY/BT5HrZA2E/KF9WQ==",
+                        "_rev": "FYC3eoY5AHSm2uCznVsf91",
+                        "rating": 4,
+                        "course": null,
+                        "_createdAt": "2024-04-04T01:44:31Z",
+                        "_type": "review",
+                        "_id": "FYC3eoY5AHSm2uCznVsfE6"
+                    },
+                    {
+                        "id": "j07GwiPkUVDQQ5A5ohktTe",
+                        "_id": "j07GwiPkUVDQQ5A5ohktTe",
+                        "_rev": "j07GwiPkUVDQQ5A5ohktRs",
+                        "created": "2023-12-24T04:24:31Z",
+                        "authorId": "B9ODZY/BT5HrZA2E/KF9WQ==",
+                        "_updatedAt": "2023-12-24T04:24:31Z",
+                        "_createdAt": "2023-12-24T04:24:31Z",
+                        "body": "I am in the OMSCS program and wanted to take a lighter semester. Honestly, this class was very interesting and enjoyable. There are 3 group projects and the last project is an essay on a cyber attack. All 4 projects are pretty much straight forward \"read this, research a bit, and write about it\" with the exception of the first project (phishing campaign), which is not too difficult if you are a software engineer (and it's honestly fun).\n\nI would take walks and listen to the lectures, which are sometimes long and dry, but for the most part interesting. Overall, I enjoyed this course and thought it was straight-forward and well-defined.",
+                        "rating": 5,
+                        "course": null,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester"
+                        },
+                        "_type": "review",
+                        "workload": 4,
+                        "difficulty": 1
+                    },
+                    {
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19"
+                        },
+                        "id": "external-import-69cc18c9-5909-4a11-8132-a76dc976ed4e",
+                        "difficulty": 1,
+                        "workload": 3,
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "rating": 4,
+                        "course": null,
+                        "_id": "external-import-69cc18c9-5909-4a11-8132-a76dc976ed4e",
+                        "body": "The class was not difficult but the lectures and readings were very interesting. There were 2 group projects that you work on with the same people. Start early and you won't need to crunch but if one of the group members aren't responding there really isn't anything that can be done. These projects aren't difficult but can take some time if your group can't find time to meet. Overall a good class to pair with other difficult classes.",
+                        "created": "2019-12-11T17:49:36Z",
+                        "_createdAt": "2019-12-11T17:49:36Z",
+                        "_type": "review",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC"
+                    }
+                ],
+                "id": "external-import-PUBP-6111",
+                "created": "2022-07-05T23:23:15Z",
+                "_updatedAt": "2022-08-24T17:31:54Z",
+                "_type": "course",
+                "description": "Analyzes policy implications of Internet architecture (Internet protocols, domain name system, packet switching, peer-to-peer) and surveys policy issues about content, privacy, intellectual property, and governance.",
+                "creditHours": 3,
+                "programs": [
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "isDeprecated": false,
+                "name": "Internet and Public Policy",
+                "tags": [],
+                "rating": 4.333333333333333,
+                "difficulty": 1,
+                "workload": 3
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "internet-and-public-policy"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

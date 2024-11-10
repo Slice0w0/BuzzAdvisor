@@ -1,0 +1,405 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "syllabus": {
+                    "file": {
+                        "asset": {
+                            "_ref": "file-0f3f6ebc157167df71bbc230759170d7c9ac4c50-pdf",
+                            "_type": "reference"
+                        },
+                        "_type": "file"
+                    }
+                },
+                "_type": "course",
+                "officialURL": "https://omscs.gatech.edu/cs-6747-advanced-malware-analysis",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "description": "This course covers advanced approaches for the analysis of malicious software and explores recent research and unsolved problems in software protection and forensics.",
+                "name": "Advanced Topics in Malware Analysis",
+                "_updatedAt": "2022-08-25T21:34:57Z",
+                "tags": [],
+                "creditHours": 3,
+                "_id": "external-import-CS-6747",
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/0f3f6ebc157167df71bbc230759170d7c9ac4c50.pdf",
+                "created": "2022-07-05T23:23:15Z",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    },
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "codes": [
+                    "CS-6747",
+                    "ECE-6747"
+                ],
+                "id": "external-import-CS-6747",
+                "_rev": "iLpqNfBINCDhaBRaVOHHCh",
+                "isDeprecated": false,
+                "isFoundational": false,
+                "slug": "advanced-topics-in-malware-analysis",
+                "textbooks": [
+                    {
+                        "name": "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software, 1st Edition",
+                        "_key": "0bd12ac9c6661a5e0be6a4d39459704e",
+                        "url": "https://amzn.to/3cq14MN"
+                    },
+                    {
+                        "name": "The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory, 1st Edition",
+                        "_key": "5d4916bcde46fa35bb0c810ee4c3a40f",
+                        "url": "https://amzn.to/3Kl7qtx"
+                    },
+                    {
+                        "name": "Computer Systems: A Programmer's Perspective, 3rd Edition",
+                        "_key": "4542d8ecc79ba697dd2b573f193f53fe",
+                        "url": "https://amzn.to/3AszwyC"
+                    }
+                ],
+                "reviews": [
+                    {
+                        "id": "NgmyNwM8hvgytbAbDDOqRR",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z"
+                        },
+                        "_updatedAt": "2024-05-08T14:29:21Z",
+                        "_type": "review",
+                        "created": "2024-05-08T14:29:21Z",
+                        "_rev": "NgmyNwM8hvgytbAbDDOqQs",
+                        "authorId": "BAnd/PHOk18yCIGKIt8pUA==",
+                        "_createdAt": "2024-05-08T14:29:21Z",
+                        "_id": "NgmyNwM8hvgytbAbDDOqRR",
+                        "difficulty": 3,
+                        "course": null,
+                        "body": "I took the class in Spring 2024.\n\nTLDR: Adv Malware Analysis is just \"OK\". The projects can be somewhat unclear on what they want and the second half is essentially just a software analysis class, which is certainly relevant to malware reverse engineering but not *specific* to it, if that makes sense.\n\nI took this class hoping to learn about how advanced malware works, and I didn't really get that. I did get good in depth experience with x86 assembly and an OK introduction to Ghidra. \n\nThe lectures are OK, they are generally relevant to the projects but I didn't consider them all that interesting with respect to learning about malware.\n\nProject 2 is the difficult and long one, I highly recommend getting a partner AND setting up a joint Ghidra server. If you don't it will be difficult to combine your work which will make an already time consuming project take even longer. Thankfully my partner set it up so I didn't have to deal with it, but it seems like it's not too difficult. I also recommend setting up Ghidra on your own box in some capacity because the provided AWS Workspaces are kind of trash (but still workable).\n\nThe rest of the projects were not as interesting in my opinion and were mostly tedious. A few had unclear requirements, which I think is partially an attempt by the instructors to be forgiving to different methods of accomplishing the tasks but ends up being confusing. You'll write Ghidra plugins and do a lot of work with control flow graphs. \n\nThe paper summaries are pretty easy to knock out in two to three days, you can get by with reading the abstracts + intros + conclusions.\n\nOverall a fine medium difficulty class to take, and I'm hoping that the x86 and Ghidra experience will pay off in CS6265 Binary Exploitation.",
+                        "rating": 3,
+                        "workload": 15
+                    },
+                    {
+                        "body": "The course has 2 weighted categories, 10% of the grade comes from short summaries of assigned reading material that is compiled into a Powerpoint for submission.  Even if you fall behind, its not hard to get caught up and get full credit.  They claim to also base this 10% on participation in Ed, but I don't remember participating much, and still got full points for this section.\nThe second section was projects.  The first half of hte projects is about reverse engineering, and writing Ghidra plugins.  The second half of the projects is about Dynamic analysis.  Both sections were very time consuming, and there weren't exceptionally clear guidelines for how to determine when you had done sufficient for each project.  Fortunately, there was some extra credit available for the earlier projects that was able to balance out some of the shortcomings on later projects.\n\nI probably spent >20 hours on each project, but I felt that I learned a lot while doing it.\n\nI got an A in this class, but it wasn't easy!",
+                        "workload": 18,
+                        "id": "HuiHeyCDns6YHDuplEZXe3",
+                        "_createdAt": "2023-11-27T23:16:50Z",
+                        "course": null,
+                        "_updatedAt": "2023-11-27T23:16:50Z",
+                        "semester": {
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09"
+                        },
+                        "_rev": "HuiHeyCDns6YHDuplEZXax",
+                        "_type": "review",
+                        "difficulty": 5,
+                        "_id": "HuiHeyCDns6YHDuplEZXe3",
+                        "created": "2023-11-27T23:16:50Z",
+                        "rating": 4,
+                        "authorId": "gubDUC5idd/gRNxUlv4AMw=="
+                    },
+                    {
+                        "rating": 3,
+                        "id": "74YIe9XdVDrfGXcoKZ3hqx",
+                        "_updatedAt": "2023-11-15T00:31:17Z",
+                        "workload": 20,
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "created": "2023-11-15T00:31:17Z",
+                        "difficulty": 3,
+                        "_rev": "74YIe9XdVDrfGXcoKZ3hq1",
+                        "_type": "review",
+                        "course": null,
+                        "body": "This might be the most arbitrary class I've ever taken. The projects are horrible. The documentation never tell you exactly what they want and there are clear issues with autograders being incorrect and it is up to you to prove to the TAs that it is wrong and that you are right. They want very specific requirements for projects and unless you clarify them in Ed Discussion for what they are specifically looking for you will get them wrong. \n\nFor one example, every single instruction of a malware changes the EIP register. If you claim that then they call you wrong for it because \"adding it to each instruction would be too much work\". Are you kidding me? That's part of the horrible grading decisions that we needed to deal with in order to get a good grade. It's sad because the content is great, but the projects are some of the worst I have ever worked on. ",
+                        "_createdAt": "2023-11-15T00:31:17Z",
+                        "_id": "74YIe9XdVDrfGXcoKZ3hqx",
+                        "authorId": "vb1q3wd0lmdQ+nCx4fREaQ=="
+                    },
+                    {
+                        "created": "2023-11-15T00:14:38Z",
+                        "workload": 10,
+                        "difficulty": 2,
+                        "body": "I took this class because of other reviews on here stating that this was overall a great and enjoyable class. However, that was not my experience.\n\nOverall, the class is well structured and paced. However, basically all of the \"modules\", which are essentially a series of 5-15 minute videos for that particular lesson, are dull, surface level discussions of content that is vaguely related to the assignment.\n\nThe assignments themselves are not difficult. They are however just pure busy work with little to no critical thinking. For a master's level course, I'd expect some additional information outside of an introductory course. All of the work is essentially an introduction to binary analysis tools and the assembly language. The only \"malware\" part of this class is some discussions about malware techniques in the videos, as well as the fact that you are analysing a real-life malware sample. However, the assignments themselves are just tests on your ability to use binary analysis tools (GHIDRA, Intel's PIN, and the ability to decipher assembly).\n\nThe main praise I have for this class, is that it at least knows its mostly busy work, and as such, allows for teams of two.\n\nAs previous reviews have stated:\nAssignment 1: You commented the purpose of a handful of assembly lines in GHIDRA. This took me about 5 minutes.\nAssignment 2: This is the large \"busy work\" assignment. You basically comment a few hundred lines of assembly code from a malware binary. This may be intimidating for those with no assembly background, however, with GHIDRA's C disassembler and the WINAPI, it is trivial to do. This assignment took the longest at a combined 15-20 hours between my teammate and I.\nAssignment 3: You write a GHIDRA plugin to create a definition and use dependency graph for the same malware sample. Overall, this assignment took 5-6 hours. This required maybe 100 lines of code.\nAssignment 4: You write a GHIDRA plugin to create a data dependence graph for the same malware sample. This assignment is based off the code written for Assignment 3, with a few tweaks, doubling the amount of lines of code. This took 8 hours total.\nAssignment 5: You use Intel's PIN tool to dynamically analyse the same malware sample. You trace every possible control flow that you can. We had a bug in our code, which caused gradescope issues, so this assignment took a little bit longer than we had expected, coming in at 15 hours combined.\nAssignment 6: This assignment just started, however it does not appear to be any more difficult than the previous assignments. You are to build a dynamic control dependence graph using Intel's PIN tool.\n\nAlong with these assignments, you have to read ~30 research papers that are 15-20 pages long each. This was just additional busy work. I enjoyed a few of them, but many are outdated.\n\nBefore assignment 6, I have over 100% due to a ton of extra credit allotted in this class. \n\nOverall, the class would be good for those trying to learn basic assembly or binary analysis tools. For those seeking to learn \"advanced\" malware analysis, it is a bust. In terms of difficulty, I'd placed it at around a 300 level undergraduate computer engineering course, just because there is no hand holding and I could see it being tough for those that have never touched assembly and may not be strong programmers.",
+                        "id": "usqXEJs2xfOvzALZamGWcC",
+                        "_type": "review",
+                        "course": null,
+                        "semester": {
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z"
+                        },
+                        "_rev": "usqXEJs2xfOvzALZamGWbM",
+                        "rating": 3,
+                        "_updatedAt": "2023-11-15T00:14:38Z",
+                        "_createdAt": "2023-11-15T00:14:38Z",
+                        "authorId": "8MY5UH9bQUcNzUOoFDzcgQ==",
+                        "_id": "usqXEJs2xfOvzALZamGWcC"
+                    },
+                    {
+                        "_updatedAt": "2023-08-01T19:00:56Z",
+                        "_type": "review",
+                        "course": null,
+                        "semester": {
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15",
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester"
+                        },
+                        "workload": 20,
+                        "_rev": "GaVPCT8bbJ3ZdIEcpmbI7b",
+                        "_id": "GaVPCT8bbJ3ZdIEcpmbIB6",
+                        "authorId": "6uoIlaVTbA6M8VCZ79JTAw==",
+                        "difficulty": 4,
+                        "created": "2023-08-01T19:00:56Z",
+                        "id": "GaVPCT8bbJ3ZdIEcpmbIB6",
+                        "_createdAt": "2023-08-01T19:00:56Z",
+                        "body": "I really enjoyed this course and regret taking it in the Summer; in retrospect, I wish I had decided to take this course in the Spring or Fall so as to have had more time to more thoroughly learn/digest the material. While it's certainly doable in the Summer as far as difficulty goes, having 4 fewer weeks to cover the material means inevitably you have to cut corners in order to complete the 6 projects and summarize the 32 academic papers in time. If you're interested in the material, it's worth giving it that extra time.\n\nHighlights of the course:\n\n* **Project 1**: easiest one of the bunch. If you're familiar with Ghidra and Assembly (which is likewise touched on in several other security-centric courses, particularly CS6265), it's a half day's distracted effort at most.\n* **Project 2**: one of the longest of the bunch to complete. The work isn't particularly difficult to do, but you do have to make nearly 2k comment annotations in a real-world malware sample; this takes time.\n* **Project 3**: this one required consulting external documentation the most out of the bunch. You're drafting a Ghidra plugin from scratch, which means consulting both the Ghidra API (in either Java or Python) to figure out calls as well as Intel x86 assembly language references to determine opcode behavior.\n* **Project 4**: this one is a logical extension of Project 3 as another Ghidra plugin. Assuming you understood the behavior of the aforementioned opcodes, you end up tracking which instructions adjust data used by latter instructions.\n* **Project 5**: this was one of the shortest of the bunch. Arguably, I think this project should have been after project 2 and before project 3; in this one, you're having the malware execute and - through the use of Intel's PIN tool implemented in C++ code - tracing the order of instructions executed. Intel's PIN tool comes with a plethora of examples to pull from, which makes this project trivial.\n* **Project 6**: this one was the hardest of the bunch, both in its time-intensiveness and complexity. Though you extend off of your work in Project 5, you need to understand how to find immediate post dominators in Graph Theory (and then ultimately control dependencies). Doing this efficiently (by way of big-O) and dynamically (i.e. not hardcoding values into your project) creates an added layer of difficulty. It was an appropriate send-off.\n* **32 papers**: 10% of your grade is beholden to submitting short summaries of 32 papers that are all made available at the start of the semester. Their content is adjacent to your projects (i.e. related to actual malware analysis research, but in no way contributes to your comprehension of the assigned coursework). Invariably, students end up delaying on reading them and then panic to catch up at the end of the semester. Try to do 2-3 a week if able.\n* **Partners**: you're permitted to split the labor of all the projects (beginning at project 2) with one other peer and share the resulting grade. I didn't, which likely contributes to my aforementioned bemoaning of not having enough time to actually learn/digest the material.\n* **Staff engagement**: as in most OMSCS classes, the TAs are the primary source of engagement between the students and staff. The head TA was the most involved in Ed Discussion by far; I saw no TAs in the associated Slack chat at any point during the semester. Outside of the pre-recorded lectures, office hours, and the occasional meta-comment (e.g. end-of-term CIOS reminder), the Prof's presence went largely unnoticed (though to be fair, when reached out to directly, the professor's response[s] to my inquiries were timely and the head TA's coverage of Ed Discussion was generally sufficient and knowledgeable). This is consistent with my broader OMSCS experience and - relative to other courses taken - I felt adequately supported.",
+                        "rating": 5
+                    },
+                    {
+                        "_id": "FbVLy9xtVRA6FYRSSoiBUF",
+                        "authorId": "zu4BUCiKeMDLd3GXVlg9RQ==",
+                        "difficulty": 3,
+                        "_type": "review",
+                        "id": "FbVLy9xtVRA6FYRSSoiBUF",
+                        "_rev": "FbVLy9xtVRA6FYRSSoiBTh",
+                        "course": null,
+                        "_updatedAt": "2023-07-18T03:12:14Z",
+                        "_createdAt": "2023-07-18T03:12:14Z",
+                        "workload": 1,
+                        "created": "2023-07-18T03:12:14Z",
+                        "rating": 5,
+                        "semester": {
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z"
+                        },
+                        "body": "My first course in OCY - definitely a must-take.\nThe course covers both static analysis and dynamic analysis for the malware analysis.\nNeed prior knowledge in C and Python and you'll need to learn x86 assembly on-the-go.\n6 projects - grading is generous "
+                    },
+                    {
+                        "workload": 12,
+                        "difficulty": 3,
+                        "rating": 5,
+                        "_updatedAt": "2023-06-18T16:41:29Z",
+                        "_createdAt": "2023-06-18T16:41:29Z",
+                        "body": "This course is a lot of fun! The TA\u2019s and Professor were fantastic too. \n\nThis class largely involves creating plugins and scripts to automate malware analysis, usually involving creating graph file of some sort which represents some aspect of the malware\u2019s execution path whether it be data or control-flow based. Grading is based off the accuracy of this output, but it is fairly lenient and there\u2019s a few opportunities for extra credit so keeping an A shouldn\u2019t be too difficult. If you have any experience programming or reading api documentation, these labs will not be too challenging. For most labs, you\u2019re given a couple weeks to complete them. A strong understanding of assembly would be a great help for these, but if you don\u2019t have this going in you more than likely will coming out. \n\nThere\u2019s also a handful of research papers on the topic of binary analysis each week which you\u2019re meant to read and summarize in a set of slides. There\u2019s no status checks and it\u2019s due at the end of the semester so you could wait until the end and do them all after completing the labs, but the papers really add up so unless you want to spend a couple days straight writing summaries I\u2019d highly recommend against doing that. \n\nOverall, the subject matter is very interesting in my opinion, but there\u2019s one downside in that you spend most of the class analyzing one sample of malware. Given the lab content I understand why this is the case, but it does feel a bit repetitive at some point. Otherwise, I\u2019ve got no complaints.",
+                        "_id": "oLA4tew0OW5CEyl595kwmb",
+                        "authorId": "fLUYzX6OPADoOahqJKPRLQ==",
+                        "course": null,
+                        "_type": "review",
+                        "_rev": "oLA4tew0OW5CEyl595kwkN",
+                        "id": "oLA4tew0OW5CEyl595kwmb",
+                        "created": "2023-06-18T16:41:29Z",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb"
+                        }
+                    },
+                    {
+                        "workload": 10,
+                        "semester": {
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z"
+                        },
+                        "difficulty": 3,
+                        "rating": 5,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2022-03-20T00:12:10Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "id": "external-import-fb8c9509-4fd4-4b9c-aa03-29dcb111fd24",
+                        "created": "2022-03-20T00:12:10Z",
+                        "body": "Lectures were okay, but the projects were pretty interesting!",
+                        "course": null,
+                        "_id": "external-import-fb8c9509-4fd4-4b9c-aa03-29dcb111fd24"
+                    },
+                    {
+                        "semester": {
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "created": "2021-08-13T08:59:25Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "body": "I could describe this course with two words fun & engaging. After finishing the course I had the feeling I learned a ton of new things.\n\n# Projects:\n \n- Lab1: ~2hrs -> 100. Leave comments in ghidra in \"hello world\" program.\n- Lab2: ~60hrs -> 100. Do the same thing as Lab1 but in a real malware.\n- Lab3: ~20hrs -> 100. Build a python/java script for static analysis using ghidra. Ghidra API has everything you need.\n- Lab4: ~30hrs -> 95. Extend Lab3 to calculate data dependencies with static analysis. Knowledge in data structures are useful.\n- Lab5: ~20hrs-> 100. Build a  control flow graph using dynamic analysis with PIN. Again PIN API and online examples can lead you to victory.\n- Lab6: CANCELLED\n\n# Reading Slides:\n\nDO NOT LEAVE IT FOR THE LAST MINUTE. I spent 5 days in August reading 33 papers. I got 100.\n\n# Course Material:\n\nReally nice content. Super helpful Office Hours. Very fast piazza responses by the TA\n\n# General Review.\n\nEveryone interested in security should take this class. Also there are a lot of EXTRA CREDITS in case you feel you won't make it. I think that anyone who give something to this course will get away with a good grade. I got an A.\n\n",
+                        "_createdAt": "2021-08-13T08:59:25Z",
+                        "rating": 5,
+                        "id": "external-import-129c0068-0184-43e0-b34e-38a28e20b9e8",
+                        "_id": "external-import-129c0068-0184-43e0-b34e-38a28e20b9e8",
+                        "course": null,
+                        "workload": 15,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 3
+                    },
+                    {
+                        "body": "This is the most well organized class I've ever taken, the professor and Chow were very responsive and they interacted with the class. The office hours were informative and fun, even if you didn't need help. I was worried this class would push me to the edge with it being an advanced topic and a compressed semester, and I was right...but I don't regret it since I learned so much. This is what a graduate class is supposed to be like!\n\nThere is a reading slide assignment and 6 labs, they dropped the sixth lab for our semester due to technical and scheduling problems. No tests or quizzes. I recommend doing one or two module PDFs per week to stay on top of them, I put them all off until the end of the semester and my brain was exhausted.\n\nThe first two labs require reading ASM and C++ to understand what the malware is doing, definitely read the provided PDF if you aren't familiar with ASM since you're going to work with it a lot in this course. The last 4 require coding skills in C++ (PIN) and Java/Python (Ghidra), I highly recommend getting a partner. If you aren't technical, this may not be a good course for you as everything is pure application and addressing corner cases in code.",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "course": null,
+                        "workload": 20,
+                        "_id": "external-import-b7b13053-f379-4454-be52-e4445ab0b53e",
+                        "difficulty": 3,
+                        "_type": "review",
+                        "_createdAt": "2021-08-10T17:51:28Z",
+                        "rating": 5,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-b7b13053-f379-4454-be52-e4445ab0b53e",
+                        "created": "2021-08-10T17:51:28Z"
+                    },
+                    {
+                        "rating": 3,
+                        "course": null,
+                        "difficulty": 4,
+                        "workload": 20,
+                        "id": "external-import-ef3bf3e2-0a26-43fb-b44b-0ecf733369f6",
+                        "created": "2021-08-10T17:01:09Z",
+                        "_createdAt": "2021-08-10T17:01:09Z",
+                        "body": "I was lucky enough to have a great partner who saved me for the coding project.  I'm not a developer and do not have a CS background.  Project 2 was commenting a lot of ASM.  It wasn't all that hard, but just took a very long time.\n\nI think this was the first time the course was offered during the summer and there were some scheduling issues with projects.  During the normal semester, there was no overlap.  However we had times where a project was still outstanding when the next project was released.  The final project 6, ended up being canceled due to issues with the lab not working and the students, TA & prof had to work together to get a working VM.\n\nThe TA & prof were very involved.  The TA Chow would sometimes answer stuff in minutes.  Both the TA & Prof office hours were very informative.\n",
+                        "_id": "external-import-ef3bf3e2-0a26-43fb-b44b-0ecf733369f6",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2"
+                        }
+                    },
+                    {
+                        "difficulty": 3,
+                        "course": null,
+                        "semester": {
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "body": "Depending on your background, and if you do or don't have a partner (groups of 2 are allowed but not forced), this course could take significantly more time, but if you're familiar with general assemly language constructs/logic flows/stack operations then this course is fairly straightforward. You get a really good dive into a windows malware and get to use Ghidra and PIN to analyze the same binary throughout the course in different ways and learn different methodologies for analyzing the binaries. No tests or quizzes makes this a 10/10 course. If you put in the effort and make sure you at least reasonably understand the material there's no reason you won't get an A. Professor is very engaging and clearly passionate about the work ",
+                        "_type": "review",
+                        "workload": 10,
+                        "created": "2021-08-10T14:58:06Z",
+                        "_id": "external-import-1d826c08-1624-4ecf-bdb5-7c77f4ebaf06",
+                        "rating": 5,
+                        "_createdAt": "2021-08-10T14:58:06Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "id": "external-import-1d826c08-1624-4ecf-bdb5-7c77f4ebaf06",
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "created": "2021-01-16T18:08:29Z",
+                        "workload": 25,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "course": null,
+                        "id": "external-import-4e54ae44-1ee5-4cda-be20-f632667a39bb",
+                        "_type": "review",
+                        "rating": 4,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z",
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is"
+                        },
+                        "_id": "external-import-4e54ae44-1ee5-4cda-be20-f632667a39bb",
+                        "body": "I thought this class was difficult didn't focus much on malware analysis. The only thing that makes it a malware class is that the software sample you are working on is malicious. You could do the exact same projects to any other executable and the content could be just about the same. This course should probably be named \"advanced control flow toolkit development\". That being said, you can use these skills for malware analysis, but I just had a different expectation before registering.\n\nYou have the option to partner up for each of the assignments. I would HIGHLY recommend syncing up with someone early and work through the semester with that same partner. Projects 3&4, and 5&6 build off each other so it wouldn't be useful or advised to change partners on those.\n\nI'm intermediate with python and never used C++ before, and if it wasn't for my partner, I would have dropped. I wouldn't register for this class unless you are at least a strong programmer in python. Knowing how to read assembly before hand is also a must. \n\nGrading: projects are worth 90% of the grade. The other 10% is piazza participation and creating a slide deck for the weekly readings. No textbook required and no quizzes or exams.\n\nProject 1: Learn ghidra interface. Review a hello world program in ghidra and add comments as to what each asm instruction is doing. \n\nProject 2: Add ghidra comments to a real malicious sample. The samples has around 30 functions, so there was a ton of assembly to review. This was super time consuming and I don't know how you would work through this without a partner. \n\nProject 3: Create a Def Use ghidra plugin. Write a ghidra tool in python or java to follow how each register is updated. Output results into a .dot graph.\n\nProject 4: Create a data dependence ghidra plugin that tracks which assembly instructions are dependent on previous instructions. Output results into a .dot graph.\n\n**Note about the projects 5 and 6. The professor recommended using Intel's PINtool but writing another ghidra plugin was acceptable. For those not familiar with PIN, it is written in C++. If you aren't familiar with C++, you can stick with python which is nice.\n\nProject 5: Write a PIN/Ghidra Dynamic Control Flow tool. Track the execution path of an executable and output the flow to a .dot file.\n\nProject 6: Create a PIN/Ghidra dynamic control dependence. Track the dependence of functions during execution.\n\n\nPros: The professor and TA's is very engaged and obviously well versed on the subject. It made it easy to learn a lot from them. I feel very confident with assembly after working through this course. \n\nCons: I was hoping the class would involve more use of debuggers, dumping objects from memory, unpacking binaries etc. It ended up basically just being software development for Ghidra and PIN. \n\nSummary: The class was very challenging and enjoyable. I probably invested at least 20 hours into each project but you have plenty of time to complete them. I would take it again.",
+                        "difficulty": 5,
+                        "_createdAt": "2021-01-16T18:08:29Z"
+                    },
+                    {
+                        "id": "external-import-0fe977dc-165a-433f-b6d9-72d2cfe26c10",
+                        "created": "2020-12-22T15:59:05Z",
+                        "_type": "review",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:29Z",
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2020-3"
+                        },
+                        "body": "Excellent course covering reverse engineering/binary analysis techniques.  \n\nTopics include understanding assembly, reversing tools such as Ghidra, and others approaches to extract structured info from a binary executable.  This course focuses heavily on reverse engineering techniques (Control Flow Graph extraction, data tracking analysis, static vs dynamic analysis, etc.) and does NOT focus on pre-built/automated tools which abstract away the analysis details such as an automated sandbox like Cuckoo, nor does it focus much on OS specific attack points.\n\nLecture materials are well organized and things flow very nicely.  Projects are aligned with the lecture materials. Lectures are interesting and present complex materials in a clear manner. Projects are very technical in nature, but clearly stated.  Python/Java, and coding in C was required.  I had just a tiny bit of experience with writing C, and did fine; YMMV.\n\nOverall this has been my favorite class in the OCY program thus far :).  If you believe you may be interested in binary analysis or reverse engineering, then I highly recommend this class.  I rank this as hard because extracting data from assembly is a challenging task.",
+                        "_createdAt": "2020-12-22T15:59:05Z",
+                        "_id": "external-import-0fe977dc-165a-433f-b6d9-72d2cfe26c10",
+                        "difficulty": 4,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "rating": 5,
+                        "course": null,
+                        "workload": 13,
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    }
+                ],
+                "rating": 4.285714285714286,
+                "difficulty": 3.4285714285714284,
+                "workload": 14.928571428571429
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "advanced-topics-in-malware-analysis"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

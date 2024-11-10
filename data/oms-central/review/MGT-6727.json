@@ -1,0 +1,372 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "created": "2022-07-05T23:23:15Z",
+                "isFoundational": false,
+                "syllabusUrl": null,
+                "description": "This course takes a multi-disciplinary approach to the study of privacy\u2013\u2013a current topic of international interest for those in technology, policy, law, and/or business.",
+                "_id": "external-import-MGT-6727",
+                "slug": "privacy-for-professionals",
+                "reviews": [
+                    {
+                        "difficulty": 2,
+                        "_createdAt": "2024-08-08T21:00:59Z",
+                        "authorId": "yPy88wXKhTipgNNP9U+7Sw==",
+                        "_updatedAt": "2024-08-08T21:00:59Z",
+                        "id": "WO6QCb0AdjGY7KsBRmAqSw",
+                        "semester": {
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05",
+                            "_updatedAt": "2024-05-09T04:45:52Z",
+                            "startDate": "2024-01-08"
+                        },
+                        "body": "I enjoyed this class and felt that most of the material was practical for my current corporate management role.  The ripped from the headlines articles were easy and interesting to me.  I enjoyed the lecture videos and interacting with the professors.  The TAs were generally fair and constructive.  The weekly workload is fairly low, but I spent about 20 hours studying for each of the exams, including reviewing lectures and building matrices for groups of laws like state breach notification requirements, as this is primarily a privacy law class.  Overall I felt it was it was a good class, but worst part if the level of detail you need to learn to do well on the exams.",
+                        "course": null,
+                        "created": "2024-08-08T21:00:59Z",
+                        "_rev": "WO6QCb0AdjGY7KsBRmAqP4",
+                        "rating": 4,
+                        "_type": "review",
+                        "_id": "WO6QCb0AdjGY7KsBRmAqSw",
+                        "workload": 4
+                    },
+                    {
+                        "id": "EheplndxwN5UrNXRKvAsSb",
+                        "created": "2023-07-03T18:42:18Z",
+                        "_updatedAt": "2023-07-03T18:42:18Z",
+                        "_type": "review",
+                        "course": null,
+                        "workload": 5,
+                        "body": "Overall I think I was kind of disappointed with this class. \n* weekly essays, ripped from the headlines were kinda fun. They were trivial and easy to get 100% on\n* I personally didn't find the content to be interesting and am kind of surprised its a popular class. A more apt name for this class should be \"Privacy Law for Professionals\" -- privacy is a diverse field of which the law is only one aspect of. Memorizing various factoids like how much a company can be fined in California vs Utah for a privacy violation is not mentally stimulating to me. Specifically since by the time I'll ever need this info, it'll be out of date and superseded by some other new law.\n* Exams were brutal. Contrary to what the TAs will tell you, you basically need to memorize the slide deck. They will expect you to have a large variety of factoids memorized, like how much revenue and/or records a company must hit to be considered covered by xyz law.\n* If you don't have said factoids memorized, you'll struggle more on certain exam questions. I thought the questions were pretty good and thought provoking (which should be to the goal of a masters program). Perhaps a 1 page crib sheet as a reference would make the exam better and more representative of reference resources a professional has at their disposal.\n* Exam curve was generous to make up for how hard the exam is.\n* No guidance on how to prep for the exam, aside from learn \"everything, including the 2020 textbook *and* some of the 2023 textbook\"\n* Speaking of which for this semester the combination of the 2023 lectures, 2020 text book, and 2023 textbook was confusing to say the least, and instructor explanations did not clarify what was really expected.\n* I hate it when professors require reading from their textbooks -- huge conflict of interest.\n* I did like how the class covered interactions between laws. I used to work in healthcare so I had a good understanding of the HIPAA privacy rule, but most HIPAA resources I learned from don't really touch preemption beyond that its a thing you should think about and pay a lawyer to do.\n* Grading was really fast, a rare thing in OMS.\n* Course instructors/TAs are top notch. Professors are involved with office hours and seems like a legit good people.",
+                        "difficulty": 3,
+                        "rating": 3,
+                        "authorId": "o+um4djo0mvuYWgROsYJMw==",
+                        "_rev": "EheplndxwN5UrNXRKvAsP9",
+                        "semester": {
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z"
+                        },
+                        "_id": "EheplndxwN5UrNXRKvAsSb",
+                        "_createdAt": "2023-07-03T18:42:18Z"
+                    },
+                    {
+                        "created": "2022-08-09T04:20:00Z",
+                        "_updatedAt": "2022-08-09T04:20:00Z",
+                        "_createdAt": "2022-08-09T04:20:00Z",
+                        "_rev": "wLTa6yNrbnanFt9Yb5iOJs",
+                        "id": "wLTa6yNrbnanFt9Yb5iOOC",
+                        "authorId": "mvZy/FaSi2DUGKACu/WmmA==",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:45:42Z",
+                            "startDate": "2022-05-16",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQ0gf",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2022-2"
+                        },
+                        "body": "The homework was pretty easily but the exams were very brutal. Based on previous reviews he used to curve pretty generously before but that is no longer the case. He still does curve but no longer massively.\n\nThe Summer 2022 class distribution was as follows:\n\nA: 49\nB: 53\nCs and Below: 11\n\nOverall, the class material was interesting but the exams were quite brutal. If you are looking for an easy A, I do not recommend this class, only because of the exams and the weight they have for the grade.",
+                        "course": null,
+                        "difficulty": 4,
+                        "rating": 3,
+                        "_type": "review",
+                        "workload": 2,
+                        "_id": "wLTa6yNrbnanFt9Yb5iOOC"
+                    },
+                    {
+                        "created": "2022-08-06T20:40:28Z",
+                        "_createdAt": "2022-08-06T20:40:28Z",
+                        "_id": "6nnaIduCkMaE6dpBOxl7V8",
+                        "difficulty": 3,
+                        "workload": 8,
+                        "body": "I enjoyed Privacy for Professionals. The information was presented in a clear manner, and happened to be directly relevant to my work. If I was going to take the CIPP/US exam, this would be a good preparation course. The Ripped from the Headlines summaries were not overly difficult as long as you follow the format; get a Word template together to make sure you don't forget anything. The IAPP's website is a good source of articles for summarization, and the keywords they index on are often aligned with the course modules. \n\nMidterm and Final were both largely scenario based - given a situation, which of the following scenarios would apply based on the laws we've discussed? Often, it would end some question like \"Is this allowed?\" and options of yes, because law 1, yes, because of law 2, no, because of law 1, no because of law 2. \n\nRather a lot happened in the US privacy landscape during the course of the semester; these were touched on in the office hours but exams were based on the state of the law as of the beginning of the semester. \n\nIf your company is an IAPP member, you may be eligible for a corporate membership; this gives you access to a discount on the book. ",
+                        "semester": {
+                            "_id": "external-import-2022-2",
+                            "_updatedAt": "2022-07-22T00:45:42Z",
+                            "startDate": "2022-05-16",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQ0gf",
+                            "_type": "semester",
+                            "term": "summer"
+                        },
+                        "authorId": "5A+29lR9dwoOld/hvn5uWg==",
+                        "_type": "review",
+                        "_updatedAt": "2022-08-06T20:40:28Z",
+                        "id": "6nnaIduCkMaE6dpBOxl7V8",
+                        "course": null,
+                        "_rev": "6nnaIduCkMaE6dpBOxl7Ru",
+                        "rating": 5
+                    },
+                    {
+                        "_createdAt": "2021-08-18T21:14:37Z",
+                        "workload": 2,
+                        "_type": "review",
+                        "rating": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "created": "2021-08-18T21:14:37Z",
+                        "body": "Overall this was a pretty easy class, the professors were good and the content was good. What I didn't enjoy was the way the grading was laid out. You do a weekly assignment called ripped from the headlines that is basically a gimme 100, especially with the extra credit. However, the only other two pieces for your grade are the mid term and the final. \nThis wouldn't be so bad if there was some guidance on how the mid term and final work, but it is just everything in the book and lectures is fair game... This was frustrating because I got a 75 on the mid term and there was no other way to pull my grade up except the final. \nI got a B overall and I am happy with it. I just wish there was more of a breakdown for the grading.",
+                        "difficulty": 2,
+                        "course": null,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17"
+                        },
+                        "_id": "external-import-0cfbd49d-1f20-474b-b042-cfc9581274da",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-0cfbd49d-1f20-474b-b042-cfc9581274da"
+                    },
+                    {
+                        "rating": 5,
+                        "_id": "external-import-39d12e13-1f64-4f42-bc57-43b2bea054fb",
+                        "body": "Both an interesting and easy class. The workload is pretty light and consists of some lectures, reading, and then a small weekly essay. The material is pretty interesting and the professor does a good job at tying current events into the lesson. The mid term and final are average difficulty -- but mostly due to the vague multiple choice answers and not the difficulty of the actual material. Little guidance is given on the exams, which make up 70% of the total grade, and the multiple choice answers can be like: A, B, C, A & B, A & C, All of the Above, None of the Above --- and A, B, and C are all partially right but one is more right than the other. The exam answers can definitely be refined. \n\nTo top it off, the textbook is the book for the IAPP CIPP certification, so at the end of the course you are well positioned to take the CIPP exam.",
+                        "_createdAt": "2021-08-12T19:13:20Z",
+                        "created": "2021-08-12T19:13:20Z",
+                        "course": null,
+                        "_type": "review",
+                        "workload": 4,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17"
+                        },
+                        "difficulty": 2,
+                        "id": "external-import-39d12e13-1f64-4f42-bc57-43b2bea054fb",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4"
+                    },
+                    {
+                        "_id": "external-import-655b1df2-a2f3-40e1-8a27-8506b5c37bbf",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 1,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17"
+                        },
+                        "_createdAt": "2021-08-05T18:07:30Z",
+                        "rating": 3,
+                        "workload": 1,
+                        "id": "external-import-655b1df2-a2f3-40e1-8a27-8506b5c37bbf",
+                        "created": "2021-08-05T18:07:30Z",
+                        "_type": "review",
+                        "body": "Full Disclosure.. I fully anticipate that I will get an A from this class. There are no sour grapes in this review. I am simply trying to provide honest feedback as to what to expect.\n\nIf you are looking for an easy A with minimal work, this is the class for you. I took this class for this reason, and this aspect was as expected. \nWhat I didn\u2019t expect was the reason for the easy A with little or no effort. I thought maybe the content would be light, and that it was fairly easy to prepare and take the exams.\n\nThis is the bottom line for this class:\nThe HWs make up 30% of the grade. They are 10 min assignments. They are a JOKE. Basically, you start the course with 30% of your grade at 100% for 10 mins a week of work.\n\nThe material in the lectures covers a TON of ground at an extremely thin level. It is basically a light recap of the chapters in the book that the professor wrote. \n\nThe exams are ridiculous for a variety of reasons. First, there is absolutely no guidance on the material to be covered. The guidance is \u201cAll\u201d. Since the lecture material is so vast and there is nothing emphasized, it\u2019s impossible to properly study for. There\u2019s simply way too much material to memorize. Secondly, the structure of the exams is subjective. All questions are in the A, B, C, A and B, B and C, all of the above, none of the above structure. They are incredibly confusing.. And, unlike other classes where questions are refined and harvested out due to student feedback (during post exam review sessions), the professor has decided that the exam results will remain hidden. You do not know what you missed, what you got correct, or the rationale behind the correct answers. They basically made the conscious decision of \u201cthat whole piece of learning, let\u2019s just throw that out.\u201d  This compounded into the final, as it was 20% cumulative, and you didn\u2019t have the midterm to prepare for the final. The result was a low C average grade for the exams.\n\nSo, why is the average grade for this class so high? As mentioned, you start with 30% of your grade at 100% (if you put in 10 mins of work on the HWs). Plus, you get extra credit for your HWs (just to ensure the 100%) by simply posting 5 seconds about yourself on Piazza at the start of the class. Add in HUGE (I mean HUGE) generous curves on the exams.. Plus, an extra credit opportunity for your Midterm by simply turning in an additional 10 min HW. \n\nEssentially, this class is a cake walk.. Tons and Tons of thin level material. Easy HWs. Confusing and poorly scored exams. And then the application of easy extra credit and a massive curve to make up for the reality that students sh*t the bed during the exams due to the half assed delivery.\n\nAgain, I consciously took this class for an easy way to knock off a class, and to pad the GPA. Unlike Data Analytics in Business (the worst class in this program), I wasn\u2019t forced to take it as part of the required classes. It delivered as advertised on that aspect.. If you can get your mind to ignore how horribly it was structured (it was just a money grab class and a way to sell the Professor\u2019s book), you\u2019ll get through this class quickly and have it in the rear view mirror in no time. \n",
+                        "course": null
+                    },
+                    {
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_id": "external-import-93f5a3b3-9130-47a8-b599-698d26b6115b",
+                        "body": "Weekly writing and lectures are interesting and easy to handle within 2 hours.  A lot of important content in this class and you won't find a more qualified lecturer.  The two exams (70% of grade) are no joke and you'll probably need to spend an additional 20-30 hours over the course of the semester to master the content for an A.  Historically there is a curve on both exams.",
+                        "difficulty": 2,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-05-11T19:44:20Z",
+                        "_type": "review",
+                        "id": "external-import-93f5a3b3-9130-47a8-b599-698d26b6115b",
+                        "created": "2021-05-11T19:44:20Z",
+                        "rating": 4,
+                        "course": null,
+                        "semester": {
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z"
+                        },
+                        "workload": 2
+                    },
+                    {
+                        "created": "2021-05-11T00:46:54Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review",
+                        "course": null,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "difficulty": 1,
+                        "_id": "external-import-a50891ee-f73e-43f9-8d5f-d5682c0d4cb1",
+                        "id": "external-import-a50891ee-f73e-43f9-8d5f-d5682c0d4cb1",
+                        "body": "This was a great course. I was not really looking forward to it because it did sound boring but I trusted everyone's opinion. I really learned a lot and will apply it on a daily basis. I think everyone should take this course!\n\nThe exams were tough, so do not skim on studying. The questions were all situational but all you need are the updated PowerPoint slides and you will do great. I spent usually 3 hours a week completing lectures and the weekly assignment. For the midterm and final, I spent about 12+ hours studying. I finished with an A. \n\nGreat course!!",
+                        "_createdAt": "2021-05-11T00:46:54Z",
+                        "rating": 5,
+                        "workload": 5,
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "course": null,
+                        "created": "2021-05-06T22:53:43Z",
+                        "difficulty": 2,
+                        "_createdAt": "2021-05-06T22:53:43Z",
+                        "workload": 2,
+                        "body": "Phenomenal class. The content is relevant for any person working in tech so I highly recommend it. \n\nThe workload includes writing 10 short article summaries (30% of grade), a midterm (30% of grade), and a final (40% of grade). All assignments are graded very fairly and the tests have a pretty generous curve. \n\nAll in all I put in 1.5 hours of work for this class most weeks. More time was dedicated to studying around the midterm and final. Very easy A if you aren't totally slacking. \n\nProf Kennedy-Mayo is incredibly sharp. She's very accessible and runs great office hours. I recommend attending or viewing recordings on BlueJeans. ",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "rating": 5,
+                        "_id": "external-import-f1dff33c-13dc-4159-a59b-00140a36098b",
+                        "id": "external-import-f1dff33c-13dc-4159-a59b-00140a36098b",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_type": "review",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        }
+                    },
+                    {
+                        "_id": "external-import-4c297b4a-e9ea-4b5b-96e0-1eb27fb65e54",
+                        "body": "Currently in this course but wanted to review in case anyone is considering taking it as registration is opening soon. Overall, great course and very interesting. Focuses on law and regulation related to data and privacy. The TAs and professor are pretty involved and provide timely feedback on questions and assignments. Instructor holds weekly office hours as well.  \n\nAssignment Overview: 14 short essays (one weekly) that are max 200 words where you find a recent article, summarize it, and relate it back to that week\u2019s lecture topic.\n\nExams: Midterm and Final. Haven\u2019t taken the final yet, but did take the Midterm and scored an A. Midterm was 50 questions and very scenario based. Be sure to understand the laws and regulations and how they would actually apply. I reviewed the lecture videos and powerpoints as part of my prep. Book is helpful but not sure if it\u2019s actually needed. \n\nGreat course, interesting, lighter load, and would definitely recommend. I actually enjoy this class and don\u2019t mind doing the work. ",
+                        "_createdAt": "2021-03-26T22:18:22Z",
+                        "difficulty": 2,
+                        "rating": 5,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_type": "review",
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "workload": 2,
+                        "id": "external-import-4c297b4a-e9ea-4b5b-96e0-1eb27fb65e54",
+                        "created": "2021-03-26T22:18:22Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W"
+                    },
+                    {
+                        "id": "external-import-d1cd0996-56da-43d4-995a-92a0df78f483",
+                        "workload": 3,
+                        "difficulty": 1,
+                        "_id": "external-import-d1cd0996-56da-43d4-995a-92a0df78f483",
+                        "body": "Content is well presented.  Just about everything needed can be found in the lecture presentation slides.  I highly recommend not purchasing the book.  Exams are multiple choice and generously curved.  Content is very fact based with application.  I would recommend this course if privacy is of interest or relevant.  If not, you may find memorizing a lot of facts you don't care about extremely boring.",
+                        "_createdAt": "2020-08-03T16:02:01Z",
+                        "rating": 4,
+                        "created": "2020-08-03T16:02:01Z",
+                        "_type": "review",
+                        "course": null,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0HiC5",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2020-2",
+                            "_updatedAt": "2022-07-22T00:46:39Z",
+                            "startDate": "2020-05-11",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC"
+                    },
+                    {
+                        "id": "external-import-3bc8ab49-da0b-4507-a3ad-b1cf86cb00e8",
+                        "semester": {
+                            "term": "summer",
+                            "_id": "external-import-2020-2",
+                            "_updatedAt": "2022-07-22T00:46:39Z",
+                            "startDate": "2020-05-11",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HiC5",
+                            "_type": "semester"
+                        },
+                        "course": null,
+                        "_type": "review",
+                        "rating": 4,
+                        "created": "2020-08-02T20:38:14Z",
+                        "body": "I enjoyed this course, especially since the topics was related to what I do for work. The class overall was not difficult and didn't require a lot of weekly effort. \n\n2 Exams - Mid-Term was 30%, Final was 40% of class grade\nWeekly Essay no longer than 200 words 3% each for a total of 30% of grade\n\nThe exams were challenging, especially since the only real practice was listening to or reading lecture notes. Questions were very situational and sometime long paragraphs to set up the question. \n\nThe questions often included 5 answer options such as: \nA. Bike\nB. Car\nC. Airplane\nD. A and B \nE. None of the above \n\nBoth midterm and final had a generous curve. You did not receive solutions after the exam was completed. This means it was a little hard to understand what you were answering questions incorrect and where you missed points. \n",
+                        "difficulty": 2,
+                        "_createdAt": "2020-08-02T20:38:14Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "workload": 5,
+                        "_id": "external-import-3bc8ab49-da0b-4507-a3ad-b1cf86cb00e8",
+                        "_updatedAt": "2022-07-11T19:08:19Z"
+                    },
+                    {
+                        "workload": 6,
+                        "semester": {
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "difficulty": 3,
+                        "_type": "review",
+                        "rating": 4,
+                        "_id": "external-import-6b99cd94-84fc-4d9f-a8c1-5e887355098c",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "id": "external-import-6b99cd94-84fc-4d9f-a8c1-5e887355098c",
+                        "body": "Class material was interesting and well-presented. The textbook and lectures were very closely aligned. The professors literally wrote the textbook. I usually chafe at buying a textbook written by the professor, but this one was on point. I'm keeping it as a reference rather than reselling.\n\nWeekly reading and lectures averaged about 2-3 hours. Graded assignments were 15 weekly short-form essays summarizing a news article relevant to the readings. At first these took a couple hours each, but once the grading scheme/criteria became apparent they were a no-brainer.\n\nThe mid-term and final were the only kick in the pants. These required some serious review (I didn't study enough either time and they were painful). The questions were multiple choice. Some were straightforward, but quite a few were multiple paragraph setups leading to a seemingly subjective question. Hypothetical example below. I did ok on both after the curve despite initially feeling like my brain was mush each time.\n\nHypothetical test question style (with minimal exaggeration):\n\nTimmy is going to a baseball game. It's 80 degrees and sunny. The game starts before sunset. There is no chance of rain. Here are two more paragraphs about Timmy's personality. _What should Timmy wear to the game?_\n\nA) Shirt and shorts  \nB) Long-sleeve shirt and pants  \nC) Baseball cap  \nD) None of the above  \nE) A and B",
+                        "_createdAt": "2020-05-05T21:55:56Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "course": null,
+                        "created": "2020-05-05T21:55:56Z"
+                    }
+                ],
+                "isDeprecated": false,
+                "_updatedAt": "2022-08-24T17:39:06Z",
+                "tags": [],
+                "programs": [
+                    {
+                        "acronym": "AN"
+                    }
+                ],
+                "_type": "course",
+                "creditHours": 3,
+                "id": "external-import-MGT-6727",
+                "_rev": "iLpqNfBINCDhaBRaVHYIDn",
+                "codes": [
+                    "MGT-6727"
+                ],
+                "name": "Privacy for Professionals",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "rating": 4.071428571428571,
+                "difficulty": 2.142857142857143,
+                "workload": 3.642857142857143
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "privacy-for-professionals"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "isExperimentalCompile": true,
+    "gsp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,259 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "name": "Applied Analytics Practicum",
+                "tags": [],
+                "_type": "course",
+                "description": "Practical analytics project experience applying ideas from the classroom to a significant project of interest to a business, government agency, or other organization.",
+                "creditHours": 6,
+                "slug": "applied-analytics-practicum",
+                "programs": [
+                    {
+                        "acronym": "AN"
+                    }
+                ],
+                "created": "2022-07-05T23:23:15Z",
+                "isDeprecated": false,
+                "_id": "external-import-MGT-6748",
+                "syllabusUrl": null,
+                "id": "external-import-MGT-6748",
+                "_rev": "vLev53Cwnp4JOI2CCHiFvq",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "codes": [
+                    "MGT-6748",
+                    "CSE-6748",
+                    "ISYE-6748"
+                ],
+                "_updatedAt": "2022-08-24T17:16:00Z",
+                "reviews": [
+                    {
+                        "id": "bxO9a934j3FwgtxI5EKX9g",
+                        "authorId": "xinG+hsBQH7n5OmfykHSHQ==",
+                        "_createdAt": "2024-05-27T07:49:33Z",
+                        "workload": 30,
+                        "_updatedAt": "2024-05-27T07:49:33Z",
+                        "created": "2024-05-27T07:49:33Z",
+                        "semester": {
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a"
+                        },
+                        "course": null,
+                        "body": "As many have suggested, the variance in terms of the difficulty and time commitment for this is huge since it is very much project-specific and it also depends if you are doing with a GT sponsor or if you have your own company sponsor.\n\nIn my case, my company project involved an exciting project with multimodal generative models which also meant a huge time commitment. The actual deliverables were in fact simple since they included nothing more than a proposal before the course starts (subject to approval), a midterm slide deck of a powerpoint presentation, and a final report (several pages in a word document) as well as having watched through every single lecture video which were mostly nothing beyond common sense knowledge that you often see in typical leadership videos on Linkedin Learning.\n\nBasically, YMMV!",
+                        "_rev": "bxO9a934j3FwgtxI5EKX6t",
+                        "_type": "review",
+                        "_id": "bxO9a934j3FwgtxI5EKX9g",
+                        "difficulty": 3,
+                        "rating": 3
+                    },
+                    {
+                        "workload": 1,
+                        "difficulty": 1,
+                        "rating": 5,
+                        "course": null,
+                        "_rev": "An5NTSoayl8dSG7oWaoSlK",
+                        "id": "An5NTSoayl8dSG7oWaoSmU",
+                        "_id": "An5NTSoayl8dSG7oWaoSmU",
+                        "_type": "review",
+                        "_updatedAt": "2023-05-12T13:11:40Z",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb"
+                        },
+                        "authorId": "NGIDBYciPJAMqhnoBONkJQ==",
+                        "_createdAt": "2023-05-12T13:11:40Z",
+                        "created": "2023-05-12T13:11:40Z",
+                        "body": "If you just want to get it done, you can do that. If you want to make it super tough and interesting, you can also do that. I had to go former due to other classes I took alongside other commitments I had to make during the semester."
+                    },
+                    {
+                        "body": "Unlocking the true potential of a course is entirely up to you. With the option to choose between an employee-sponsored program and a practicum offered by Georgia Tech, the possibilities are endless. Don't worry about picking the \"right\" project - all projects have the potential to develop your skills and meet market demands. For me, I decided to take on a Machine Learning Engineering (MLE) project and completed several \n\nCoursera certifications to prepare.\nDeployment of Machine Learning Models\nTesting and Monitoring Machine Learning Model Deployments\nFundamental of Kubernetes\n\nMy MLE project was focused on enhancing the performance of a second-generation language inference model. It was an exciting challenge as I was responsible for implementing the attention-based model, writing tests, establishing logging, and creating a CI/CD pipeline. I even went a step further and created an API, powered by fast API and PostgreSQL, for efficient interaction and storage of predictions. Looking ahead, we plan to use this data to catch any potential model drift. Finally, to deploy the API and model package, I dockized the project and deployed it on Kubernetes. This experience has been nothing short of amazing!",
+                        "rating": 5,
+                        "_id": "H2M0ZebBQpDCtJDgu1ZQ26",
+                        "_updatedAt": "2023-05-11T17:17:10Z",
+                        "workload": 12,
+                        "authorId": "fSCmQXFvyfSsoe2WxkpPJA==",
+                        "id": "H2M0ZebBQpDCtJDgu1ZQ26",
+                        "created": "2023-05-11T17:17:10Z",
+                        "_rev": "H2M0ZebBQpDCtJDgu1ZPzq",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb"
+                        },
+                        "difficulty": 1,
+                        "_createdAt": "2023-05-11T17:17:10Z",
+                        "_type": "review",
+                        "course": null
+                    },
+                    {
+                        "authorId": "3fCnkPsrOwy8hkubXxkDWw==",
+                        "_type": "review",
+                        "body": "Okay, so what was this class? There is no grading at any point, essentially no feedback, and very little communication. For some reason 20% of my grade is based on company sponsored videos that I have to watch on a maybe/maybe not real schedule. I really wish they incorporated some more feedback during the class, so I don't reach the end of the semester wondering if anyone even received anything I turned in over the last four months. So, just be prepared that you are entering the wilderness and are on your own.\n\nThat being said, this class is what you make of it. I did my project through my employer and really had a great experience. It was a great opportunity to showcase my skills and has solidified my place as a data science SME. I put my workload at 12 hours per week, but I worked maybe 10 hours total outside of work all semester. So, for me it was a great success as I was able to stack another class and have the lowest workload of the entire degree. \n\nThank you Georgia Tech for making this degree as affordable as it is and opening the door to people of diverse backgrounds. I would recommend this program to anyone with a strong technical background looking to make a career pivot. It isn't easy and we are all better for it. Every other school charging $50k+ for degrees - best of luck demonstrating your 5x value proposition.",
+                        "course": null,
+                        "rating": 3,
+                        "_rev": "va4OapxbtwGpPko6PmOpcj",
+                        "_id": "va4OapxbtwGpPko6PmOpf2",
+                        "id": "va4OapxbtwGpPko6PmOpf2",
+                        "difficulty": 3,
+                        "_createdAt": "2023-05-05T01:44:41Z",
+                        "_updatedAt": "2023-05-05T01:44:41Z",
+                        "created": "2023-05-05T01:44:41Z",
+                        "semester": {
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester"
+                        },
+                        "workload": 12
+                    },
+                    {
+                        "difficulty": 1,
+                        "authorId": "Hv+TgHXXTPdsLG7sIilQGQ==",
+                        "semester": {
+                            "_rev": "hYpuG860ZzKHD47MHFQ0gf",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2022-2",
+                            "_updatedAt": "2022-07-22T00:45:42Z",
+                            "startDate": "2022-05-16",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "body": "I essentially picked my own project for my employer and wrote a thesis about it. I was able to get through the lectures in the first day, as they only track if the lectures were viewed. I submitted all work products timely, and never received any feedback. I ended up redacting (per my employer) a large portion of the final report and the entire set of references, and wasn't even asked why. I cannot fathom why GaTech thinks it is ok to charge twice as much for this class - I never spoke to staff nor faculty once the class started and have no idea if i learned anything. ",
+                        "_type": "review",
+                        "course": null,
+                        "workload": 4,
+                        "_id": "sEt0QEOF763GnkGvUg2LTh",
+                        "rating": 1,
+                        "_updatedAt": "2022-11-29T01:26:27Z",
+                        "created": "2022-11-29T01:26:27Z",
+                        "_rev": "sEt0QEOF763GnkGvUg2LQH",
+                        "id": "sEt0QEOF763GnkGvUg2LTh",
+                        "_createdAt": "2022-11-29T01:26:27Z"
+                    },
+                    {
+                        "body": "As others have said, this course is what you make of it.  I did a project with my employer around applying regression and non linear transformations to construction project costs in order to estimate project completion.  I didn\u2019t really do new research, but applied some research done in the area to a specific problem for my business. (I was careful to make this clear in my project proposal and in all my submissions!). Ultimately, my business partners at work liked what I did and submitted a favorable review.  I earned an A in this course (as a VAST majority of people do.)  I also watched the optional videos.  My biggest complaint about this course is there is really no feedback whatsoever on how well your are doing.  My suggestion would be to read the syllabus.  Stay on top of all required submissions (there are not many, just watch the videos turn in a quality midterm presentation and a final report) and be patient.  My final report was about 6 pages with lots of graphs and a brief bibliography.  My advice for this is course is jut believe in your self and what you have learned, demonstrate what you know, and do your best.  In the end, everything will be OK\u2026.  No news is good news in this course.  And, with this post, I officially complete my Masters in Analytics in Georgia Tech.  I graduated with my bachelors in math 30 years ago almost to the day.  I have FINALLY completed my Master\u2019s (with a 3.91 GPA, I might add.). I DID THIS AND YOU CAN TOO.  STAY THE COURSE.  BELIEVE IN YOURSELF.  DO YOUR BEST.  AND\u2026. GOOD LUCK!  GO JACKETS!",
+                        "_createdAt": "2021-12-21T20:49:32Z",
+                        "_type": "review",
+                        "id": "external-import-ad63dc86-3080-40b0-b641-bef0c734fd40",
+                        "created": "2021-12-21T20:49:32Z",
+                        "difficulty": 3,
+                        "course": null,
+                        "semester": {
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z"
+                        },
+                        "workload": 10,
+                        "_id": "external-import-ad63dc86-3080-40b0-b641-bef0c734fd40",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 4,
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "created": "2021-08-12T19:07:51Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "workload": 8,
+                        "difficulty": 1,
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-8d9c3f13-0793-4c61-b0fc-f7dea90765b0",
+                        "course": null,
+                        "_id": "external-import-8d9c3f13-0793-4c61-b0fc-f7dea90765b0",
+                        "_createdAt": "2021-08-12T19:07:51Z",
+                        "rating": 5,
+                        "semester": {
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "body": "I actually did the ISYE-6748, but all of the practicum courses are the same, just differing by project/track. In addition to the midterm report and final paper, there are weekly video sessions. These are usually less than an hour, and I found some of them to be exceptional in content and takeaways. \n\nI did my project through my employer, and had been discussing and planning for it for at least a year. The information from the professor/TA's on expectations for actual deliverables are vague at best, but that's not all that unexpected considering the differences between projects. \n\nOne thing that I strongly recommend, is that you clearly define your scope, and make sure that you don't bite off more that you can chew. My manager was great at helping me on this front, and it definitely helped since the summer semester is slightly shorter than others. \n\nI also found it very helpful to make out a detailed schedule of what I expected to accomplish each week, including things that I would try to do if time permitted. (Note: time ended up not permitting, so glad I contained my scope and had these as optional tasks) This not only helped me stay on track, but also helped when I went to do the final paper write-up. I had everything that I had accomplished outlined and just had to add the details in my methodology section. \n\nI was limited in the actual data and details that I could share, but I found that using percentages and aliases (SKU A, SKU B, time period 1, etc.) worked well for me, and I was still able to do a full and complete report. \n\nOne last note, I chose NOT to do this piece of my coursework in my final semester. I did so partially because this timing worked best with my work and personal schedule, but also because the timing was very pertinent to things that I am encountering at work. I also took this class while also taking another class. Between taking this during the summer semester and taking with another class, it definitely was a time challenge. However, I had already prepared myself for this challenge and incorporated that into my work/school/life schedule prior to starting the semester. Just one semester left in the program, and I can breathe a little easier. :)"
+                    },
+                    {
+                        "rating": 4,
+                        "body": "## Actually they do read your midterm and final papers. \n\nHistorically the number of A's were high because they are the people whom came to OMSA in the early semesters which had got a high rejection rate. So they are the cream of the crops.\n\nAs the acceptance rates of OMSA enrollment now near 70% (from 20% earlier in 2017), the quality of the students are not as great as they have been, so there will be a decrease in the percentage of As dishing out. That's natural.\n\nFor the employer-sponsored project, so long as you meet the syllabus requirements, and showed that you have put in your effort in formulating and studying the problem, an A should be a shoo-in. Unless you have a problem with your employer.\n\nFor group and GT-sponsored project, you will be evaluated not just by the supervisors who may not know you, but also your group mates as well. And if you are negatively reviewed on, B and C is possible.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "created": "2021-05-12T15:39:31Z",
+                        "_createdAt": "2021-05-12T15:39:31Z",
+                        "workload": 20,
+                        "_id": "external-import-38e104a2-c643-4008-bf5d-d6898f08e747",
+                        "course": null,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester"
+                        },
+                        "difficulty": 2,
+                        "id": "external-import-38e104a2-c643-4008-bf5d-d6898f08e747",
+                        "_type": "review",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W"
+                    },
+                    {
+                        "_id": "external-import-cc9f30e4-6c45-4e1e-ae77-254ac3221a83",
+                        "body": "This course is the exact same whether your track is ISYE, CSE, or MGT. On OMSCentral I only see a placeholder for MGT so that\u2019s the one I\u2019m writing about although it wasn\u2019t my track.\n\nThis isn\u2019t a course, per se. Although there are lectures, there aren\u2019t any takeaways from them \u2013 no quizzes, homework, write-ups, etc. In theory part of your grade for the course is if you watched them, and I assume the instructors have some way to note if you did, but who knows. The lectures are broad and high-level about topics like leadership, ethics, and explaining models to a non-technical audience. Personally, I found them interesting, but since there aren\u2019t any assignments from watching them, you can have them playing in the background without paying attention and it\u2019ll impact your grade all the same\u2026assuming the instructors actually use you having watched them as a factor.\n\nThe entire semester revolves around doing some type of project. You pursue one of two routes here. Either you choose from a handful of projects OMSA provides from third-party organizations or find your own through your employer. If you choose the latter, you need to do a writeup about what your topic will be and send in to the OMSA team about a month and a half before the semester starts so they can approve. It\u2019s extremely open-ended. I essentially used the requirements from the group project in DVA (CSE 6242) to do an analysis of a large dataset and visualize it, but visualization isn\u2019t required. It being a large dataset may not be required. Heck, it probably doesn\u2019t even need to be an analysis if you can justify doing something else related to your coursework! The only requirement is that it should be complex enough that it should take you roughly the whole semester to complete, and you shouldn\u2019t begin until shortly before the semester starts \u2013 I think they give you a small grace period if you want to begin early. There are *zero* office hours for everyone, but rather specific office hours for people who do each GT-assigned project, or those who do employer-sponsored. I did employer-sponsored and there was only one office hour the entire semester, just to answer questions about what was expected.\n\nYou only turn in two things the entire semester: a mid-term slide deck outlining what you\u2019ve done so far and what you\u2019ll do the rest of the way, and a final write-up paper once you\u2019ve finished. At the end you\u2019ll also need the project supervisor (likely either your boss or a representative from the assigned project) to fill out a form critiquing your work. That\u2019s it. You don\u2019t turn in any code. If you make some type of interactive portion, you don\u2019t turn that in or link to it if it\u2019s public. Graphs, charts, screenshots, etc. are encouraged but not required. There aren\u2019t any rubrics for either deliverable with page length, make sure you hit on these points, etc. \u2013 just \u201ccommunicate what you did\u201d. Depending on your project there might be additional work to do with your project sponsor or employer, but they\u2019re outside of the scope of what Georgia Tech requires. OMSA gives you no feedback at all on how you did, we didn\u2019t see individual grades posted anywhere, just the final grade at the end. And if you look at [Critique](https://critique.gatech.edu) (which shows historic grades for each course if you\u2019re unfamiliar), about 95% of people who have ever taken the practicum got an A. It wouldn\u2019t stun me if they didn\u2019t even read what I turned in \u2013 I get the sense by the time you\u2019ve gotten this far in the program they just want you to pass and don\u2019t have time to thoroughly review each final paper. \n\nThe ease of this course and hours involved are completely dependent on what you do and how you do it.",
+                        "difficulty": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "semester": {
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z"
+                        },
+                        "id": "external-import-cc9f30e4-6c45-4e1e-ae77-254ac3221a83",
+                        "created": "2021-05-06T15:18:20Z",
+                        "_createdAt": "2021-05-06T15:18:20Z",
+                        "_type": "review",
+                        "rating": 4,
+                        "workload": 16
+                    }
+                ],
+                "isFoundational": false,
+                "rating": 3.7777777777777777,
+                "difficulty": 2,
+                "workload": 12.555555555555555
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "applied-analytics-practicum"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

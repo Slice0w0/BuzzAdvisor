@@ -1,0 +1,42 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "isDeprecated": false,
+                "syllabusUrl": null,
+                "id": "a9889f55-1b97-4bbb-a687-52a7d84818ff",
+                "_type": "course",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "slug": "seminar-computing-in-python-seminar",
+                "name": "Seminar: Computing in Python Seminar",
+                "created": "2022-08-19T21:30:26Z",
+                "creditHours": 1,
+                "reviews": [],
+                "_updatedAt": "2022-08-24T17:42:12Z",
+                "isFoundational": false,
+                "codes": [
+                    "CS-8001-OCS"
+                ],
+                "_rev": "iLpqNfBINCDhaBRaVHZ1cV",
+                "_id": "a9889f55-1b97-4bbb-a687-52a7d84818ff",
+                "_createdAt": "2022-08-19T21:30:26Z",
+                "rating": null,
+                "difficulty": null,
+                "workload": null
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "seminar-computing-in-python-seminar"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,220 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "isFoundational": false,
+                "tags": [
+                    "ANLP",
+                    "NLP"
+                ],
+                "id": "11a77ce5-5647-4707-9912-13ed376c30a2",
+                "syllabus": {
+                    "url": "https://mahdi-roozbahani.github.io/ANLP-Summer23/"
+                },
+                "_createdAt": "2023-08-12T05:48:34Z",
+                "slug": "special-topics-applied-natural-language-processing",
+                "created": "2023-08-12T05:48:34Z",
+                "codes": [
+                    "CSE-8803-OAN"
+                ],
+                "_id": "11a77ce5-5647-4707-9912-13ed376c30a2",
+                "programs": [
+                    {
+                        "acronym": "AN"
+                    }
+                ],
+                "reviews": [
+                    {
+                        "authorId": "GVOAUZmYRwF+E367OR4ehA==",
+                        "course": null,
+                        "body": "This was my 8th class in OMSCS. \n\nI highly recommend this course to anyone in OMSCS or OMSA. It will change your understanding of the NLP industry.\n\nDr. Riedl is in my top 3 favorite OMSCS professors. He takes incredibly complex topics and breaks them into very learnable chunks. He does an incredible job summarizing the evolution of 50 years of NLP research from its origins to the modern day transformer architectures like GPT and BERT.\n\nMany reviews give this a low rating on difficulty. This is mostly because the assignments cover complex concepts and coding frameworks that are already built for you. You are only required to complete a few simple blocks of code that allow the jupyter notebook to run. If you actually spend time walking through the provided code it, it is a way to quickly learn pytorch without too much pain. \n\nWhat other reviews don't explain - maybe this is new in the summer 2024 class - is that the final project is actually really quite hard. You spent 80% of the semester expecting easy 4-5 hr assignments, but the final project is a 20-40 hr curveball. You are expected to design a KVMNet from scratch. KVMNets are early primitive precursors to the complex general purpose transformers like GPT. You train the KVMNet to answer questions about politicians based on a large Wikipedia dataset. \n\nI didnt realize it until the end, but the KVMNet perfectly combines the principles you learned along the semester and provides a simplified format to understand the pivotal concept that allows GPT to work: attention mechanisms. \n\nMy only criticism is an echo of many other reviews in this thread - the lectures provided by Facebook are pretty hard to follow. You spend the first 3/4 of the class expecting best-in-class lectures from Dr Reidl, only to become frustrated at the end of the semester due to the Facebook lecturers reading off slides in broken English. There are some exceptions, I liked the 2 Facebook lecturers who came from GaTech - they seemed to be a bit better at developing educational content. \n\n",
+                        "semester": {
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z",
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4",
+                            "_updatedAt": "2024-07-23T22:42:48Z"
+                        },
+                        "difficulty": 3,
+                        "_updatedAt": "2024-08-24T15:46:04Z",
+                        "_rev": "MsezWnQ2lCx0SREY3Ddz8m",
+                        "_type": "review",
+                        "created": "2024-08-24T15:46:04Z",
+                        "rating": 5,
+                        "_createdAt": "2024-08-24T15:46:04Z",
+                        "workload": 10,
+                        "_id": "MsezWnQ2lCx0SREY3DdzCy",
+                        "id": "MsezWnQ2lCx0SREY3DdzCy"
+                    },
+                    {
+                        "rating": 5,
+                        "_createdAt": "2023-12-31T02:14:22Z",
+                        "course": null,
+                        "_id": "j07GwiPkUVDQQ5A5p0kxDg",
+                        "created": "2023-12-31T02:14:22Z",
+                        "_rev": "j07GwiPkUVDQQ5A5p0kxBu",
+                        "workload": 25,
+                        "id": "j07GwiPkUVDQQ5A5p0kxDg",
+                        "_updatedAt": "2023-12-31T02:14:22Z",
+                        "_type": "review",
+                        "authorId": "QaHiGrgd+Pjfq59R17SqTA==",
+                        "difficulty": 5,
+                        "semester": {
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall"
+                        },
+                        "body": "The easy reviews are actually CS 7650 OMSCS version of NLP because OMSCentraI doesn't seem to have them (so pls try OMSHub).\n\nANLP is really a challenging course. Not only you need to learn the nuts and bolts (so please do well in CSE 6040, CDA and one of AI/RL/DL), you are also challenged on timed quizzes and learning how to make GPT.\n\nBut you'll be well-rewarded. "
+                    },
+                    {
+                        "_type": "review",
+                        "_rev": "VeJhmJmFzaUp15u8cKOfVV",
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "body": "Difficulty has been dramatically upped for this course.\n\nYou will need to [learn how to make ChatGPT from scratch](https://www.reddit.com/r/OMSA/comments/17f5m0i/comment/k67sbyn/?utm_source=share&utm_medium=web2x&context=3). \n\nThis actually makes ANLP one of the most exciting courses OMSA has to offer.\n\nTry it :)",
+                        "_updatedAt": "2023-10-25T01:04:37Z",
+                        "difficulty": 5,
+                        "rating": 5,
+                        "course": null,
+                        "authorId": "QaHiGrgd+Pjfq59R17SqTA==",
+                        "id": "VeJhmJmFzaUp15u8cKOfY7",
+                        "created": "2023-10-25T01:04:37Z",
+                        "_createdAt": "2023-10-25T01:04:37Z",
+                        "workload": 23,
+                        "_id": "VeJhmJmFzaUp15u8cKOfY7"
+                    },
+                    {
+                        "_createdAt": "2023-08-16T17:46:48Z",
+                        "_rev": "2fGL4wLzApR3gIrnxMEWpa",
+                        "rating": 1,
+                        "course": null,
+                        "body": "Very easy and elementary NLP course for a graduate program.  ",
+                        "difficulty": 1,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester"
+                        },
+                        "_type": "review",
+                        "_updatedAt": "2023-08-16T17:46:48Z",
+                        "id": "2fGL4wLzApR3gIrnxMEWrN",
+                        "created": "2023-08-16T17:46:48Z",
+                        "workload": 5,
+                        "_id": "2fGL4wLzApR3gIrnxMEWrN",
+                        "authorId": "xHkep89yXIVJNmJWb2goyw=="
+                    },
+                    {
+                        "difficulty": 2,
+                        "_rev": "RpRFNJ9yRLDowyLs0eaCx2",
+                        "_type": "review",
+                        "rating": 2,
+                        "_updatedAt": "2023-08-15T19:00:40Z",
+                        "_id": "RpRFNJ9yRLDowyLs0eaCye",
+                        "created": "2023-08-15T19:00:40Z",
+                        "_createdAt": "2023-08-15T19:00:40Z",
+                        "workload": 5,
+                        "semester": {
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15",
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester"
+                        },
+                        "body": "This course is good to have on your resume.\n\nIt is the sort of course that you can get through with a very easy A, but if you want to learn anything you need to invest a little more time.\n\nThe class work is basically setting up neural network structures from pictures in the jupyter notebooks. Any background reading on why you\u2019re doing it is outside the required scope. The lectures are barebones, usually 15 minutes per week.\n\nI would say this course is a lightly guided walk through of some of the very basics of NLP. It\u2019s along the lines of the coursera ML course by Andrew Ng where you\u2019ve learned enough to fill in the blanks for some of the ML topics, but not enough that you would have a good idea of how to go about choosing and training and improving a model on a random set of data.\n\nThe main criticism:\n1. Needs more comprehensive homework\n2. some better lectures possibly about the application and how to work on the now more difficult homework. The course involves application but very little explanation of why for the application itself\n3. eliminate the parts about non-NN models as that\u2019s been covered in many previous courses.",
+                        "id": "RpRFNJ9yRLDowyLs0eaCye",
+                        "authorId": "/i1gN4cCXS+dzzRQP1cvNQ==",
+                        "course": null
+                    },
+                    {
+                        "body": "Context: I took this class in the summer of 2023, which is the second semester that this class is offered.  This class still has some kinks to iron out, such as issues with Gradescope, issues with varied Python code indentations, version compatibility issues in some homeworks.  It is very likely that later semesters will not encounter such issues as the instructors will have already fixed these.\n\nI had minor NLP knowledge before taking this class.  This is my last class in the program so I am already very comfortable with coding, various machine learning techniques, working with arrays (linear algebra) using numpy and pytorch and troubleshooting any potential issues with developing environments.\n\nIn terms of difficulty and amount of time invested into the homeworks, it was easy for me.  Each of the 4 homeworks took less than 4 days total for completion.  That time includes some hours spent training models on my laptop CPU and cancelling/restarting the job to walk away due to irl interruptions (since I was stubborn and did not want to use Google's Colab).\n\nThe homework difficulty progression is like this: 1 -> 2 -> 4 -> 3.  Minimum time to completion: 4 hrs.  Maximum time to completion: 4 days.\n\nThe lectures in this class are very terse however they do provide the necessary citations/resources for students to dig deeper if they are so inclined.  No doubt some reviews will say that this class is thin on materials but I would disagree, since there are excess time left from completing the homeworks, I was able to spend them exploring further into the subject topics based on the provided resources.\n\nThe reviews for this class will likely be polar, on the one hand there will be lots of reviews on how thin the materials are or how easy it is, on the other hand there will likely be lots of reviews on the difficulty with Gradescope, version incompatibility issues, pytorch, lack of troubleshooting support etc...  \n\nDo keep in mind that this is a graduate level course and there is a base level expectation of being able to troubleshoot and solve problems on your own with minimal hand-holding.  Additionally, how much one gets out of the class depends on the level of comfort with the aforementioned subjects.  If all the time is spent troubleshooting the shape and rotation of a matrix multiplication problem or on basic python stuffs such as list of lists or list of dicts then there will be less time and brain resources devoted into exploring the actual NLP topics.  \n\nTherefore it is my opinion that to get the most out of this class, you have to already be comfortable with basic linear algebra, basic ML techniques, numpy (and therefore its big brother pytorch), scikit-learn, and know-how to set up and troubleshoot your python development environments.\n\n\n\n",
+                        "_createdAt": "2023-08-15T00:59:39Z",
+                        "_rev": "HDbsrzRZRpzQ4DQ92HhMXE",
+                        "_updatedAt": "2023-08-15T00:59:39Z",
+                        "_id": "HDbsrzRZRpzQ4DQ92HhMav",
+                        "id": "HDbsrzRZRpzQ4DQ92HhMav",
+                        "course": null,
+                        "semester": {
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15"
+                        },
+                        "rating": 5,
+                        "workload": 8,
+                        "authorId": "BBnzfOJYu1jU9qJklwsgvw==",
+                        "created": "2023-08-15T00:59:39Z",
+                        "_type": "review",
+                        "difficulty": 1
+                    },
+                    {
+                        "difficulty": 3,
+                        "created": "2023-08-14T21:15:50Z",
+                        "authorId": "ldL1rAba1upqXWpFfRCqJw==",
+                        "rating": 4,
+                        "_type": "review",
+                        "_createdAt": "2023-08-14T21:15:50Z",
+                        "workload": 9,
+                        "semester": {
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15",
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester"
+                        },
+                        "_id": "HDbsrzRZRpzQ4DQ92GCvDi",
+                        "body": "Good course that introduces foundational NLP material.  Covers methods of prepping text data for modeling as well as modeling techniques & architectures used for NLP problems.\n\nThe most difficult part of the class was implementing models using pytorch. I had no experience with pytorch coming into the class but was able to figure it out via online research. Other than that, the class wasn't too difficult. 9 hours/week workload really only applies to weeks when homework was due. Other weeks it was closer to 5 hours.\n\nI thoroughly enjoyed this class. It's a great class to wrap up the OMSA/OMSCS program because it's not too demanding and it applies much of what you learn in other courses. Would recommend for anyone interested in NLP.",
+                        "course": null,
+                        "id": "HDbsrzRZRpzQ4DQ92GCvDi",
+                        "_updatedAt": "2023-08-14T21:15:50Z",
+                        "_rev": "HDbsrzRZRpzQ4DQ92GCvA1"
+                    }
+                ],
+                "_type": "course",
+                "creditHours": 3,
+                "isDeprecated": false,
+                "description": "The primary objective of this course is to introduce you to broad classes of techniques and tools for analyzing text data using Natural Language Processing (NLP) algorithms and techniques. It emphasizes on how to apply pre-processing, processing, and post processing NLP techniques to analyze and develop NLP models.",
+                "name": "Special Topics: Applied Natural Language Processing",
+                "_updatedAt": "2023-08-12T05:49:01Z",
+                "_rev": "2fGL4wLzApR3gIrnx0E5rj",
+                "syllabusUrl": "https://mahdi-roozbahani.github.io/ANLP-Summer23/",
+                "rating": 3.857142857142857,
+                "difficulty": 2.857142857142857,
+                "workload": 12.142857142857142
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "special-topics-applied-natural-language-processing"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "isExperimentalCompile": true,
+    "gsp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,253 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "created": "2022-07-05T23:23:15Z",
+                "isDeprecated": false,
+                "syllabusUrl": null,
+                "codes": [
+                    "PUBP-6501"
+                ],
+                "_rev": "iLpqNfBINCDhaBRaVHVESN",
+                "name": "Information Policy and Management",
+                "_type": "course",
+                "_id": "external-import-PUBP-6501",
+                "reviews": [
+                    {
+                        "id": "9fhAtXL2CiINA8uG6HiWVf",
+                        "difficulty": 5,
+                        "_createdAt": "2024-06-01T02:36:09Z",
+                        "body": "This course should not be harder but it has been made harder purposely, not sure why. Quizzes are open ended, closed book and proctored and need to answer in 50 or less words. On top of these, TAs deducts points left and right commenting that it's not correct and it should be from the slides no. X. \nThere are some discussions and for that you have to read and write a lot. Reading and writing is good but quizzes are made tough and especially grading. TAs take their own time to respond to questions. There was no review after 2021, it may be because it needs your GT ID. I thought of reviewing it so that at least teaching members get the correct feedback and work on improving this couse.",
+                        "created": "2024-06-01T02:36:09Z",
+                        "workload": 7,
+                        "authorId": "CwTaaXrgnDjbnrSWEj842w==",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15",
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U"
+                        },
+                        "_id": "9fhAtXL2CiINA8uG6HiWVf",
+                        "_rev": "9fhAtXL2CiINA8uG6HiWSI",
+                        "_type": "review",
+                        "rating": 2,
+                        "course": null,
+                        "_updatedAt": "2024-06-01T02:36:09Z"
+                    },
+                    {
+                        "_id": "external-import-5a122403-1c74-4948-aa0f-a101735b878f",
+                        "created": "2021-12-21T15:56:33Z",
+                        "body": "nice class, interesting homeworks. Easy to get an A. People that complain it was boring - idk what they expect from an university course, academia has a specific mindset, probably they got a bad grade and complain",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 2,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 5,
+                        "course": null,
+                        "id": "external-import-5a122403-1c74-4948-aa0f-a101735b878f",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1"
+                        },
+                        "_createdAt": "2021-12-21T15:56:33Z",
+                        "workload": 10,
+                        "_type": "review"
+                    },
+                    {
+                        "body": "A pretty easy class that consists of weekly reading and a discussion post that should average around 1.5 hours per week. The first half of the class has weekly quizzes which are limited to 50 words per answer and broad enough that you don't have to read every fine detail of the reading to do well on them. The majority of the grade is a final essay/report that is a group project, so splitting up the part of the essay spreads the load a little bit. Overall, the class was easy but the material was extremely dry.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-08-12T19:10:21Z",
+                        "course": null,
+                        "created": "2021-08-12T19:10:21Z",
+                        "difficulty": 1,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 4,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ"
+                        },
+                        "_type": "review",
+                        "workload": 2,
+                        "_id": "external-import-44e4690c-2874-4efe-88d1-8b3c96053337",
+                        "id": "external-import-44e4690c-2874-4efe-88d1-8b3c96053337"
+                    },
+                    {
+                        "workload": 4,
+                        "_id": "external-import-827e5b1b-0601-4503-8085-4886a62ace35",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "course": null,
+                        "body": "I was not impressed by this class. The irony of the class is that it is focused on information processes to limit uncertainties, but the PowerPoints were basically useless bullets with zero context. \n\nI guess you could say I took a few things away from this course, but overall, I feel like it did not provide me any value. The workload is not bad. 4 hours a week, to include discussions and literally memorizing the bullets off the PowerPoint slides for the quizzes. Grading isn't too harsh but put a decent amount of writing in for the discussions. The group project was probably the best part of the class. It helped bring together the different topics we learned throughout the semester. ",
+                        "_type": "review",
+                        "created": "2021-08-02T18:31:19Z",
+                        "_createdAt": "2021-08-02T18:31:19Z",
+                        "rating": 2,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2"
+                        },
+                        "difficulty": 1,
+                        "id": "external-import-827e5b1b-0601-4503-8085-4886a62ace35",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4"
+                    },
+                    {
+                        "id": "external-import-f3f40abb-20b9-4cc4-a9e7-705b18d2f570",
+                        "created": "2021-06-29T21:26:47Z",
+                        "body": "I'm only halfway through my semester but find I have a good enough feel for the course to review it. \n\nThe course grade breakdown is 30% quizzes, 20% discussion, 50% group project. The summer semester only has 6 quizzes, but I believe the fall/spring semester has more. \n\nFor the quizzes you basically have to memorize the PowerPoint slides. The quiz format is short answer and closed book. I recommend watching the PowerPoints and creating flashcards to study. Better yet, there's study sets on quizlet.com for this class already made. Use mnemonics or other study strategies to memorize lists in the slides. It's not fun, but it's definitely manageable. \n\nThe discussions require a comment on either the week's reading or lecture slides. This is easy to get 100% on. \n\nThe group project is just that--a group project. Your mileage may vary based on the group you get assigned. \n\nOverall I don't find this class to be the doom and gloom of the previous reviews. It certainly doesn't take 15-20 hours of work a week--more like 3-4 hours. If you're not good at memorizing things (I definitely don't think the previous reviewers were), take this as an opportunity to read up on learning methodologies such as mnemonics, the method of loci, spaced repetition, or chunking. These methods will help you get through this class and make you a better overall learner. ",
+                        "rating": 2,
+                        "course": null,
+                        "workload": 3,
+                        "semester": {
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester"
+                        },
+                        "_id": "external-import-f3f40abb-20b9-4cc4-a9e7-705b18d2f570",
+                        "_createdAt": "2021-06-29T21:26:47Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 3,
+                        "_type": "review"
+                    },
+                    {
+                        "_createdAt": "2020-05-14T13:20:47Z",
+                        "difficulty": 4,
+                        "rating": 3,
+                        "semester": {
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "body": "This course is only tangentially related to IT and deals with organizations and literal flows of information and how it affects operations and the business environment. Professor Rogers is exceptionally knowledgeable and passionate about the topic but I have never had to study and memorize as much as I did for this course in the entirety of my collegiate career. The forum discussions seem forced, the quizzes are all short answer and often worded so ambiguously that I'm floored that I was able to answer them at all despite studying for days and taking them on the last day every time to ensure I had maximized my review time. The final project is group-based and was a nightmare due to partners that don't contribute but YMMV.\n\nThe sad part is that I will probably use the tools I learned from the class more so than the CS classes in this program but holy crap was this a slog.",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "_id": "external-import-545aa579-f5d4-498d-a1ea-99b9556cf452",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "id": "external-import-545aa579-f5d4-498d-a1ea-99b9556cf452",
+                        "created": "2020-05-14T13:20:47Z",
+                        "_type": "review",
+                        "course": null,
+                        "workload": 15
+                    },
+                    {
+                        "_id": "external-import-d9f68eee-1fae-4862-9a86-9831bcc39765",
+                        "id": "external-import-d9f68eee-1fae-4862-9a86-9831bcc39765",
+                        "created": "2020-05-05T18:44:04Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "body": "This course covers a lot of interesting material and I was able to apply a lot of the concepts to my current job/position.  The quizzes are an enormous waste of time.   I had flashbacks to 7th grade biology; just memorizing lists of information to get a grade. The group project is fine, especially if you have a good group.  The \"discussion\" questions are in Canvas and is really more of a short answer (250-500 words) recap of a small portion of the reading assignment.  I spent 95% of my time studying for quizzes each week.  I think this class has potential, but needs some restructuring.  ",
+                        "_createdAt": "2020-05-05T18:44:04Z",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2020-1"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "difficulty": 3,
+                        "rating": 1,
+                        "_type": "review",
+                        "course": null,
+                        "workload": 12
+                    },
+                    {
+                        "difficulty": 3,
+                        "id": "external-import-8a496386-1e1b-4afb-9006-450d3b1d24e8",
+                        "created": "2020-04-30T02:45:35Z",
+                        "semester": {
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "_id": "external-import-8a496386-1e1b-4afb-9006-450d3b1d24e8",
+                        "_createdAt": "2020-04-30T02:45:35Z",
+                        "rating": 2,
+                        "workload": 15,
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "course": null,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "body": "This course doesn't seem to be as exciting or engaging as others, which I believe is part content and part structure. While I very much like the weekly quiz framework, that is, 50 words or less per answer, the associated rote memorization is unnecessary. Furthermore, rote memorization of material that is a bit dated doesn't help, either.\n\nThe weekly discussion threads have a lot of potential, but it seems people treat it as a quick checkbox exercise and don't fully engage in the discussion; post once and wait until next week. There isn't even much guidance about what constitutes a good post for full credit.\n\nThe group project can be interesting depending on which direction is taken, but like all other group assignments, this depends on who is within your group. The requirements are very reasonable with a 15 to 20 page paper and a brief set of slides."
+                    },
+                    {
+                        "rating": 3,
+                        "id": "external-import-193da8c2-c208-4b3c-b1e8-7d40cc241164",
+                        "difficulty": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi"
+                        },
+                        "body": "TLDR: Per week ~15 hours of reading, ~5 hours of quiz preparation, and ~2 hours of discussion points. If you are a slow reader, don't have great memorization, and have a full-time job, make this the only class you take for one semester. \n\nI have started the 3rd week in this class. The reading requirements weigh the most. I read slow (150 words per minute) in order to get a high comprehension of the material. You need to comprehend the material enough to pass the weekly closed-book quizzes. \n\nThe quizzes contain 10 questions and require you to provide written answers containing no more than 50 words. Though the quizzes are short, it is difficult to recall the material with only one week to prepare. These are important quizzes as they make up 50% of your grade.\n\nYou also need to provide a discussion point based on topics presented by the professor. These are worth 20% of your grade. I am unsure what exactly is required when it comes to submitting a discussion point and responding to other submissions. I hope to get feedback to see if I need to improve in this area.\n\nThe first two weeks had you read a considerable amount from a sociology book. If you have ever taken a sociology course, you know how \"dry\" sociologists convey their findings. This new week presents more readings than in the previous weeks. I will share more after our class gets to the group project. I hope to see others share their experience.",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "_createdAt": "2020-01-21T03:33:51Z",
+                        "created": "2020-01-21T03:33:51Z",
+                        "workload": 22,
+                        "course": null,
+                        "_id": "external-import-193da8c2-c208-4b3c-b1e8-7d40cc241164",
+                        "_type": "review"
+                    }
+                ],
+                "id": "external-import-PUBP-6501",
+                "creditHours": 3,
+                "programs": [
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "isFoundational": false,
+                "tags": [],
+                "_updatedAt": "2022-08-24T17:29:06Z",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "slug": "information-policy-and-management",
+                "description": "An introduction to the role of information and knowledge in modern private and public organizations. It covers theoretical and practical aspects of information seeking, gathering and use in organizations as well as knowledge creation and its role in private and public management.",
+                "rating": 2.6666666666666665,
+                "difficulty": 2.7777777777777777,
+                "workload": 10
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "information-policy-and-management"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

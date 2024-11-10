@@ -1,0 +1,43 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "creditHours": 3,
+                "_createdAt": "2022-08-19T21:40:20Z",
+                "isDeprecated": false,
+                "_type": "course",
+                "description": "This course provides an introduction to cyber-physical infrastructure for protection and control of electric energy systems, communication protocols, standardization and practices for cyber security.",
+                "id": "5cbd1444-ec69-4092-82b0-2d9ccf39ec6c",
+                "isFoundational": false,
+                "_rev": "vLev53Cwnp4JOI2CCHkcVA",
+                "_updatedAt": "2022-08-24T17:23:30Z",
+                "reviews": [],
+                "name": "Cyber-Physical Security in Electric Energy Systems",
+                "_id": "5cbd1444-ec69-4092-82b0-2d9ccf39ec6c",
+                "programs": [
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "syllabusUrl": null,
+                "created": "2022-08-19T21:40:20Z",
+                "slug": "cyber-physical-security-in-electric-energy-systems",
+                "codes": [
+                    "ECE-6374"
+                ],
+                "rating": null,
+                "difficulty": null,
+                "workload": null
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "cyber-physical-security-in-electric-energy-systems"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

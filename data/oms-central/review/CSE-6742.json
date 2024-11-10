@@ -1,0 +1,226 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "_type": "course",
+                "_id": "external-import-CSE-6742",
+                "syllabus": {
+                    "file": {
+                        "_type": "file",
+                        "asset": {
+                            "_ref": "file-e54caa74dca8c085951d6b7cba415d3d22a42330-pdf",
+                            "_type": "reference"
+                        }
+                    }
+                },
+                "id": "external-import-CSE-6742",
+                "slug": "modeling-simulation-and-military-gaming",
+                "tags": [],
+                "_updatedAt": "2022-08-25T21:42:04Z",
+                "_rev": "959qsafI8uoLDPJeciuXon",
+                "reviews": [
+                    {
+                        "_createdAt": "2024-05-09T18:31:58Z",
+                        "authorId": "cyXKgHsaBlqraVWSRsGeSw==",
+                        "created": "2024-05-09T18:31:58Z",
+                        "rating": 5,
+                        "_updatedAt": "2024-05-09T18:31:58Z",
+                        "_type": "review",
+                        "body": "I really liked this class. To concede the points made by many other reviewers, the class is essentially one long group project, and the content is tangential to most majors. But the skills you learn - quickly picking up a new coding language and platform, working with a cross-functional team, integrating computer science with research and presentation skills - are very career relevant. Prof Borowitz is brilliant and engaged. The class is small and she personally responds to student questions. Her research on space weapons (weaponry deployed by and targeting satellites) is interesting and super relevant to current events. Toward the end of the class we had the option to participate in a simulated war game involving satellite weaponry with the prof personally leading small groups and discussion afterwards. ",
+                        "_rev": "d6xkJgk0Tc3xRKbZFEK1pV",
+                        "course": null,
+                        "id": "d6xkJgk0Tc3xRKbZFEK1qz",
+                        "workload": 6,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05",
+                            "_updatedAt": "2024-05-09T04:45:52Z",
+                            "startDate": "2024-01-08",
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw"
+                        },
+                        "_id": "d6xkJgk0Tc3xRKbZFEK1qz",
+                        "difficulty": 3
+                    },
+                    {
+                        "id": "hY5oFqEBnGXbGqTX3TbBKO",
+                        "workload": 4,
+                        "rating": 2,
+                        "course": null,
+                        "body": "Oof, what can I say about this class. For some background on where I'm coming from, I have a BS in Aerospace Engineering, with 5 years experience in software engineering, and this was my 6th class in OMSCS. I have worked my entire career in the defense industry, with about 2 years of experience in modeling in simulation, so I thought this might be an interesting class to see how it compares to what I've done and to possibly learn more about the field.\n\n Let's start with the positives:\nIt was a pretty easy A.\n\nNow for the negatives:\nThere are honestly too many to list here, so I'll try to do the quick version. First off, the assignments in this class are ridiculous. Basically the entire class is centered around a single group project where we made a simulation using a tool called NetLogo. I'm not even going to get into how awful it was working with NetLogo, because that was its own disaster. There were lectures, but I don't think I watched any past the first week or two since they were not relevant or helpful at all. Basically your experience in this class comes down to your group. I ended up being the strongest programmer in the group, so I did most of the actual coding, and left most of the presentation to the rest of the group. The way the deadlines were set up, we would often have 2 or even 3 weeks of nothing, then just do everything for that deadline in one weekend. Like I said, it's a pretty easy A, but just no real value in my opinion. I have been working on simulations in defense for a couple years, and this literally gave me no value to my career.\n\nOverall, I would not recommend this class to anyone. Seriously. This is the only class I've taken in OMSCS that I regret taking. It was a waste of time and means one less class I get to take in the program that could have actually given me some useful knowledge and skills. The only reason I gave it a 2 instead of a 1 overall is because it was easy and grading was generous. That being said, there are other classes in the program you could take that would be more useful but still have a lighter workload.",
+                        "_rev": "hY5oFqEBnGXbGqTX3TbBGN",
+                        "created": "2022-08-15T13:53:46Z",
+                        "_id": "hY5oFqEBnGXbGqTX3TbBKO",
+                        "authorId": "dKtccBdNyDohvzZvUSh7zw==",
+                        "_updatedAt": "2022-08-15T13:53:46Z",
+                        "_type": "review",
+                        "difficulty": 1,
+                        "_createdAt": "2022-08-15T13:53:46Z",
+                        "semester": {
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring"
+                        }
+                    },
+                    {
+                        "_type": "review",
+                        "workload": 1,
+                        "created": "2021-12-11T22:36:43Z",
+                        "rating": 3,
+                        "semester": {
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z"
+                        },
+                        "_id": "external-import-040c32eb-d782-42a5-a074-b58d0dbdfa15",
+                        "body": "I took this class as a cybersecurity policy elective, but the class has nothing to do with cybersecurity. The load was fairly easy and it's easy to get an A in the class. However the subject matter is not at all related to the degree I'm getting, which is more a statement about the program's available electives than the class itself. TL;DR the class is fine and an easy A, but it's not the class to take if you're looking to learn anything related to cybersecurity. ",
+                        "difficulty": 2,
+                        "_createdAt": "2021-12-11T22:36:43Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "id": "external-import-040c32eb-d782-42a5-a074-b58d0dbdfa15",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "course": null
+                    },
+                    {
+                        "rating": 3,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "created": "2021-05-23T23:51:09Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_id": "external-import-afda3cca-ceff-4dcd-8bb1-b349bb14f440",
+                        "_type": "review",
+                        "_createdAt": "2021-05-23T23:51:09Z",
+                        "body": "This is very much a filler course. There's not a lot of work, and what work there is isn't challenging. But you can pick up credits towards graduation easily.\n\nThe course structure is almost entirely built around the final group project (80%). You will have several bites at the apple so to speak. There are something like 4 \"interim\" presentations, which should generally be early iterations of your final presentation (on which you are graded). These are worth 20% in total. The final presentation is worth 40% and the group work feedback is worth 20%. The last 20% of the course is class discussion stuff. This will involve readings, one of which is about 100+ pages (the rest are shorter). In the 1st half of the course be prepared to read about 30 pages a week and write 500 word commentaries on what you read (2nd half of course these go away). Presentations are literally 10-15 minutes of recorded talking over a powerpoint. \n\nDon't be freaked there is a \"soft\" 95% cap on all assignments, the last 5% is if you've truly gone above and beyond in some crazy way (and in many cases, I think the reading/commentary grades are just flat 95% if you submitted something of roughly the right length, and a lower grade otherwise. I don't know how 2 TAs are supposed to read 500 words per student per week). \n\nFor most OMSCS students, be aware that this is a policy track class for cybersec folks. Therefore, you might be expected to shoulder the bulk (I ended up doing 100%) of the coding for your final project. This coding is in netlogo, which is a weird functional language. Thankfully, it's not hard to learn (being very high level) and besides you don't need to make very complicated simulations anyway. I think we did a couple hundred lines of code for our project, but a lot of it was just variable setting, comments or whitespace for readability. \n\nThe structure of \"do presentation, get feedback, do another presentation\" will really help you iron out the kinks in your presentation. These interim presentations get TA and peer feedback, so they should keep incrementally improving from iteration to iteration. That's a great way to learn how to present. One gripe I have is the window for writing code, which means you basically have to finish coding the final project in 2 weeks (learn new language, architect and implement an application). The deliverable before \"present your model\" is \"present your concept\", so you should use that as a chance to basically pseudocode everything out, so you can implement fast once you need to code the model itself. Personally, since I was going to code everything anyway, I tried to be firm with my team about what I was comfortable I could implement quickly. If I hadn't done that, there was a risk of scope creep. Also if you have any tabletop wargaming experience, it's fairly straightforward to think about your simulation rules as a wargame ruleset you are creating and then having to implement.\n\nFor final projects, if you choose a battle to simulate that is more \"modern\", then the impact of luck is increased, since modern combat has a lot of interlocking systems, where a lucky hit somewhere can yield a failure cascade. For \"ancient\" or \"medieval\"  battles, however, luck plays less of a part. With thousands of people swinging sharp pieces of metal at each other, some lucky hit will be offset elsewhere with a lucky hit for the opposing side. TL;DR: modern battles can be more interesting to simulate due to the effect of luck. It would also be fun to see the causal chain of events from some freak accident.\n\nFinally, my group had good success using regression analysis to present results. It's not taught in the class, but if you have any data science background at all, you can just dip into statsmodels or R (excel if you are hard pressed) and run a regression (logistic or OLS, your choice), pull out the p-values and t-stats, and use them to tell a story. This seemed to impress a lot, even though it's a fairly basic step to take. Since you control the input dataset via your simulation, you can pretty much make sure that you get 1) \"correct\" signs and 2) significant p-values.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-afda3cca-ceff-4dcd-8bb1-b349bb14f440",
+                        "course": null,
+                        "workload": 3,
+                        "difficulty": 1
+                    },
+                    {
+                        "id": "external-import-046059c0-2754-4b33-8437-a004c1e9082b",
+                        "created": "2021-04-27T13:55:57Z",
+                        "rating": 5,
+                        "difficulty": 2,
+                        "course": null,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "workload": 10,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester"
+                        },
+                        "_id": "external-import-046059c0-2754-4b33-8437-a004c1e9082b",
+                        "body": "This class was a good dive into Agent Based Modeling applied to military combat. There were no exams, only writings and project based assignments that feed into a final project that takes a hefty portion of the grade. As you go forward in the class be very mindful of the limitations of the ABM software and your time. Avoid picking a project that is too grandiose or trivial.\n\nThe class is heavily group based, so be prepared to meet with the group and delegate work between each other. I highly recommend letting someone with a Project Management mindset take notes, write up action items, and keep a record of discussions. \n\nOnce in your groups, try to find each other's niche and let that person excel there. Someone may be a better researcher than coder and that is a line you can use to delegate work amongst yourselves.\n\nOverall I would rate if a fun class as I was fortunate to have a fantastic group. That being said, I could see a bad group making this class much harder. \n\nYou are going to get out of it what you put into it and if you have an interest in either Agent Based Modelling or Military Simulation I highly recommend it.",
+                        "_createdAt": "2021-04-27T13:55:57Z"
+                    },
+                    {
+                        "course": null,
+                        "semester": {
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z"
+                        },
+                        "workload": 10,
+                        "_id": "external-import-3d5d7370-db92-41e4-8140-63c7816b0cca",
+                        "id": "external-import-3d5d7370-db92-41e4-8140-63c7816b0cca",
+                        "created": "2020-12-09T12:42:07Z",
+                        "rating": 4,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2020-12-09T12:42:07Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "body": "I thought this was a really fun class and I learned a lot about modeling and NetLogo. There\u2019s a group project/presentation that\u2019ll you\u2019ll work on. Dr. Borowitz creates the groups and if you have a good group that gets along with each other, you\u2019ll enjoy this class.\n\nIn general, the assignments are not difficult. For a few weeks, there is a lot of reading. Other assignments are tutorials that you follow along and are very easy. You\u2019ll submit updates to your group presentation roughly every other week and review each other\u2019s presentations. \n\nDr. Borowitz has some very impressive credentials and is extremely knowledgeable. She holds office hours every week and is very helpful. \n\nThe TA is Chandler Thornhill. He also holds weekly office hours, is very knowledgeable, and did a great job supporting the class.\n\nThis class can be used for the Flexible Core requirement for the Info Sec and Cyper-Physical System tracks. It\u2019s also within the required courses group for the Policy track. In my opinion, this was the best possible choice for the Flexible Core requirement.",
+                        "difficulty": 2,
+                        "_type": "review"
+                    }
+                ],
+                "name": "Modeling, Simulation and Military Gaming",
+                "description": "Focuses on the creation and use of modeling and simulation tools to analyze and train students regarding strategic events in international relations.",
+                "isDeprecated": false,
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    },
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/e54caa74dca8c085951d6b7cba415d3d22a42330.pdf",
+                "creditHours": 3,
+                "codes": [
+                    "CSE-6742",
+                    "INTA-6742"
+                ],
+                "isFoundational": false,
+                "officialURL": "https://omscs.gatech.edu/cse-6742-modeling-simulation-and-military-gaming",
+                "created": "2022-07-05T23:23:15Z",
+                "textbooks": [
+                    {
+                        "name": "An Introduction to Agent-Based Modeling: Modeling Natural, Social, and Engineered Complex Systems with NetLogo",
+                        "_key": "5d32bde20ffc484b933b82807141d219",
+                        "url": "https://amzn.to/3Akp383"
+                    },
+                    {
+                        "name": "Engineering Principles of Combat Modeling and Distributed Simulation",
+                        "_key": "95b5011bd08b74a3734818c5481379c1",
+                        "url": "https://amzn.to/3CwBSyW"
+                    },
+                    {
+                        "name": "Simulating War: Studying Conflict through Simulation Games",
+                        "_key": "6afcffeb81b2cc3feb71a09342b7f5f7",
+                        "url": "https://amzn.to/3AoLlp9"
+                    },
+                    {
+                        "name": "Military Power: Explaining Victory and Defeat in Modern Battle",
+                        "_key": "af5a83f036b2fbdd8da45695177eba2f",
+                        "url": "https://amzn.to/3Aj3xAB"
+                    },
+                    {
+                        "name": "The Face of Battle: A Study of Agincourt, Waterloo, and the Somme",
+                        "_key": "5bcbef7515a2bbe4893ffdef83d48c7b",
+                        "url": "https://amzn.to/3TfJSdx"
+                    }
+                ],
+                "rating": 3.6666666666666665,
+                "difficulty": 1.8333333333333333,
+                "workload": 5.666666666666667
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "modeling-simulation-and-military-gaming"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,42 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "isDeprecated": false,
+                "created": "2022-08-19T21:55:21Z",
+                "creditHours": 3,
+                "isFoundational": false,
+                "_createdAt": "2022-08-19T21:55:21Z",
+                "slug": "special-topics-digital-public-policy",
+                "syllabusUrl": null,
+                "id": "28df9ae9-8ade-4b02-bd5a-5506544b33f0",
+                "_updatedAt": "2022-08-24T17:43:44Z",
+                "_id": "28df9ae9-8ade-4b02-bd5a-5506544b33f0",
+                "reviews": [],
+                "codes": [
+                    "PUBP-8813"
+                ],
+                "_rev": "959qsafI8uoLDPJecfUter",
+                "programs": [
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "_type": "course",
+                "name": "Special Topics: Digital Public Policy",
+                "rating": null,
+                "difficulty": null,
+                "workload": null
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "special-topics-digital-public-policy"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

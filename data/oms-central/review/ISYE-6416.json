@@ -1,0 +1,68 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "id": "external-import-ISYE-6416",
+                "programs": [
+                    {
+                        "acronym": "AN"
+                    }
+                ],
+                "_id": "external-import-ISYE-6416",
+                "isDeprecated": false,
+                "isFoundational": false,
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "name": "Computational Statistics",
+                "syllabusUrl": null,
+                "created": "2022-07-05T23:23:15Z",
+                "_rev": "iLpqNfBINCDhaBRaVHTIHH",
+                "_updatedAt": "2022-08-24T17:21:27Z",
+                "slug": "computational-statistics",
+                "tags": [],
+                "creditHours": 3,
+                "codes": [
+                    "ISYE-6416"
+                ],
+                "_type": "course",
+                "description": "This class describes the available knowledge regarding statistical computing. Topics include random deviates generation, importance sampling, Monte Carlo Markov chain (MCMC), EM algorithms, bootstrapping, model selection criteria, (e.g. C-p, AIC, etc.) splines, wavelets, and Fourier transform.",
+                "reviews": [
+                    {
+                        "course": null,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "body": "What this course is: a survey of elementary machine learning methods that mostly aren't the current state of practice with. You'll code some short implementations, write some proofs, and do a project which involves writing a report and a full model implementation. If you are completely new to machine learning, I'd recommend this course. If you've been doing machine learning for a few years, and want to become more proficient with current methodologies like deep learning or gradient boosting machines, don't take this course.",
+                        "id": "external-import-402839ab-cc31-4e43-8111-29b60123a8da",
+                        "created": "2020-07-31T23:17:08Z",
+                        "_createdAt": "2020-07-31T23:17:08Z",
+                        "rating": 3,
+                        "difficulty": 3,
+                        "workload": 12,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HiC5",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2020-2",
+                            "_updatedAt": "2022-07-22T00:46:39Z",
+                            "startDate": "2020-05-11"
+                        },
+                        "_id": "external-import-402839ab-cc31-4e43-8111-29b60123a8da",
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:19Z"
+                    }
+                ],
+                "rating": 3,
+                "difficulty": 3,
+                "workload": 12
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "computational-statistics"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

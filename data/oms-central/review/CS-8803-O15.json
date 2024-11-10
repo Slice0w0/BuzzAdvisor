@@ -1,0 +1,288 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "name": "Special Topics: Introduction to Computer Law",
+                "creditHours": 3,
+                "id": "b2a2694d-c1c4-4dad-9b99-f1bab67d2c2a",
+                "created": "2022-08-15T14:49:59Z",
+                "officialURL": "https://omscs.gatech.edu/cs-8803-o15-introduction-computer-law",
+                "_id": "b2a2694d-c1c4-4dad-9b99-f1bab67d2c2a",
+                "codes": [
+                    "CS-8803-O15"
+                ],
+                "isFoundational": false,
+                "slug": "special-topics-introduction-to-computer-law",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "_type": "course",
+                "reviews": [
+                    {
+                        "rating": 5,
+                        "created": "2024-06-20T00:18:17Z",
+                        "_createdAt": "2024-06-20T00:18:17Z",
+                        "course": null,
+                        "_updatedAt": "2024-06-20T00:18:17Z",
+                        "_id": "pOz60XhfX3Rjlw5fdQscit",
+                        "body": "I love the teaching team. So fun, great course that can be useful when you thinking about developing your next big ideas.",
+                        "difficulty": 2,
+                        "_rev": "pOz60XhfX3Rjlw5fdQscdb",
+                        "_type": "review",
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "authorId": "8AxDzE3RxkCU+WRxTiSsqA==",
+                        "id": "pOz60XhfX3Rjlw5fdQscit",
+                        "workload": 8
+                    },
+                    {
+                        "_createdAt": "2024-05-13T22:06:33Z",
+                        "_rev": "Wjp792UkPhmbw5TWA6dL0I",
+                        "authorId": "k+RtfLyw1mgeUWj2JKJvmw==",
+                        "body": "Highly recommend. The course is designed to be efficient in the sense that it teaches you a lot with very little workload. Especially useful for people thinking about being the founder of a startup since most things are taught from that perspective.\nWeek with highest workload took me 6.5 hours, while I was able to completely ignore the course a couple of other weeks.",
+                        "_id": "Wjp792UkPhmbw5TWA6dL3z",
+                        "difficulty": 2,
+                        "_updatedAt": "2024-05-13T22:06:33Z",
+                        "_type": "review",
+                        "workload": 2,
+                        "created": "2024-05-13T22:06:33Z",
+                        "course": null,
+                        "semester": {
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05",
+                            "_updatedAt": "2024-05-09T04:45:52Z",
+                            "startDate": "2024-01-08"
+                        },
+                        "rating": 5,
+                        "id": "Wjp792UkPhmbw5TWA6dL3z"
+                    },
+                    {
+                        "id": "NHkDo57DVwEA8qM8ThNGKW",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb"
+                        },
+                        "_rev": "NHkDo57DVwEA8qM8ThNGId",
+                        "_updatedAt": "2024-05-07T17:49:28Z",
+                        "_type": "review",
+                        "_createdAt": "2024-05-07T17:49:28Z",
+                        "workload": 3,
+                        "created": "2024-05-07T17:49:28Z",
+                        "rating": 4,
+                        "course": null,
+                        "_id": "NHkDo57DVwEA8qM8ThNGKW",
+                        "authorId": "7RqJJOi7Q/l7bB59mDCwgg==",
+                        "body": "Spring 2024 -- doubled this course with GA and found it to be very manageable, ended with a strong A. \n\nProf. Huffman and Prof. Omojokun are top-notch instructors. They make the course engaging and accessible. I found the course content to be pretty interesting and worthwhile. From my experience with startups, small business valuations (aside from team, and product-market fit) are heavily indexed on existing patents, IP, and copyrights. If you're ever planning to spin up your own tech company, I think this is a good introduction to some of the legal dynamics at play.\n\nCourseload is very manageable, but some expectations could be clarified better. For example, you must complete paper outlines before you submit the full thing, which gives you a chance to get TA feedback. I didn't realize these were actually graded (I think one of them was worth something like 8% of your total grade?), which caught me off guard. I actually had a higher grade in GA than this course for a good chunk of the semester. My advice is to go over the assignment instructions with a fine-tooth comb and make sure you hit everything that's being asked of you, because it's more of a rubric than topics to consider.\n\nDiscussions on Ed were graded, albeit pretty leniently compared to the written assignments. I saw some students clearly post copy/paste answers from ChatGPT (bulleted lists of vague responses and all), which I felt ambivalent about given the rigor of this program. My hope is that low-effort posts like that are policed more going forward.\n\nWeekly quizzes were pretty straightforward open-book/open-notes. A few tricky questions but pretty easy to get an +80. \n\nTAs were generally pretty good. Adrian seemed to be the one running the show and was very active and response on Ed. Seemed like a great guy.\n\nOverall I got what I wanted from this course and it paired nicely with a harder one. I'm giving it a 4/5 because I think a few kinks could be worked out with clearer assignment instructions and how the written assignments will be graded. Whenever I got grader feedback, it was usually (to paraphase) \"you're missing _____ section\" or a generic \"Nice job!\" which felt too formulaic. It'd be nice to get more detailed feedback if each section is going to be scrutinized in the grading.\n",
+                        "difficulty": 1
+                    },
+                    {
+                        "_createdAt": "2024-04-20T15:11:50Z",
+                        "workload": 3,
+                        "_type": "review",
+                        "id": "4NGY7tTEZlIcrJY4aMPTFf",
+                        "created": "2024-04-20T15:11:50Z",
+                        "authorId": "8AxDzE3RxkCU+WRxTiSsqA==",
+                        "body": "This is a wonderful class that will definitely bring you practical insights for your next venture. On top of Digital Marketing, AI Ethics, these are the classes that bring real value to my business, instead of coding, coding, writing papers for the sake of doing it.  It is more efficient if you take it in addition with another course during Fall or Spring. Why take those 3 easy classes alone during the summer?\nThere are two projects: business acquisition and code analysis, don't fake them, do the research. Do it seriously, you will be fine. The lecture quizzes are fine too, as long as you watched them. They are well done.",
+                        "_id": "4NGY7tTEZlIcrJY4aMPTFf",
+                        "course": null,
+                        "rating": 5,
+                        "_rev": "4NGY7tTEZlIcrJY4aMPTCP",
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "_updatedAt": "2024-04-20T15:11:50Z",
+                        "difficulty": 2
+                    },
+                    {
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "_updatedAt": "2024-01-03T01:20:33Z",
+                        "created": "2024-01-03T01:20:33Z",
+                        "body": "Not sure if this class has changed in recent semester, but I'd say the workload was around 10 hours/week. Leaving this review to balance out the 2 hour ones.  I'd say its similar to taken Computer Networks, ML4T, and InfoSec in terms of workload. \n\nStill a great class. I learned a lot and I felt like there was enough material where one could dive in and spend extra time if needed. I'd only recommend if you are interested in the topic though as I dont think this class would really be helpful in a traditional SWE career. If you are looking for an easy class, there are just as easy classes that are helpful. \n\nI took it because i'm interested in the field and it was great",
+                        "course": null,
+                        "_rev": "7KccGpcutbriXyUCLjF8dv",
+                        "_type": "review",
+                        "workload": 15,
+                        "_id": "7KccGpcutbriXyUCLjF8fY",
+                        "_createdAt": "2024-01-03T01:20:33Z",
+                        "rating": 5,
+                        "id": "7KccGpcutbriXyUCLjF8fY",
+                        "authorId": "UuztNb7E+SDCxLpV7Dd3Kw==",
+                        "difficulty": 3
+                    },
+                    {
+                        "rating": 5,
+                        "difficulty": 2,
+                        "_createdAt": "2023-12-30T00:16:51Z",
+                        "_rev": "Pm4H4xdFhHJgzHn4arIrig",
+                        "authorId": "tiCeFqq+i+v2bZk+eIR6CA==",
+                        "id": "Pm4H4xdFhHJgzHn4arIrm4",
+                        "_type": "review",
+                        "semester": {
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z"
+                        },
+                        "_updatedAt": "2023-12-30T00:16:51Z",
+                        "created": "2023-12-30T00:16:51Z",
+                        "body": "Amazing class, could not recommend it enough. The weekly lectures with quiz associated were very fair, and you will do well as long as you pay enough attention and take notes. The two projects were also very fair and interesting in their own right, allowing you to express your knowledge and interests in connection with the course materials. The amount of work every week is extremely reasonable, unlike other courses in this program that I feel saddle you with work just because. The videos are all extremely high quality and very entertaining, and I see myself referring back to them for years to come.",
+                        "course": null,
+                        "workload": 4,
+                        "_id": "Pm4H4xdFhHJgzHn4arIrm4"
+                    },
+                    {
+                        "_type": "review",
+                        "workload": 2,
+                        "_updatedAt": "2023-12-20T14:29:35Z",
+                        "id": "Pm4H4xdFhHJgzHn4a0S9Vq",
+                        "authorId": "OTMORSBgU2cPEuwKJq+EwA==",
+                        "body": "This class is easy. Really, really easy. I cannot see how a native English speaker could get less than a B in this class assuming they didn't skip assignments. \nAssignments: weekly lecture quizzes (the lectures open up week by week), weekly discussion board posts (need 10/12 for full credit), 2 major writing assignments on corporate acquisition and code analysis for infringement. Generous extra credit on discussion board and code analysis project.\nI wanted to pair GA with something to maintain momentum and this was that class. It honestly was pretty interesting and now I know more than I did before about intellectual property so I don't regret it.",
+                        "_createdAt": "2023-12-20T14:29:35Z",
+                        "course": null,
+                        "_id": "Pm4H4xdFhHJgzHn4a0S9Vq",
+                        "rating": 5,
+                        "created": "2023-12-20T14:29:35Z",
+                        "difficulty": 1,
+                        "semester": {
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z"
+                        },
+                        "_rev": "Pm4H4xdFhHJgzHn4a0S9SS"
+                    },
+                    {
+                        "_id": "82cNgj2inMQdAXMxwhaKxr",
+                        "workload": 2,
+                        "_updatedAt": "2023-12-06T16:51:24Z",
+                        "difficulty": 2,
+                        "course": null,
+                        "_createdAt": "2023-12-06T16:51:24Z",
+                        "_rev": "82cNgj2inMQdAXMxwhaKu7",
+                        "body": "I really liked this course. The majority of the grade is quizzes (30%), an acquisition project (25%), and a code analysis (35%) project.\nThe quizzes are weekly quizzes that relate directly to that module. The quizzes/modules are released at the start of each week, so you cannot work ahead.  The quizzes are multiple choice and while the information directly relates to the module, they can sometimes be tricky/ambiguous. \nThe assignments are pretty open-ended and do not include a rubric. This can make it challenging to know if you included everything required. Both assignments have an outline due, so it does help that feedback is provided on the outline. \nThe average time per week increases when the assignments are due, but my time estimate applies to the average week with a module/quiz. \nThere is also 10% of your grade based on class discussions on Ed Discussion. ",
+                        "id": "82cNgj2inMQdAXMxwhaKxr",
+                        "created": "2023-12-06T16:51:24Z",
+                        "_type": "review",
+                        "rating": 5,
+                        "authorId": "eQAuvyGAcLRTBOLdx5+lSQ==",
+                        "semester": {
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z"
+                        }
+                    },
+                    {
+                        "_createdAt": "2023-08-23T05:49:18Z",
+                        "course": null,
+                        "created": "2023-08-23T05:49:18Z",
+                        "semester": {
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15"
+                        },
+                        "_updatedAt": "2023-08-23T05:49:18Z",
+                        "workload": 1,
+                        "body": "Very easy but interesting topics. Helpful TAs. Opportunities to earn extra credit. Recommend if you want an easy A.",
+                        "rating": 5,
+                        "authorId": "Q9SPqwAMRl9Axo0ZxMx7Dg==",
+                        "difficulty": 5,
+                        "_rev": "LiNoOtTDK2i4ieDNct92Rh",
+                        "_type": "review",
+                        "_id": "LiNoOtTDK2i4ieDNct92WG",
+                        "id": "LiNoOtTDK2i4ieDNct92WG"
+                    },
+                    {
+                        "rating": 2,
+                        "course": null,
+                        "body": "It was interesting but very surface level info. The quizzes were extremely easy and the projects were pretty leniently graded. I'm not sure this warrants 3 credits towards a Masters degree unfortunately, it felt like an undergrad elective.",
+                        "difficulty": 1,
+                        "created": "2023-03-26T23:00:46Z",
+                        "semester": {
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z"
+                        },
+                        "authorId": "5OF4BxzgwHSPRo/ztUu4pA==",
+                        "_updatedAt": "2023-03-26T23:00:46Z",
+                        "_type": "review",
+                        "workload": 2,
+                        "id": "Ldi4P7GPT7eW6bdVkAnMxE",
+                        "_rev": "Ldi4P7GPT7eW6bdVkAnMw9",
+                        "_id": "Ldi4P7GPT7eW6bdVkAnMxE",
+                        "_createdAt": "2023-03-26T23:00:46Z"
+                    }
+                ],
+                "description": "In what we believe to be the first of its kind in a computer law course, students will analyze third-party commercial-grade code as a technical expert (witness) might do to support a litigation.",
+                "isDeprecated": false,
+                "_rev": "vLev53Cwnp4JOI2CCHqi97",
+                "_createdAt": "2022-08-15T14:49:59Z",
+                "_updatedAt": "2022-08-24T17:45:15Z",
+                "tags": [
+                    "CL"
+                ],
+                "syllabusUrl": null,
+                "rating": 4.6,
+                "difficulty": 2.1,
+                "workload": 4.2
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "special-topics-introduction-to-computer-law"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

@@ -1,0 +1,1541 @@
+[
+    {
+        "name": "Special Topics: Applied Natural Language Processing",
+        "description": "The primary objective of this course is to introduce you to broad classes of techniques and tools for analyzing text data using Natural Language Processing (NLP) algorithms and techniques. It emphasizes on how to apply pre-processing, processing, and post processing NLP techniques to analyze and develop NLP models.",
+        "syllabus": {
+            "url": "https://mahdi-roozbahani.github.io/ANLP-Summer23/"
+        },
+        "isFoundational": false,
+        "slug": "special-topics-applied-natural-language-processing",
+        "codes": [
+            "CSE-8803-OAN"
+        ],
+        "reviewCount": 7,
+        "rating": 3.857142857142857,
+        "difficulty": 2.857142857142857,
+        "workload": 12.142857142857142
+    },
+    {
+        "name": "Special Topics: Quantum Computing",
+        "description": "The goal of this course is to provide students in CS and ECE with the fundamental background on quantum computing and equip them with the skills to write code and optimize quantum programs on real quantum computers.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-f921a6a8952de8270a8002e7cdd20e798252a800-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "special-topics-quantum-computing",
+        "codes": [
+            "CS-8803-O13"
+        ],
+        "reviewCount": 21,
+        "rating": 3.6666666666666665,
+        "difficulty": 3.4761904761904763,
+        "workload": 12.619047619047619
+    },
+    {
+        "name": "Seminar: Computational Sociology Seminar",
+        "isFoundational": false,
+        "slug": "seminar-computational-sociology-seminar",
+        "codes": [
+            "CS-8001-OSO"
+        ],
+        "reviewCount": 0
+    },
+    {
+        "name": "Special Topics: Digital Public Policy",
+        "isFoundational": false,
+        "slug": "special-topics-digital-public-policy",
+        "codes": [
+            "PUBP-8813"
+        ],
+        "reviewCount": 0
+    },
+    {
+        "name": "Natural Language Processing",
+        "description": "Topics include lexical analysis, parsing, interpretation of sentences, semantic representation, organization of knowledge, inference mechanisms. Newer approaches combining statistical language processing and information retrieval techniques.",
+        "isFoundational": true,
+        "slug": "natural-language-processing",
+        "codes": [
+            "CS-7650"
+        ],
+        "reviewCount": 8,
+        "rating": 3.875,
+        "difficulty": 2.5,
+        "workload": 10
+    },
+    {
+        "name": "Seminar: CS Educators Seminar",
+        "isFoundational": false,
+        "slug": "seminar-cs-educators-seminar",
+        "codes": [
+            "CS-8001-OED"
+        ],
+        "reviewCount": 0
+    },
+    {
+        "name": "Cyber-Physical Security in Electric Energy Systems",
+        "description": "This course provides an introduction to cyber-physical infrastructure for protection and control of electric energy systems, communication protocols, standardization and practices for cyber security.",
+        "isFoundational": false,
+        "slug": "cyber-physical-security-in-electric-energy-systems",
+        "codes": [
+            "ECE-6374"
+        ],
+        "reviewCount": 0
+    },
+    {
+        "name": "Seminar: Women in Tech Seminar",
+        "isFoundational": false,
+        "slug": "seminar-women-in-tech-seminar",
+        "codes": [
+            "CS-8001-OWN"
+        ],
+        "reviewCount": 0
+    },
+    {
+        "name": "Seminar: Computing in Python Seminar",
+        "isFoundational": false,
+        "slug": "seminar-computing-in-python-seminar",
+        "codes": [
+            "CS-8001-OCS"
+        ],
+        "reviewCount": 0
+    },
+    {
+        "name": "Special Topics: Introduction to Computer Law",
+        "description": "In what we believe to be the first of its kind in a computer law course, students will analyze third-party commercial-grade code as a technical expert (witness) might do to support a litigation.",
+        "isFoundational": false,
+        "slug": "special-topics-introduction-to-computer-law",
+        "codes": [
+            "CS-8803-O15"
+        ],
+        "reviewCount": 10,
+        "rating": 4.6,
+        "difficulty": 2.1,
+        "workload": 4.2
+    },
+    {
+        "name": "Special Topics: Geopolitics of Cybersecurity",
+        "isFoundational": false,
+        "slug": "special-topics-geopolitics-of-cybersecurity",
+        "codes": [
+            "PUBP-8823"
+        ],
+        "reviewCount": 1,
+        "rating": 5,
+        "difficulty": 2,
+        "workload": 6
+    },
+    {
+        "name": "Special Topics: Global Entrepreneurship",
+        "description": "This course will provide you with real-world, hands-on learning on what it\u2019s like to create a startup. You will learn the language and values of entrepreneurship, and then work to hone your entrepreneurial skills.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-ed98a1f52f9424d1525c07c00f5e0a8417b9463e-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": false,
+        "slug": "special-topics-global-entrepreneurship",
+        "codes": [
+            "CS-8803-O17"
+        ],
+        "reviewCount": 8,
+        "rating": 3,
+        "difficulty": 2.125,
+        "workload": 6
+    },
+    {
+        "name": "Introduction to Information Security",
+        "description": "A broad spectrum of information security: threats, basic cryptography, software vulnerabilities, programming for malice, operating system protections, network security, privacy, data mining, computer crime.",
+        "syllabus": {
+            "url": "https://docs.google.com/document/d/1EIR__l5eJ3hufG4tQN5kMvuSf2ZesHXmBN8bF-cj9Mg/edit"
+        },
+        "isFoundational": true,
+        "slug": "introduction-to-information-security",
+        "codes": [
+            "CS-6035"
+        ],
+        "reviewCount": 469,
+        "rating": 3.4355555555555557,
+        "difficulty": 2.535181236673774,
+        "workload": 10.389019189765458
+    },
+    {
+        "name": "Computing for Good",
+        "description": "Exploring challenges faced by underserved populations and developing countries from a computing perspective.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-48be65b9563473cf64e6e8d8871921dfc87952e5-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": false,
+        "slug": "computing-for-good",
+        "codes": [
+            "CS-6150"
+        ],
+        "reviewCount": 2,
+        "rating": 2.5,
+        "difficulty": 2,
+        "workload": 8.5
+    },
+    {
+        "name": "Graduate Introduction to Operating Systems",
+        "description": "This course teaches operating system abstractions, mechanisms, and their implementations, including for concurrency (threads) and synchronization, resource management (CPU, memory, I/O), and distributed services.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-945ccf6175403760bb71b8b1d7ac935c232220fa-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "graduate-introduction-to-operating-systems",
+        "codes": [
+            "CS-6200"
+        ],
+        "reviewCount": 346,
+        "rating": 4.364864864864865,
+        "difficulty": 3.6820809248554913,
+        "workload": 18.42782608695652
+    },
+    {
+        "name": "Advanced Operating Systems",
+        "description": "Introduction to graduate-level topics in operating systems using research papers, textbook excerpts, and projects. Provides students thorough comprehension of distributed and parallel computer systems.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-cb7b19dde5e34837b4f483233e9d6e58658c5fe1-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "advanced-operating-systems",
+        "codes": [
+            "CS-6210"
+        ],
+        "reviewCount": 132,
+        "rating": 4.030927835051546,
+        "difficulty": 4.151515151515151,
+        "workload": 17.12878787878788
+    },
+    {
+        "name": "Secure Computer Systems",
+        "description": "Design principles of secure systems, authentication, access control and authorization, discretionary and mandatory security policies, secure kernel design, and secure databases.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-fd3984b2f8d955915d841028a381b43915f12cae-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "secure-computer-systems",
+        "codes": [
+            "CS-6238"
+        ],
+        "reviewCount": 38,
+        "rating": 2.973684210526316,
+        "difficulty": 3.5526315789473686,
+        "workload": 15.473684210526315
+    },
+    {
+        "name": "Computer Networks",
+        "description": "Principles and practice of computer networks, including signaling and framing, error control, medium access, routing, congestion control, end-to-end transport, and network APIs.",
+        "syllabus": {
+            "file": {
+                "asset": {
+                    "_ref": "file-4d4f7cb813ea16ee54c0cd66fd165eee6e9d32d2-pdf",
+                    "_type": "reference"
+                },
+                "_type": "file"
+            }
+        },
+        "isFoundational": true,
+        "slug": "computer-networks",
+        "codes": [
+            "CS-6250"
+        ],
+        "reviewCount": 481,
+        "rating": 3.485254691689008,
+        "difficulty": 2.4261954261954264,
+        "workload": 8.934361233480177
+    },
+    {
+        "name": "Applied Cryptography",
+        "description": "Cryptographic algorithms, cryptanalysis, symmetric cryptography, public key cryptography, DES, AES, RSA, hash and MAC functions, digital signatures, pseudo-random generators, cryptographic protocols, SSL//TLS, SET.",
+        "syllabus": {
+            "url": "https://docs.google.com/document/d/19QobYJ26OWHVsMrSbg7YKPOMC7Vs8CdU/edit"
+        },
+        "isFoundational": true,
+        "slug": "applied-cryptography",
+        "codes": [
+            "CS-6260"
+        ],
+        "reviewCount": 49,
+        "rating": 3.306122448979592,
+        "difficulty": 3.7346938775510203,
+        "workload": 16.551020408163264
+    },
+    {
+        "name": "Network Security",
+        "description": "Design principles of secure network protocols and systems, authentication, integrity, confidentiality, privacy, information hiding, digital watermarking, access control, firewall, intrusion detection, and case studies.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-38a333c883a9c5a98e646d22bf79e54a01729d5e-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "network-security",
+        "codes": [
+            "CS-6262"
+        ],
+        "reviewCount": 137,
+        "rating": 3.18978102189781,
+        "difficulty": 3,
+        "workload": 12.711678832116789
+    },
+    {
+        "name": "Introduction to Cyber-Physical Systems Security",
+        "description": "This course provides an introduction to security issues relating to various cyber-physical systems including industrial control systems and those considered critical infrastructure systems.",
+        "syllabus": {
+            "url": "https://rbeyah.ece.gatech.edu/classes/summer2022/cs6263/"
+        },
+        "isFoundational": true,
+        "slug": "introduction-to-cyber-physical-systems-security",
+        "codes": [
+            "CS-6263",
+            "ECE-8813"
+        ],
+        "reviewCount": 78,
+        "rating": 3.3461538461538463,
+        "difficulty": 2.6025641025641026,
+        "workload": 10
+    },
+    {
+        "name": "Information Security Lab: System and Network Defenses",
+        "description": "This course will help students develop both in-depth knowledge and hands-on skills in a number of important cybersecurity areas, including software security, malware and threat analysis, end-point security, network security, web security, mobile security, and machine learning based security analytics.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-476bd54a45f664fe8c0206abb24e7093cec1bd6e-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "information-security-lab-system-and-network-defenses",
+        "codes": [
+            "CS-6264"
+        ],
+        "reviewCount": 6,
+        "rating": 3.1666666666666665,
+        "difficulty": 3.8333333333333335,
+        "workload": 19.166666666666668
+    },
+    {
+        "name": "Information Security Lab: Binary Exploitation",
+        "description": "This course covers advanced techniques for writing exploits, taught through an intense, hands-on security laboratory, following a cyberspace war game called Capture-The-Flag.",
+        "syllabus": {
+            "file": {
+                "asset": {
+                    "_ref": "file-7b68bbad426d45efa67d0f18934ecdbe7a17ef8c-pdf",
+                    "_type": "reference"
+                },
+                "_type": "file"
+            }
+        },
+        "isFoundational": false,
+        "slug": "information-security-lab-binary-exploitation",
+        "codes": [
+            "CS-6265"
+        ],
+        "reviewCount": 23,
+        "rating": 4.608695652173913,
+        "difficulty": 4.217391304347826,
+        "workload": 28.565217391304348
+    },
+    {
+        "name": "High-Performance Computer Architecture",
+        "description": "Topics concerning very high-performance computers including techniques exploiting parallelism in single and multiple processor systems.",
+        "syllabus": {
+            "file": {
+                "asset": {
+                    "_ref": "file-0dbdf59f1d8b8f29b41ac3581784a00184a8a9f6-pdf",
+                    "_type": "reference"
+                },
+                "_type": "file"
+            }
+        },
+        "isFoundational": true,
+        "slug": "high-performance-computer-architecture",
+        "codes": [
+            "CS-6290"
+        ],
+        "reviewCount": 128,
+        "rating": 3.824074074074074,
+        "difficulty": 3.6484375,
+        "workload": 15.4140625
+    },
+    {
+        "name": "Embedded Systems Optimization",
+        "description": "First, this course introduces the student to embedded domain-specific processor and instruction set design issues. Next, machine-specific optimizations for performance and for energy consumption are discussed.",
+        "syllabus": {
+            "file": {
+                "asset": {
+                    "_ref": "file-e06273daeb67e0d47feeaa84f3a86c38b40b9078-pdf",
+                    "_type": "reference"
+                },
+                "_type": "file"
+            }
+        },
+        "isFoundational": true,
+        "slug": "embedded-systems-optimization",
+        "codes": [
+            "CS-6291"
+        ],
+        "reviewCount": 47,
+        "rating": 3.5652173913043477,
+        "difficulty": 3.574468085106383,
+        "workload": 15.829787234042554
+    },
+    {
+        "name": "Software Development Process",
+        "description": "The process of developing software systems. Includes development and assessment of processes, their instantiation in actual product development, and techniques ensuring quality of developed products.",
+        "syllabus": {
+            "url": "https://docs.google.com/document/d/1_YKDyi3m_72blhDUzKs4A6iHqNk-Ha8I6iB5vfdxInc/edit"
+        },
+        "isFoundational": true,
+        "slug": "software-development-process",
+        "codes": [
+            "CS-6300"
+        ],
+        "reviewCount": 353,
+        "rating": 3.5622775800711746,
+        "difficulty": 2.31728045325779,
+        "workload": 9.075730994152048
+    },
+    {
+        "name": "Software Architecture and Design",
+        "description": "This project-based course will cover fundamental principles, advanced techniques, and tools for the development of high-quality, industrial-strength software.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-201f9b080c2a9e49215ad3b13019b349ab847449-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "software-architecture-and-design",
+        "codes": [
+            "CS-6310"
+        ],
+        "reviewCount": 217,
+        "rating": 2.9513513513513514,
+        "difficulty": 2.608294930875576,
+        "workload": 11.86574074074074
+    },
+    {
+        "name": "Advanced Topics in Software Analysis and Testing",
+        "description": "Fundamental prinicples and advanced techniques for static and dynamic program analysis and software testing. Software reliability, resilience, and trustworthiness.",
+        "syllabus": {
+            "file": {
+                "asset": {
+                    "_ref": "file-98e9381a87f18e09bfa10d0947f849e482b698a0-pdf",
+                    "_type": "reference"
+                },
+                "_type": "file"
+            }
+        },
+        "isFoundational": true,
+        "slug": "advanced-topics-in-software-analysis-and-testing",
+        "codes": [
+            "CS-6340"
+        ],
+        "reviewCount": 156,
+        "rating": 3.5526315789473686,
+        "difficulty": 3.217948717948718,
+        "workload": 12.685897435897436
+    },
+    {
+        "name": "Database Systems Concepts and Design",
+        "description": "Study of fundamental concepts with regard to relational databases. Topics covered include database design, query processing, concurrency control, and recovery.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-488290f29fa8fb7df14617ddfcabe4dee892a207-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "database-systems-concepts-and-design",
+        "codes": [
+            "CS-6400"
+        ],
+        "reviewCount": 266,
+        "rating": 2.578544061302682,
+        "difficulty": 2.8796992481203008,
+        "workload": 11.239622641509435
+    },
+    {
+        "name": "Introduction to Health Informatics",
+        "description": "A broad review of the US health system and the application of informatics to the clinical practice of medicine, digital imaging, public health and bioinformatics.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-6986b86273f0f6f8ea3e1a4c2d0f6fa801f52c86-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "introduction-to-health-informatics",
+        "codes": [
+            "CS-6440"
+        ],
+        "reviewCount": 111,
+        "rating": 2.6931818181818183,
+        "difficulty": 2.279279279279279,
+        "workload": 10.106060606060606
+    },
+    {
+        "name": "Video Game Design and Programming",
+        "description": "Techniques for electronic game design and programming, including graphics, game engines, animation, behavioral control for autonomous characters, interaction, social and interface issues of multi-user play.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-d951660c2c282238f2de5196fae791c7fd4c3768-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "video-game-design-and-programming",
+        "codes": [
+            "CS-6457"
+        ],
+        "reviewCount": 30,
+        "rating": 4.2,
+        "difficulty": 2.2333333333333334,
+        "workload": 12.466666666666667
+    },
+    {
+        "name": "Educational Technology: Conceptual Foundations",
+        "description": "Introduction to educational technology, with an emphasis on theoretical foundations. Introduces basic philosophies, approaches, and technologies. Analyzes issues surrounding technology's impact on education.",
+        "isFoundational": true,
+        "slug": "educational-technology-conceptual-foundations",
+        "codes": [
+            "CS-6460"
+        ],
+        "reviewCount": 104,
+        "rating": 4.03,
+        "difficulty": 2.8365384615384617,
+        "workload": 14.41747572815534
+    },
+    {
+        "name": "Computational Journalism",
+        "description": "Technology is rapidly affecting how news information is gathered, reported, visualized, aggregated, summarized, distributed, and consumed. This class studies the computational technologies that impact journalism.",
+        "isFoundational": false,
+        "slug": "computational-journalism",
+        "codes": [
+            "CS-6465"
+        ],
+        "reviewCount": 1,
+        "rating": 4,
+        "difficulty": 3,
+        "workload": 15
+    },
+    {
+        "name": "Computational Photography",
+        "description": "This class explores the impact of computation on the entire workflow of photography, from how light is captured by a camera, to how the images are processed, enhanced, and improved to generate novel photographs.",
+        "syllabus": {
+            "url": "https://omscs6475.cc.gatech.edu/course-syllabus/"
+        },
+        "isFoundational": true,
+        "slug": "computational-photography",
+        "codes": [
+            "CS-6475"
+        ],
+        "reviewCount": 188,
+        "rating": 3.5632911392405062,
+        "difficulty": 3.24468085106383,
+        "workload": 16.945945945945947
+    },
+    {
+        "name": "Introduction to Computer Vision",
+        "description": "Introduction to computer vision including fundamentals of image formation, camera imaging geometry, feature detection and matching, stereo, motion estimation and tracking, image classification and scene understanding.",
+        "syllabus": {
+            "url": "https://docs.google.com/spreadsheets/d/1Xdn8EcFqmdqtwLU1Os1Y6heUydIh2Yd--6R8ibxO51A/edit#gid=1854536926"
+        },
+        "isFoundational": true,
+        "slug": "introduction-to-computer-vision",
+        "codes": [
+            "CS-6476"
+        ],
+        "reviewCount": 205,
+        "rating": 3.7457627118644066,
+        "difficulty": 4.068292682926829,
+        "workload": 21.71707317073171
+    },
+    {
+        "name": "Introduction to Graduate Algorithms",
+        "description": "Design and analysis of algorithms on a graduate level, including dynamic programming, divide and conquer, FFT, graph and flow algorithms, RSA, linear programming, and NP-completedness.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-c6ab9ae7d4c49f9bbc4c7145e35228e3cf62d8a1-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "introduction-to-graduate-algorithms",
+        "codes": [
+            "CS-6515"
+        ],
+        "reviewCount": 447,
+        "rating": 3.321608040201005,
+        "difficulty": 4.049217002237136,
+        "workload": 19.134831460674157
+    },
+    {
+        "name": "Artificial Intelligence",
+        "description": "Basic concepts and methods of artificial intelligence including both symbolic/conceptual and numerical/probabilistic techniques.",
+        "syllabus": {
+            "url": "https://docs.google.com/document/d/1N3ilyJV2aQ400aWSkK0aTEJZDIhJTkVQ4dsJ0L2XMHc/edit"
+        },
+        "isFoundational": true,
+        "slug": "artificial-intelligence",
+        "codes": [
+            "CS-6601"
+        ],
+        "reviewCount": 286,
+        "rating": 4.05,
+        "difficulty": 4.080419580419581,
+        "workload": 22.713286713286713
+    },
+    {
+        "name": "AI, Ethics, and Society",
+        "description": "This course covers various Artificial Intelligence and bias mitigation techniques that can be used to counterbalance the potential misuse and abuse of learning from data.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-a7be4075af389fc1b1bba35802f4acd1cf4f7c32-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "ai-ethics-and-society",
+        "codes": [
+            "CS-6603"
+        ],
+        "reviewCount": 110,
+        "rating": 2.5545454545454547,
+        "difficulty": 1.5636363636363637,
+        "workload": 6.5636363636363635
+    },
+    {
+        "name": "Advanced Internet Computing Systems and Applications",
+        "description": "Survey of basic Internet computing concepts and techniques used in Internet systems and applications, combined with in-depth study of fundamental principles underlying Internet computing.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-70cd0c0880a4180f52b867f654bd796c297ee9ce-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "advanced-internet-computing-systems-and-applications",
+        "codes": [
+            "CS-6675"
+        ],
+        "reviewCount": 12,
+        "rating": 3.1666666666666665,
+        "difficulty": 2.75,
+        "workload": 13
+    },
+    {
+        "name": "Cyber Security Practicum",
+        "description": "Capstone independent study project placing each student in a commercial, academic or government setting where he or she identifies a major cyber security problem, and explores and evaluates a solution that addresses it with realistic assumptions about the organizational context. The chose problem must be approved by course instructor.",
+        "isFoundational": false,
+        "slug": "cyber-security-practicum",
+        "codes": [
+            "CS-6727",
+            "ECE-6727",
+            "PUBP-6727"
+        ],
+        "reviewCount": 0
+    },
+    {
+        "name": "Advanced Topics in Malware Analysis",
+        "description": "This course covers advanced approaches for the analysis of malicious software and explores recent research and unsolved problems in software protection and forensics.",
+        "syllabus": {
+            "file": {
+                "asset": {
+                    "_ref": "file-0f3f6ebc157167df71bbc230759170d7c9ac4c50-pdf",
+                    "_type": "reference"
+                },
+                "_type": "file"
+            }
+        },
+        "isFoundational": false,
+        "slug": "advanced-topics-in-malware-analysis",
+        "codes": [
+            "CS-6747",
+            "ECE-6747"
+        ],
+        "reviewCount": 14,
+        "rating": 4.285714285714286,
+        "difficulty": 3.4285714285714284,
+        "workload": 14.928571428571429
+    },
+    {
+        "name": "Human-Computer Interaction",
+        "description": "Describes the characteristics of interaction between humans and computers and demonstrates techniques for the evaluation of user-centered systems.",
+        "syllabus": {
+            "url": "https://omscs6750.gatech.edu/fall-2022/"
+        },
+        "isFoundational": true,
+        "slug": "human-computer-interaction",
+        "codes": [
+            "CS-6750"
+        ],
+        "reviewCount": 259,
+        "rating": 4.05019305019305,
+        "difficulty": 2.552123552123552,
+        "workload": 12.190733590733592
+    },
+    {
+        "name": "Introduction to Cognitive Science",
+        "description": "Multidisciplinary perspectives on cognitive science. Interdisciplinary approaches to issues in cognition, including memory, language, problem solving, learning, perception, and action.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_type": "reference",
+                    "_ref": "file-f2cbb4b152db85d63db9d1224df1fdd7ef964ca2-pdf"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "introduction-to-cognitive-science",
+        "codes": [
+            "CS-6795"
+        ],
+        "reviewCount": 13,
+        "rating": 4,
+        "difficulty": 2.076923076923077,
+        "workload": 9.307692307692308
+    },
+    {
+        "name": "Distributed Computing",
+        "description": "Fundamental concepts in distributed systems, including global states, logical clocks, and failure models. Distributed algorithms and their implementations using advanced distributed programming systems.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_type": "reference",
+                    "_ref": "file-db58f2add0dec5bb85ca8002249062864d8b2ff5-pdf"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "distributed-computing",
+        "codes": [
+            "CS-7210"
+        ],
+        "reviewCount": 45,
+        "rating": 3.2444444444444445,
+        "difficulty": 4.644444444444445,
+        "workload": 51.51111111111111
+    },
+    {
+        "name": "Network Science: Methods and Applications",
+        "description": "Characteristics of real networks in nature and technology, network measurement methods, network analysis, evolving networks, dynamic network processes, co-evolution of structure and function.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-ba6d7139ebc0df0ab105aa08ebe66e53a0aebd32-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "network-science-methods-and-applications",
+        "codes": [
+            "CS-7280"
+        ],
+        "reviewCount": 53,
+        "rating": 3.188679245283019,
+        "difficulty": 2.943396226415094,
+        "workload": 12.962264150943396
+    },
+    {
+        "name": "Mobile and Ubiquitous Computing",
+        "description": "Investigates the infrastructure required to develop mobile and ubiquitous computing applications and establishes major research themes and experimental practices.",
+        "syllabus": {
+            "url": "https://docs.google.com/document/d/15mIhtnfy2kK4d2n4fWB8ljrjVFOIz3PvWePgVIn7Wpg/edit"
+        },
+        "isFoundational": true,
+        "slug": "mobile-and-ubiquitous-computing",
+        "codes": [
+            "CS-7470"
+        ],
+        "reviewCount": 16,
+        "rating": 2.1875,
+        "difficulty": 2.375,
+        "workload": 14.8125
+    },
+    {
+        "name": "Game Artificial Intelligence",
+        "description": "An exploration of how artificial intelligence is used in modern digital computer games.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-fab328c05ad79ecf0a52082ee11d90a1538d8ba5-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "game-artificial-intelligence",
+        "codes": [
+            "CS-7632"
+        ],
+        "reviewCount": 39,
+        "rating": 4.230769230769231,
+        "difficulty": 2.7948717948717947,
+        "workload": 11.307692307692308
+    },
+    {
+        "name": "Knowledge-Based AI",
+        "description": "Structured knowledge representation; knowledge-based methods of reasoning and learning; problem-solving, modeling and design.",
+        "syllabus": {
+            "url": "https://lucylabs.gatech.edu/kbai/fall-2022/"
+        },
+        "isFoundational": true,
+        "slug": "knowledge-based-ai",
+        "codes": [
+            "CS-7637"
+        ],
+        "reviewCount": 341,
+        "rating": 3.5253623188405796,
+        "difficulty": 3.0762463343108504,
+        "workload": 14.216176470588236
+    },
+    {
+        "name": "Artificial Intelligence Techniques for Robotics",
+        "description": "AI techniques with applications to autonomous vehicles. Extensive programming exercises. Topics include probabilistic inference, Kalman/particle filters, planning/search algorithms, PID control, SLAM.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-c6ff5b10f3486bdc17664bcde52a0951ee99cb4f-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "artificial-intelligence-techniques-for-robotics",
+        "codes": [
+            "CS-7638"
+        ],
+        "reviewCount": 311,
+        "rating": 3.934065934065934,
+        "difficulty": 3.012861736334405,
+        "workload": 12.991909385113269
+    },
+    {
+        "name": "Cyber Physical Design and Analysis",
+        "description": "Cyber Physical Systems (CPS), including examples. Design methods. Formalisms: Different equations, finite-state machines. Analysis. Formal methods. Design processes, Model-Based Systems Engineering, Reference documents and regulations.",
+        "syllabus": {
+            "url": "http://www.feron.org/Eric/OMSCS-CyberPhysicalSystems/page.html"
+        },
+        "isFoundational": true,
+        "slug": "cyber-physical-design-and-analysis",
+        "codes": [
+            "CS-7639",
+            "ECE-8823"
+        ],
+        "reviewCount": 37,
+        "rating": 2.864864864864865,
+        "difficulty": 3.108108108108108,
+        "workload": 11.702702702702704
+    },
+    {
+        "name": "Machine Learning",
+        "description": "Machine learning techniques and applications. Topics include foundational issues; inductive, analytical, numerical, and theoretical approaches; and real-world applications.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-71f82771753827989a3eaa06ec3e7a2cdbafa392-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "machine-learning",
+        "codes": [
+            "CS-7641"
+        ],
+        "reviewCount": 447,
+        "rating": 3.1447368421052633,
+        "difficulty": 4.116331096196868,
+        "workload": 21.965507900677203
+    },
+    {
+        "name": "Reinforcement Learning and Decision Making",
+        "description": "Efficient algorithms for multiagent planning, and approaches to learning near-optimal decisions using possibly partially observable Markov decision processes; stochastic and repeated games; and reinforcement learning.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_type": "reference",
+                    "_ref": "file-6b5ca39c292519b6253b50ae4a92c16c8733aa5c-pdf"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "reinforcement-learning-and-decision-making",
+        "codes": [
+            "CS-7642"
+        ],
+        "reviewCount": 212,
+        "rating": 3.9166666666666665,
+        "difficulty": 4.179245283018868,
+        "workload": 22.419811320754718
+    },
+    {
+        "name": "Deep Learning",
+        "description": "This course will cover theory and practice of deep learning, including neural network and structured models, optimization algorithms, and applications to perception and Artificial Intelligence.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_type": "reference",
+                    "_ref": "file-db6e60912f386c5503f491772e5cb68dbc8df70c-pdf"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "deep-learning",
+        "codes": [
+            "CS-7643"
+        ],
+        "reviewCount": 99,
+        "rating": 3.98989898989899,
+        "difficulty": 4.01010101010101,
+        "workload": 19.181818181818183
+    },
+    {
+        "name": "Machine Learning for Trading",
+        "description": "Introduces machine learning based trading strategies. Topics: Information processing, probabilistic analysis, portfolio construction, generation of market orders, KNN, random forests.",
+        "syllabus": {
+            "url": "https://lucylabs.gatech.edu/ml4t/fall2022/"
+        },
+        "isFoundational": true,
+        "slug": "machine-learning-for-trading",
+        "codes": [
+            "CS-7646"
+        ],
+        "reviewCount": 436,
+        "rating": 3.927536231884058,
+        "difficulty": 2.6077981651376145,
+        "workload": 11.746635730858467
+    },
+    {
+        "name": "Special Topics: Compilers - Theory and Practice",
+        "description": "The objective of this course is to learn the theory and practice behind building automatic translators (compilers) for higher level programming languages and to engineer and build key phases of a compiler in Java or C++ for a small language.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-2a3b73f95d5e5390180895afd5fb351ea81d2a8a-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "special-topics-compilers-theory-and-practice",
+        "codes": [
+            "CS-8803-O08"
+        ],
+        "reviewCount": 23,
+        "rating": 4.130434782608695,
+        "difficulty": 4.6521739130434785,
+        "workload": 28.782608695652176
+    },
+    {
+        "name": "Special Topics: Systems Design for Cloud Computing",
+        "description": "This is a hands on project-intensive immersive course aimed at senior-level undergraduates and graduate students to give them an in-depth experience in developing different layers of a cloud computing infrastructure including software defined networks, distributed runtime systems, network function virtualization, and application development.",
+        "syllabus": {
+            "url": "https://faculty.cc.gatech.edu/~rama/CS8803-External/"
+        },
+        "isFoundational": true,
+        "slug": "special-topics-systems-issues-in-cloud-computing",
+        "codes": [
+            "CS-6211"
+        ],
+        "reviewCount": 16,
+        "rating": 4.625,
+        "difficulty": 4.5625,
+        "workload": 28.25
+    },
+    {
+        "name": "Security Incident Response",
+        "isFoundational": false,
+        "slug": "security-operations-and-incidence-response",
+        "codes": [
+            "CS-6261"
+        ],
+        "reviewCount": 10,
+        "rating": 3.8,
+        "difficulty": 2,
+        "workload": 5.9
+    },
+    {
+        "name": "Computing for Data Analysis: Methods and Tools",
+        "description": "Computational techniques needed for data analysis; programming, accessing databases, multidimensional arrays, basic numerical computing, and visualization; hands-on applications and case studies.",
+        "isFoundational": false,
+        "slug": "computing-for-data-analysis-methods-and-tools",
+        "codes": [
+            "CSE-6040"
+        ],
+        "reviewCount": 123,
+        "rating": 4.300813008130081,
+        "difficulty": 3.138211382113821,
+        "workload": 10.12396694214876
+    },
+    {
+        "name": "High Performance Computing",
+        "description": "This course will introduce students to the design, analysis, and implementation of high performance computational science and engineering applications.",
+        "syllabus": {
+            "url": "https://cse6220.gatech.edu/fa22-oms/"
+        },
+        "isFoundational": true,
+        "slug": "high-performance-computing",
+        "codes": [
+            "CSE-6220"
+        ],
+        "reviewCount": 95,
+        "rating": 4.142857142857143,
+        "difficulty": 4.3052631578947365,
+        "workload": 21.021052631578947
+    },
+    {
+        "name": "Data and Visual Analytics",
+        "description": "The course introduces students to analysis and visualization of complex high dimensional data. Both theory and applications will be covered including several practical case studies.",
+        "syllabus": {
+            "url": "https://poloclub.github.io/cse6242-2022fall-online/"
+        },
+        "isFoundational": true,
+        "slug": "data-and-visual-analytics",
+        "codes": [
+            "CSE-6242"
+        ],
+        "reviewCount": 291,
+        "rating": 2.906896551724138,
+        "difficulty": 3.2275862068965515,
+        "workload": 15.96712802768166
+    },
+    {
+        "name": "Big Data Analytics for Healthcare",
+        "description": "Big data systems, scalable machine learning algorithms, health analytic applications, electronic health records.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_type": "reference",
+                    "_ref": "file-cff173c51344ec1c9766d3e1725049a5e54c5a05-pdf"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "big-data-analytics-for-healthcare",
+        "codes": [
+            "CSE-6250"
+        ],
+        "reviewCount": 76,
+        "rating": 3.769230769230769,
+        "difficulty": 4.2368421052631575,
+        "workload": 28.407894736842106
+    },
+    {
+        "name": "Modeling, Simulation and Military Gaming",
+        "description": "Focuses on the creation and use of modeling and simulation tools to analyze and train students regarding strategic events in international relations.",
+        "syllabus": {
+            "file": {
+                "asset": {
+                    "_type": "reference",
+                    "_ref": "file-e54caa74dca8c085951d6b7cba415d3d22a42330-pdf"
+                },
+                "_type": "file"
+            }
+        },
+        "isFoundational": false,
+        "slug": "modeling-simulation-and-military-gaming",
+        "codes": [
+            "CSE-6742",
+            "INTA-6742"
+        ],
+        "reviewCount": 6,
+        "rating": 3.6666666666666665,
+        "difficulty": 1.8333333333333333,
+        "workload": 5.666666666666667
+    },
+    {
+        "name": "Introduction to Cyber-Physical Electric Energy Systems",
+        "description": "This course provides an introduction to cyber-physical infrastructure for electric power systems, the protection, control and operation of electrical facilities, communication protocols and standardization and present practices for cybersecurity.",
+        "isFoundational": false,
+        "slug": "introduction-to-cyber-physical-electric-energy-systems",
+        "codes": [
+            "ECE-8803"
+        ],
+        "reviewCount": 1,
+        "rating": 2,
+        "difficulty": 4,
+        "workload": 15
+    },
+    {
+        "name": "Side Channels and their Role in Cybersecurity",
+        "description": "The primary objective of this course is to provide an in-depth treatment of digital and analog side-channels and their use for attacks and defenses in cyber security.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_type": "reference",
+                    "_ref": "file-8d4d4667cffdda6923e106dda3b7e916fa189b0a-pdf"
+                }
+            }
+        },
+        "isFoundational": false,
+        "slug": "side-channels-and-their-role-in-cybersecurity",
+        "codes": [
+            "ECE-8843"
+        ],
+        "reviewCount": 2,
+        "rating": 4,
+        "difficulty": 3,
+        "workload": 9
+    },
+    {
+        "name": "International Security",
+        "description": "Examines traditional and nontraditional issues in international security, including the uses of military force, military strategy and policy, arms control, peacekeeping, the environment, and migration.",
+        "isFoundational": false,
+        "slug": "international-security",
+        "codes": [
+            "INTA-6103"
+        ],
+        "reviewCount": 9,
+        "rating": 3.3333333333333335,
+        "difficulty": 2.4444444444444446,
+        "workload": 5.555555555555555
+    },
+    {
+        "name": "Data Analytics and Security",
+        "description": "Explores use of big data techniques to problems at the national and international levels. Topics may include cybersecurity, surveillance, economic development, behavioral prediction and manipulation.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-27b3f216ee92dda6895beec37dff9efe788ca9a7-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": false,
+        "slug": "data-analytics-and-security",
+        "codes": [
+            "INTA-6450"
+        ],
+        "reviewCount": 32,
+        "rating": 2.4375,
+        "difficulty": 1.53125,
+        "workload": 4.625
+    },
+    {
+        "name": "Time Series Analysis",
+        "description": "Basic forecasting methods, ARIMA models, transfer functions.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-ef4746b5716f3a03580507145cf092ba179f36d9-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": false,
+        "slug": "time-series-analysis",
+        "codes": [
+            "ISYE-6402"
+        ],
+        "reviewCount": 36,
+        "rating": 2,
+        "difficulty": 4.138888888888889,
+        "workload": 15.194444444444445
+    },
+    {
+        "name": "Statistical Modeling and Regression Analysis",
+        "description": "Simple and multiple linear regression, inferences and diagnostics, stepwise regression and model selection, advanced regression methods, basic design and analysis of experiments, factorial analysis.",
+        "isFoundational": false,
+        "slug": "statistical-modeling-and-regression-analysis",
+        "codes": [
+            "ISYE-6414"
+        ],
+        "reviewCount": 110,
+        "rating": 3.0727272727272728,
+        "difficulty": 2.8636363636363638,
+        "workload": 9.10909090909091
+    },
+    {
+        "name": "Computational Statistics",
+        "description": "This class describes the available knowledge regarding statistical computing. Topics include random deviates generation, importance sampling, Monte Carlo Markov chain (MCMC), EM algorithms, bootstrapping, model selection criteria, (e.g. C-p, AIC, etc.) splines, wavelets, and Fourier transform.",
+        "isFoundational": false,
+        "slug": "computational-statistics",
+        "codes": [
+            "ISYE-6416"
+        ],
+        "reviewCount": 1,
+        "rating": 3,
+        "difficulty": 3,
+        "workload": 12
+    },
+    {
+        "name": "Introduction to Theory and Practice of Bayesian Statistics",
+        "description": "Rigorous introduction to the theory of Beysian Statistical Inference. Bayesian estimation and testing. Conjugate priors. Noninformative priors. Bayesian computation. Bayesian networks and Bayesian signal processing. Various engineering applications.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-f8697e3c9ab0757c24e3b06d5f85ac691d3d08ac-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": true,
+        "slug": "introduction-to-theory-and-practice-of-bayesian-statistics",
+        "codes": [
+            "ISYE-6420"
+        ],
+        "reviewCount": 77,
+        "rating": 2.779220779220779,
+        "difficulty": 3.324675324675325,
+        "workload": 12.96103896103896
+    },
+    {
+        "name": "Introduction to Analytics Modeling",
+        "description": "An introduction to important and commonly-used models in analytics, as well as aspects of the modeling process.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_type": "reference",
+                    "_ref": "file-e7ecb4f5d7b8c11e293b6b3ea3eb2fb7a6b068ba-pdf"
+                }
+            }
+        },
+        "isFoundational": false,
+        "slug": "introduction-to-analytics-modeling",
+        "codes": [
+            "ISYE-6501"
+        ],
+        "reviewCount": 171,
+        "rating": 4.12280701754386,
+        "difficulty": 2.824561403508772,
+        "workload": 9.976470588235294
+    },
+    {
+        "name": "Simulation",
+        "description": "Covers modeling of discrete-event dynamic systems and introduces methods for using these models to solve engineering design and analysis problems.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-e374c22c490c84c6f9a99ac6abac65c769ce3003-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": false,
+        "slug": "simulation",
+        "codes": [
+            "ISYE-6644"
+        ],
+        "reviewCount": 116,
+        "rating": 4.310344827586207,
+        "difficulty": 3.293103448275862,
+        "workload": 11.456896551724139
+    },
+    {
+        "name": "Probabilistic Models and Their Applications",
+        "description": "An introduction to basic stochastic processes such as Poisson and Markov processes and their applications in areas such as inventory, reliability, and queueing.",
+        "isFoundational": false,
+        "slug": "probabilistic-models-and-their-applications",
+        "codes": [
+            "ISYE-6650"
+        ],
+        "reviewCount": 11,
+        "rating": 3.1818181818181817,
+        "difficulty": 4.090909090909091,
+        "workload": 12.363636363636363
+    },
+    {
+        "name": "Deterministic Optimization",
+        "description": "An introduction to deterministic optimization methodologies including approaches from linear, discrete, and nonlinear optimization including algorithms and computations. Applications will be introduced as appropriate.",
+        "isFoundational": false,
+        "slug": "deterministic-optimization",
+        "codes": [
+            "ISYE-6669"
+        ],
+        "reviewCount": 48,
+        "rating": 3.7291666666666665,
+        "difficulty": 3.875,
+        "workload": 13.208333333333334
+    },
+    {
+        "name": "Computational Data Analysis: Learning, Mining, and Computation",
+        "description": "Theoretical/computational foundations of analyzing large/complex modern datasets, including the fundamental concepts of machine learning and data mining needed for both resesarch and practice.",
+        "isFoundational": false,
+        "slug": "computational-data-analysis-learning-mining-and-computation",
+        "codes": [
+            "ISYE-6740"
+        ],
+        "reviewCount": 44,
+        "rating": 4.159090909090909,
+        "difficulty": 3.659090909090909,
+        "workload": 14.113636363636363
+    },
+    {
+        "name": "Data Mining and Statistical Learning",
+        "description": "Topics include neural networks, support vector machines, classification trees, boosting and discriminant analyses. Intended for Ph.D. students and those seeking the M.S. in Statistics.",
+        "isFoundational": false,
+        "slug": "data-mining-and-statistical-learning",
+        "codes": [
+            "ISYE-7406"
+        ],
+        "reviewCount": 19,
+        "rating": 3.526315789473684,
+        "difficulty": 2.3157894736842106,
+        "workload": 14.736842105263158
+    },
+    {
+        "name": "Special Topics: High-Dimensional Data Analytics",
+        "description": "This course focuses on analysis of high-dimensional structured data including profiles, images, and other types of functional data using statistical machine learning.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_type": "reference",
+                    "_ref": "file-240a463ca5e899707ac409aa3dbd977a2209bb20-pdf"
+                }
+            }
+        },
+        "isFoundational": false,
+        "slug": "special-topics-high-dimensional-data-analytics",
+        "codes": [
+            "ISYE-8803"
+        ],
+        "reviewCount": 39,
+        "rating": 4.256410256410256,
+        "difficulty": 4.128205128205129,
+        "workload": 18.153846153846153
+    },
+    {
+        "name": "Data Analytics in Business",
+        "description": "This course teaches the scientific process of transforming data into insights for making better business decisions. The use of examples places business analytics techniques in context and teaches students how to avoid the common pitfalls, emphasizing the importance of building proper models.",
+        "isFoundational": false,
+        "slug": "data-analytics-in-business",
+        "codes": [
+            "MGT-6203"
+        ],
+        "reviewCount": 122,
+        "rating": 2.262295081967213,
+        "difficulty": 1.9344262295081966,
+        "workload": 5.758196721311475
+    },
+    {
+        "name": "Digital Marketing",
+        "description": "An applied overview of modernized digital marketing tools and strategy, emphasizing the diverse ways that contemporary marketers use information technology through digital channels such as social media and the Internet to achieve strategic business objectives.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-f89b7b2c1f823aaa769ae34aa453011dc1f73102-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": false,
+        "slug": "digital-marketing",
+        "codes": [
+            "MGT-6311"
+        ],
+        "reviewCount": 40,
+        "rating": 4.05,
+        "difficulty": 1.275,
+        "workload": 3.3
+    },
+    {
+        "name": "Privacy for Professionals",
+        "description": "This course takes a multi-disciplinary approach to the study of privacy\u2013\u2013a current topic of international interest for those in technology, policy, law, and/or business.",
+        "isFoundational": false,
+        "slug": "privacy-for-professionals",
+        "codes": [
+            "MGT-6727"
+        ],
+        "reviewCount": 14,
+        "rating": 4.071428571428571,
+        "difficulty": 2.142857142857143,
+        "workload": 3.642857142857143
+    },
+    {
+        "name": "Applied Analytics Practicum",
+        "description": "Practical analytics project experience applying ideas from the classroom to a significant project of interest to a business, government agency, or other organization.",
+        "isFoundational": false,
+        "slug": "applied-analytics-practicum",
+        "codes": [
+            "MGT-6748",
+            "CSE-6748",
+            "ISYE-6748"
+        ],
+        "reviewCount": 9,
+        "rating": 3.7777777777777777,
+        "difficulty": 2,
+        "workload": 12.555555555555555
+    },
+    {
+        "name": "Special Topics: Business Fundamentals for Analytics",
+        "description": "An accelerated introduction to the basics of management and the language of business. The course provides a framework that will enhance a person's effectiveness in the business world.",
+        "isFoundational": true,
+        "slug": "special-topics-business-fundamentals-for-analytics",
+        "codes": [
+            "MGT-8803"
+        ],
+        "reviewCount": 95,
+        "rating": 2.442105263157895,
+        "difficulty": 2.9473684210526314,
+        "workload": 7.973684210526316
+    },
+    {
+        "name": "Special Topics: Financial Modeling",
+        "isFoundational": false,
+        "slug": "special-topics-financial-modeling",
+        "codes": [
+            "MGT-8813"
+        ],
+        "reviewCount": 25,
+        "rating": 3.04,
+        "difficulty": 1.52,
+        "workload": 4.72
+    },
+    {
+        "name": "Special Topics: Data Analysis for Continuous Improvement",
+        "isFoundational": false,
+        "slug": "special-topics-data-analysis-for-continuous-improvement",
+        "codes": [
+            "MGT-8823"
+        ],
+        "reviewCount": 16,
+        "rating": 3.625,
+        "difficulty": 1.5,
+        "workload": 4.6875
+    },
+    {
+        "name": "Internet and Public Policy",
+        "description": "Analyzes policy implications of Internet architecture (Internet protocols, domain name system, packet switching, peer-to-peer) and surveys policy issues about content, privacy, intellectual property, and governance.",
+        "isFoundational": false,
+        "slug": "internet-and-public-policy",
+        "codes": [
+            "PUBP-6111"
+        ],
+        "reviewCount": 3,
+        "rating": 4.333333333333333,
+        "difficulty": 1,
+        "workload": 3
+    },
+    {
+        "name": "Information Policy and Management",
+        "description": "An introduction to the role of information and knowledge in modern private and public organizations. It covers theoretical and practical aspects of information seeking, gathering and use in organizations as well as knowledge creation and its role in private and public management.",
+        "isFoundational": false,
+        "slug": "information-policy-and-management",
+        "codes": [
+            "PUBP-6501"
+        ],
+        "reviewCount": 9,
+        "rating": 2.6666666666666665,
+        "difficulty": 2.7777777777777777,
+        "workload": 10
+    },
+    {
+        "name": "Information and Communications Technology Policy",
+        "description": "Examination of the convergence of information technology, communications and telecommunication, policymaking within the executive/regulatory branches, special interest group role, and key domestic and international issues.",
+        "isFoundational": false,
+        "slug": "information-and-communications-technology-policy",
+        "codes": [
+            "PUBP-6502"
+        ],
+        "reviewCount": 4,
+        "rating": 4.5,
+        "difficulty": 1.25,
+        "workload": 2.25
+    },
+    {
+        "name": "Information Security Policies and Strategies",
+        "description": "Information security vulnerabilities and risks; legal, cost, privacy and technology constraints; derivation of strategies; technical and procedural means of achieving desired ends.",
+        "syllabus": {
+            "file": {
+                "_type": "file",
+                "asset": {
+                    "_ref": "file-66fbda2388ee5eb02d2d3062b51594e9dd633459-pdf",
+                    "_type": "reference"
+                }
+            }
+        },
+        "isFoundational": false,
+        "slug": "information-security-policies-and-strategies",
+        "codes": [
+            "PUBP-6725"
+        ],
+        "reviewCount": 22,
+        "rating": 3,
+        "difficulty": 1.9090909090909092,
+        "workload": 6.409090909090909
+    }
+]

@@ -1,0 +1,424 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "name": "Special Topics: Systems Design for Cloud Computing",
+                "created": "2022-07-05T23:23:15Z",
+                "syllabus": {
+                    "url": "https://faculty.cc.gatech.edu/~rama/CS8803-External/"
+                },
+                "_rev": "itVMXV18u47WDbmqx88F8Q",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "codes": [
+                    "CS-6211"
+                ],
+                "id": "external-import-CS-8803-O12",
+                "tags": [],
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "syllabusUrl": "https://faculty.cc.gatech.edu/~rama/CS8803-External/",
+                "reviews": [
+                    {
+                        "course": null,
+                        "id": "RIQgyQJDoJvPy4BWIHN5Wp",
+                        "_updatedAt": "2024-06-05T07:10:55Z",
+                        "workload": 40,
+                        "authorId": "zZfXtxQrqULcWgYrRG1wAw==",
+                        "_rev": "RIQgyQJDoJvPy4BWIHN5U7",
+                        "_type": "review",
+                        "semester": {
+                            "startDate": "2024-01-08",
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05",
+                            "_updatedAt": "2024-05-09T04:45:52Z"
+                        },
+                        "created": "2024-06-05T07:10:55Z",
+                        "difficulty": 5,
+                        "_id": "RIQgyQJDoJvPy4BWIHN5Wp",
+                        "body": "It's the best course I've taken in my OMSCS journey.  It feels like a coding bootcamp rather than a traditional college class. My partner and I, both SDEs, had to take PTOs and spent entire weekends working on the projects. If you enjoy coding and want to get hands-on experience, this is the class for you. But be prepared to say good bye to your free time and social life.",
+                        "_createdAt": "2024-06-05T07:10:55Z",
+                        "rating": 5
+                    },
+                    {
+                        "_updatedAt": "2024-04-17T16:30:13Z",
+                        "created": "2024-04-17T16:30:13Z",
+                        "_id": "wLocHzuYcOTuOlrkHUc585",
+                        "_createdAt": "2024-04-17T16:30:13Z",
+                        "difficulty": 4,
+                        "semester": {
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09"
+                        },
+                        "_type": "review",
+                        "authorId": "qz+q7i99Y0g0xnMY7Zwx4A==",
+                        "body": "Despite the review being labeled for 2023, I took this course for the Spring 2024 semester. Just wanted to submit this before I forget.\n\nThe topics covered in SDCC are easy to grasp (relative to AOS topics) and the workshops are somewhat useful for exploring what you've learned... but the project work is tough. Really tough. We started with 85 students and had 54 remaining after the withdrawal deadline\u2014nearly 40% of the class. Ultimately, though, I feel the course and its lessons were very insightful and worth doing. This is a chance to learn the foundational concepts that the \"cloud\" is built on; hugely beneficial if you're someone that is already working on either building infrastructure in a public cloud, involved with designing cloud-like infrastructure for an organization, or writing applications that will be eventually deployed in the cloud.\n\nIf you are not already familiar with systems programming or cloud concepts, I'd strongly advise against pairing this course with another\u2014particularly if you have family, full-time work, or a social life and/or hobbies you want to keep up with. You WILL need ample time to read into these topics and various docs to be successful in the course and gain the most out of the course. If you enroll with a mindset of \"whatever I'll just grind through the code and GPT the assignments\", you are missing the point and wasting your time\u2014even if you pass. If you're not working full-time and are already somewhat familiar with the course topics, pairing with one other course should be fine.\n\nSome other qualities I took note of during the semester:\n\n**The Good**:\n- Prof Kishore is very enthusiastic and eager to talk about and expand on topics\n- Subject matter is interesting and relevant\u2014unlike a large portion of AOS, I can see how the tools and course content might be applied in practical scenarios (like at my job)\n- The projects are rigorous but offer many learning opportunities\n- I appreciate that the course allows for\u2014and even encourages\u2014collaboration and chatting about potential solutions; a fair number of students were active within the Slack channel throughout the term.\n\n**The Bad**:\n- Some of the project specifications and resources are vague, outdated, or incorrect.\n- While I understand the intent, I don't think the weekly sessions should be _mandatory_ for passing the class. People in other time zones (sometimes, other countries) are greatly inconvenienced by this and the sessions themselves don't really provide any value\u2014other than students having the option to asks questions live.\n- Considering that CS6210\u2014the prerequisite to this course\u2014already has a MapReduce project, it is somewhat disappointing that the same topic is being re-hashed... even if it is a fuller implementation of the framework. Surely there are other interesting innovations in systems software that we could study and implement?! Folks who are auditing or are somehow in this course without taking CS6210 course might be fine with this... but I wish we could have explored something else.\n\t- Also somewhat annoyed with the fragmented approach. Rather than splitting MapReduce into workshops with odd requirements, it'd be better if we were simply assigned the entire project and given 3-4 weeks to complete it.\n- Scheduling for workshop and project grading is kind of rough. TA's share out a (poorly-formatted) spreadsheet and tell teams to sign up for times to present their workshops or projects. There are either not enough TAs to support the number of teams or TAs don't have wide enough availability windows to accomodate everyone.\n\t- In addition to this, TAs may not post their availability until the day before they are available and may\u2014albeit, rarely\u2014change their availability. This is pretty inconvenient at times, especially considering we are not automatically extended the same grace unless there's some major, documented event (e.g., outage of GATech Github, medical reason, (provable) personal emergency)... at least, that's the tone that's set from the beginning of the course.\n\n**The Ugly**:\n- TAs are basically MIA on Ed and Slack. Maybe they're only answering private posts?\n\t- Would be nice if they were responsive beyond office hours or the weekly meeting; I understand that this is likely a part-time gig for them but the least they could do is check Ed and respond to a few posts. And even that was barely done.",
+                        "course": null,
+                        "id": "wLocHzuYcOTuOlrkHUc585",
+                        "workload": 15,
+                        "_rev": "wLocHzuYcOTuOlrkHUc54I",
+                        "rating": 4
+                    },
+                    {
+                        "course": null,
+                        "rating": 5,
+                        "body": "good",
+                        "created": "2023-12-16T21:08:36Z",
+                        "_type": "review",
+                        "_createdAt": "2023-12-16T21:08:36Z",
+                        "_id": "EMDrCE8zqCAoxcS5bT164B",
+                        "difficulty": 5,
+                        "workload": 28,
+                        "semester": {
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z"
+                        },
+                        "authorId": "6i/kK1UMR3o/XkiLa3oixg==",
+                        "_updatedAt": "2023-12-16T21:08:36Z",
+                        "_rev": "EMDrCE8zqCAoxcS5bT162e",
+                        "id": "EMDrCE8zqCAoxcS5bT164B"
+                    },
+                    {
+                        "id": "qQNB1ZAgTG6nT9M7yFkpUF",
+                        "_createdAt": "2023-11-20T11:12:32Z",
+                        "workload": 22,
+                        "created": "2023-11-20T11:12:32Z",
+                        "difficulty": 4,
+                        "course": null,
+                        "_updatedAt": "2023-11-20T11:12:32Z",
+                        "rating": 5,
+                        "_rev": "qQNB1ZAgTG6nT9M7yFkpTK",
+                        "_type": "review",
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "_id": "qQNB1ZAgTG6nT9M7yFkpUF",
+                        "authorId": "oI2BSEadtql5XmDvBPp4lw==",
+                        "body": "Just some quick context before I jump into this review: I took AOS in spring of the same year. I work full time as a backend SWE. For this semester, we just finished the mapreduce module as I'm writing this\n\nCompared to AOS, this class is very different. It isn't as lecture heavy, there are no papers, there are no exams. It's as if you took the AOS projects and tripled/quadrupled the requirements. And these projects feel most similar to the libvirt project in AOS: you have to sift through a bunch of documentation and come up with your own design in order to satisfy the requirements. It isn't like they give you a pre-implemented framework where you fill in the blanks, you will have to suffer through a bunch of documentation and start from scratch for a lot of it\n\nOverall structure of the course: you have 4 modules. Each one is split into 4 weeks, first three weeks have a workshop due every wednesday, last week has a project that's due. Every week you present to a TA, normally the project demo is more involved than the workshop demo\n\nI'll summarize the modules now:\n\nSDN: this one assumes some knowledge of networking (high level understanding of ARP, switches/links in a LAN). You don't necessarily need a networking class under your belt to survive here (I didn't), but it might be nice to have. This module is very unique, you use linux's built-in network virtualization to virtualize a network topology of hosts, links, and switches, then use an SDN framework called Ryu to programmatically install traffic rules on the switches\n\nNFV: ditto wrt networking stuff in the SDN module. This module isn't as hard as SDN, but it's no walk in the park either. It also builds on top of SDN, so if you struggled in SDN you'll struggle here too because it builds on top of prior knowledge. It's similar to the SDN unit with the hosts, links, and switches, except now some of the hosts use linux iptables to behave as network functions (e.g. host2 acts as a firewall between hosts 1 and 3). It also teaches you some docker stuff, SDN unit was using a tool called mininet to set up the network topology, in this unit you use docker instead (which is slightly more involved)\n\nSystems: This one does a better job of spreading the workload out across the different workshops. In SDN and NFV the workshops are on the easier side and it ramps up a lot more for the projects. In this unit, you build a mapreduce framework (primarily for doing wordcount because of how they want you to shard inputs). The framework is deployed to k8s. You have to expose external APIs on the master for submitting jobs and deploy it onto azure k8s\n\nApps: In progress right now. Anyway you choose your own project for this one so YMMV\n\nIn terms of difficulty (for me): SDN > NFV > Systems. I write this because I've done a few mapreduce projects. For someone not in that boat, I'd predict something more like SDN/Systems > NFV\n\nOverall: a very fulfilling course. Very SWE heavy, most of the work in this class is spent on the projects. And they are large projects, some of the largest I've worked on in this program so far\n\n"
+                    },
+                    {
+                        "body": "overall great class. don't think you can coast in this class as the workload is a lot. but you do learn a lot in terms of projects. also the teacher ant TAs were great and attentive. ",
+                        "created": "2023-05-11T04:08:32Z",
+                        "workload": 22,
+                        "_rev": "3KqS0NOF6YxT8AZtXCgPsj",
+                        "course": null,
+                        "authorId": "k/rq5d5g/qD5sjbRlNJaRg==",
+                        "rating": 5,
+                        "_type": "review",
+                        "_id": "3KqS0NOF6YxT8AZtXCgPvM",
+                        "difficulty": 5,
+                        "id": "3KqS0NOF6YxT8AZtXCgPvM",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z"
+                        },
+                        "_updatedAt": "2023-05-11T04:08:32Z",
+                        "_createdAt": "2023-05-11T04:08:32Z"
+                    },
+                    {
+                        "authorId": "lzuAvKGsEcTQZE6QuUTv3A==",
+                        "_type": "review",
+                        "id": "8TBloK0Mo9ZsPoyG1p9qmC",
+                        "rating": 4,
+                        "created": "2022-12-15T20:34:00Z",
+                        "body": "The previous review was for Fall 2022, but I guess the new site won't let us edit?",
+                        "_rev": "8TBloK0Mo9ZsPoyG1p9qhw",
+                        "difficulty": 5,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx"
+                        },
+                        "workload": 25,
+                        "_id": "8TBloK0Mo9ZsPoyG1p9qmC",
+                        "_createdAt": "2022-12-15T20:34:00Z",
+                        "course": null,
+                        "_updatedAt": "2022-12-15T20:34:00Z"
+                    },
+                    {
+                        "course": null,
+                        "body": "Difficulty breakdown: 6/5 for programming, 3/5 for conceptual. Project difficulties: Apps < Network Function Virtualization < Software Defined Networks << MapReduce\n\nTLDR: The concepts in this class are pretty simple. The difficulty is in learning a bunch of new libraries and implementing things nearly from scratch. It's more of a SWE class than CS.\n\nThe concepts are pretty simple, so this class is more about burning fundamentals into your brain than anything else. The last two projects are very practical, with the last one being entirely a SWE project with basically nothing conceptual. I learned either directly or incidentally about a lot of tools I didn't know of before like Wireshark, Jmeter, Kuberneted-in-Docker (KIND), and Apache Kafka.\n\nA special note about the MapReduce project since it's by far the hardest. In hindsight, handling dependencies with C++ is a shitshow and it would've been easier to learn GO from scratch. Heck, even writing Map Reduce in entirely Python is probably more viable than C++ even though the starter code offers only C++ or GO and it lacks true multithreading. I recommend sticking to a language with real package management unless you're a pro at using `cmake`. C++ development experience doesn't count if all you did was code in it, and no you will not be the genius exception who learns it easily without wasting days on troubleshooting.\n\nIf you still don't believe me and do try to use C++, don't use the starter code. Just make a list of dependencies and install them yourself.",
+                        "rating": 4,
+                        "authorId": "lzuAvKGsEcTQZE6QuUTv3A==",
+                        "_updatedAt": "2022-12-15T20:31:46Z",
+                        "_type": "review",
+                        "workload": 25,
+                        "_id": "82sXZw4302uray8vcARXrV",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10"
+                        },
+                        "created": "2022-12-15T20:31:46Z",
+                        "_rev": "82sXZw4302uray8vcARXqp",
+                        "_createdAt": "2022-12-15T20:31:46Z",
+                        "id": "82sXZw4302uray8vcARXrV",
+                        "difficulty": 5
+                    },
+                    {
+                        "workload": 30,
+                        "body": "The best summary came from a classmate in our last synchronous class meeting - \"This course is the most fun I never want to have again.\"\n\nThis course is a staggering amount of work. It is also incredibly valuable. It's perhaps not a stretch to say that it's entirely possible to get a job solely because of this course. Prof. Kishore's network is very strong, and recruiters know that this course speaks to tangible skills in high-demand areas. \n\nAt it's heaviest, taking this class was like having a second, very intense job. I'd say that during some of the big pushes to complete projects, I spent close to 50 hours on work. Full days both Saturday and Sunday. Plus a substantial part of the week. I'm lucky to have a fairly flexible or I'd probably have needed to take days off to finish up projects. Even though you're working in a team, it can be very hard to split up the tasks. My team ended up splitting more along project lines - I did most of the MapReduce project while my partner did most of the final project. So on balance, it was pretty even, but often quite stark in the workload between teammates on a per-project/workshop basis.\n\nYou will come away with a deep and practical understanding of the material though. SDN, NFV, and how to build an effective, fault-tolerant, distributed application framework in the cloud. \n\nN.B. - it helps a lot to have a very functional MapReduce framework built from 6210. My framework from 6210 was about 1500 LoC and had a lot of the nice \"optional\" features around fault tolerance. I more than doubled that for this class to handled running it in Kubernetes. I can't imagine the teams that started from scratch with Go. We used C++ (building off my 6210 framework) and then etcd. This was definitely the biggest project, but not by much. The SDN and NFV projects were also substantial. Having real expertise with both Python and C++ is a **requirement** for this class. Also, don't even think of doing anything else (TA'ing and/or taking another class).\n\nThe in-person classes (8:30 - 10PM Eastern which was great for me being in California) were fantastic. The TA's are all superb. And Prof. Kishore is, without question, the best professor I've ever had for any class ever. His passion and enthusiasm for teaching and learning are infectious.\n\nThere are only two grades - A or F. And the teaching staff says that you have to work hard to fail, and they are right. But you also have to work hard to \"pass\" as well. They make you earn the A, but they also go above and beyond to make sure you do.\n\nThis is, by far, the best class I've taken in this program (my 4th), and I don't expect that to change. This is what OMSCS is all about. Incredible learning opportunities that only really can exist in this way because of the incredible nature of this program. I loved this class. But I'm also sure glad it's over with. If you think you might want to take this class, do it. If you're on the fence, take a pass until you're sure. It's too much work, and the team-based nature means you not only affect yourself but a teammate.\n\nI loved this class and cannot say enough good things about it. But it's also imperative that you know what you are signing up for.",
+                        "_type": "review",
+                        "created": "2022-05-08T17:40:08Z",
+                        "_createdAt": "2022-05-08T17:40:08Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 5,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester"
+                        },
+                        "course": null,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 5,
+                        "id": "external-import-9d4991ed-c97e-4621-8ddc-1f3d18dd9b45",
+                        "_id": "external-import-9d4991ed-c97e-4621-8ddc-1f3d18dd9b45"
+                    },
+                    {
+                        "workload": 35,
+                        "created": "2022-05-05T06:16:33Z",
+                        "course": null,
+                        "difficulty": 5,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10"
+                        },
+                        "body": "## Short Summary\nThis was easily one of the best courses I have taken so far. It covers a lot of topics which I found to be extremely relevant in today's industry. While it's a  Be sure to find a good teammate!!!! I cannot stress this enough :)\n\n## Modules\nThe course is divided into 4 sections:\n- SDN: The workshops in this one were pretty straightforward, but you definitely need to spend time to understand the workshops at a deeper level. If you don't, the project submission week might get a little rough depending on your previous experience with SDNs. Even though my teammate and I started a week earlier, we ended up working till the last day trying to iron out small bugs.\n- NFV: This one was a little simpler, with the project being a small extension to the knowledge you gain in the SDN module. Effort will more or less depend on how comfortable you got with the SDN module. \n- Systems: 4 weeks of constant grind :D. But you learn a LOT of useful skills! If you haven't taken AOS before, you might be at a disadvantage because it's MapReduce on steroids, from scratch. You can use part of your AOS code, but the reusability is limited.\n- Cloud Apps: This one was pretty chill, and you can truly feel the proximity to the end. The workshop content is alright, and you mostly learn at your own pace, depending on how much effort you put into the project.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2022-05-05T06:16:33Z",
+                        "id": "external-import-a6283346-b4c4-4009-8596-ba83e45a2808",
+                        "_type": "review",
+                        "rating": 5,
+                        "_id": "external-import-a6283346-b4c4-4009-8596-ba83e45a2808"
+                    },
+                    {
+                        "body": "## Workload\nFor background, I did not take AOS myself, but familiar with Python/Golang/Kubernetes. And in this case, the system part is ok for me, like it would take 10-15 hours a week (also it seems easier to implement it in golang compared to the implementation of my teammate in C++). But still, if you're not familiar with them, it would take 40-50 hours as others mention.\n\nThe hardest part for me is the first module SDN which takes 20-25 hours per week (I do not have strong network background and also the SDN documentation is not so detailed lol). For the second module NFV, workshops are good and take around 10 hours and the project takes 20 hours. And the last module to build a cloud app yourself would be relatively easy but still considering what the project you propose to do.\n\n## Recommendation\nI should say I have quite a lot of struggles during the course but still it's a great course to get you to dive into different areas of knowledge and projects. And remember you do not want to take another course with this size of workload in the same semester.",
+                        "difficulty": 5,
+                        "_createdAt": "2022-05-05T01:05:49Z",
+                        "created": "2022-05-05T01:05:49Z",
+                        "rating": 5,
+                        "workload": 25,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "semester": {
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_type": "review",
+                        "id": "external-import-3ddda857-20c3-43e9-8758-397da9dc0fc0",
+                        "course": null,
+                        "_id": "external-import-3ddda857-20c3-43e9-8758-397da9dc0fc0"
+                    },
+                    {
+                        "_createdAt": "2022-05-04T20:57:26Z",
+                        "_type": "review",
+                        "course": null,
+                        "workload": 45,
+                        "rating": 4,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_id": "external-import-6e86e683-2a7c-4ee4-9a05-df2e373fbb9a",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "id": "external-import-6e86e683-2a7c-4ee4-9a05-df2e373fbb9a",
+                        "created": "2022-05-04T20:57:26Z",
+                        "body": "# Workload\n\nI totally agree with the early [review](https://omscentral.com/review/-M_pvu-XQzWvTLwuA3YP). The workload really different between modules, I personally spent 10-15 hours per week during NFV module, and spent 50-60 hours per week during System module(I am not very familiar with either Golang or C++). \n\nIf you have an amazing teammate who is willing to equally split the workshop/project, I'd say the average workload is about 25 hours per week. If you teammate is busy so that they do absolute nothing and leave you handle all the coding, testing, report and demo, I'd say the average workload is about 45-50 hours per week. That's the case for me, a entry level 1.5 YOE SDE who have 0 prior knowledge for Cloud Computing, if you are familiar with the course material or you have more YOE(let's say 5+), you probably could cut it down to 25-30 hours  on your own, and 15-20 hours if you have a good teammate). \n\n# Content\n\nThe material of this course is amazing, it covers many aspects of Cloud Computing, and it's really well structured. The order of module changes in Spring 2022, which becomes:\n\n1. Software Defined Network\n\n     In this module you will familiar with Ryu Controller, Mininet. Most codes written in Python, maybe some Shell.\n\n2. Network Function Virtualization \n\n    In this module you will continue use Ryu Controller. But this time with Docker and Open vSwitch, you will do a network function orchestration yourself. Most codes written in Python, and there are some Shell.\n\n3. Cloud Computing Systems\n\n    In this module you will write a fault tolerance MapReduce Framework in C++/Golang and put them on Azure. At the end of this module, you will become very familiar with k8s, which I think it's really interesting tools.\n\n4. Cloud Computing Applications\n    \n    In this module you can choose the Azure service you want to use to develop the application you want to build. I built a fraud detection system on my own, that's really an intriguing personal project!\n# Recommendation\n\nFor entry level engineer, I strongly recommend take this course, it will help you learn a lot. But maybe take this course with you friend or someone you know, whomever you are sure that they will split the work with you. Or if you do have a lot of free time during the entire semester and you are really thirsty for knowledge. \n",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 4
+                    },
+                    {
+                        "body": "Previous Courses: CN, DSCD, SAD, GIOS, AOS, ESO\n\nLanguages: Proficient in Python and Golang\n\nExpectations: I was very anxious about this class. The reason why I took AOS was mainly because it was recommended for it. I was also nervous because of the statements on the class's page like \"THERE WILL BE NO HAND HOLDING\" and because the mandatory, strict attendance. Additionally, working with a group is usually less preferred than soloing. However, I thought the technologies would be very relevant and make it worth it.\n\nExperience: This was a great course and the projects were super relevant as expected. They were challenging but doable. Project 1 required the most time; there were a 2 consecutive weeks where I did ~30 hours (I did about 15-20 hours/week in AOS), but we also finished 2-3 days early. By the middle of project 3, I was very exhausted (but I'm weak willed). Fortunately, project 4 is one where you decide what you want to build (they provide previous projects as examples), so you can make it as simple or complex as you want.  As far as the meetings go, I'd prefer mandatory meetings (meetings for grading) in most classes, because that's when we would demo the workshops/projects and therefore the requirements are a bit looser than Gradescope; you can explain why it might be functioning a certain way and they'll give you feedback so you can learn about what you could've done better. I also learned a lot from my partner(s). Since I have a background in networking, projects 1 and 2 is where I shined, but I struggled with the Map Reduce project (project 3) which is where my teammate(s) taught me a lot. Also, each project required discussing design options and figuring out how would split the work before implementing, so there was a good mix of design and implementation. I also loved not having exams. I wish more classes were structured like this.\n\nFinal Thoughts: There was a lot I gained from this course. I wish that it would appear more friendly to students considering whether to sign up; we only had 10 people in the class. You probably won't have to worry about having a lazy partner because most people, if not all, who take this class are ambitious. Its also small enough to where it feels personal and if there are [real] problems, they can be addressed. The SDN and Map Reduce projects require around ~30 hours for 2 consecutive weeks. Outside of this, expect about 10-20 hours/week (about the same as AOS). This course is definitely on the hard/very hard side; its like a more open ended AOS.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "rating": 5,
+                        "id": "external-import-a69b1d8b-5ef2-4df9-bffe-c6812bc049d9",
+                        "created": "2022-01-14T03:40:33Z",
+                        "workload": 25,
+                        "difficulty": 4,
+                        "_createdAt": "2022-01-14T03:40:33Z",
+                        "course": null,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt"
+                        },
+                        "_id": "external-import-a69b1d8b-5ef2-4df9-bffe-c6812bc049d9"
+                    },
+                    {
+                        "_type": "review",
+                        "difficulty": 2,
+                        "_createdAt": "2021-12-01T01:19:08Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "body": "This class is absolutely amazing, hands down the most rewarding class in the program. ",
+                        "id": "external-import-5a35c5dd-f1b3-4c72-8dc1-34bdb63e06b3",
+                        "created": "2021-12-01T01:19:08Z",
+                        "rating": 4,
+                        "workload": 30,
+                        "semester": {
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z"
+                        },
+                        "_id": "external-import-5a35c5dd-f1b3-4c72-8dc1-34bdb63e06b3"
+                    },
+                    {
+                        "created": "2021-11-16T15:07:22Z",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3"
+                        },
+                        "_id": "external-import-2c414f5f-e213-4426-bc45-d0f3de50fc9e",
+                        "_createdAt": "2021-11-16T15:07:22Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "rating": 5,
+                        "id": "external-import-2c414f5f-e213-4426-bc45-d0f3de50fc9e",
+                        "course": null,
+                        "workload": 30,
+                        "body": "This was the best and most challenging course I have taken in OMSCS. It is perfect for anyone interested in learning how to build modern cloud systems and applications while learning the underlying network. \n\nEven though it is strongly recommended to take AOS before taking this class, my partner and I did not. We had enough combined experience in Python, DevOps(Docker and Kubernetes), Go and Networking. I also had taken GIOS and was familiar with socket programming, gRPC and multithreading,  which turned out to be very valuable in helping us to navigate all modules. \n\nIf you don't, I will highly recommend taking AOS or GIOS, preferably with Professor Kishor. Even though the class is pass/fail, pass here means you have to meet 100% of the requirements. \n\nThe time commitment is massive, especially for the first project. I can't imagine someone working full time taking this class with any other class. \nThe class has no exams or homework, only weekly multiple choice quizzes on the video lecture. \n\nThe class had synchronous evening meetings once a week where TAs and professor explained the next workshop and answered questions. Those  meeting were also grading sessions for the due workshop or project. \n\nAt the end of every workshop/project, I fell very accomplished. I  learned a tremendous amount of useful and cutting edge technologies and skills sought after in the professional world. ",
+                        "difficulty": 5,
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "id": "external-import-a7aafcc7-2cca-4c81-a811-f95864725f67",
+                        "_type": "review",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "_id": "external-import-a7aafcc7-2cca-4c81-a811-f95864725f67",
+                        "body": "## Workload\nThe workload estimate used in omscentral doesn't capture the fact that workload varies in this course by the deliverables for a given week. The workload on the lightest weeks could be 10 hours, the workload on the hardest weeks could be at most 50 hours (estimate). \n## Content\nThe course has no exams, only quizzes (with infinite retakes) and presentations of the deliverables (code / script) for a given week.\n## Recommendation\nI would recommend this course for someone interested in cloud computing, this course explicitly covers implementation details in cloud computing. I would not advise taking this course with any other course. I would not advise taking this course without having taken CS 6210, or without having C++/Python/Scripting experience. I would have not survived if I took this course with any other course, and I don't have much obligations outside of working.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "created": "2021-05-16T16:08:28Z",
+                        "course": null,
+                        "difficulty": 5,
+                        "_createdAt": "2021-05-16T16:08:28Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "rating": 4,
+                        "workload": 30
+                    },
+                    {
+                        "id": "external-import-283856de-4cdd-444f-83b9-6071241e1027",
+                        "created": "2021-04-19T15:50:26Z",
+                        "semester": {
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z"
+                        },
+                        "_id": "external-import-283856de-4cdd-444f-83b9-6071241e1027",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "workload": 25,
+                        "rating": 5,
+                        "body": "Overall, this course is a well taught, difficult, project based course focused on cloud computing. It is project based, with 4 projects. It covers the following 4 broad topics:\n\n1. Software Defined Networking\n2. Cloud Computing Systems\n3. Network Function Virtualization\n4. Cloud Computing Applications\n\nThis course is quite work intensive. Every week there is a sizable amount of work due. There are quizzes(open internet) and workshops(mini projects) due weekly. Part of grading is demo-ing the functionality of the mini project/project to the TAs.  There is a project due every 4 weeks or so that will take a large amount of time on top of the workshops. If you have not taken CS 6210, I would be hesitant to take this course given that the second module relies heavily on knowledge from 6210 and this knowledge is expected. \n\nOn average I spent about 25 hrs/week including some real hellish weeks especially during the first project, where I probably spent about 40hrs/week on the project for 2 weeks, and even had to take vacation from work. The projects slowly taper in difficulty after that with the second project taking about 30 hrs/week, and the third taking about 20. \n\nOverall it's a very hard course, likely the most work intensive I have taken  in OMS. But you will learn a lot. I'd like to note that I actually monitored my time for the course so the averages are accurate. ",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 5,
+                        "_createdAt": "2021-04-19T15:50:26Z",
+                        "_type": "review",
+                        "course": null
+                    }
+                ],
+                "description": "This is a hands on project-intensive immersive course aimed at senior-level undergraduates and graduate students to give them an in-depth experience in developing different layers of a cloud computing infrastructure including software defined networks, distributed runtime systems, network function virtualization, and application development.",
+                "_type": "course",
+                "_id": "external-import-CS-8803-O12",
+                "_updatedAt": "2024-04-03T17:37:44Z",
+                "officialURL": "https://omscs.gatech.edu/cs-8803-o12-systems-issues-cloud-computing",
+                "isFoundational": true,
+                "slug": "special-topics-systems-issues-in-cloud-computing",
+                "isDeprecated": false,
+                "creditHours": 3,
+                "rating": 4.625,
+                "difficulty": 4.5625,
+                "workload": 28.25
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "special-topics-systems-issues-in-cloud-computing"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

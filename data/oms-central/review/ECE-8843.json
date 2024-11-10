@@ -1,0 +1,102 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "officialURL": "https://omscs.gatech.edu/ece-8843-side-channels-and-their-role-cybersecurity",
+                "codes": [
+                    "ECE-8843"
+                ],
+                "id": "external-import-ECE-8843",
+                "isDeprecated": false,
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/8d4d4667cffdda6923e106dda3b7e916fa189b0a.pdf",
+                "_updatedAt": "2022-08-25T05:35:26Z",
+                "isFoundational": false,
+                "_type": "course",
+                "tags": [],
+                "created": "2022-07-05T23:23:15Z",
+                "creditHours": 3,
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "_id": "external-import-ECE-8843",
+                "syllabus": {
+                    "file": {
+                        "_type": "file",
+                        "asset": {
+                            "_ref": "file-8d4d4667cffdda6923e106dda3b7e916fa189b0a-pdf",
+                            "_type": "reference"
+                        }
+                    }
+                },
+                "slug": "side-channels-and-their-role-in-cybersecurity",
+                "reviews": [
+                    {
+                        "created": "2022-12-13T18:06:36Z",
+                        "rating": 3,
+                        "body": "Interesting subject.  Projects are doable and interesting.  Recorded materials are good.  \n\nInstructors hold office hours in the middle of the work day and will not record them.  Ed posts are never answered unless prompted by a student in office hours.  Emails to professors go unanswered.  Grades are very slow to be returned.  (Fall 2022 average return was 21 days with less than 10 students in the class.)  There is no TA.\n\nInstructors generally seem inconvenienced by teaching the class.",
+                        "_createdAt": "2022-12-13T18:06:36Z",
+                        "id": "r3d1aiqzQ9Ksc47oCSY2TB",
+                        "course": null,
+                        "_type": "review",
+                        "_id": "r3d1aiqzQ9Ksc47oCSY2TB",
+                        "_updatedAt": "2022-12-13T18:06:36Z",
+                        "difficulty": 3,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3"
+                        },
+                        "_rev": "r3d1aiqzQ9Ksc47oCSY2PP",
+                        "workload": 8,
+                        "authorId": "MsTNqrbgkNd172Cxc9YSqA=="
+                    },
+                    {
+                        "workload": 10,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1"
+                        },
+                        "_createdAt": "2021-11-02T05:40:06Z",
+                        "rating": 5,
+                        "id": "external-import-50794b0a-9c97-46ce-8864-026a8971540d",
+                        "created": "2021-11-02T05:40:06Z",
+                        "_type": "review",
+                        "course": null,
+                        "difficulty": 3,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_id": "external-import-50794b0a-9c97-46ce-8864-026a8971540d",
+                        "body": "I was very skeptical going into this class, however was very pleased with the materials as this exposed me to new and interesting attack channels which I was previously fully unaware of.  This was an optional class for me, and I'm very glad I chose to take it.\n\nThe workload was very reasonable and consistent with other courses in my program. The course is project based, with each project targeting a different technique.  Some projects are easy, a few are difficult, most are fun. Projects are practical in nature in that you're writing code to produce results, and documenting your approach in very light reports. The intent of the course is not learning to code, so in many cases skeleton code is provided to get you started."
+                    }
+                ],
+                "name": "Side Channels and their Role in Cybersecurity",
+                "description": "The primary objective of this course is to provide an in-depth treatment of digital and analog side-channels and their use for attacks and defenses in cyber security.",
+                "programs": [
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "_rev": "vLev53Cwnp4JOI2CCKYjdg",
+                "rating": 4,
+                "difficulty": 3,
+                "workload": 9
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "side-channels-and-their-role-in-cybersecurity"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

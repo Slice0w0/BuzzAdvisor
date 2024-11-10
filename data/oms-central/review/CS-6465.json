@@ -1,0 +1,68 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "_rev": "959qsafI8uoLDPJecfROun",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "_id": "external-import-CS-6465",
+                "isDeprecated": true,
+                "creditHours": 3,
+                "reviews": [
+                    {
+                        "_type": "review",
+                        "course": null,
+                        "semester": {
+                            "_rev": "ZekwWJQOMa6mGjNYSN1gYI",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2019-2",
+                            "_updatedAt": "2022-07-22T00:47:06Z",
+                            "startDate": "2019-05-13",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "created": "2019-08-06T23:33:18Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "workload": 15,
+                        "body": "Registered for this course as soon as it became available through BuzzPort. I would say, a fairly thought-provoking, if not unimaginative, course. I did learn a decent amount, but the course uses outdated journalistic tools (considering we live in a tech-driven era) - feather quill pens and parchments, blotting paper, as well as typewriters. Final exam involves creating your own paperweight design using mathematical modeling for perfect weight distribution and stability. A lot of the class is just getting over the initial frustration of not understanding the tools of the trade, then getting a flimsy grasp of that \u201cje ne sais quoi\u201d of writing, holding on to that thought for dear life, and then finally hoping the curve would be up-bended (or upended?, or bent up?) at the very end.\n\nOverall, if you like Scribbling, you will most likely enjoy this course, and if you don't - this class will probably be somewhat entertaining. Win-win!\n\nMy background:\n\n25 years old, recently married (although currently in legal separation process) with two kids, finished undergrad in 2017.\n\nCoding Experience: Very little (academic experience with several languages, mostly writing LISP interpreters and C-to-Assembly code translation)\n\nWriting Experience: Moderate (4 published short-form novels, Pulitzer Prize finalist in Fiction in my sophomore year)\n\nMath Experience: Strong (completed Tensor Analysis, Algebraic Topology, and Stochastic Calculus in my first semester)",
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "id": "external-import-3c40e0db-1250-4059-bd79-027c1508183e",
+                        "_id": "external-import-3c40e0db-1250-4059-bd79-027c1508183e",
+                        "_createdAt": "2019-08-06T23:33:18Z",
+                        "rating": 4,
+                        "difficulty": 3
+                    }
+                ],
+                "_type": "course",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "_updatedAt": "2022-08-24T17:18:18Z",
+                "syllabusUrl": null,
+                "id": "external-import-CS-6465",
+                "slug": "computational-journalism",
+                "description": "Technology is rapidly affecting how news information is gathered, reported, visualized, aggregated, summarized, distributed, and consumed. This class studies the computational technologies that impact journalism.",
+                "codes": [
+                    "CS-6465"
+                ],
+                "name": "Computational Journalism",
+                "isFoundational": false,
+                "created": "2022-07-05T23:23:15Z",
+                "tags": [],
+                "rating": 4,
+                "difficulty": 3,
+                "workload": 15
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "computational-journalism"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

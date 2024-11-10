@@ -1,0 +1,569 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "officialURL": "https://omscs.gatech.edu/cs-8803-o13-quantum-computing",
+                "tags": [
+                    "QC"
+                ],
+                "_id": "26e53feb-fbd0-4233-8218-dfb7f56cc46d",
+                "isFoundational": true,
+                "id": "26e53feb-fbd0-4233-8218-dfb7f56cc46d",
+                "_type": "course",
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/f921a6a8952de8270a8002e7cdd20e798252a800.pdf",
+                "textbooks": [
+                    {
+                        "name": "Quantum Computing: A Gentle Introduction",
+                        "_key": "2f5517a7bba6eb4a7b282b9e884f13e8",
+                        "url": "https://amzn.to/3Tjt5pV"
+                    }
+                ],
+                "creditHours": 3,
+                "_createdAt": "2022-08-15T14:49:24Z",
+                "created": "2022-08-15T14:49:24Z",
+                "_rev": "959qsafI8uoLDPJeciuflB",
+                "name": "Special Topics: Quantum Computing",
+                "slug": "special-topics-quantum-computing",
+                "isDeprecated": false,
+                "codes": [
+                    "CS-8803-O13"
+                ],
+                "syllabus": {
+                    "file": {
+                        "_type": "file",
+                        "asset": {
+                            "_ref": "file-f921a6a8952de8270a8002e7cdd20e798252a800-pdf",
+                            "_type": "reference"
+                        }
+                    }
+                },
+                "description": "The goal of this course is to provide students in CS and ECE with the fundamental background on quantum computing and equip them with the skills to write code and optimize quantum programs on real quantum computers.",
+                "_updatedAt": "2022-08-25T21:43:35Z",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "reviews": [
+                    {
+                        "created": "2024-09-21T05:20:59Z",
+                        "rating": 4,
+                        "workload": 12,
+                        "authorId": "53/LnunEUaJSlio8aWpS+Q==",
+                        "_type": "review",
+                        "_updatedAt": "2024-09-21T05:20:59Z",
+                        "id": "WMlBkd4H5lIQm8Xz2LWzom",
+                        "course": null,
+                        "semester": {
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z",
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4",
+                            "_updatedAt": "2024-07-23T22:42:48Z"
+                        },
+                        "difficulty": 3,
+                        "_id": "WMlBkd4H5lIQm8Xz2LWzom",
+                        "body": "I really liked this class. The front-half of the course was how quantum computing and algorithms work in theory, and the second half focused on current research implementations. The math is heavier earlier on but not overwhelming, especially if you come from an engineering or math background. Familiarize yourself with bra-ket notation and matrix operations/general linear algebra beforehand. Otherwise, I think you can pick up on the math you need during the course.\nOthers have noted that the instructions aren't always clear in assignments. This lack of feedback on GS and the instructions can be very frustrating, but I would say the majority of the assignments are clear enough or have been addressed on ed discussion pages. \nOverall I think this class is worthwhile if you're at all interested by quantum theory or enjoy learning about some niche corner of computing systems. ",
+                        "_createdAt": "2024-09-21T05:20:59Z",
+                        "_rev": "WMlBkd4H5lIQm8Xz2LWzko"
+                    },
+                    {
+                        "semester": {
+                            "_createdAt": "2024-05-09T04:46:16Z",
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4",
+                            "_updatedAt": "2024-07-23T22:42:48Z",
+                            "startDate": "2024-05-19"
+                        },
+                        "_updatedAt": "2024-07-31T14:29:40Z",
+                        "created": "2024-07-31T14:29:40Z",
+                        "rating": 2,
+                        "_id": "2IKTrcBTPXc7cMTx6YWW4P",
+                        "_rev": "2IKTrcBTPXc7cMTx6YWVz8",
+                        "course": null,
+                        "authorId": "Z+qbctrp68tdvtte5W/XCA==",
+                        "body": "Idk who said that this course was easy, but trust me it is not.  It was my first omscs course and coming from a very heavy math background I thought it'd be easy. Well I didn't take into account that assignments have little to no instructions other then bang your head against the wall, and I also I had no idea that exams were not at all what assignments were. \n\nI feel like between exams and projects I was doing 2 different classes. Apparently in non-summer semesters they had homework problems, but they refused to share it with us. I think that did us a big disservice. \n\nYes you have unlimited attempts on the quizzes and also paper reviews are an easy 4-5/5 points. But this class was far from easy or clear. ",
+                        "workload": 16,
+                        "difficulty": 5,
+                        "_createdAt": "2024-07-31T14:29:40Z",
+                        "_type": "review",
+                        "id": "2IKTrcBTPXc7cMTx6YWW4P"
+                    },
+                    {
+                        "authorId": "pvGlr6T30NlNMDGvFDpTtQ==",
+                        "body": "If you are not a great test taker, skip this course. I had 100% on all assignments, but ended up with high B because midterm and final are 20% each of the overall grade.\n\nI got As in much more difficult courses like Distributed Computing. Exam weight distribution is killing the joy out of this course. I think I would prefer having tougher assignments with more weight and more forgiving exam weights. Labs and KCs are very easy. Those can be hardened up in favor of lesser exam weights.\n\nThere are practice exams where you can earn +5 points for your midterm and +10 points for your final if you score 80% or higher in practice exams. The system of awarding bonus points is a reflection of bad exam weights IMHO.",
+                        "difficulty": 3,
+                        "workload": 9,
+                        "semester": {
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4",
+                            "_updatedAt": "2024-07-23T22:42:48Z",
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z"
+                        },
+                        "course": null,
+                        "_updatedAt": "2024-07-31T12:38:31Z",
+                        "id": "2IKTrcBTPXc7cMTx6Xp3o9",
+                        "rating": 4,
+                        "_createdAt": "2024-07-31T12:38:31Z",
+                        "_id": "2IKTrcBTPXc7cMTx6Xp3o9",
+                        "_rev": "2IKTrcBTPXc7cMTx6Xp3is",
+                        "created": "2024-07-31T12:38:31Z",
+                        "_type": "review"
+                    },
+                    {
+                        "created": "2024-07-27T23:13:22Z",
+                        "_id": "uSG6j0nzFMARMpT3ZalVSK",
+                        "_createdAt": "2024-07-27T23:13:22Z",
+                        "_rev": "uSG6j0nzFMARMpT3ZalVOM",
+                        "authorId": "9AIBpLdKh5gudR0j51RJBQ==",
+                        "course": null,
+                        "semester": {
+                            "_updatedAt": "2024-07-23T22:42:48Z",
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z",
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4"
+                        },
+                        "rating": 5,
+                        "difficulty": 3,
+                        "_type": "review",
+                        "body": "Just took final, expected to receive an A.\n\nTo do well in this course one has to really grasp tensor networks which is essentially what a quantum circuit is. Spend time in the first half of the course intensively getting comfortable with tensor products, bra-ket notation, constructing larger gates by hand, and proving equivalency in gate operations etc. Comfort with these basic aspects will greatly aid in your midterm, and general understanding of applied materials in the second half.\n\nThe topics presented were quite interesting that it was really easy to do extra work just to read up on the latest advances outside of what was presented in the class.\n\nOverall, a great class, BUT you need to invest the time to grasp the mathematical foundations of quantum circuits in the first half. You will need strong foundations in linear algebra, complex numbers and some basic algorithms understanding.",
+                        "_updatedAt": "2024-07-27T23:13:22Z",
+                        "id": "uSG6j0nzFMARMpT3ZalVSK",
+                        "workload": 12
+                    },
+                    {
+                        "_updatedAt": "2024-07-01T23:05:58Z",
+                        "difficulty": 3,
+                        "created": "2024-07-01T23:05:58Z",
+                        "_id": "eT8atdiqBNkXrStZoRZkWo",
+                        "_createdAt": "2024-07-01T23:05:58Z",
+                        "id": "eT8atdiqBNkXrStZoRZkWo",
+                        "body": "This is for the ongoing Summer '24 session. I just couldn't hold it. I hope it helps some uncertain folks to make a decision.\n\nCourse content is organized fine. Labs are decent so far. You need to be able to figure out some stuff by your own in those labs as auto grader outputs are not detailed and TAs won't hold your hand throughout the whole lab, which is a good thing IMHO.\n\nStuff I wish this course had:\n\n- More depth and more examples in module videos: I am watching IBM qiskit lectures end-to-end to close the gaps. That should tell you enough. Lecture videos in this course are too short for the subject matter. It's more like a refresher for those who are familiar with the subject.\n\n- Better exam prep: Not sure if instruction team is aware but having big portions of final grade coming from midterm and final AND not having a curve on top of not having extra credit assignments (except +5pts from practice exam) is quite stressful. We had a list of exercises posted on Ed. I worked on them but some of them were ridiculously hard. Exam was nowhere near those practice questions and I felt like I wasted my prep time on hard questions for nothing.\n\n- Better paper review guidelines: I feel like we are reviewing the papers for the sake of reviewing, not learning.\n\n- Longer TA replies: TA replies on Ed are short as if they are taxed by the number of words they have in their replies :) A fellow student replies longer than actual TAs. Maybe that's by design. This is my final course in the program and I'm used to the opposite.\n\n- More TA activity on Sundays: There are 9 TA/IAs listed in the syllabus but only a few of them reply to posts on Ed. On most Sundays, it's radio silence until after an assignment deadline is passed. Given this program is online and people usually work on their assignments over the weekends, it would help A LOT if at least some TAs are active on Ed on Sundays.\n\nTo be fair, I haven't joined to any office hours so far but my experience in this program has been that Ed/Piazza are the primary means of communication with the instruction team. \n\nOh and, polish your linear algebra. Fundamental stuff like matrix multiplications, tensor products, inner/outer products; nothing hardcore. It would also help a lot if you study Dirac notation and get comfortable with it before taking this course.",
+                        "workload": 10,
+                        "semester": {
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15"
+                        },
+                        "_type": "review",
+                        "authorId": "pvGlr6T30NlNMDGvFDpTtQ==",
+                        "_rev": "eT8atdiqBNkXrStZoRZkVA",
+                        "course": null,
+                        "rating": 3
+                    },
+                    {
+                        "rating": 1,
+                        "course": null,
+                        "workload": 20,
+                        "semester": {
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05",
+                            "_updatedAt": "2024-05-09T04:45:52Z",
+                            "startDate": "2024-01-08"
+                        },
+                        "_id": "TDRd8OoYojtwmEJ58j83D9",
+                        "created": "2024-06-02T23:03:52Z",
+                        "_updatedAt": "2024-06-02T23:03:52Z",
+                        "difficulty": 5,
+                        "_rev": "TDRd8OoYojtwmEJ58j83Ae",
+                        "authorId": "yPtZkyTj9RhRZkXax/euBg==",
+                        "_type": "review",
+                        "id": "TDRd8OoYojtwmEJ58j83D9",
+                        "body": "Vague instructions, almost no coding examples, extremely fast paced and a lot of information to digest. I recommend an Intro to Quantum Computing before taking this course.",
+                        "_createdAt": "2024-06-02T23:03:52Z"
+                    },
+                    {
+                        "created": "2024-05-23T20:01:25Z",
+                        "_type": "review",
+                        "_updatedAt": "2024-05-23T20:01:25Z",
+                        "_createdAt": "2024-05-23T20:01:25Z",
+                        "difficulty": 3,
+                        "id": "sklY5h12eE3tVsLYBqugpB",
+                        "_id": "sklY5h12eE3tVsLYBqugpB",
+                        "body": "My favorite course thus far. Great into to quantum computing.\n\nI think a few things could've been explained a bit better and I wrote a blog post:\nhttps://medium.com/@david.bai/quantum-computing-gates-and-phase-82d0a1e9ef5c\n\nalso i wrote out bascially almost all the qiskit you need to know for the course here:\nhttps://github.com/gitgud/cs8803-O13-visuals/blob/main/qiskit_basics.ipynb\n",
+                        "_rev": "sklY5h12eE3tVsLYBqugnK",
+                        "semester": {
+                            "startDate": "2024-01-08",
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05",
+                            "_updatedAt": "2024-05-09T04:45:52Z"
+                        },
+                        "workload": 10,
+                        "rating": 5,
+                        "course": null,
+                        "authorId": "WvYhc4V5t98PvIVqXxGVxA=="
+                    },
+                    {
+                        "created": "2024-05-06T03:06:25Z",
+                        "course": null,
+                        "_createdAt": "2024-05-06T03:06:25Z",
+                        "difficulty": 3,
+                        "workload": 14,
+                        "semester": {
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09"
+                        },
+                        "authorId": "TzxJsOV4uErwPa6Z7rMOxQ==",
+                        "id": "kxVXHSgulMmyM4LLrdPSDe",
+                        "_updatedAt": "2024-05-06T03:06:25Z",
+                        "_rev": "kxVXHSgulMmyM4LLrdPSB9",
+                        "_id": "kxVXHSgulMmyM4LLrdPSDe",
+                        "rating": 5,
+                        "_type": "review",
+                        "body": "Took it in Spring 2024.  \nOverall, very good course.\n\n**Pros:**\n1. Good coverage of all quantum computing topics.\n2. Labs and problems are tightly connected with the course material.\n3. Fair exams provide good coverage of all material across all modules.\n   They are challenging; you must thoroughly understand all homework questions.\n\n**Cons:**\nLectures are too concise. For the first half of the course, you are required to read the textbook. (Thomas Wong's book is actually much better.) It tooks much more time (~ 20 hours) for the first half. The second half tooks much less time (~ 8 hours )\n\n**TAs:**\nI don't want to blame them, but they are often unhelpful in answering questions related to the course materials, and their answers can be more confusing. This is completely different from the Head TA of HPCA (Nolan is great).\n\nIn conclusion, it is a great course with relatively new materials and good coverage of all topics. The TAs are very responsive. They are helpful in terms of learning, but they answer logistical questions promptly."
+                    },
+                    {
+                        "id": "RphmdFA2yiEcyyMLmOqNro",
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "difficulty": 5,
+                        "_id": "RphmdFA2yiEcyyMLmOqNro",
+                        "authorId": "nxSQb6FOcVHHJT2ueblSNQ==",
+                        "_createdAt": "2024-04-11T10:38:51Z",
+                        "created": "2024-04-11T10:38:51Z",
+                        "workload": 15,
+                        "course": null,
+                        "_updatedAt": "2024-04-11T10:38:51Z",
+                        "rating": 2,
+                        "body": "The lectures are very nice and informative, but these do not match the assignments and grading, someone already said \"Lectures are all purely theoretical and assignments are all purely application based\", I couldn't agree more... This is a very chaotic course. I regret havign taken it, instead of taking some MOOC (as KAIST/Coursera's Introduction to Quantum Information, Chicago/edX's Quantum Computing for Everyone Professional Certificate, or just IBM Quantum Learning). \n\nMaybe for physics graduates is good (I have seen some reviews), but I was feeling pretty lost most of times, a terrible lack of guidance on the assignments, I was coding these, even trying to do unit tests that actually passed, but, once in the server, these did not work, and the feedback was pretty useless, \"true is not false\" and stuff like that: no way to test, no way to know what you could be doing wrong... \nWhen I had already decided to withdraw, I even checked on the Web for blogs of other people doing the same with the same framework, but here things did not work.\nAs mentioned, I ended up frustrated and withdrawing. I do not recommend this course, just watch the online videos (once they are public in GaTech's Kaltura), and some MOOCs/IBM QL.",
+                        "_type": "review",
+                        "_rev": "RphmdFA2yiEcyyMLmOqNq2"
+                    },
+                    {
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "_updatedAt": "2024-02-18T00:48:41Z",
+                        "_createdAt": "2024-02-18T00:48:41Z",
+                        "_type": "review",
+                        "authorId": "4kluWNzA+TUcEksL17C2JA==",
+                        "body": "Good intro to QC from the CS perspective. Lectures are informative and homework and labs help reinforce the material. The one issue I had is that sometimes the problems in these assignments were not written very well and so were either confusing or outright incoherent. I suspect this will be fixed as more iterations of the course occur. Overall would still recommend despite this however.",
+                        "id": "Coal4r8iAiwTfbotzGqndX",
+                        "created": "2024-02-18T00:48:41Z",
+                        "_id": "Coal4r8iAiwTfbotzGqndX",
+                        "difficulty": 4,
+                        "workload": 15,
+                        "_rev": "Coal4r8iAiwTfbotzGqnZM",
+                        "rating": 4,
+                        "course": null
+                    },
+                    {
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "rating": 4,
+                        "id": "So3eNGHfSOg3xoOFmYgqLF",
+                        "created": "2024-01-06T01:23:06Z",
+                        "_type": "review",
+                        "authorId": "OurjdTA81rEMUz00lB7TeA==",
+                        "_rev": "So3eNGHfSOg3xoOFmYgqIV",
+                        "course": null,
+                        "body": "Lectures are all\npurely theoretical and assignments are all purely application based. Exams ask questions never covered in any lecture or assignment, particularly stepping through examples and doing math of certain algorithms never covered in details. I wish the lectures covered more practical applications (like what the assignments are) and then have the assignments be more difficult versions but having the simple examples to work off of. They never show how to code in qiskit or how it connects to theory, but I wish they did. Other than that qualm, the course teaches a vast swath of new information so if you work and don\u2019t have time to watch youtube videos and read the textbook, retaining information is difficult. I would analogize this course to an intro to digital logic course in undergrad in terms of newness of material and the fundamentals of logic and algorithms it teaches. The theory taught on a high level is good. Error messages in grad scope for coding assignments are awful. TAs are pretty rough with grading reports. Definitely recommend this course for the content if you\u2019re at all interested in quantum computing and the potential power it holds.",
+                        "workload": 10,
+                        "_createdAt": "2024-01-06T01:23:06Z",
+                        "_id": "So3eNGHfSOg3xoOFmYgqLF",
+                        "_updatedAt": "2024-01-06T01:23:06Z",
+                        "difficulty": 4
+                    },
+                    {
+                        "_createdAt": "2023-12-27T07:53:29Z",
+                        "_type": "review",
+                        "_id": "j07GwiPkUVDQQ5A5ooYYzY",
+                        "id": "j07GwiPkUVDQQ5A5ooYYzY",
+                        "rating": 5,
+                        "course": null,
+                        "_rev": "j07GwiPkUVDQQ5A5ooYYxm",
+                        "difficulty": 2,
+                        "body": "This was my seventh course in OMSCS. I have a CS undergrad degree and 4+ YoE in software development. I got an A in the course.\n\nThe course gives a great introduction to the world of Quantum Computing. It starts from the basics and is not very Math or Physics heavy. It focuses more on the computing aspect of Quantum and doesn't need any prior knowledge of Quantum Mechanics. It gradually builds on the basic concepts and moves on to more advanced concepts in the field. The material covered is a mix of basic concepts from the textbooks and concepts from interesting recent research papers in the field. The course does require prerequisite knowledge of basic linear algebra and matrix/vector operations (but it can be picked up while in the course too).\n\nThe lecture material of the course is very well done and Prof. Moin has kept it short and crisp with ample resources to explore more if needed. The course lectures compliment the textbook for first half of the course. It starts with the basics of quantum computing and introduces the concepts of superposition and entanglement. It explores quantum gates and circuits and builds towards simple and advanced quantum algorithms to solve problems. The second half of the lectures dive into the more advanced and recent advancements in near term and fault tolerant quantum machines and are based on research papers. Quantum errors and benchmarking, NISQ computation, error mitigation and error correction techniques are explored.\n\nThere are four programming labs in the course which uses IBM\u2019s Qiskit toolkit to build and execute quantum gates and circuits. The labs are a lot of fun and you get to implement many of the concepts/algorithms learnt in the lectures and execute them on simulation or on real IBM quantum hardware. All the labs are very closely related to the lecture material covered and they are fairly easy and enjoyable. There is a lot of documentation and tutorial around Qiskit which makes it easier too.\n\nThere are four problem sets which test your conceptual/mathematical understanding of the material. Fall 2023 was the first semester Problem Sets were introduced. They were fairly simple and a good way to test your understanding of the material. You\u2019ll need to go beyond the lectures and read the textbook to solve the problems in the first few problem sets.\n\nThere are five paper reviews in the second half of the course. These are the five research papers which the second half of the lectures are based on. All the five papers are recent and interesting reads \u2013 which talk about a novel approach to solving some problem. There are weekly knowledge quizzes which keep you on track and reinforce the material learnt.\n\nFinally, there are two exams. The final exam is cumulative. Both the exams are closed book and closed internet but is not proctored. You are allowed to bring one sheet of handwritten notes with you. The exams test you on the concepts and techniques and are not memorization based. There will be a lot of numerical answer questions which require calculations. If you\u2019ve understood the concepts, then the exams are fairly easy and you are given a fair amount of time to complete it.\n\nThe TAs of the class good. Ruixi Wang was the one TA who was pretty much running the class single-handedly. He did an excellent job. He was active on Ed and Slack and also held recorded tutorial sessions for few labs and problem sets (for the first time in our semester). All TAs held weekly OH but I didn\u2019t attend any of them. Prof. Moin did hold an OH every week but it wasn\u2019t recorded and I couldn\u2019t attend any of them. But it would have been nice if he did come on Ed too and answer few questions. \n\nOverall, I think this is a fantastic course and a great introduction to this new and evolving field of Computer Science. The workload is also on the lighter side and the grading is lenient, making it an easy course and a good one to pair in Fall/Spring semesters. I would strongly recommend this course to everyone interested and curios about quantum computing.",
+                        "workload": 12,
+                        "authorId": "1CORjIMb+/U0HHRkTcH+4w==",
+                        "_updatedAt": "2023-12-27T07:53:29Z",
+                        "created": "2023-12-27T07:53:29Z",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr"
+                        }
+                    },
+                    {
+                        "_type": "review",
+                        "rating": 4,
+                        "difficulty": 3,
+                        "_createdAt": "2023-12-01T23:54:13Z",
+                        "semester": {
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z"
+                        },
+                        "_id": "wwUsb5BDu6k8CCpFnYQiAR",
+                        "_updatedAt": "2023-12-01T23:54:13Z",
+                        "workload": 12,
+                        "body": "I don't mean to invalidate anyone's personal experience, but rather to offer a counterbalancing opinion to the one posted below. I don't consider myself a smart student. Things don't come easily to me, and I usually have to rewind lectures over and over again to fully grasp what's being said. I thoroughly enjoyed Quantum Computing, and would put it in my top 3 favorite OMSCS classes. It's not perfect, but it does an excellent job introducing students to this interdisciplinary space and gives us some really cool papers to read and consider.\n\nAt the time of writing, I have yet to take the final. But I found the labs, quizzes, and midterm very well constructed and fair. The quizzes are not Honorlock proctored, which I appreciate. They truly serve to reinforce the core ideas of the module, rather than to create an arbitrary grading distribution like some of the other courses in the program (looking at you DL). The TAs were very fair with grading, which was refreshing (looking at you ML), and they do provide feedback and review sessions on all deliverables.\n\nThis semester the instructional team added Problem Sets, which increased the workload relative to reviews from prior semesters. I found the first problem set very dense and time-consuming, but they got more manageable as the semester progressed. Overall, I'm neutral on them. \n\nIn terms of places to improve, I felt the lecture delivery could be very fast and surface-level. I thought HCI's lectures were the gold-standard for OMSCS, and I'd love to see this course's lectures brought up to par. The delivery felt a bit monotone at times, as if reading from a script. I also much preferred the labs to the problem sets, since the feedback on how you did was quicker from Gradescope. \n\nThe course felt heavily front-loaded, especially if you don't have any prior exposure to (complex) linear algebra. But once you get a basic grasp of probability amplitudes, it begins to feel a lot more intuitive. \n\nI put workload as a \"10\" in this review for hours/week, but I think I spent ~15 hours/week in the first half and ~5-10 in the second half. I felt pretty lost the first two weeks, and then felt much more confident after that. The TAs do a wonderful job of holding Office Hours and tutorial sessions for the labs and problem sets. Personally I really appreciated the TAs on this course, but Ruixi in particular was one of the best TAs I've seen during the OMSCS program (and I'm almost done with it!). He went above and beyond to answer every student question on Ed/Slack, and he's been very active and supportive, especially if you attend office hours. He was a big reason I could succeed in the course, and I'm glad to say my questions never went unanswered.\n\nThe latter half of the course, post-midterm, is much more manageable time-wise and feels closer in curriculum to other courses in OMSCS. The first half was much more math heavy, but the material is foundational to quantum. If you spend some extra time really building your intuition early on, it'll pay dividends throughout the course. \n\nOverall I'm really happy I took this course, and feel confidently on track to an A! I think (if you can make it past the first few weeks) you could pair it up with another easy/medium course if you work full-time, or even with a hard course if you don't. ",
+                        "course": null,
+                        "authorId": "7RqJJOi7Q/l7bB59mDCwgg==",
+                        "id": "wwUsb5BDu6k8CCpFnYQiAR",
+                        "created": "2023-12-01T23:54:13Z",
+                        "_rev": "wwUsb5BDu6k8CCpFnYQi6w"
+                    },
+                    {
+                        "_updatedAt": "2023-11-27T17:03:19Z",
+                        "difficulty": 4,
+                        "authorId": "Ucc2dF5afGg5ZaerT6l/aA==",
+                        "course": null,
+                        "workload": 15,
+                        "_type": "review",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr"
+                        },
+                        "id": "HuiHeyCDns6YHDuplBRvCR",
+                        "created": "2023-11-27T17:03:19Z",
+                        "body": "Expected grade: A 92%\n\nThis course is the poorest course I have taken in the OMSCS program. There is no instructor engagement, the lectures are vague and confusing. There is not enough lecture material to convey the content appropriately. You will find there are many professors on youtube that present the material much more clearly and effectively. The book is awful, there is another textbook you will have to look for that people use.\n\nThe TA's do not understand the material well enough to make explicit assertions or give explanations. Be prepared to be told one thing and then have it corrected iteratively or contradicted entirely by another TA with a different understanding. It is so difficult to establish a ground truth and working knowledge without an authoritative source to ask questions to. \n\nThe prerequisites are not informative enough. You will need to be veryyyyy comfortable with matrix algebra, number theory, and probability and you will still need to learn a new math language for the course. \n\nTerrible course structure. It did force me to learn a lot about the field through 3rd party sources.",
+                        "_rev": "HuiHeyCDns6YHDuplBRv9L",
+                        "rating": 1,
+                        "_id": "HuiHeyCDns6YHDuplBRvCR",
+                        "_createdAt": "2023-11-27T17:03:19Z"
+                    },
+                    {
+                        "body": "Background: Working in ML for 5 years and 10 years of overall experience. Prior course taken: AI4T, SAT, DL, CN, AI. I scored A in this course.\n\n**Lectures:** \nThe lectures are well organized, and both video and audio quality are top-notch! The syllabus is structured well, starting with the basics and then gradually increasing in complexity.\n\n**Labs (40% of grade):** \nSetting up the environment was smooth, with no issues encountered. Instructions were clear for the most part, though there were a few areas that required clarification \u2013 something I've seen in other OMSCS courses too. When it comes to grading, the feedback for the coding portion is instant through Gradescope. Reports are graded and feedback is provided within a few days. The difficult part for me was to search Qiskit and understand its APIs for the assignments.\n\n**Knowledge Checks (10% of grade):** \nWe have weekly quizzes that stick to the schedule. They are well-organized and the questions do a good job of testing our understanding of the lecture concepts. Plus, there's the advantage of unlimited attempts.\n\n**Midterm (20% of grade):** \nFor the midterm, we had 4 days to complete a 2-hour exam that was closed book and closed internet. We could only use one sheet of notes. It's worth noting that some additional reading is necessary, with the textbook and certain YouTube lectures being referenced. The exam consisted of 35 questions for a total of 100 marks. Grading feedback was provided within a week.\n\n**Final (20% of grade):** \nThe format was similar to the midterm, but the time allocated was 150 minutes. The exam covered everything learned throughout the course. A big help was the TAs, who provided a practice exam and went over the answers during office hours.\n\n**Conclusion:**\n\nThis course serves as a fantastic introduction to quantum computing, complete with some hands-on experiments. For those curious about the realm of quantum computers and eager to dive into new learning, this course is highly recommended. However, a word of caution: it's not a light course, and pairing it with another class might be challenging. There's a considerable amount of additional reading required beyond just the lecture material. Overall, the course is structured well, not very hard, and the support from the TAs is commendable!",
+                        "difficulty": 4,
+                        "authorId": "ULMbWlaZhPR+BfzVIHYLMQ==",
+                        "workload": 15,
+                        "_id": "Ge7QFtjd7Oo12iAJ8r9WOv",
+                        "_createdAt": "2023-08-13T03:10:52Z",
+                        "semester": {
+                            "startDate": "2023-05-15",
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z"
+                        },
+                        "_type": "review",
+                        "course": null,
+                        "_rev": "Ge7QFtjd7Oo12iAJ8r9WJr",
+                        "id": "Ge7QFtjd7Oo12iAJ8r9WOv",
+                        "created": "2023-08-13T03:10:52Z",
+                        "_updatedAt": "2023-08-13T03:10:52Z",
+                        "rating": 5
+                    },
+                    {
+                        "rating": 5,
+                        "_type": "review",
+                        "body": "This was my third, and so far, favorite class in OMSCS! I can't say enough good things about it. The material is interesting, the TAs are accessible and helpful, and the exams and projects will make you think. \n\nThe course is split into two parts. The first half of the class covers the basics of quantum computing, whilst the second half covers more recent topics like quantum error correction.\n\nThere are four labs, all done in Jupyter using IBM's Qiskit framework. These labs are fairly straight forward and don't take a lot of time. \n\nThe exams are challenging, but fair. The instructors let you have a hand written cheatsheet, one page front and back. Even better, there is no Honorlock! They actually trust you to be adults. So if you take the class... please don't screw it up for everyone else by cheating. \n\nI will say you should probably brush up on trig and linear algebra before the class. \n\nThe last class I took was AOS, and compared to that, these lectures fly by. My only issue with them is they are somewhat dry and not always deep: you really need to read the recommended chapters and papers to get a good understanding. Just using the lectures alone isn't sufficient.\n\nOverall workload is pretty light most weeks. I think this would be a great class to pair with something else. \n\nLastly, I would recommend picking up a copy of Thomas Wong's Introduction to Classical and Quantum Computing (https://www.thomaswong.net/). I found that it explained the material much better than course text. You can get a free PDF on the author's website, or throw him a few bucks and buy a copy. ",
+                        "created": "2023-07-31T01:05:38Z",
+                        "authorId": "z6sMO/3CKJ5V6W+LCZ2GlA==",
+                        "course": null,
+                        "_id": "meCCLzRK2zIBL5FIKQ8C3Y",
+                        "_createdAt": "2023-07-31T01:05:38Z",
+                        "_rev": "meCCLzRK2zIBL5FIKQ8C0B",
+                        "id": "meCCLzRK2zIBL5FIKQ8C3Y",
+                        "workload": 8,
+                        "_updatedAt": "2023-07-31T01:05:38Z",
+                        "semester": {
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15",
+                            "_createdAt": "2023-07-26T19:05:14Z"
+                        },
+                        "difficulty": 2
+                    },
+                    {
+                        "_createdAt": "2023-05-14T20:48:24Z",
+                        "_updatedAt": "2023-05-14T20:48:24Z",
+                        "_rev": "An5NTSoayl8dSG7oWhziRy",
+                        "course": null,
+                        "workload": 12,
+                        "body": "The course lecture only touches on the very broad aspect of the each topic. However, the assignment requires you to dive into the each of the topic they mentioned in class. In order to succeed you must be able to read a lot of QISKIT documentation from the official website. During my semester, a nice guy shared with us what he did, what websites he used, and what mistakes he made along the way. His sharing was extremely helpful for me during heavy workload weeks with other classes. I would like to thank him again. I would grade the lecture quizzes as a medium in terms of difficulty, there is a total of 12 module quizzes, and they would drop the 2 lowest ones. So use it to your advantage. There are 5 questions in each quiz, ranging from multiple-choice to fill-in-the-blank. The first 2 assignments were circuit implementations using IBM's QISKIT. Also, there is an autogravder for the first 2 assignments with unlimited submits. The last 2 assignments were reports based on 2 research papers, which would take you a while to read. The exams are brutal! But by studying the lecture module and doing some exercises in the textbook, you should be alright, since it is the 2nd time it is offered in OMSCS, it offered a generous curve for us. Lastly, there were 5 reviews of research papers. They will provide the template for the reviews and you just need to extract the information and answer them, ideally answer them in one page. This course is alright, the topic is fundamentally hard so be prepared for that. Brush up your linear algebra for this. At this point, I would say that Linear Algebra is by far the most used math course in OMSCS besides statistics. \n\nWould I take this course again? I don't think so. ",
+                        "created": "2023-05-14T20:48:24Z",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z"
+                        },
+                        "authorId": "m2i/FCBPqKPCqMmtpsbukw==",
+                        "_type": "review",
+                        "rating": 4,
+                        "id": "An5NTSoayl8dSG7oWhziUI",
+                        "difficulty": 4,
+                        "_id": "An5NTSoayl8dSG7oWhziUI"
+                    },
+                    {
+                        "workload": 10,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z"
+                        },
+                        "_type": "review",
+                        "course": null,
+                        "id": "PN0LsucFHRjXEo6Gp80vv6",
+                        "created": "2023-04-28T14:57:02Z",
+                        "_createdAt": "2023-04-28T14:57:02Z",
+                        "_id": "PN0LsucFHRjXEo6Gp80vv6",
+                        "_updatedAt": "2023-04-28T14:57:02Z",
+                        "body": "Overall, this is a good class, but there are some bumps I do hope will be ironed out after it gets another semester or two.\n\nIn terms of content, this class is a wonderful introduction to Quantum Computing. You learn the background of what exactly a qubit is and why it offers advantages in computing, work on assignments using a popular quantum computing simulation library, build out algorithms which take advantage of the qubit, study ways that errors are mitigated in quantum computing, and read up on important papers in the field. You should end this course with a great breadth of knowledge. Some of the assignments had weird wording or outright mistakes in them, but everything important was quickly corrected.\n\nThe difficulty will vary depending on your mathematical background. None of the math is too complicated, but the course's attempt at shoving an entire semester of linear algebra into one week is certainly one of its weaker aspects. For me, as somebody who has not taken a number of the college-level mathematics courses that many CompSci students have, this was a struggle. I was always able to get it in the programming assignments where I had infinite time, but some of the problems on the exams got me a bit thanks to the time limit. Overall, I would definitely say that the overall difficulty is on the harder side of OMSCS classes I have taken, but never unfairly so.\n\nThat does bring me to my biggest gripe, though. Ahead of the midterm, there was essentially no information released regarding what it would look like. This was especially unfortunate considering the natural substitute was questions from the textbook (which one TA even said could be a good idea), which ended up not really resembling the format of the exam at all. Not that doing them hurt you or anything, but it would have been helpful to know whether the exam was more math-y, required more recall from the lectures, required us to do the same computations as the programming assignments or different ones, required us to memorize each algorithm's steps or just know how to carry them out when spelled out for you, etc. In my opinion, as the second semester this course was being offered, releasing just a handful of sample questions from last semester would have gone a long way. With that said, I do stress that the midterm itself was ultimately a fair exam.\n\nThe TA's in this class were pretty good. They were very responsive on both Ed and Slack, and generally helpful when they could be. It was a bit of an interesting experience being able to scroll up and see what pretty much all of these TA's were saying last semester when they were students versus what they were saying now that they were in charge; definitely some whiplash seeing a TA make a sarcastic remark about students speculating about how a dropout rate could affect a curve, and then seeing that same TA as a student speculating about how the dropout rate affects the CIOS completion rate for extra credit.\n\nI'd recommend the course overall; there are some key points that could be improved, but everything was ultimately fair and I learned a lot, in addition to simply being an interesting topic.",
+                        "difficulty": 4,
+                        "rating": 4,
+                        "_rev": "PN0LsucFHRjXEo6Gp80vti",
+                        "authorId": "NYOuWkXHMdgPL2r/spYhSA=="
+                    },
+                    {
+                        "workload": 8,
+                        "difficulty": 3,
+                        "_rev": "Mb3QM2azY0qPKtPeG5wtIv",
+                        "id": "Mb3QM2azY0qPKtPeG5wtJd",
+                        "created": "2023-04-02T04:06:51Z",
+                        "semester": {
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09"
+                        },
+                        "_id": "Mb3QM2azY0qPKtPeG5wtJd",
+                        "_createdAt": "2023-04-02T04:06:51Z",
+                        "course": null,
+                        "authorId": "6uoIlaVTbA6M8VCZ79JTAw==",
+                        "rating": 4,
+                        "_updatedAt": "2023-04-02T04:06:51Z",
+                        "_type": "review",
+                        "body": "This is an extension/revision of a similar review I made on /r/OMSCS.\n\nThis course doesn't quite fit neatly in any of the specializations currently being offered by OMSCS. I don't see any other course serving as a preparatory/onboarding class, nor do I see this course teeing up as a clean segue to another. That's alright, but it does make it somewhat awkward to fit in a broader plan when envisioning what you want to make of your OMSCS experience. Enroll in this class because you're interested in Quantum Computing, not because it will make a you a better SWE, MLE, etc.\n\n\"Quantum Computing\" focuses more on the algorithmic implementations of quantum bits (aka \"qubits\"). Since this isn't a physics course, it's not concerned with the particles themselves; since this isn't a computer engineering course, it's not concerned with the hardware that facilitates the computations. Instead, the coursework is couched in the more abstract computational implications of how we might use these particles and machines. You start by comprehending the computational advantages of qubits vs. bits, then how those qubits logically can be configured into programmable quantum circuits, then how more abstract algorithms can be represented by those quantum circuits, then how those algorithms provide a kind of \"quantum advantage\" over classical computers, then how these theoretical applications integrate with existing physical limitations, and then how the field is working to address those limitations.\n\nIn many respects, 100% comprehension of the course material would necessitate a strong mathematical background. I won't pretend that I follow-along with all of the material that's been put before us. That said, I can tell a conscious effort has been made to limit the impact of quantum computing's math on the necessary deliverables required to pass the coursework: where we could have been made to agonize over proofs or writing out quantum states as expressions, instead we're implementing in code the algorithms and gates that make up the core material. Likewise, the weekly quizzes have a generous number of attempts (enough that you might as well have infinite tries until you get 100% correct solutions). All told, the math that drives quantum computing forward as an academic area of study is not a barrier of entry to this class in particular; the course is well-designed in presenting deep, complex topics for those interested, but not requiring a student to necessarily perform at the same level to do well in the class.\n\nYour grade is broken up as follows:\n\n* 4 projects (40% weight)\n* 5 one-page reviews of assorted academic papers, template provided. (10%)\n* 2 exams (40 %)\n* 12 week-by-week quizzes  (10%)\n\nThe projects are all Jupyter Notebooks which import various python files you are expected to implement. From those Notebooks, you export assorted plots, figures, data points, etc. for use in a written report to provide added context to your work (i.e. what are your qubits doing? What are your quantum circuits doing? How do various implementations explain behavior changes? etc.). Every project supplements the lecture, textbook, and papers you are assigned, which is great for solidifying your comprehension. It's an absolute pleasure to see how tightly coupled the various course materials are to one another; if you don't understand a concept in lecture, it might be made more clear in the corresponding project, paper, or textbook reading (as they all relate to one-another in varying capacities).\n\nMy primary criticism with the class is in the various administrative errors that the course had, which were encountered throughout: pacing through the lecture materials was notionally-tied to the syllabus (ex: project 1 is due 1 week before covering some of the material necessary to complete it); exam answer formatting wasn't explicitly made clear (ex: when asked for a percentage in exam 1, it wasn't clear if it was expecting 10, 10%, 0.1, etc.; only 1 format was considered correct); gradescope feedback on project submission could be opaque for reasons unrelated to the lesson material (ex: failures for uploading a directory of supporting *.qasm files vs. all of the *.qasm files individually); the wording/syntax used in various project problems and quiz questions left room for ambiguous interpretation; these and other issues frustrated me.\n\nHowever, credit where credit is due: staff were VERY receptive to rolling, constructive feedback from the students. Every example instance mentioned above was generously - and thoughtfully - addressed. To name every concession, redaction, update, or communique would be exhaustive and beyond the scope of this comment; however, all of the above named examples were reasonably addressed. I'd expect future iterations of the course in subsequent semesters to benefit from corrected materials, mitigating the criticism."
+                    },
+                    {
+                        "rating": 1,
+                        "course": null,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z"
+                        },
+                        "_id": "LKHcCiwWFCTdJG3aa9XmLt",
+                        "body": "This is a fascinating subject that is not too challenging if you have a solid background in abstact linear algebra. In fact, I would say it's a prequesite. However, this course suffers from a number of issues:\n\n(1) The instructor and TAs seldom communicate and answer student questions.\n\n(2) Assignments are not released far in advance.\n\n(3) The instructions for assignments are often vague and poorly written.\n\n(4) There are no assigned readings for the course; you're expected to learn everything from mediocre ppt lecture presentations. For better understanding, you will find it necessary to turn to other resources. I generally have no problem with this, but... this is Georgia Tech. I expect more from this institution. \n\nLabs are all done using QISKIT coupled with a report. Paper reviews also require writing. Exams require calculations and aren't too bad if you know what you're doing. This course could easily be 5 stars if the TAs and instructor invest a little more in content development, assigned readings, and communicating with students.\n\nI DO NOT RECOMMEND.",
+                        "_rev": "LKHcCiwWFCTdJG3aa9XmI8",
+                        "_createdAt": "2023-03-06T05:22:33Z",
+                        "created": "2023-03-06T05:22:33Z",
+                        "_updatedAt": "2023-03-06T05:22:33Z",
+                        "workload": 20,
+                        "difficulty": 4,
+                        "authorId": "ijwyo+lHyowSh99JVOv5Ig==",
+                        "id": "LKHcCiwWFCTdJG3aa9XmLt",
+                        "_type": "review"
+                    },
+                    {
+                        "authorId": "eGyNZ42rmC1oMVBOM0wFDQ==",
+                        "_createdAt": "2023-02-09T16:26:11Z",
+                        "created": "2023-02-09T16:26:11Z",
+                        "semester": {
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "body": "TLDR: Excellent course with carefully prepared lectures and interesting assignment. 10/10 would recommend if you're interested in Quantum Computing, and would like to experience the research side of graduate school. \n\nA bit background about myself: 5/10 courses (GIOS, ML, SDP, IIS, DB) done in OMSCS before taking this course.   I was very happy to find that this course was offered in fall 2022, since quantum computing is such a hot interdisciplinary topic in a number of fields (EE, MatSE, Physics, Computer Science, etc.). I must praise GaTech's and OMSCS's responsiveness in including this topic in OMSCS's curriculum. \n\nAbout the course content: 10/10. You could clearly tell the this course has been carefully crafted to make it content accessible to a wide range of audiences. No knowledge of quantum mechanics is need in prior for one to excel in this class. The topics of the lectures has been carefully selected so that it covers a wide range of research fields in quantum computing (lecture slides are beautiful and a pleasure to read through).  The lectures are short and concise, and summarizes the gist of the topics very well. And the Quizzes at the end of each lecture really help me understand the course materials better. \n\nDifficulty overall: definitely on the easy side and the course workload is really modest. This is reflected on the overall grade of the course when I took it: most people did really well on the assignments, and on the exams. \n\nThings I like about the course: since this is a special topic offering, this course differs a bit from its peer course in OMSCS. One thing I do want to mention is that this course offers a glimpse of what's doing research is like in graduate school. You will learn to read academic papers and write literature reviews (only four of them, as part of your assignments), and I find that since the lectures are short, extra readings (mostly on qiskit website, sometimes other people's blog) sometimes are needed for me to better comprehend the materials and do the assignments.  Since it's a really young and hot area, you will find a lot of relevant and interesting reading materials online. \n\nOverall:  if you're interested in Quantum Computing and willing to be exposed to a course/subject that is a bit different from the usual OMSCS offered courses that are coding intensive, try this one. You will not be disappointed. \n\n",
+                        "_rev": "9PWxe2GQVqCmP8sXeXLsCt",
+                        "difficulty": 2,
+                        "id": "9PWxe2GQVqCmP8sXeXLsF1",
+                        "_id": "9PWxe2GQVqCmP8sXeXLsF1",
+                        "_updatedAt": "2023-02-09T16:26:11Z",
+                        "rating": 5,
+                        "course": null,
+                        "workload": 10,
+                        "_type": "review"
+                    }
+                ],
+                "rating": 3.6666666666666665,
+                "difficulty": 3.4761904761904763,
+                "workload": 12.619047619047619
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "special-topics-quantum-computing"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "isExperimentalCompile": true,
+    "gsp": true,
+    "scriptLoader": []
+}

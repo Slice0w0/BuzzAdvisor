@@ -1,0 +1,42 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "creditHours": 1,
+                "reviews": [],
+                "id": "91b92360-a10b-4fd8-bef1-56147493cac5",
+                "created": "2022-08-19T21:31:38Z",
+                "codes": [
+                    "CS-8001-OWN"
+                ],
+                "name": "Seminar: Women in Tech Seminar",
+                "isDeprecated": false,
+                "_rev": "iLpqNfBINCDhaBRaVHZ5tX",
+                "_updatedAt": "2022-08-24T17:42:25Z",
+                "slug": "seminar-women-in-tech-seminar",
+                "syllabusUrl": null,
+                "_createdAt": "2022-08-19T21:31:38Z",
+                "_type": "course",
+                "_id": "91b92360-a10b-4fd8-bef1-56147493cac5",
+                "isFoundational": false,
+                "rating": null,
+                "difficulty": null,
+                "workload": null
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "seminar-women-in-tech-seminar"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

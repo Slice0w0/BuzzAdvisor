@@ -1,0 +1,483 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "codes": [
+                    "ISYE-7406"
+                ],
+                "description": "Topics include neural networks, support vector machines, classification trees, boosting and discriminant analyses. Intended for Ph.D. students and those seeking the M.S. in Statistics.",
+                "tags": [],
+                "_id": "external-import-ISYE-7406",
+                "isDeprecated": false,
+                "reviews": [
+                    {
+                        "_id": "sn1dq4mXZwkoJrs768kORx",
+                        "id": "sn1dq4mXZwkoJrs768kORx",
+                        "difficulty": 2,
+                        "rating": 1,
+                        "_updatedAt": "2022-11-11T15:00:18Z",
+                        "created": "2022-11-11T15:00:18Z",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22"
+                        },
+                        "authorId": "TmGU60LZ/9bByZEbu1NTVQ==",
+                        "course": null,
+                        "_type": "review",
+                        "workload": 10,
+                        "_createdAt": "2022-11-11T15:00:18Z",
+                        "_rev": "sn1dq4mXZwkoJrs768kONU",
+                        "body": "I really wanted to love this class and hoped to get 2 things out of this class. 1. to gain a better understanding of the stuff I learned in 6501 (both theory and how to apply) 2. how to use real dataset to model in R. This class was so far below my expectation that I would completely recommend people not to take it, unless you just want to take a relatively easy class. \n\nLecture: I watched the first 4 weeks, and then realized he just reads the slides, which are terrible to begin with. Lots of notations not explained. It typically goes like this: Starts with - Some high level explanation of the model (\"logistic regression is a supervised model used for classification\", and then immediately: 7 pages of poorly explained math formulas. But not only poorly explained, but no context, or explanation of assumptions. I ended up watching stat quest and just googling other materials to understand it better. \n\nHomeworks: They completely ignore the problem with real life data sets, that you'd have missings, formatting issues, and other problems that you have to clean up. Instead you are given super clean datasets and you just need to tweak R codes already given. Not only that but some homeworks are super repetitive and long, where all you're doing is changing 1 parameter over and over again. I can say I learned next to nothing from the homeworks. \n\nI also attended a few office hour sessions where TAs are not good at explaining basic concepts, the quizzes are easy to score well on, but also don't make you learn anything fundamental about the material, it's just cherry picking a few niche areas from the weekly knowledge checks. This is like the typical class I experienced in undergrad where you go through a bunch of hoops, and at the end, learn nothing that can be applied to real world. "
+                    },
+                    {
+                        "id": "external-import-4a1b58a2-1720-4f51-8bb1-a7d30634c2dd",
+                        "_id": "external-import-4a1b58a2-1720-4f51-8bb1-a7d30634c2dd",
+                        "_type": "review",
+                        "_createdAt": "2022-05-05T05:21:21Z",
+                        "body": "The concept of the course is fun. Lots of different modeling techniques, take the dataset and run with it, write a report.\n\nThe execution of the lectures was horrible. I ended up not watching them because the professor just read off the page, and the content wasn't useful anyway. It was more useful to research the packages we were using on my own.\n\nWhat really sucked was peer grading. All over the place. I put minimal effort into some reports and got a 5/5, put a ton of effort into others and really knocked my model out of the park and got a 3/5 with relatively no feedback. 30% of the grade should not be peer graded - a major failure point in this course and most courses in the OMS programs.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "created": "2022-05-05T05:21:21Z",
+                        "rating": 2,
+                        "course": null,
+                        "workload": 12,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt"
+                        },
+                        "difficulty": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4"
+                    },
+                    {
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "course": null,
+                        "created": "2022-05-04T17:02:47Z",
+                        "body": "I loved this course. I considered this to be a great sequel to ISyE 6501, as it delves deeper into a range of widely used modeling techniques. Like many others have noted, there is a stronger focus on writing reports and applications. I found this to be very useful, as communication is one of the most important skills for a Data Scientist. \n\nThe group project was a great opportunity to apply what you've learned with any dataset of your choice. I loved the lack of exams - instead there were 5 quizzes, and a 'take home' final, which was more of a 'solo project'. \n\nThis course covers some material covered in CDA. This course is a great alternative if you are more interested in applications rather than coding ML algorithms from scratch, but both complement each other as well. One of the common critiques of this course is that the starter code for the 5 HW assignments is in R. However, students are free to use other languages such as Python, which I used for some of the assignments.\n\nOverall, this was my favorite course I've taken in OMSA. It was not overly challenging - it felt that my efforts went directly into truly learning. The professor is very responsive and I enjoyed his positivity and teaching philosophy.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 2,
+                        "rating": 5,
+                        "workload": 8,
+                        "semester": {
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z"
+                        },
+                        "id": "external-import-863c8c0e-6440-4608-ac7c-a5c2ea4209d8",
+                        "_createdAt": "2022-05-04T17:02:47Z",
+                        "_type": "review",
+                        "_id": "external-import-863c8c0e-6440-4608-ac7c-a5c2ea4209d8"
+                    },
+                    {
+                        "_id": "external-import-5c4c88c0-f632-4947-8053-9a16fd309781",
+                        "body": "One of the better classes I've taken in this program. The lectures are pretty much useless, but the homework and final are fair and kind of fun. You basically get a dataset, a problem, and some starter code (less code as the semester goes on) and that's it. You write your code using the models instructed, then write a paper on what you did and what you found. I enjoyed most of the assignments. There's also a project, which is similar to the homework, but you find your own dataset and use whichever models you want.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 2,
+                        "created": "2022-04-23T15:37:27Z",
+                        "course": null,
+                        "_type": "review",
+                        "rating": 4,
+                        "_createdAt": "2022-04-23T15:37:27Z",
+                        "id": "external-import-5c4c88c0-f632-4947-8053-9a16fd309781",
+                        "workload": 8,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        }
+                    },
+                    {
+                        "course": null,
+                        "_id": "external-import-b127f2f3-bc8f-4f6e-9595-95cbc78fb92b",
+                        "id": "external-import-b127f2f3-bc8f-4f6e-9595-95cbc78fb92b",
+                        "rating": 2,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 2,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "created": "2022-04-21T16:24:06Z",
+                        "workload": 5,
+                        "body": "This class is easy but I'm not sure I learned anything. Lecture material is pretty bad, just him reading the slides and not really teaching anything. Homeworks were at least interesting and you get a project that you get lots of freedom on. But overall this class just isn't very good",
+                        "_createdAt": "2022-04-21T16:24:06Z",
+                        "_type": "review"
+                    },
+                    {
+                        "course": null,
+                        "id": "external-import-46967af3-e3a0-4a28-8de1-f5648123218a",
+                        "_id": "external-import-46967af3-e3a0-4a28-8de1-f5648123218a",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "body": "I took this during my last semester. Probably one of my two 2-3 courses. The material and slides were very well organized, the teacher was extremally active and hosted office hours each week (and would test students on what they knew during office hours--which I thought was great), the TA's were kind, knowledgeable, and helpful. From a material and learning standpoint, while not as hard as CDA, still very valuable IMO. The general concepts of ML were done over and over again and I felt like it was a great opportunity to do a ton of practice on different data and models. It really drilled the concepts into my head. Also, technical summary is really important in this course. In the real world, if you can't summarize your work well, you are out of luck. It is a vital skill and I appreciated that aspect of the course. I will take the general structure with me. Definitely worth taking! ",
+                        "_createdAt": "2022-04-14T00:24:49Z",
+                        "_type": "review",
+                        "rating": 5,
+                        "created": "2022-04-14T00:24:49Z",
+                        "difficulty": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "workload": 10,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester"
+                        }
+                    },
+                    {
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_type": "review",
+                        "created": "2022-04-11T20:18:59Z",
+                        "body": "Cleared due to OMSCentral Owner being greedy.",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "workload": 6,
+                        "difficulty": 1,
+                        "rating": 3,
+                        "id": "external-import-b869d0f2-b166-43fe-8a33-fa5345b70d91",
+                        "_id": "external-import-b869d0f2-b166-43fe-8a33-fa5345b70d91",
+                        "_createdAt": "2022-04-11T20:18:59Z",
+                        "semester": {
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring"
+                        }
+                    },
+                    {
+                        "_type": "review",
+                        "workload": 15,
+                        "created": "2022-01-14T19:14:59Z",
+                        "rating": 5,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "body": "This was my 8th course in the OMSA program.\n\nI really enjoyed the class even though I had taken CDA 6740. I though Dr. Mei was very responsive and understanding to problems that arose during the class.\n\nMy highlight of GaTech work has been this class because I had the opportunity to be in a group project with 2 people that I started the program with and a person that was part of my DVA team. If you are able to gather a group of people for your group project that you know, then your project will go much smoother. You do have the option of going solo.\n\nThe homework is completed in the style of a report. This report guidelines supported my improved technical writing which is helpful for DVA and the practicum in addition to professionally being able to explain my results.\n\nI stopped watching the lectures because the provided notes contained the same information and were easier to follow. I learned a great deal from the weekly assessments and as a result was able to do fine on the quizzes. There are no surprises in this class. The material is presented and this is what you are expected to know.\n\nYou can program in any language but the course is partial to R as the generous starter code is provided in R.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "id": "external-import-7509c306-ebb5-44b8-ae6c-70fc5df6370b",
+                        "course": null,
+                        "_id": "external-import-7509c306-ebb5-44b8-ae6c-70fc5df6370b",
+                        "difficulty": 3,
+                        "_createdAt": "2022-01-14T19:14:59Z"
+                    },
+                    {
+                        "created": "2022-01-03T16:37:06Z",
+                        "rating": 5,
+                        "_id": "external-import-9cb0b31a-c623-4431-a548-a749f1d752e3",
+                        "course": null,
+                        "semester": {
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall"
+                        },
+                        "difficulty": 3,
+                        "id": "external-import-9cb0b31a-c623-4431-a548-a749f1d752e3",
+                        "workload": 9,
+                        "body": "This course focuses on the interpretation and write up explaining your code and code output more than the background. The instructor provides a great overview of the underlying mathematical concepts, but that part isn't as tested / graded as much as the written reports. I enjoyed it as it helped me put into words a lot of concepts I've learned through the course of the program. ",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2022-01-03T16:37:06Z",
+                        "_type": "review",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4"
+                    },
+                    {
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_type": "review",
+                        "created": "2021-12-22T01:35:44Z",
+                        "_id": "external-import-75d87ba4-3a58-40e4-bab7-e8e67314bff8",
+                        "body": "Should have listened to the advisors when they say the contents do overlap. There's nothing to learn marginally more (besides programming in R, which not all companies agree for you to use) if you're already on the beefy ISYE 6740. Moreover, as listed below the grades are peer-graded at the start **and** inherently super-weighted on the last 3 weeks of your work. Ain't that fair, really. ISYE 6740 on the other hand, is hand-graded by the professional group of TAs and the grading are spread out evenly throughout the semester. \n\n### Consider this course if you are doing the \"gimme-my-masters-degree\" Business track and if your Math is not strong enough. \nIf you are beefing up your Math skills and make yourself more employable in the tech and the financial side, consider the other 2 ML courses namely ISYE 6740 CDA & ISYE 8803 HDDA.",
+                        "difficulty": 1,
+                        "_createdAt": "2021-12-22T01:35:44Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "course": null,
+                        "workload": 100,
+                        "id": "external-import-75d87ba4-3a58-40e4-bab7-e8e67314bff8",
+                        "rating": 2,
+                        "semester": {
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall"
+                        }
+                    },
+                    {
+                        "course": null,
+                        "workload": 12,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23"
+                        },
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "id": "external-import-dd9da7e8-4193-452e-8764-f29868efa487",
+                        "_createdAt": "2021-12-17T05:37:53Z",
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 3,
+                        "created": "2021-12-17T05:37:53Z",
+                        "rating": 2,
+                        "_id": "external-import-dd9da7e8-4193-452e-8764-f29868efa487",
+                        "body": "This course, content-wise, is okay. You get a lot of starter code on how to fit various models, and you go over a large number of them. You do learn something. However, the way this course is assessed is completely ridiculous. First off, almost the entire grade is based on other peoples' subjective opinions of your submissions. Assignments tend to be graded subjectively, not based on any particular objective things that we can all agree with. Second of all, the distribution of the grades is absolutely ridiculous. All the HW throughout the semester is worth only 5 points per assignment (total of 6), while the \"Final Exam\" which is essentially an open-ended glorified assignment, is worth as much as SIX assignments put together for the same amount of work. If you happen to do poorly on that \"last assignment\", which is based on you making an accurate prediction, forget about having maintained a 100% grade average throughout the entire first 13 weeks of the semester. In fact, 60% of the total grade is decided on the last 3 weeks of the semester, which is beyond absurd. ALL the work that you have put in all semester is worth so little, and it is vastly outweighed by the last 3 weeks of the semester. And I bet that they don't even lower the cutoffs for this class, which is another ridiculous thing. "
+                    },
+                    {
+                        "rating": 2,
+                        "workload": 5,
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester"
+                        },
+                        "_id": "external-import-77126a2b-2bbc-406c-a62a-0a16c03edb7e",
+                        "body": "Had high expectations after reading the previous reviews, but was not as expected. Lectures are dry and can be much better. Also, while other reviews say that it is a very practical course using R, I feel like we are pushed towards tweaking the sample R codes provided by instructors. Moreover, the peer-review process is performed by the majority by looking for \"mistakes\" to deduct points for which discourages any free thinking, especially when you know that simply following and modifying the sample R codes is the safest option. When compared to CDA, this surely falls short in my opinion, as I learnt much more from that course. Regarding the group project, again the safest option is to go for a simple idea since the peer grading will in general be looking for \"imperfections\" to deduct points for rather than how challenging your idea is. Would recommend this for someone who looks for an easy A, but do not expect to learn much. ",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 1,
+                        "id": "external-import-77126a2b-2bbc-406c-a62a-0a16c03edb7e",
+                        "created": "2021-12-17T05:32:25Z",
+                        "_createdAt": "2021-12-17T05:32:25Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "course": null,
+                        "_type": "review"
+                    },
+                    {
+                        "id": "external-import-47627362-0d98-47e7-be73-f244115474d2",
+                        "created": "2021-12-12T17:20:17Z",
+                        "_type": "review",
+                        "course": null,
+                        "_createdAt": "2021-12-12T17:20:17Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester"
+                        },
+                        "body": "This is a great class for practical application (in R) of many of the various models and methods that are taught in other courses. As other reviews have mentioned, it works well as a recap of (or an introduction to) those other courses, with more academic-oriented lectures working in tandem with a more real-world series of homework assignments.\n\nThe structure is great, with five HW assignments, in R, with a healthy amount of starter code that progresses from most-of-it in the beginning, to some-of-it by the end - more than enough for those who are still struggling a bit with that element to get by. Very short quizzes offset the HW assignments every other week which address the lecture content but are taken almost directly from available knowledge checks. The bulk of the grade then comes from a group project and a take-home final, both of which are 10-15 hour efforts and leniently graded.\n\nBecause of a general focus on the not always obvious interpretation and presentation of analysis - rather than simply the code/math itself - it's a great real-world counterpart to more academic courses in the program. If you want to dig in to fully understand the math behind the methods (which aren't generally a part of the HWs/quizzes) you'll be looking at 10+ hours a week, but you can more than succeed with a broader understanding in 5-8 hours a week. Highly recommended.\n\n",
+                        "_id": "external-import-47627362-0d98-47e7-be73-f244115474d2",
+                        "workload": 6,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 3,
+                        "rating": 4
+                    },
+                    {
+                        "_type": "review",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "id": "external-import-9a7bcaac-02ff-4955-9052-383a5a57e765",
+                        "_id": "external-import-9a7bcaac-02ff-4955-9052-383a5a57e765",
+                        "rating": 5,
+                        "course": null,
+                        "workload": 8,
+                        "body": "When I took this class, I had already taken the sister class 6740, and I have to say that this was not only a much better experience, but I learned and retained far more understanding.\n\nI thought the professor and TA's did a great job not only answering questions, but also focusing on what is important. The professor acknowledged that there are multiple, valid ways to approach a single problem, and put the focus on explaining your process and decision-making process. \n\nAlso really enjoyed the project, and had a great partner. We made sure to control the scope of our project appropriately, so the workload wasn't too much to tackle. \n\nOverall, the class didn't require too much work, and as long as you take the time to learn the material, whether that be through lectures, homework, or both, you should do well in the class. I did find that the final was fairly difficult, but it was helpful that it was a take-home final with 7 days to complete. \n\nThe only thing that I found frustrating was that I ended up with a numeric grade around 89.6% and that still put me at a B. I'm okay with that though, because it didn't require a tremendous amount of my time and effort.",
+                        "difficulty": 2,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "created": "2021-08-12T18:38:19Z",
+                        "_createdAt": "2021-08-12T18:38:19Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "difficulty": 3,
+                        "_id": "external-import-a1409744-259f-47b6-8ffd-eec3e7179604",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1"
+                        },
+                        "rating": 5,
+                        "course": null,
+                        "id": "external-import-a1409744-259f-47b6-8ffd-eec3e7179604",
+                        "created": "2021-05-12T01:18:55Z",
+                        "body": "\nThis was my first semester in OMSA and it truly was a great course to take!\n\nMy background is in \"business and economics\" with a clear focus on analytics and experience using R. Additionally, it might also be helpful to know that I'm a full-time student and opted out from the core courses.\n\n\nThis course is really helpful to better understand several algorithms commonly used in data science and it is not that hard either. Actually, most of the time I spent was due to my interest in the field, but you can probably get an A without that much effort. (I got full marks\ud83e\udd73)\n\n\nRegarding the design, I belive that it's pretty well done, although I would have liked to spend a bit more in support vector machines.\n\nRegarding the evaluations, they include:\n\n- Some quizzes that should not represent much of a problem if you studied and did the knowledge checks beforehand.\n\n-  Six homeworks where you must analyze data and write a report. Although since the 6th homework is open-ended, I would argue that there are 5 homeworks and a small project that serves as a preparation for the final project.\n\n- Final project -> You can go solo too :D  (and actually, the best projects I had to peer review where all from people going solo, although it was a small sample)\n\n- Final exam.\n\n\nI believe that everything else has already been said, but as a small summary:\n\n- Pros: Teaches relevant topics, it is really interesting, Dr. Mei seems to be really motivated and frequently answers questions on piazza.\n\n- Cons: Some people do not peer review or do not leave any feedback.",
+                        "workload": 16,
+                        "_createdAt": "2021-05-12T01:18:55Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "id": "external-import-b43b5b69-eb00-4060-bafb-72fd75fec69e",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "semester": {
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z"
+                        },
+                        "body": "It is the first time DMSL is being offered online. I took this class to solidify my R skills.\n\nInstructors: Dr. Mei has involved a lot in Piazza and TA sessions even though I barely participated in the TA sessions. \n\nClass Logistics: The assignments and quizzes are mostly on alternate weeks, which allow us to have a balanced time for reviewing the materials and complete HWs.\n\nHWs: They are not difficult as the sample R codes are provided. \n\nProject: You can do it as a solo or a group.\n\nPeer grading: This is the most annoying thing. There is no penalty for those who do not perform a peer grading nor inappropriately grade. The class is so flexible that you can use any tools like Python. In my opinion, it is better to fix one programing language for peer grading purposes since not everyone is familiar with every language. \n\nLectures: Slides have a good logical flow. The only thing I don't really like is the use of (Y,x) notation instead of (X,y). \n\n",
+                        "rating": 3,
+                        "created": "2021-05-10T11:04:08Z",
+                        "_createdAt": "2021-05-10T11:04:08Z",
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 2,
+                        "_type": "review",
+                        "workload": 12,
+                        "_id": "external-import-b43b5b69-eb00-4060-bafb-72fd75fec69e"
+                    },
+                    {
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "rating": 3,
+                        "_id": "external-import-7683c631-8861-4524-b76b-4188386a716b",
+                        "created": "2021-05-05T14:36:39Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-05-05T14:36:39Z",
+                        "course": null,
+                        "semester": {
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z"
+                        },
+                        "id": "external-import-7683c631-8861-4524-b76b-4188386a716b",
+                        "_type": "review",
+                        "body": "Since this is a new course, I will be as thorough and fair as possible. TLDR: Course is just ok, easy A, and be prepared to read the ISL/ESL books on your own if you actually want to develop a decent understanding of the different modeling techniques.\n\nI will start by saying that Prof. Mei is a highly involved professor and is sincerely invested in helping his students learn. He interacts a ton on Piazza (more so than the TA's) and is very accommodating with any requests you have. He is also very knowledgeable and comes off quite humble and approachable. All great things to have in a professor. \n\nCOURSE STRUCTURE\nThe course however, was just ok. You can expect an hour of lectures each week, a lot of which is reading formulas off of slides. You'll then have 6 peer graded homeworks with the bulk of the code provided in R (you can do it in python or any other language if you want). The intention is to have you spend your time developing the analysis of your output rather than applying the math or developing your coding skills. The project is open ended (you can analyze any data set using any methods you like) and its peer graded as well. So if you put the effort into developing decent reports, it's a very easy A. You typically only have two questions for each of the 5 quizzes (each question is worth a full percent of your grade!), but the questions are taken straight from the knowledge checks. You're given a training data set for the final where the goal is to produce the best predictive model that can get the highest accuracy on an unlabeled test set. Slightly stressful because only the professor can measure your final accuracy % - but you're given leeway if your accuracy is not great but you write a good report explaining your modeling choices. All in all, I put an average of 12 hours but you can get away with much less if you choose to. I probably put in more than 12 just because I wanted to and could.\n\nCONS\nI dislike peer grading simply because I never get valuable feedback. Ever. In this course and 6501, it seemed like if my report was long enough, people don't read it and simply give full grades. I find that people who complain about losing marks here generally didn't take time to make a decent report or actually analyze and make conclusions. I'd still prefer to have someone tell me where my conclusions were off, so in that way, I probably didn't learn as much as I could have because no one challenged me. \n\nI also learn by application. Reading formulas off slides doesn't work for me and I just find it boring. I wish that the homeworks or quizzes had you actually apply the math. I would have also preferred to have an extra couple videos that went more into depth regarding when you actually would prefer to use one modeling technique over another, their limitations, and how you actually apply them (i.e. k-means is great but what the heck do I do with my clusters when the data is ambiguous and they're not from 3 clear classes of Iris types?!). The focus was way too heavy on achieving a high accuracy %, which doesn't give me much in the way of real world skills I'd actually use in a job.  \n\nPROS\nI'll end on a high note. I did figure out what to do with my clusters - but I just had to invest my own time to research this. Which is fine, we're all in a masters program after all. So I did learn a bunch, but if you don't read on your own you might not learn as much. The professor is great to work with (he even apologizes for his accent in the first video, which he really didn't need to because I understood everything just fine). This class has a lot of potential if they increase the rigor and maybe add some better content to help develop a deeper understanding of the methods discussed.",
+                        "difficulty": 1,
+                        "workload": 12
+                    },
+                    {
+                        "created": "2021-04-10T23:22:35Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "course": null,
+                        "_id": "external-import-048ab46b-6098-49d0-9138-11aed196ea4e",
+                        "difficulty": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "id": "external-import-048ab46b-6098-49d0-9138-11aed196ea4e",
+                        "rating": 4,
+                        "workload": 10,
+                        "semester": {
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z"
+                        },
+                        "_createdAt": "2021-04-10T23:22:35Z",
+                        "body": "Taking this class when it was first offered to online OMSA, so may change over time.\n\nBased in R but you are allowed to hand in homeworks coded in Python. Sample R code provided and is helpful.\n\nHomeworks are peer graded but also are report style. In other words, rather than you answering specific questions and your peers looking for specific answers, you have to do the model analysis and then actually WRITE about it. I like the focus on being able to write intro, exploratory analysis, methods, results, summary, etc. Good practice.\n\nLectures are heavy in math. But if you can hang in there and follow along (or mostly along) you will learn a lot about the different models. \n\nI'm taking this as one of my last classes in the program, and I feel like it has been good to help me revisit different methods from various classes and solidify my understanding and use of them.\n\nProfessor regularly comments on Piazza and answers questions. Occasionally he even pops in as guest on TA office hours. He has a thick accent but is obviously trying his best and really cares about helping you learn, and I appreciate that. Overall, I thought this was a good class.",
+                        "_type": "review"
+                    },
+                    {
+                        "id": "external-import-68186a10-70ce-4b59-bd04-355721843ec0",
+                        "created": "2021-03-30T02:19:51Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 4,
+                        "course": null,
+                        "workload": 16,
+                        "_createdAt": "2021-03-30T02:19:51Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "rating": 5,
+                        "_id": "external-import-68186a10-70ce-4b59-bd04-355721843ec0",
+                        "body": "The class starts being pretty easy, but you can notice it getting more \"mathy\" over time and therefore it actually gets rather difficult if you plan on understanding everything correctly.\n\nI really like this topic which is why I have been studying around 16 hours per week (perhaps a bit more) in order to understand each method and produce the best reports I currently can. You can get by without making so much effort though.\n\nGrades are peer graded, which makes it a bit annoying when you find someone that doesn't make an honest effort, but it also means that you can learn new things from other people from time to time."
+                    }
+                ],
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "slug": "data-mining-and-statistical-learning",
+                "programs": [
+                    {
+                        "acronym": "AN"
+                    }
+                ],
+                "_type": "course",
+                "name": "Data Mining and Statistical Learning",
+                "syllabusUrl": null,
+                "created": "2022-07-05T23:23:15Z",
+                "isFoundational": false,
+                "_updatedAt": "2022-08-24T17:24:38Z",
+                "_rev": "959qsafI8uoLDPJecfSG6l",
+                "id": "external-import-ISYE-7406",
+                "creditHours": 3,
+                "rating": 3.526315789473684,
+                "difficulty": 2.3157894736842106,
+                "workload": 14.736842105263158
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "data-mining-and-statistical-learning"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

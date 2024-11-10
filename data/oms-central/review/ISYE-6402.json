@@ -1,0 +1,909 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "codes": [
+                    "ISYE-6402"
+                ],
+                "description": "Basic forecasting methods, ARIMA models, transfer functions.",
+                "_type": "course",
+                "slug": "time-series-analysis",
+                "isDeprecated": false,
+                "textbooks": [
+                    {
+                        "_key": "00cea1ff6154f4f9e49b7f859501c7fe",
+                        "url": "https://amzn.to/3PTjymt",
+                        "name": "Introduction to Time Series and Forecasting"
+                    },
+                    {
+                        "url": "https://amzn.to/3Ti6fio",
+                        "name": "Time Series Analysis and Its Applications: With R Examples",
+                        "_key": "d6b205b6abf3f0a70dc03f8739617e0f"
+                    },
+                    {
+                        "url": "https://amzn.to/3R6avQi",
+                        "name": "Analysis Of Financial Time Series, 2nd Ed",
+                        "_key": "25c524403ef3f373101b08f32e54d7d1"
+                    }
+                ],
+                "officialURL": "https://omscs.gatech.edu/isye-6402-time-series-analysis",
+                "_rev": "959qsafI8uoLDPJeciugfb",
+                "name": "Time Series Analysis",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    },
+                    {
+                        "acronym": "AN"
+                    }
+                ],
+                "_updatedAt": "2022-08-25T21:43:48Z",
+                "id": "external-import-ISYE-6402",
+                "created": "2022-07-05T23:23:15Z",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "tags": [
+                    "TSA"
+                ],
+                "syllabus": {
+                    "file": {
+                        "_type": "file",
+                        "asset": {
+                            "_ref": "file-ef4746b5716f3a03580507145cf092ba179f36d9-pdf",
+                            "_type": "reference"
+                        }
+                    }
+                },
+                "isFoundational": false,
+                "_id": "external-import-ISYE-6402",
+                "creditHours": 3,
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/ef4746b5716f3a03580507145cf092ba179f36d9.pdf",
+                "reviews": [
+                    {
+                        "course": null,
+                        "created": "2024-05-01T18:58:18Z",
+                        "difficulty": 3,
+                        "workload": 15,
+                        "authorId": "VuFNwgwhEMpMQ6WVVc8Dkg==",
+                        "body": "A very bad course\nMismanagement by the teaching assistants (TAs). Lackluster video lectures from the professor, who seemed unenthusiastic and merely read from slides instead of engaging the students. Reading directly from textbooks would have been more effective than these lectures.\nThe course paled in comparison to offerings on platforms like Coursera, which generally provide higher-quality educational content. \n",
+                        "_createdAt": "2024-05-01T18:58:18Z",
+                        "semester": {
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester"
+                        },
+                        "_id": "P0fd194Re1Cm4PFFlXGO2k",
+                        "id": "P0fd194Re1Cm4PFFlXGO2k",
+                        "rating": 1,
+                        "_updatedAt": "2024-05-01T18:58:18Z",
+                        "_rev": "P0fd194Re1Cm4PFFlXGNzC",
+                        "_type": "review"
+                    },
+                    {
+                        "created": "2023-05-03T16:44:33Z",
+                        "_createdAt": "2023-05-03T16:44:33Z",
+                        "id": "T0iuRlPz5judcr8VP5adMC",
+                        "semester": {
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester"
+                        },
+                        "_updatedAt": "2023-05-03T16:44:33Z",
+                        "_type": "review",
+                        "difficulty": 3,
+                        "_rev": "T0iuRlPz5judcr8VP5adHc",
+                        "course": null,
+                        "_id": "T0iuRlPz5judcr8VP5adMC",
+                        "body": "Overall, a solid course and good use of time for those interested in learning the fundamentals of Time Series Analysis!  \n\nYou can tell Dr. Serban has taken prior feedback and tried to revamp the course to be more applicable, well-structured, and less stressful for learners.\n\nThe course is about a 40/60 split between theory and application (and at the end of the day, grading is weighted around 25/75 theory vs application).\n\nWhile there are an enormous amount of math and statistics that undergird this course content, I felt like one could engage with the material from more of an \"applied\" lens and not fully master mathematics and still easily get a B.  Getting an A may be more difficult without understanding the math, but is probably still obtainable with well-organized notes and code for the exams.\n\nThe group project was a great edition! Our team was able to explore some more advanced modeling techniques outside the traditional Regression, ARIMA-GARCH, and VAR models.\n\nIt is not a perfect course. The lectures are quite long and full of minutiae. Fortunately, they provide PDF docs with lecture transcriptions, and some prior students created Jupyter Notebooks that walk through the theory/code in step-by-step detail for each type of modeling application in the course.  These resources were beyond helpful, and I plan on referencing them in my work.\n\nI found the hardest part of coding sections on exams and homework had more to do with data manipulation in R than a particular time series method. If your programming skills are solid and you have some background in data manipulation using Python or R, you should be fine.\n\nDon't be swayed away from this course just because of rough feedback in the past! For those interested in learning the fundamentals of time series and forecasting, the new version of ISYE 6402 offers solid, applied content at a reasonable pace. \n\nOn weeks with exams or final project submissions, I probably spent 15-20 hours. Most other weeks, I probably spent 5-8 hours.\n\nFor context, I took Regression Analysis in Spring 2022.",
+                        "rating": 5,
+                        "workload": 10,
+                        "authorId": "LTkGeg5mjFG8BPupiISUjQ=="
+                    },
+                    {
+                        "authorId": "8k6VWTQsy+zNLUnmkhHcwg==",
+                        "_rev": "82sXZw4302uray8vcAkET3",
+                        "course": null,
+                        "body": "I'll start by saying that my workload is likely more than most.  50% of my time was dedicated towards the project.  That project is in a research area I'm interested in, so this number represents a much higher than average workload.\n\nThe final project replacing a final exam is new, so there were some items that needed to be addressed as we went along.  This likely frustrated some students, but I consider it part of the process and much prefer having an applied project vs. a final exam.  I expect that future semesters will benefit from us testing this process.  \n\nI believe that students who create their own project idea (and gather/build datasets) will get much more out of this class than the ones using the proposed project datasets.  Certainly that is the case for me.  There is a great opportunity to use this course to build (or enhance) a research area of interest to you.  This also becomes a way to engage with new modules/methods as they are shared.\n\nI thought the homework and exams were challenging, but fair.  There are going to be a few True/False and multiple choice exam questions that look nothing like the homework to test your understanding.  Coding is close enough to homework and practice exams that a good understanding of past coding will get you a good result.  I'd recommend good documentation of past code, especially with parameters and steps (like values for 90%/95%/99% CIs or why a loop was set to a certain end value).\n\nI don't think I have a great aptitude for this type of analysis, but I was vested in the course because of the final project chosen.  For those interested in grades, I expect to get an A in the course.  More important to me, I was able to use (and talk about results) in recent internship interviews as a way to demonstrate recent experience in R as well as interest and knowledge in the subject.\n\nThere are some areas to improve:\n- Consistency across TAs \nTA sessions occasionally yielded different answers than other sessions or the eventual answer on Piazza.  Typically these were questions on process or the final project.  I'd recommend that questions beyond HW/Exam/Lectures be gathered and listed on Piazza by the TA.  They (and Dr. Serban) can collectively answer these process questions.\n- Saving TA sessions\nEarly in the semester a handful of video sessions were saved.  These stopped and as someone who could not attend weekly, this was a challenge.  I was the only attendee (for one TA) the last couple weeks, so these were happening...even if they were not well attended.",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx"
+                        },
+                        "id": "82sXZw4302uray8vcAkETj",
+                        "_createdAt": "2022-12-16T03:19:27Z",
+                        "workload": 20,
+                        "created": "2022-12-16T03:19:27Z",
+                        "difficulty": 4,
+                        "rating": 4,
+                        "_type": "review",
+                        "_id": "82sXZw4302uray8vcAkETj",
+                        "_updatedAt": "2022-12-16T03:19:27Z"
+                    },
+                    {
+                        "authorId": "Hv+TgHXXTPdsLG7sIilQGQ==",
+                        "body": "This course had interesting material, but was a mess. There would often be days between TAs responding to Piazza, cancelled office hours, poor or misleading instructions and incorrect dates on the syllabus. At times, the homework solutions were inaccurate and based on different data sets, obviously not updated since the last time the class was offered. The tests were open book and open notes, and there are 4 homework sets and a \"project\" which is poorly designed, easy to complete and adds little value. if you organize the lecture notes and follow the examples, it is easy to obtain a B.",
+                        "created": "2022-11-29T01:22:16Z",
+                        "rating": 3,
+                        "course": null,
+                        "_id": "sEt0QEOF763GnkGvUg25hl",
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester"
+                        },
+                        "_rev": "sEt0QEOF763GnkGvUg25eL",
+                        "_type": "review",
+                        "workload": 7,
+                        "id": "sEt0QEOF763GnkGvUg25hl",
+                        "_createdAt": "2022-11-29T01:22:16Z",
+                        "difficulty": 2,
+                        "_updatedAt": "2022-11-29T01:22:16Z"
+                    },
+                    {
+                        "_createdAt": "2022-04-08T21:17:04Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 1,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1"
+                        },
+                        "_id": "external-import-0a490211-dbaf-4dc9-93fb-d6171347ca21",
+                        "body": "First off I want to say that I enjoyed the regression course with this professor and was expecting something similar from Time Series Analysis. This course started out OK but has steadily got worse throughout the semester. This is the only course I've taken (this is my 8th) where errors in the answer keys and lecture material has made it hard to complete what's required. \n\nAs an example the answer key to the most recent coding homework - which is peer graded - was done to a lower quality than the three peer homework submissions I was grading. Graphs were so small they were unreadable and the answer key did not follow the instructions to the questions. One question asked to limit the model order to a certain size and the answer provided a model order higher than the max requested. When classmates pointed out the errors there was no response or guidance. There's been some errors in previous classes but they've always been quickly addressed and guidance given on what to do by the TA's or professor. Not in this case though...\n\nThe practice midterm also had multiple errors and made assumptions that weren't in-line with what the questions were asking. Students were asking if they misunderstood what was being asked or if there were errors but no TA responded to clarify for a couple days. This left students including myself anxious that these weren't mistake and we just misunderstood some material as were were going into writing he midterm.\n\nPiazza is also very quiet. In most other courses there has been a lot of questions and discussion but there's usually only a few posts each week from students in the course. I'm guessing that because of the poor review not many students are taking this course this semester which limits the discussion and maybe results in less TA's assigned explaining the delays in answers to questions?\n\nThe professor has offered extra credit for students that help improve the quality which I hope can address some of the issues but based on the current state of the course I can't recommend taking it. ",
+                        "difficulty": 3,
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-0a490211-dbaf-4dc9-93fb-d6171347ca21",
+                        "created": "2022-04-08T21:17:04Z",
+                        "_type": "review",
+                        "workload": 12
+                    },
+                    {
+                        "difficulty": 5,
+                        "_type": "review",
+                        "rating": 1,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "id": "external-import-645f4eed-c54d-4af2-a4aa-1e00bff82c3b",
+                        "course": null,
+                        "workload": 13,
+                        "semester": {
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "_id": "external-import-645f4eed-c54d-4af2-a4aa-1e00bff82c3b",
+                        "body": "Disliked the peer-graded assignments. On top of the Homework workload, you need to review 3 other peers' homework which can be extensively long (plus analysis, code, and graphs it goes up to 10 pages). Peer grade is very unstable. Some people grade more generously, some don't. The final grade is the median of the three. The TA does not review the fairness of the grading. If you fail to grade other people, you get punished and deduct some points from your own homework. The grading for the midterm is harsh as well. A peer got deducted a total of 5 points at two separate places because the generated graphs did not have a clear legend. \n\nThe lecture consisted of a lot of math formulation with minimum explanation. I've taken other time series graduate courses at other universities but this is not the structure I preferred. ",
+                        "created": "2022-03-08T00:11:53Z",
+                        "_createdAt": "2022-03-08T00:11:53Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "course": null,
+                        "_id": "external-import-3d8f4319-6e5b-44b3-a4a9-6ffebef5fdf4",
+                        "body": "After the first midterm, I dropped this course like a hot potato. ",
+                        "rating": 1,
+                        "_createdAt": "2022-03-06T15:17:00Z",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10"
+                        },
+                        "workload": 25,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "id": "external-import-3d8f4319-6e5b-44b3-a4a9-6ffebef5fdf4",
+                        "created": "2022-03-06T15:17:00Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 5,
+                        "_type": "review"
+                    },
+                    {
+                        "body": "If you liked ISYE-6414 (Regression Analysis) - and reading from the reviews of OMSCentral, you probably didn't - you're gonna love the sequel.\n\nFirst:  this is an entirely different domain of regression analysis.  You will have to know ISYE 6414 material of course but there will be no baby steps in 6402.  Because guess what?  ISYE 6414 was just building the basement; Time Series builds an entire split-level mansion on top of that with many rooms.  The only good thing is that if you survive it you will know a lot about Time Series and have a great appreciation for homoskedastic residuals.\n\nIssues about this course:\n\nIt will take up a lot of your time.  I got an A in Regression Analysis; don't know what this grade is going to be but might not be as good.  I put about 12-18 hours a week into this one.  You'll be glad just to pass it, frankly.\n\nThe lectures aren't really that bad:  the issue is that you don't know how much of the actual math in the lectures is important.  (You might want to know some of it, at least.)  Having the transcripts really helps; you'll be reading those transcripts like you're taking the LSAT.\n\nDr. Serban has shown up in Piazza, and frequently.  She's not an absentee professor.  But I suspect she's simply supervising the TAs work, and whether or not you'll get your questions answered in a timely manner by the TAs?  That's a whole new story. Your question could be left hanging. Serban has had to poke a few TAs to answer a question.\n\nThe TAs - let's talk about that.  I suspect that the TAs are taking a full load at Georgia Tech, and this is a higher level course, so I wonder how much attention they pay to things when they can't knock out an elementary answer.  On Piazza, Dr. S. was frequently sending messages for TAs to address issues.  If the TAs have exams close to when you have exams, look out!  You'll know which TAs are helpful and which are clueless if you have enough office hours.  If you're having trouble with a homework, the TAs will have the solutions but trust me, your question might be the first time that any of them have looked at that solution.  It makes resolving fine points that much harder, and you get a good chance of a TA leading you down the wrong path.\n\nOh, and the homework solutions?  The last two homework solutions had errors from the TAs that created those solutions, so students had to correct those errors.  Once again:  follow Piazza.\n\nAh, the True/False and homeworks themselves.  A lot of time on Piazza (and you better read Piazza like it was a will from your late Rich Uncle Pennybags or you will be left bereft of an inheritance) was spent trying to parse out exactly what was meant in the questions or the homeworks.  A lot of questions read like a bad first draft.  The True-False questions are particularly puzzling.  Questions are the very definition of ambiguous, which is what you don't need in a TRUE-FALSE test.  \n\nMy first exam was graded harshly, the second one was not.  So who knows?  TA roulette?   Find a short term personal savior, and pray to them.\n\nHaving two midterms really helps, believe it or not.  The second midterm can save your bacon if you crash the first one.\n\nHave good cheat sheets.  Even though you have open notes on your exams (well, you can't surf the web or go to Stack Exchange but you can have all your PDFs and lecture files), you will want to get an Excel workbook and store all of that R code so you can have it at your fingertips.  Move all of the solutions into a R Markdown file of your own so you can copy and paste for exams.  Failing to prepare really IS preparing to fail in this case, so good luck.",
+                        "workload": 15,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 4,
+                        "id": "external-import-8307f822-1545-41c3-885a-f15b67e0191d",
+                        "created": "2021-12-12T21:42:30Z",
+                        "_id": "external-import-8307f822-1545-41c3-885a-f15b67e0191d",
+                        "_type": "review",
+                        "rating": 2,
+                        "course": null,
+                        "_createdAt": "2021-12-12T21:42:30Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4"
+                    },
+                    {
+                        "id": "external-import-35173817-b189-46e2-9dd7-068dbd84374a",
+                        "created": "2021-11-25T20:14:51Z",
+                        "_id": "external-import-35173817-b189-46e2-9dd7-068dbd84374a",
+                        "_createdAt": "2021-11-25T20:14:51Z",
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 5,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 5,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester"
+                        },
+                        "body": "It was quite challenging but learned a lot about time series theory. It is a good idea to take this course if you want a statistical sense of how stock price or any autoregression works",
+                        "_type": "review",
+                        "workload": 40
+                    },
+                    {
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "difficulty": 5,
+                        "rating": 1,
+                        "_createdAt": "2021-11-07T23:20:32Z",
+                        "created": "2021-11-07T23:20:32Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "semester": {
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z"
+                        },
+                        "_id": "external-import-a4d83bc0-7b58-44de-b59f-a75be6d9fa79",
+                        "body": "Has to be one of the worst courses in OMSCS. Praise be to Jupiter it's not a mandatory requirement. The professor, Nicoleta Serban has the uncanny talent to make an already dense subject, even denser -- enough to form a black hole and make you hate the words time and series for the rest of your life. Honestly they should just stop offering this course. Such a shame.",
+                        "course": null,
+                        "workload": 40,
+                        "id": "external-import-a4d83bc0-7b58-44de-b59f-a75be6d9fa79"
+                    },
+                    {
+                        "_id": "external-import-9cebe52a-a2f4-4c1d-af1a-727b7ba003b5",
+                        "body": "I cannot stress enough how difficult this class is.  I work full time and use time series analysis nearly every day.  I am still struggling with this course.  I took this class because I thought I would learn something new to apply to my job, but I would have been better off just taking an online course from Udemy or some other training site.  This class is being taught as if it is preparation for a Ph.D. thesis rather than a masters level course.  If you don't absolutely have to take this course, I would recommend finding something else to take.",
+                        "course": null,
+                        "workload": 25,
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester"
+                        },
+                        "difficulty": 5,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_type": "review",
+                        "_createdAt": "2021-10-28T12:55:46Z",
+                        "id": "external-import-9cebe52a-a2f4-4c1d-af1a-727b7ba003b5",
+                        "created": "2021-10-28T12:55:46Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 1
+                    },
+                    {
+                        "course": null,
+                        "workload": 15,
+                        "body": "This was my first course in the OMSCS program and I did not do enough research when I picked it. It sounded like a good course, I was interested in learning R and I already knew a little about TSA. \n\nPROs: The course does leave you with some useful knowledge and tools to tackle TSA. It is also a good way to learn R. You can pretty much only use R to complete the course. I think some people attempted to use Python but I can not see how you would when all of the examples and started code is R.\n\nCONs: The lectures are extremely boring, the course is not part of a specialization, and does not count as a foundational course.",
+                        "_createdAt": "2021-07-25T23:54:40Z",
+                        "_type": "review",
+                        "rating": 2,
+                        "difficulty": 3,
+                        "created": "2021-07-25T23:54:40Z",
+                        "semester": {
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_id": "external-import-50aad6b7-8d2a-4332-9711-a6cb37bce004",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-50aad6b7-8d2a-4332-9711-a6cb37bce004"
+                    },
+                    {
+                        "difficulty": 5,
+                        "_createdAt": "2021-05-11T18:21:52Z",
+                        "rating": 1,
+                        "course": null,
+                        "_id": "external-import-071e16e5-da9a-4d72-a43c-fb976828e64a",
+                        "workload": 18,
+                        "created": "2021-05-11T18:21:52Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "body": "I took Regression from the same professor and I felt like the reviews for that class were a bit over-the-top in their negativity, but I can't say the same for this one. If you are considering taking this class but can take something else, I'd recommend taking something else. If you struggled in Regression AT ALL you are going to struggle mightily in this one. The homeworks were SO difficult and really seemed to have nothing to do with the lectures themselves. The tests were so poorly worded, it would almost appear that they weren't reviewed at all. The coding portion of the test was open book but closed internet (like Regression). The biggest issue with the coding exams was that we were NOT provided sample code for some of the questions. You either had to somehow figure it out (without googling), know it already, or just fail that portion. I cannot stress how awful it is to be in a closed-internet coding exam that they did not even bother to prepare you for. This was VERY unlike the Regression class where we at the very least were provided sample code, even if it hadn't previously been on the homeworks. It was extremely unfair. The curve was VERY generous, which was nice, but it would have been more conducive to learning if such a generous curve hadn't been necessary in the first place. On top of the difficulty of the material, the class is just poorly managed and I would strongly encourage anyone reading these reviews to take a different class.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-071e16e5-da9a-4d72-a43c-fb976828e64a"
+                    },
+                    {
+                        "_id": "external-import-4917d0d9-3d99-46e8-a010-23d81b1ab8a4",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "body": "I really wanted to like this class. Much of the material is related to the work I'm currently doing. I took this class to be able to apply practical skills to my job.\n\nThe one benefit of taking this class is to have access to starter code that'll help with practical analysis. I've already started doing this work in my job because of the material provided. If you know someone who has taken this class and saved the material, you'd be better off asking them for the starter code and maybe lecture slides and transcripts.\n\nHowever, the lectures were dense. It was difficult to parse what material was simply background and what we were expected to know for assessments. There was a lack of continuity in notation and often formulas were incomplete or went unexplained. The unfortunate part is the material is not difficult once you decipher the slides and nitpick transcripts.\n\nAnd despite how well you understand the material or how much you've studied, nothing can fully prepare you for true/false and multiple choice questions on assignments and exams. There's a great disconnect between what is expected and what is required. It's discouraging as a student to approach assessments confidently and do poorly due to question semantics or implied ideas never directly discussed.\n\nIn addition to the poor MC assessments, the R coding portion of the exams are open book/closed internet that require a tremendous amount of work in a fairly short time to do it in. But it's also too much to expect students to perform well consistently over a 4 hour straight period, despite how much they prepared in advance.\n\nDr. Serban's office hours were one of my favorite parts of the course. She's highly knowledgeable and very personable. She changed her office hour time to better accommodate students and often stayed late to answer lingering questions. It's very unfortunate this doesn't transfer well to her lecture videos.\n\nAnd any work that Dr. Serban does feels upended by the head TA. There is a lack of consistency in terminology and methodology due to TA preferences versus the professor's lectures. There have also been multiple times when the TA provided patently inaccurate information or approaches to coding questions. It didn't help that he would double-down when students questioned the accuracy or clarity of assessment questions that he wrote.\n\nOverall, I'm glad I took this class to have access to the R code resources provided and the subsequent assessments where I used it. But if I had could have had these resources without taking this class, I would have preferred that. It wasn't worth the anguish and stress that followed, from poorly written content to ludicrous assessments that made me feel like I didn't actually learn anything from this class.",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "id": "external-import-4917d0d9-3d99-46e8-a010-23d81b1ab8a4",
+                        "course": null,
+                        "workload": 15,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "_createdAt": "2021-05-06T18:56:45Z",
+                        "created": "2021-05-06T18:56:45Z",
+                        "rating": 2,
+                        "difficulty": 4,
+                        "_type": "review"
+                    },
+                    {
+                        "course": null,
+                        "_createdAt": "2021-05-06T04:46:04Z",
+                        "workload": 12,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "created": "2021-05-06T04:46:04Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "rating": 1,
+                        "_id": "external-import-4ba82471-ea05-41c1-973a-ff413d6ab039",
+                        "body": "I made the mistake of thinking this class would be like regression, and I had such an interest in time series modeling. I really enjoyed regression so I figured, why not?\n\nMy first issue, the consistency between homework and exam grading. Exams are worth I think about 80% of your grade or somewhere around there. Homeworks are peer graded however, we never ever get feedback from TAs on our homework. Get a lazy grader that gives you all 100s? I don't learn anything from that. It comes to exam coding portion and I do the write up as I have been and all of a sudden you get new critiques because you have been doing your reports the same way but the TAs have a different expectation on what they want to see and you will never truly know that I til the exam and it's a gamble as to what your grade will be.\n\nSecond issue, since the exams are so heavily weighted you would assume they would be thorougly looked over right? Wrong. Both exams ended with long piazza threads asking about why half of the questions were so ambiguous. Sometimes you get points back, sometimes you lost points. Again, it's a gamble. I spent a crap ton of time studying and there was no correlation between that and my grade because again, you have to be in the graders minds and know what they want somehow.\n\nOverall I was extremely disappointed with this course, especially after enjoying regression so much. The Homeworks lacked depth and understanding as to why we were applying each model. Now I did actually learn in this course, I found the best way to learn from her based on regression was read the transcripts and create outlines, skip the videos. But the application in the homework and translation to exams was severely lacking. I could have picked up the textbook and taught myself without the extra anxiety the exams caused. Not joking, this 4 hour final was one of my worst experiences to date.\n\nI've been doing really well in OMSA and enjoyed most of my classes. This is my third to last class and this is the only time I've been severely concerned I might fail. ",
+                        "_type": "review",
+                        "id": "external-import-4ba82471-ea05-41c1-973a-ff413d6ab039",
+                        "difficulty": 5
+                    },
+                    {
+                        "id": "external-import-cce1359e-2e48-49c8-adc7-48d316f4829b",
+                        "_type": "review",
+                        "difficulty": 5,
+                        "_createdAt": "2021-05-05T19:27:09Z",
+                        "_id": "external-import-cce1359e-2e48-49c8-adc7-48d316f4829b",
+                        "created": "2021-05-05T19:27:09Z",
+                        "workload": 12,
+                        "semester": {
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "body": "### This class is hard for the wrong reasons.\n\nMy final grade isn't out yet, but looks like a high B before a curve, quite possibly an A after a small curve, so this review is not motivated by low-grade-revenge.\n\nSee other reviews for all the common complaints. My biggest issues are lack of consistency between lectures/homework/exams, and lack of intuition/motivation in the lectures, just bare presentation of equations.\n\nDr. Serban is personable and caring, but that cannot overcome the flaws with this course. If you want to learn time series, do it elsewhere.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "rating": 1,
+                        "course": null
+                    },
+                    {
+                        "id": "external-import-245e3086-1e91-4c3c-8ac1-9397deb7c09b",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "difficulty": 5,
+                        "_createdAt": "2021-05-03T21:51:39Z",
+                        "body": "Horrible Course and Teacher",
+                        "created": "2021-05-03T21:51:39Z",
+                        "course": null,
+                        "workload": 15,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_id": "external-import-245e3086-1e91-4c3c-8ac1-9397deb7c09b",
+                        "_type": "review",
+                        "rating": 1
+                    },
+                    {
+                        "workload": 10,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "body": "Do not take this course, even if you are interested in the subject matter. This was my 8th course in the program and it was by far the worst. I don't even feel the need to list all the problems with this class, as others have listed many in previous reviews. Seriously, take something else in place of this class. Learn time series at another school or on your own.",
+                        "created": "2021-05-03T21:07:49Z",
+                        "_createdAt": "2021-05-03T21:07:49Z",
+                        "_type": "review",
+                        "difficulty": 4,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "course": null,
+                        "_id": "external-import-dcfd0883-8edf-427d-aa55-36083b8687a7",
+                        "id": "external-import-dcfd0883-8edf-427d-aa55-36083b8687a7",
+                        "rating": 1,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        }
+                    },
+                    {
+                        "_createdAt": "2021-05-02T23:36:35Z",
+                        "rating": 1,
+                        "body": "This class is a hot mess. just a perfect class to ring in 2021 in that respect.\n\nI like math, math isn't reading equations at people. This is not a math class. If it was it would at least have a textbook it follows or be better presented with mappings to the books it does use. Instead it's here are some topics we'll cover and three textbooks that aren't bad and they might cover it but they might not. And if they do definitely not the same way we do. \n\nPresentations have clearly been redone, probably better than they used to be.\n\nTwo modules were switched in order, some material was dropped from a unit. The homework wasn't updated to reflect that change.\n\nToo few TAs for the class, this was admitted to. If I could suggest it would be that first fixing the course structure might make people more willing to be a TA and secondly that doing so might increase the number of students who are even eligible to be TAs for the class.\n\nTAs have literally told people videos on YouTube are a better way to learn some of this material.\n\nPractice tests don't have worked solutions, so if you miss a question good luck figuring out why. Because some of the TAs don't know. Some give conflicting answers to questions.\n\nPractice tests included questions TAs knew would not be tested. Just space fillers to make the practice test longer.\n\nSome test questions are ambiguous, and ambiguity will be held against the student when this occurs.\n\nFormat for final seems to have been changed in the weeks leading up to the final, but with no prep in how to do that type of test/report.\n\nRelative weight for the different parts of the final was not known even after the finals week started.\n\nThe final exam this semester for 85 minutes of multiple choice followed by a separate 245 minute hour coding exam/report. Yes the final for a three credit class was five and a half hours. This is absurd.\n\nI've taught college level courses. Part of a good course is that you communicate what is important (tested) by what you focus on. You communicate what people will be evaluated on by what you previously tested on. This is a principle of fairness. Its fine to combine two things on a later test, or make the questions harder, that is still \"fair\". But when a test includes a concept which was barely touched on in lectures, not practiced in homework, not given the figurative \"foot stomp\" to indicate a student needs to know how to do that particular thing, then adding it to a test doesn't just feel unfair it is unfair. The idea \"everything is fair game\" is a lazy answer meant to cover for poor teaching practices.\n\nThe advice I would give the people designing this course (and all at GA Tech actually). You should design and write your final exam before the rest of the course. You need to have it written before the class even starts. You then go though the final and ensure ever item on it is something you have assigned in some way. You then do the same for every other test. This is literally the textbook way to ensure you teach what you test. This is how you give a fair test. It can be hard, it can be challenging, but it should never feel like a concept was barely covered, or only given a passing reference. But in this class, and others at GA Tech, TAs (who allegedly wrote the tests) and Professors (who might have written or just approved the final) prepare the final a week before the final starts and tests just before the tests get given. Go speak to your colleagues who actually study education, this is *BAD*.\n\nI think what I learned in this class was not to take Time Series Analysis from GA Tech. Seriously, don't take this class. Spend the money on a different class. Find a school where you can do a one-off for time series analysis. It'll cost more but it can't be worse and a good chance it will be better. \n\nI think I'll avoid Dr. Serban's other courses if she has any. I like her well enough, she was very friendly in office hours and helpful. But she's just not a good instructor or course designer if this class is any example. (I also took her Regression course which was bad but not this bad).\n\nI expect I'll be getting a low A to middle B in this class before any curve applied (which is a pretty good score in this class). It isn't as though I didn't learn or do well, it is just that bad of a class even people who do relatively well don't like it.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_type": "review",
+                        "workload": 10,
+                        "id": "external-import-cdb252ff-56bb-4de2-80cd-1cbce3c344e1",
+                        "created": "2021-05-02T23:36:35Z",
+                        "difficulty": 5,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "course": null,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw"
+                        },
+                        "_id": "external-import-cdb252ff-56bb-4de2-80cd-1cbce3c344e1"
+                    },
+                    {
+                        "course": null,
+                        "workload": 15,
+                        "difficulty": 4,
+                        "rating": 1,
+                        "body": "Very horrible course. Littered with errors on the lecturer's explanation and course document. The team did not even try to come up with good course material and implement good teaching technique. Very reliant on Piazza and office hours for corrections, some of which are for mistakes that went years back and overlooked. Final exam promises a starter code which was nowhere to be found. Final's MCQ was closed book (very orthodox and outdated method). Not recommended, a total waste of money.",
+                        "id": "external-import-90e7a605-4d87-4fbb-b6d8-f8e721493006",
+                        "created": "2021-05-02T13:51:09Z",
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-05-02T13:51:09Z",
+                        "_id": "external-import-90e7a605-4d87-4fbb-b6d8-f8e721493006",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review"
+                    },
+                    {
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "_type": "review",
+                        "id": "external-import-fd5c7e6b-f531-4bb8-9cc6-c97b26adb7cf",
+                        "created": "2021-04-28T18:32:55Z",
+                        "workload": 15,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "course": null,
+                        "_id": "external-import-fd5c7e6b-f531-4bb8-9cc6-c97b26adb7cf",
+                        "difficulty": 4,
+                        "_createdAt": "2021-04-28T18:32:55Z",
+                        "rating": 1,
+                        "body": "I took regression with the same professor and it was one of my favorite classes in the OMSA program. However this class was truly awful despite me coming in with great enthusiasm for the topic. By the end of module 1 I was truly dreading every homework assignment and lecture video. \n\nHomework and exam questions included many that were ambiguous, nitpicky, \"gotcha\" questions or flat-out wrong, and when asked about these the TAs and professor would never acknowledge this, but rather dig in their heels or ignore legitimate questions. The coding homeworks were the best part of the class, since they let you get some practice actually applying things, but they felt like they were designed by a TA who didn't really understand the topic or didn't care to make a practical example, like one of the first homeworks just told you to fit a 3rd order polynomial trend model with seasonality to time series data with no trend and no seasonality whatsoever, and it just made no sense and they didn't acknowledge that fact, so students didn't really get to \"build intuition\" but rather follow nonsensical instructions that would be bad practice for real data analysis and memorize R packages. Also tons of super-finicky or outdated code, you're better off starting from scratch than using their sample code in most cases.\n\nThe lectures are, as others have said, awful. Tons of slides of equations with just reading the equations and a script, by module 2 I was just reading the transcript and external resources and felt I learned better than when I actually watched the videos. The really sad part is these were recently \"redone\" but the core problem of them just being displayed equations + a script was not addressed at all. The office hours with the professor were more free-flowing and I felt that recordings of the professor just discussing the topics with a rough outline and no script would be much easier for them to produce and much more valuable to students.\n\nPeople will explain these criticisms by saying it's hard, mathematically dense subject matter or \"it's a graduate course, you can't expect to be spoonfed,\" but most of the classes in this program are just as mathematically dense and don't suffer from these problems, and I expect the instructors to instruct and provide accurate, good instructional material, not tell me the answers. This course just doesn't accomplish what it should (and what others in this program do) in those respects.\n\nReally a truly, honestly atrocious class in it's current state, which is hugely disappointing because I was really looking forward to the material. I cannot overstate how disappointed I was with the lack of effort that the TAs, especially the head TA, put into refining the material and acknowledging mistakes or ambiguities. Even if you are interested in this subject matter, don't take this class - take one with better reviews and self-study time series analysis from the great publicly available resources out there. ",
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "difficulty": 4,
+                        "_type": "review",
+                        "id": "external-import-bfce0efe-7938-45db-89a1-e81523e1df72",
+                        "_createdAt": "2021-04-13T17:54:17Z",
+                        "course": null,
+                        "workload": 15,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester"
+                        },
+                        "body": "Reviewed from someone who took Regression with the same professor\n\nPROS:\n\nYou learn to deal with stressful exams. \n\nCONS:\n \nLectures are dry and boring since she just read off the slides. You have to do a lot of additional online research for homework. I found youtube tutorial online and it was more helpful. \n\nMC is designed as \"gotcha\" format. Make sure you read the question carefully. Coding part wording can be confused and ambiguous. They don't clearly state  which dataset you need to use and you get points taking off.  *WARNING* TA grading can be very harsh but you can ask for re-grade.\n\nExams are 80% of the overall grade and homework is 20%. I don't really care for this. It should be a test of knowledge, not a test of how to deal with stressful and wordy exams. \n\nSince it's the first semester with new data example, some of the code doesn't work and it doesn't seem like they want to correct it during the class. \n\nPiazza posts are disorganized even though the head TA is trying his best (compare to Regression, TAs are on top of answering unresolved posts). Some posts never get answer. Or TAs would provide the most non-answer to your questions, they just ask you to go back and look at some slides. \n\nOVERALL: \n\nVERY DISORGANIZED! \n\nI don't know why this class structure and organization is so different than Regression. I have a very positive experience with Regression.  This class is just so different. \n\nIt seems like there is a miscommunication and disorganization between the professor, the TAs, lectures and transcripts. They are trying their best to correct them but it can be very lackluster.\n\nI would think twice before you decide to take the class. If you are a math/stat person, it probably helps with this class. Coding is not difficult for this class so you'll do fine. I just don't learn as much as I did in Regression compare to this class even though it's the same professor. \n ",
+                        "_id": "external-import-bfce0efe-7938-45db-89a1-e81523e1df72",
+                        "created": "2021-04-13T17:54:17Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "rating": 1,
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "id": "external-import-8c2d1ee1-0922-4156-a119-59fd509a3b8c",
+                        "created": "2020-12-09T15:49:16Z",
+                        "rating": 4,
+                        "body": "I'll chime in with a slightly different perspective than some other reviewers here. My educational background is in economics, and my professional background is in data science.\n\nGOOD:\n\nThis course was heavy on practicality. I have felt that many other OMSA classes were 90% theory and 10% practice, where the lectures left you totally blind to practical problems that arose in the homeworks. This class broke that pattern significantly; a ton of lecture time is devoted to problem-solving in R and interpreting graphs.\n\nThe homeworks and exams are made up of two portions: multiple choice and coding. As a result of the above, the coding sections (of both homeworks and exams) end up being pretty easy. Seriously - you can mostly copy/paste provided example code to get A's on coding portions of the homeworks and exams.\n\nBAD:\n\nThe multiple choice portions of the homeworks and exams are very difficult. These questions are made up of extremely nit-picky trick questions; I did not feel that \"truly understanding the source material\" translated at all to \"performing well on multiple choice sections\".\n\nAlso, the lectures are pretty dense and boring.\n\nCONCLUSION:\n\nI spent about 8 hours per week on this course, and am in range for an A assuming a small curve (as alluded to on the class Piazza). It is absolutely reasonable to put in 10-12 hours to guarantee an A. (The coding portions end up counting for more than the multiple choice portions.)\n\nWhile studying for the multiple choice portions does suck, this class's focus on practicality made this one of the more reasonable I have taken in this program. I would recommend this class if you are looking for one where you can make an A without crushing yourself with work (albeit maybe being a little bored in the process).",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "workload": 8,
+                        "semester": {
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z",
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_id": "external-import-8c2d1ee1-0922-4156-a119-59fd509a3b8c",
+                        "difficulty": 3,
+                        "_createdAt": "2020-12-09T15:49:16Z",
+                        "_type": "review"
+                    },
+                    {
+                        "workload": 5,
+                        "body": "I have a background in mathematics for undergraduate study. I have never taken a time series course before. I found the course was not that hard as mentioned by some other reviews. I learned some useful concepts regarding time series. Dr. Serban is knowledgeable about this course and the TA was very helpful. I think as long as you do all the homeworks and practice tests on your own and understand the coding examples in the lectures, you should be good to earn an A.  ",
+                        "created": "2020-08-19T21:21:20Z",
+                        "course": null,
+                        "_id": "external-import-fd6ff2ee-19f9-4dff-b6a5-d9ffcf81ca11",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "_type": "review",
+                        "id": "external-import-fd6ff2ee-19f9-4dff-b6a5-d9ffcf81ca11",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3"
+                        },
+                        "_createdAt": "2020-08-19T21:21:20Z",
+                        "rating": 5,
+                        "difficulty": 2
+                    },
+                    {
+                        "created": "2020-04-29T22:18:35Z",
+                        "body": "My background is mathematics, and this is my 6th class in the program.  I have taken Dr. Serban's Regression class and the structure was basically the same.  \n\nLectures are fair in quality (not inspiring but informational), but there is lots of R code in the examples. Four homeworks that each had programming and MC portions.  Two exams each worth 40% that each had programming portion and MC portion.  Very reasonable and the homework was good preparation for the exams.\n\nThe TAs for Spring 2020 were excellent, and they really made the class accessible.  Resources are readily available online (YouTube channels on Time Series), so that's good.\n\n",
+                        "difficulty": 3,
+                        "_createdAt": "2020-04-29T22:18:35Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "course": null,
+                        "id": "external-import-6640b852-6307-49e9-a037-862d5d0f2d06",
+                        "_type": "review",
+                        "workload": 15,
+                        "semester": {
+                            "startDate": "2020-01-06",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "rating": 4,
+                        "_id": "external-import-6640b852-6307-49e9-a037-862d5d0f2d06"
+                    },
+                    {
+                        "_createdAt": "2019-12-08T03:54:52Z",
+                        "rating": 1,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "_id": "external-import-d2e7b116-97b8-4a07-baab-8f5d978aa831",
+                        "difficulty": 5,
+                        "id": "external-import-d2e7b116-97b8-4a07-baab-8f5d978aa831",
+                        "created": "2019-12-08T03:54:52Z",
+                        "workload": 12,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3"
+                        },
+                        "_type": "review",
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "body": "The exams are very hard. I strongly doubt most TAs can get 90 points(or even 85 points) in the exams. The homework is pretty easy, but the exams count for 75% of your grade. I find a lot of students dropped this class because the average score of the previous homework and exam increased dramatically after the midterm exam. If you do not make extra effort beyond the course material, you will have a decent chance to get a C if there is no curve in this class."
+                    },
+                    {
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "difficulty": 5,
+                        "course": null,
+                        "_id": "external-import-733a64bd-5fd1-46e7-aae5-e9d061c1322d",
+                        "_createdAt": "2019-10-28T18:11:50Z",
+                        "created": "2019-10-28T18:11:50Z",
+                        "rating": 1,
+                        "workload": 18,
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "body": "Worst course and professor. Stay away from this class if you don't want to lose your mind. It's hard to understand her and there is a HUGE gap between lectures and exams. I had to drop out and waste a semester.",
+                        "id": "external-import-733a64bd-5fd1-46e7-aae5-e9d061c1322d"
+                    },
+                    {
+                        "_type": "review",
+                        "_id": "external-import-1f5f4205-088d-4547-a392-6ce8d305eac1",
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "created": "2019-10-07T15:00:35Z",
+                        "difficulty": 5,
+                        "course": null,
+                        "workload": 15,
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester"
+                        },
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "rating": 1,
+                        "body": "This course requires you to have a good understanding of linear regression, I am fine with that. The homework is doable but the exam is not. for the multiple choice part, some questions are tricky and some are not covered in her class. The coding part is just copy and paste her example code but most students do not have enough time to finish it. \n\nFor the quality of course video, like other students said, her course video is just useless, using some textbook will make your life much easier.",
+                        "id": "external-import-1f5f4205-088d-4547-a392-6ce8d305eac1",
+                        "_createdAt": "2019-10-07T15:00:35Z"
+                    },
+                    {
+                        "id": "external-import-07f0743e-18bf-4ee6-9d17-fab24020d7ea",
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_createdAt": "2019-10-04T14:31:02Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "_type": "review",
+                        "difficulty": 5,
+                        "created": "2019-10-04T14:31:02Z",
+                        "rating": 1,
+                        "course": null,
+                        "workload": 40,
+                        "_id": "external-import-07f0743e-18bf-4ee6-9d17-fab24020d7ea",
+                        "body": "The assignments were fine and intuitive, got A's on those. However, when I take the exam, about 60% of the information was covered in Lecture. The other is just a pop quiz trivia time on what is being covered. Prepare to spend 40 hours a week on this class if you want a proper grade. Half the time I don't know what is being said in Lecture or on Tests. There is no extra credit. Do not take this course or anything with this instructor."
+                    },
+                    {
+                        "semester": {
+                            "_id": "external-import-2019-1",
+                            "_updatedAt": "2022-07-22T00:47:13Z",
+                            "startDate": "2019-01-07",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0ILeM",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "rating": 2,
+                        "_id": "external-import-19ffda5a-66dd-491b-88ea-b4302b60524c",
+                        "id": "external-import-19ffda5a-66dd-491b-88ea-b4302b60524c",
+                        "difficulty": 4,
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "_type": "review",
+                        "course": null,
+                        "created": "2019-09-30T01:09:12Z",
+                        "_createdAt": "2019-09-30T01:09:12Z",
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "workload": 8,
+                        "body": "This was my fourth/fifth course in the OMSA program, and I did it together with Regression Analysis (Same Instructor).\n\nThe good:\n\n- Was a course that can be done concurrent with another easy course for be because I've done other time series courses before.\n- Did cover quite a bit of time series materials and I enjoyed revisiting some of the other concepts that I've forgotten. This will be a good starter course in time series analysis.\n\nThe bad:\n\n- Having done time series analysis in 2 other courses (one in math and the other in finance), I understand how hard it is to teach this course because going into the theory component becomes challenging to explain and the topic isn't quite as engaging as other stats/math courses. I'm not sure if the instructor could have made the course more enjoyable. Having said that, I think the instructor could have limited the breadth and focused on students understanding a concept in detail by writing some function ground up (ie write a function for maximising likelihood of the model)."
+                    },
+                    {
+                        "body": "I have a masters degree in statistics, but it's still very hard for me to understand the professor. I found her course video is almost useless, like the previous review mentioned, she's literally just reading the greek letters on the screen. I also found many mistakes from her slides, I think because she made the representation so complicated without walking you through how she derived it, it's so easy for herself to make mistakes too.\n\nI also dislike how the course is constructed, she did provide a few recommended text book, without any requiring reading for each week. A constructed, considering the student workload, recommend around 5 hours most helpful related reading schedule would be much helpful? Instead of throwing three books at us?\n\nI wish the class would be much more student-centered, meaning she didn't think from whether an average student would be able to follow what she's talking about without giving much context. Luckily we have a good TA who's a lot better at explaining things than she does.\n\nI would recommend to avoid this class, since the class itself is purely confusing. Or take the course, then stick to one good book, even though she doesn't offer reading guide at all; but then I wonder, what are we paying for?",
+                        "id": "external-import-0d870731-4705-4045-8ad2-89f1fad16bed",
+                        "_createdAt": "2019-09-26T14:01:00Z",
+                        "workload": 5,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19"
+                        },
+                        "difficulty": 4,
+                        "_type": "review",
+                        "course": null,
+                        "created": "2019-09-26T14:01:00Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "rating": 1,
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "_id": "external-import-0d870731-4705-4045-8ad2-89f1fad16bed"
+                    },
+                    {
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "_id": "external-import-f06ef066-2c75-42c4-8240-573006b8973d",
+                        "body": "Regression Analysis is effectively a prereq, if you did not do well in that class I would immediately advise against this course. Material is fairly comparable with a combination of programming, MC, and theory/proofs. Nothing is too terribly difficult, though a lot of the material did not seem to really be covered in the lectures to the degree they were on assignments. I had to do a bit of googling and digging through the slides of TS courses on other campuses to answer many. \n\nData examples are all very practical and intended to emulate real world uses of TS analysis. If you foresee yourself working in finance or economics I would recommend this class, otherwise you could probably learn the practical portions on your own and take an easier course to fill your program reqs.",
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "_type": "review",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0ILeM",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2019-1",
+                            "_updatedAt": "2022-07-22T00:47:13Z",
+                            "startDate": "2019-01-07",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "difficulty": 4,
+                        "_createdAt": "2019-05-18T13:12:52Z",
+                        "rating": 4,
+                        "course": null,
+                        "workload": 8,
+                        "id": "external-import-f06ef066-2c75-42c4-8240-573006b8973d",
+                        "created": "2019-05-18T13:12:52Z"
+                    },
+                    {
+                        "rating": 4,
+                        "course": null,
+                        "workload": 11,
+                        "_createdAt": "2019-01-02T00:49:51Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "body": "Neutral on I knew where to find learning materials and the information I needed\nWhat about self assessment?\nExams and quizzes measured knowledge and understanding that was covered in modules \u2013 crazy Tf/MC\n\nExam timing and HW timing issues\n\n\nPros:\n\t1. Real-world, memorable data sets that I think are more interesting than data sets included in R, and will help us remember the material better/longer\n\t2. Dr. Serban gave weekly office hours - her help in these office hours was tremendous, but also made me feel like she really cared about the course and the students\n\t3. I appreciated Dr. Serban's respectful and encouraging attitude towards students, even with a lot of complaining on Piazza and Slack (if she ever checked it).\n\nCons:\nI felt like there was a lot of subjectivity in the beginning of the course as we tried to answer questions about our data with visual analytics (is it stationary or not, what assumptions violated). Only later in the course did we introduce hypothesis testing measures to objectively answer the same questions. \n\nAs a very black and white person, I think that I would have benefited from having these concepts introduced jointly.\n\nI felt like Dr. Serban applied the 'ice berg' teaching method e.g. her lecture material was the small part of the ice berg above water and the majority of the ice berg lay under water (material she didn't directly cover, but was tested in homework and exams).  \n\nThis 'iceberg' method frustrated me b/c if I'm trying to learn time series analysis, I'd much rather learn from Dr. Serban than whatever random Google results I get (and don't really know their quality). Also, it feels very inefficient to me if Dr. Serban knows the material (obviously, she's writing questions about it) instead of just HER sharing more material about these concepts, letting her 20, 30, ## students Google until they get frustrated and pick the 'best' of whatever they've found.\n\nI particularly felt this way about the 'ice berg' method on the self-assessment questions in our homework assignments.\n\nI felt like the MC/TF section of the midterm was a 'barrel of laughs' as one student phrased it. Seriously, since it wasn't open note, I felt like the test rewarded how well you could memorize random facts e.g. which information criterion is more strict than the other, A or B? I don't feel like I joined the OMSA program to compete with other students on memorizing random facts and then forgetting them within a week.\n\nDr. Serban's team had some deadline miscommunication on one homework assignment and the midterm. The dates were X and Y in the syllabus initially posted at the beginning of the course. Then, the dates were moved UP and that move wasn't well publicized. This put a lot of students (like me) in crisis mode, trying to juggle our lives to take a midterm one week earlier than intended.\n\nI will compliment Dr. Serban in that she honored her original homework assignment date after some student push back, and at least w/ me, she compromised with me on letting me take that midterm a couple days later than she desired, but still not as late as I'd planned w/ the original syllabus.\n\nFinally, amidst that midterm deadline confusion, Dr. Serban told me that her hands were somewhat tied b/c Ramon (the course producer) was on vacation. That made me think, 'Uh, does Ramon not have a back up?'",
+                        "_type": "review",
+                        "semester": {
+                            "_id": "external-import-2018-3",
+                            "_updatedAt": "2022-07-22T00:47:27Z",
+                            "startDate": "2018-08-20",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0IOTT",
+                            "_type": "semester",
+                            "term": "fall"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "difficulty": 5,
+                        "id": "external-import-e3a5ace9-5571-4830-8115-cabf9438b365",
+                        "created": "2019-01-02T00:49:51Z",
+                        "_id": "external-import-e3a5ace9-5571-4830-8115-cabf9438b365"
+                    },
+                    {
+                        "_updatedAt": "2022-07-11T19:08:17Z",
+                        "_createdAt": "2018-12-10T02:38:31Z",
+                        "workload": 10,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFRHKv",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2018-1",
+                            "_updatedAt": "2022-07-22T00:47:47Z",
+                            "startDate": "2018-01-08"
+                        },
+                        "difficulty": 4,
+                        "_type": "review",
+                        "rating": 1,
+                        "_id": "external-import-589f375a-1f41-48fc-974b-43283077fc15",
+                        "body": "I am writing this review as a sincere plea for Dr.Serban to consider changing the format of her class; and also some advice for future students. The short gist, is avoid this course if you can. If you must take it, I have a few thoughts ahead:\n\n*For students:*\nI've taken a few by consensus frustration-prone courses, Machine Learning and DVA. I always felt that a student should never complain about a class b/c the material was hard and/or you received a poor grade - if the class is pressing you, then you owe it to yourself and the professor to try to take on the challenge of the materials - that's when I've learned the most and come out better on the other end.\n\nHowever, this class is not one of them. Time Series Analysis is not so much a course on analyzing time series as much as it's learning how to taking the SATs aka training how to take a Prof. Serban's test. \n\nFor starters, the presentation of the class is the Professor throwing a bunch of math equations on the PowerPoint and then repeating every single Greek variable on the slide for the next 15 minutes... for the whole class. I've found it much better to listen to the lectures on mute and listening to your favorite YouTube concentration music... and deciphering the slides and math symbols on your own. Follow up with other students, StatsOverflow, other professor's lectures etc. \n\n*How To Master Prof.Serban's Exams*: You have to think like taking the SATs. Her exams are more learning how to triage quickly and eliminate possibilities like the SAT Read Comprehension parts and taking her practice exams and learning her question/language style than mastering the actual material. There's also sections on R Coding, the trick again is triaging by rubric (because people are rushed for time on her exams and some of the questions is more about debugging R than knowledge... and answering the parts with the most points first), and knowing how to copy-and-paste the right snippets of code from her past examples. \n\n*For the Professor:* \n\n*Logistics:* This semester we had so many issues with edX and students not being able to take the finals and mid-terms the day of because the link is missing, clock not working. It was ridiculous... please fix them for the well-being of future students. \n\n*Presentation:* I understand it's hard to make good teaching material and not everyone has the time. But some quick fixes would be to (a) make the lecture transcripts searchable, (b) make a condensed lecture notes of your equations since one page of notes worth much more than 2.5hrs of lectures of you repeating essentially the same thing, variable-by-variable.\n\n\n*Pedagogy:* I'd suggest you change the format of mid-term and final to be 24hrs so everyone is not rushed and think through all the problems. I'd suggest that you give students more sense of autonomy and ownership over the problem-sets by letting students pick their own data-sets to analyze (like Machine Learning).",
+                        "id": "external-import-589f375a-1f41-48fc-974b-43283077fc15",
+                        "created": "2018-12-10T02:38:31Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LW7q",
+                        "course": null
+                    },
+                    {
+                        "_createdAt": "2018-12-07T15:11:58Z",
+                        "course": null,
+                        "id": "external-import-4bc73237-51b0-42b9-baa1-e62878417f9f",
+                        "_updatedAt": "2022-07-11T19:08:17Z",
+                        "_type": "review",
+                        "rating": 1,
+                        "workload": 8,
+                        "body": "I very much disliked this course, and mostly it is a reflection of the Professor. While I am sure she is a nice person, Serban has been a disappointing professor. I took her for Regression Analysis and was displeased with her teaching, and I should have known better than to take another course she was teaching but here we are. I feel the biggest issue is that her lectures are impossible to listen to, she just reads mathematical jargon at me with no explanation in layman's terms, analogies, or real world application. She keeps things so theoretical and abstract that I can't wrap my head around it. This makes a class which should be pretty straightforward fairly difficult, and while I have been able to get A's and B's in 7 other classes so far, I am going to have to do well on the final to get a C. I would avoid all of her classes if possible.\n\nMy Background:\n\n23 years old, recently married, graduated undergrad in May 2017.\n\nCoding Experience: Moderate (academic experience with many languages, mostly Python and R)\n\nStatistics Experience: Moderate (4 undergrad level stat courses, Intro to Analytics Modeling, Regression Analysis)\n\nMath Experience: Moderate (peaked at 2nd year Calculus)",
+                        "created": "2018-12-07T15:11:58Z",
+                        "difficulty": 4,
+                        "_id": "external-import-4bc73237-51b0-42b9-baa1-e62878417f9f",
+                        "_rev": "Gng42kcwkgwKuUtBk2LW7q",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0IQGu",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2018-2",
+                            "_updatedAt": "2022-07-22T00:47:38Z",
+                            "startDate": "2018-05-14"
+                        }
+                    },
+                    {
+                        "body": "4 homework assignments; 2 midterms and a final (all three ProctorTrack'd)\n\nI would highly recommend taking the Regression course first (ISYE 6414). There's a lot of good material here that I've put to use (and likely will moreso than Regression), but Serban makes a lot of references to material \"you've already learned in the Linear Regression course.\"\n\nHomeworks and tests weren't always the most clear, and there were a lot of caveats to be studied and understood (and tested on) that made this course more difficult. All in all, I liked it, but found it more difficult than it really needed to be.\n\nAlso -- I'm a finance guy by training, and I found Tsay's Analysis of Financial Time Series helpful (and also covers quite a bit more than the course covers)",
+                        "difficulty": 4,
+                        "id": "external-import-daf531d0-dc13-459f-86b2-7802d57b495f",
+                        "created": "2018-05-10T13:32:51Z",
+                        "_id": "external-import-daf531d0-dc13-459f-86b2-7802d57b495f",
+                        "course": null,
+                        "workload": 10,
+                        "semester": {
+                            "startDate": "2018-01-08",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFRHKv",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2018-1",
+                            "_updatedAt": "2022-07-22T00:47:47Z"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:17Z",
+                        "rating": 4,
+                        "_createdAt": "2018-05-10T13:32:51Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LW7q",
+                        "_type": "review"
+                    }
+                ],
+                "rating": 2,
+                "difficulty": 4.138888888888889,
+                "workload": 15.194444444444445
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "time-series-analysis"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

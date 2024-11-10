@@ -1,0 +1,604 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "isDeprecated": false,
+                "creditHours": 3,
+                "description": "This course covers advanced techniques for writing exploits, taught through an intense, hands-on security laboratory, following a cyberspace war game called Capture-The-Flag.",
+                "textbooks": [
+                    {
+                        "name": "The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition",
+                        "_key": "0fedeeadc76257a15fb914e0c1c0e79b",
+                        "url": "https://amzn.to/3pFBfeL"
+                    },
+                    {
+                        "url": "https://amzn.to/3ch2Ekf",
+                        "name": "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition",
+                        "_key": "77c242d76a98c895c21324fbe60b4e95"
+                    }
+                ],
+                "name": "Information Security Lab: Binary Exploitation",
+                "isFoundational": false,
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "codes": [
+                    "CS-6265"
+                ],
+                "reviews": [
+                    {
+                        "id": "Pm4H4xdFhHJgzHn4ZtVWOW",
+                        "created": "2023-12-19T16:41:19Z",
+                        "_updatedAt": "2023-12-19T16:41:19Z",
+                        "course": null,
+                        "difficulty": 2,
+                        "rating": 5,
+                        "semester": {
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15",
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249"
+                        },
+                        "_id": "Pm4H4xdFhHJgzHn4ZtVWOW",
+                        "_createdAt": "2023-12-19T16:41:19Z",
+                        "_rev": "Pm4H4xdFhHJgzHn4ZtVWL8",
+                        "body": "OMSCS candidate, under grad in CS, played CTF in college. Not bad if you\u2019re already familiar with basic binary exploration, only need to solve 5 challenges a week to get an A, I did them all on Sundays. ",
+                        "workload": 8,
+                        "_type": "review",
+                        "authorId": "bOPQOXqs5ggIj1uXZmTCZg=="
+                    },
+                    {
+                        "_type": "review",
+                        "_createdAt": "2023-02-26T19:32:19Z",
+                        "created": "2023-02-26T19:32:19Z",
+                        "_id": "Q2Xfka2HZy7716AJHpixqf",
+                        "authorId": "4VkOWx7MmvvmZwkUFZsQIg==",
+                        "_updatedAt": "2023-02-26T19:32:19Z",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb"
+                        },
+                        "course": null,
+                        "rating": 5,
+                        "difficulty": 5,
+                        "body": "Definitely a great course. The lab setups are hard but gradually. You will learn a lot of details for pwn here",
+                        "workload": 30,
+                        "_rev": "Q2Xfka2HZy7716AJHpixmU",
+                        "id": "Q2Xfka2HZy7716AJHpixqf"
+                    },
+                    {
+                        "authorId": "6N3jKejigmZPqZ6eOQcVEw==",
+                        "_type": "review",
+                        "created": "2022-08-18T01:16:00Z",
+                        "workload": 22,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQ0gf",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2022-2",
+                            "_updatedAt": "2022-07-22T00:45:42Z",
+                            "startDate": "2022-05-16"
+                        },
+                        "_rev": "hY5oFqEBnGXbGqTX3hrCvl",
+                        "course": null,
+                        "rating": 5,
+                        "_id": "hY5oFqEBnGXbGqTX3hrCzm",
+                        "body": "Very good introduction to the technics capturing the flags by controlling the pointers inside the runtime program remotely or locally. It's the best way to learn how computer program works under the hood!\nI learnt great amount, stayed very focused for extensive period of time cracking the code, and got so much satisfaction when seeing the flag popped on my terminal. \nHours: The CTF competition is quite fierce and cost me spending 40 hours per week at the first to get near the top. But life happens and I needed to shift the focus and spent around 5-10 hours per week on the assignments in the end. I did get an A at the end.\nBackground: 4yoe SWE with 0 security background.",
+                        "_updatedAt": "2022-08-18T01:16:00Z",
+                        "difficulty": 4,
+                        "id": "hY5oFqEBnGXbGqTX3hrCzm",
+                        "_createdAt": "2022-08-18T01:16:00Z"
+                    },
+                    {
+                        "created": "2022-04-27T19:00:11Z",
+                        "_createdAt": "2022-04-27T19:00:11Z",
+                        "_type": "review",
+                        "course": null,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester"
+                        },
+                        "body": "If I had 3 suggestions for anyone taking this class:\n\n1. Know x86/amd64 assembly beforehand\n2. Be familiar with debugging (pwndbg/GEF, and Ghidra)\n3. Be cozy with C and Python\n\nThis is rated the hardest course in OMS-OCY, it's a great class full of practical challenges. I didn't have any exploit development experience beforehand, doing some online CTFs before taking this class would have helped me prepare better. I spent roughly 40-60 hours a week on this class with the videos, readings, and lab. There will be times your mind draws a blank when your exploit isn't working, and times you're surprised an idea actually worked. It's all worth it once that sweet flag pops on your screen. Use their recommended Ubuntu VM so it's similar to the server environment if you can't SSH in, I usually did all my work on the server. Definitely front load in this class, so clear your schedule and dedicate all free time to the first two labs so that your pockets are full of points; things start getting tough after lab 4. The hints can be hit or miss, some of them are free while others cost a penalty. The TAs are awesome, they responded quickly and thoroughly.\n\n",
+                        "id": "external-import-0810d0b8-297d-41f1-ad3b-13a0454b2ee0",
+                        "_id": "external-import-0810d0b8-297d-41f1-ad3b-13a0454b2ee0",
+                        "difficulty": 5,
+                        "rating": 5,
+                        "workload": 60,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4"
+                    },
+                    {
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_type": "review",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7"
+                        },
+                        "body": "Like it",
+                        "difficulty": 4,
+                        "created": "2022-04-25T23:35:44Z",
+                        "workload": 25,
+                        "course": null,
+                        "_id": "external-import-e34896c4-7bc3-4fb7-91c2-924784a086ca",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_createdAt": "2022-04-25T23:35:44Z",
+                        "id": "external-import-e34896c4-7bc3-4fb7-91c2-924784a086ca",
+                        "rating": 5
+                    },
+                    {
+                        "created": "2022-04-25T05:25:32Z",
+                        "difficulty": 1,
+                        "_type": "review",
+                        "rating": 5,
+                        "course": null,
+                        "id": "external-import-dc9cec63-670f-4a5c-ab49-ab1d4d348867",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2022-04-25T05:25:32Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "workload": 1,
+                        "_id": "external-import-dc9cec63-670f-4a5c-ab49-ab1d4d348867",
+                        "body": "removed",
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester"
+                        }
+                    },
+                    {
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "course": null,
+                        "id": "external-import-27b3a386-85f9-4f09-a56d-22535236b991",
+                        "created": "2021-12-16T10:28:41Z",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-12-16T10:28:41Z",
+                        "difficulty": 5,
+                        "_id": "external-import-27b3a386-85f9-4f09-a56d-22535236b991",
+                        "body": "I took this as an OMSCS student as my final class. It is one of my favorite classes now. It's incredibly well designed and is pure hands on and lab based. I learned more in this class about OS architecture than ios/aos/hpca combined. It forces you to understand the low level details of the systems you exploit in a way that none of the more theoretical classes can do.\n\nIf you take it in Fall you get to work on the NSA codebreaker challenge. Otherwise you do a fuzzing lab for for lab 10 (which I sort of regret not being able to do - I didn't like the NSA lab that much).\n\nThere is an optional 24 hour CTF team challenge at the end of the semester, where you compete against other teams both on campus and online to take a 1000$ prize. Every team submits their own CTFs and you solve the challenges. This was actually really awesome and I'm glad I participated.\n\nThis is one of the best courses in the program and I highly recommend it.",
+                        "workload": 20,
+                        "rating": 5
+                    },
+                    {
+                        "difficulty": 5,
+                        "course": null,
+                        "_id": "external-import-1a407c6e-a84f-4428-a4d3-b9a49589638c",
+                        "id": "external-import-1a407c6e-a84f-4428-a4d3-b9a49589638c",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 5,
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester"
+                        },
+                        "workload": 15,
+                        "_type": "review",
+                        "created": "2021-12-07T17:21:20Z",
+                        "body": "This is definitely a YMMV course. If you have any experience doing reverse engineering or CTF events then you might be on the lower end of hours spent per week, if this is all new, expect to spend a lot of time each week working on this. I personally had some modest exposure beforehand, couple that with me being near the end of my degree I was fine settling for a B, and as such I spent about 10-15 hours a week to get the bare minimum for the grade done. I will say at the start of the semester I snagged as many flags as I could to allow me more slack near the end of the semester when things get more complicated - so definitely give it your all for the first 2 labs, these will be the easiest labs to load up on flags!\n\nI would also recommend taking this in the Fall semester, this appears to line up with the NSA Code Breaker Challenge and the final lab in the course becomes that instead of the in house GATech one. Plus NSA Codebreaker starts in the summer so you technically can work it over the entire semester. Double plus, NSA CBC is a lot more interesting and fun then the standard course labs imo, there's a whole narrative and context to the challenge.\n\nI really, really enjoyed this class, by far the most valuable course in this program in my opinion, but its tough, and draining. I'm 80 points away from an A, I just need 2 flags from the NSA challenge and I could have an A before the semester ends in 2 days, but will I? ehhh, who knows. That's the thing though, this course can be daunting, and frustrating, and I've seen plenty of people on our communication channels mention burnout (I know I am), but its very rewarding. So if you're looking to take this course consider my YMMV up above, and maybe consider taking it solo, I did, and looking back I couldn't imagine the hell my life would be if I took this course and another in the same semester with a full time job.\n\nThe rest of the reviews for this course cover the mechanics, so I'll gloss over it real quick. For Fall 2021 online not on campus: 9 GATech labs + NSA Code Breaker Challenge that acted as lab 10, so 10 labs total, each lab has 10 flags, so 100 flags total. The one week labs had 1 tutorial and the 2 week labs had 2 tutorials. Tutorials are mandatory. To get a B you had to average 4 flags per lab (or 40 overall), an A was 5 flags (50 overall). There was also an extra credit CTF event the week before the end of the semester that is worth as much as 1 full lab should you solve enough challenges, my team got 100 points for modest effort.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-12-07T17:21:20Z"
+                    },
+                    {
+                        "workload": 35,
+                        "_createdAt": "2021-11-02T05:51:32Z",
+                        "rating": 5,
+                        "body": "This class takes serious time, far more than any other class in the program.  Totally fun, but time consuming.  I'm very glad I chose to take this class (it was optional for me).\n\nThis course covers application attacks, and focuses on debugging assembly/stack memory/heap memory and other binary exploitation attacks to take control of an application.  The course starts with common buffer overflows as the starting topic as I recall.\n\nIt's effectively a semester long CTF with a new series of challenges each week.  Challenges are of increasing difficulty. You'll have clearly explained point targets at the start of the semester which decides your grade. You get points for every challenge completed; it's not required/expected to complete all challenges to get an A.  As the instructor to share challenge completion metrics from prior semesters to get an idea.\n\nPROTIP: Go hard at the start of the semester to build points... challenges aren't getting any easier later in the semester.",
+                        "difficulty": 5,
+                        "_type": "review",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_id": "external-import-cffc25fa-9f2f-4458-9ff9-6709a070205f",
+                        "id": "external-import-cffc25fa-9f2f-4458-9ff9-6709a070205f",
+                        "created": "2021-11-02T05:51:32Z",
+                        "course": null,
+                        "semester": {
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "rating": 4,
+                        "course": null,
+                        "body": "If you have ever done a CTF competition before this will be a straightforward class. It was an awesome refresher on some concepts and would be a great way to get someone started in the CTF world. If you have previous experience, probably don't take the summer offering.\n\nThat being said I can see how this would be difficult for someone coming in with no experience. Skills good to have going in:\n  - Reverse Engineering: (Assembly, IDA, Ghidra) \n  - Basic Binary Exploitation: (Buffer overflows, ROP chains, fmt strings)\n  - Basic Python Scripting: (familiarity with pwntools removes a lot of \n    barriers)\n\nIn the summer semester, to get an A in the class, you basically just need to do all the first two week's problems (basic buffer overflows) then follow the tutorials for the rest of the course. \n\nIn all I enjoyed the class because I love CTFs and that's my background. Admittedly I did have some last minute, midnight submissions trying to get my stack to align correctly... I had fun and recommend it. Just know what you're getting into. If you have experience with CTFs you probably won't be learning a ton of new concepts but it's a good excuse to practice..\n\nI think there's room in the curriculum for some more advanced topics I would really like to see this course doesn't cover. \n  - Source code auditing\n  - Fuzzing techniques and concepts\n  - Web browser vulnerabilities and exploitation \n  - Bypassing modern exploit mitigation (Sandboxes, privilege \n    escalations, etc)  \n\nI think because I took the summer offering I missed out on some of the more advanced topics in the course. ",
+                        "_id": "external-import-195cd3c3-75e1-4f3c-9a7b-b153541b2cdd",
+                        "difficulty": 2,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "id": "external-import-195cd3c3-75e1-4f3c-9a7b-b153541b2cdd",
+                        "created": "2021-08-14T14:40:55Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-08-14T14:40:55Z",
+                        "_type": "review",
+                        "workload": 5,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2"
+                        }
+                    },
+                    {
+                        "course": null,
+                        "rating": 4,
+                        "body": "Far and away the most difficult course of the OCY curriculum. It's not even close.\n\nFor the first half of the course, 50-60 hours/week is a decent estimate. I spent at least that for the first few labs as I picked up on RE and got used to the tools. The time commitment is extreme compared to the other courses in the OCY pipeline, and without a solid background in writing assembly and RE, it can be a beast. \n\nThat said, the TA's are very helpful, and your classmates are a great resource as well. Put in the time and ask lots of questions. Expect that this class will consume an inordinate amount of time, but if you stick with it, the minimum for passing is doable. \n\nGood luck! ",
+                        "id": "external-import-3225dbe0-f6b9-4dc8-83e3-a06fd5919f58",
+                        "created": "2021-05-05T19:08:44Z",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 5,
+                        "_createdAt": "2021-05-05T19:08:44Z",
+                        "_type": "review",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "workload": 60,
+                        "_id": "external-import-3225dbe0-f6b9-4dc8-83e3-a06fd5919f58"
+                    },
+                    {
+                        "body": "This class was the most challenging course of my OCY program (so far) in terms of topic, pace, and hours logged. That said, I learned more in this class than any other and felt the most accomplished after I completed it.\n\nGoing into this class, I had read that some people spent more than 50 hours per week on it. I thought surely that must be an exaggeration. But it was not. I easily spent that amount of time on it. Those hours were both intensely frustrating (when it seemed like I made no progress) and extremely rewarding (when I finally saw the vulnerability that led to exploitation). There were many late night one-person dance parties when the flag popped onto the screen.\n\nI will echo previous suggestions:\n- Load up on early labs, get as many of those flags as you can. It will allow you to have a little flex/float in later labs if you get stuck.\n- Master the tools and concepts from the early labs. Even if you can brute force a flag, make sure you learn to do things the elegant/programmatic way as well. These will be helpful later on as labs build on earlier concepts/tools (this is an extremely well thought out course)\n- Burn out is real! If this happens, give yourself some space/days off. You will come back with a clear mind.\n- Don't get discouraged if you can't get all the flags or don't get them quickly. Professor and TAs do not expect you to get 100% to get an A.\n- Stay active on Mattermost with your classmates. So many nudges, hints and encouragement are offered. Sometimes even knowing what others have done that does NOT work can help you progress.\n- And last but definitely not least: make sure you attend Office Hours. The Professor and TAs are so generous with their time. Sometimes if you have trouble with a concept, they can help explain those to you in a different way from the videos. Sometimes other students are having the same problems you are. After attending Office Hours I was always energized and ready to go again.\n\t\t\nOverall, a great course (required for OCY). Not sure if I will be able to use it in my day-to-day job so my skills will erode over time, but so glad I did the work and have that base knowledge now.",
+                        "difficulty": 5,
+                        "rating": 5,
+                        "course": null,
+                        "workload": 50,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_id": "external-import-d6c8f6b6-713e-4c71-a898-3e196aa68221",
+                        "_createdAt": "2021-04-21T16:13:01Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_type": "review",
+                        "semester": {
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "id": "external-import-d6c8f6b6-713e-4c71-a898-3e196aa68221",
+                        "created": "2021-04-21T16:13:01Z"
+                    },
+                    {
+                        "rating": 5,
+                        "_id": "external-import-82166519-5ec1-424d-9b50-662aac70b537",
+                        "_createdAt": "2021-04-20T11:07:18Z",
+                        "workload": 50,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1"
+                        },
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review",
+                        "course": null,
+                        "id": "external-import-82166519-5ec1-424d-9b50-662aac70b537",
+                        "created": "2021-04-20T11:07:18Z",
+                        "difficulty": 5,
+                        "body": "Yes, this is definitely the most challenging and time-consuming course in the OCY program. But it was also the most fun and the one in which I\u2019ve learned the most. \n\nOur TA\u2019s were Mingyi Liu and Jungwon Lim. They\u2019re extraordinarily brilliant and so generous with their time.\n\nThe other reviews already mention the structure of this class so I\u2019ll just give you some advice\u2026\n\nIf you want to succeed in this class, you must master lessons from the earlier labs. Each lab gets progressively more difficult and builds on top of previous ones. Start strong and try to solve all challenges in the first few labs. A lot of the learning comes through struggling through the challenges. Attend the office hours and get guidance on things you\u2019re completely stuck on. \n\nIf you work hard, there\u2019s no reason you cannot achieve an A in this class.\n",
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "body": "Best class I've taken so far in OMSCS. The course is pretty small and mixed with on-campus students. Professor is super engaged and there were several optional synchronous tutorials every week.\n\nYou are given 11 challenges every 1-2 weeks. For OMSCS, completing 5 challenges is an A on the lab with any additional challenges going to extra credit. \n\nSolving the first two to three challenges is not too bad if you follow the tutorial and do some research on the problem but things just ramp up from there. I really recommend grinding out as many challenges as you can early in the course so you have leeway later on if you are burnt out. There is an extra credit CTF at the end of the class which is super fun. \n\nI highly recommend taking this class. It is hard but incredibly rewarding.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-01-14T03:48:15Z",
+                        "rating": 5,
+                        "course": null,
+                        "difficulty": 5,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z",
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is"
+                        },
+                        "created": "2021-01-14T03:48:15Z",
+                        "_id": "external-import-5f366a6f-d42f-4c92-bb3d-1ab1fe9d6b5d",
+                        "workload": 30,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review",
+                        "id": "external-import-5f366a6f-d42f-4c92-bb3d-1ab1fe9d6b5d"
+                    },
+                    {
+                        "workload": 45,
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z",
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester"
+                        },
+                        "_id": "external-import-a67afa5a-113b-4eeb-b4d8-1ccba512a9a9",
+                        "body": "This class was by far the most challenging class I have taken at Georgia Tech so far. Prior to this class I never have done reverse engineering and exploitation so that may account for the 45-50+ hours a week investment. The professor and TA\u2019s are awesome and always trying to improve the class. I highly suggest solving as many challenges in the beginning as they only get harder each week. I will append to this review at the end of the semester.",
+                        "difficulty": 5,
+                        "_createdAt": "2020-11-19T08:32:42Z",
+                        "id": "external-import-a67afa5a-113b-4eeb-b4d8-1ccba512a9a9",
+                        "created": "2020-11-19T08:32:42Z",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "course": null,
+                        "_type": "review",
+                        "rating": 5
+                    },
+                    {
+                        "id": "external-import-8e77ee33-90a5-44bf-802e-affebf91a3fd",
+                        "created": "2020-09-20T18:45:10Z",
+                        "_createdAt": "2020-09-20T18:45:10Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "_type": "review",
+                        "rating": 5,
+                        "difficulty": 4,
+                        "body": "This is one of those classes like the others mentioned in which you get the amount of knowledge proportional to the amount of effort you put in. There are roughly 10 challenges (including 2 tutorials) posted each week. The TAs are pretty amazing in their knowledge of the subject and few of them have actually won the CTF at DefCon. This is not a class where they will walk you through the problems, but, instead, they want you to think and come up with a solution by yourself after going through the tutorials with them. Of course the discussion on piazza and slack helps a lot and there is probably no info sec course on the internet that will help you through binary reverse engineering like this course does. Of course, you level of time spent on the assignments will be huge but you will learn a ton too. I would highly recommend taking this class if you are interested in binary reverse engineering.",
+                        "_id": "external-import-8e77ee33-90a5-44bf-802e-affebf91a3fd",
+                        "course": null,
+                        "workload": 30,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3"
+                        }
+                    },
+                    {
+                        "id": "external-import-e541cd39-a888-4937-bc46-f237581a1763",
+                        "created": "2020-07-31T04:06:02Z",
+                        "body": "The average workload is pretty accurate. This was a very time consuming class for me, but I really enjoyed it.  No Exams, no Quizzes, all flags. The class is a giant CTF ranging from remote exploitation to ROP chains. You don't need to be an expert in assembly/gdb/binary exploitation but be prepared to get real good real fast. \n\nAdvice: Any lab that you get on a roll and really understand what's going on try to get all the flags as it'll put you ahead for the next week",
+                        "_createdAt": "2020-07-31T04:06:02Z",
+                        "course": null,
+                        "_type": "review",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HiC5",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2020-2",
+                            "_updatedAt": "2022-07-22T00:46:39Z",
+                            "startDate": "2020-05-11"
+                        },
+                        "difficulty": 4,
+                        "rating": 4,
+                        "workload": 23,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "_id": "external-import-e541cd39-a888-4937-bc46-f237581a1763",
+                        "_updatedAt": "2022-07-11T19:08:19Z"
+                    },
+                    {
+                        "id": "external-import-a464e3a4-a6e8-433e-99f3-5b56bab6a1bf",
+                        "created": "2020-04-29T11:18:04Z",
+                        "_createdAt": "2020-04-29T11:18:04Z",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06"
+                        },
+                        "_type": "review",
+                        "rating": 5,
+                        "course": null,
+                        "difficulty": 5,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "workload": 20,
+                        "_id": "external-import-a464e3a4-a6e8-433e-99f3-5b56bab6a1bf",
+                        "body": "As others have stated, this is a tough and time consuming class. I really enjoyed it. You will get what you put in. If you're interested in this type of course do it when you will have enough time to dedicate to it. The lecture videos are very short and not comprehensive - intentionally so. There's plenty of external links to resources provided with more then enough info to teach your self.\n\nThe class is structured as a semester long CTF. Each of the 10 labs has roughly 10 problems/flags for you to find. Some can be found quickly. Most will take several hours of work per flag. Some took all day ~8 hours for me to find.\n\nThe professor was responsive to reasonable requests on piazza about shifting due dates in order to allow students more time to work on the assignments.\n\n",
+                        "_updatedAt": "2022-07-11T19:08:19Z"
+                    },
+                    {
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "created": "2020-04-28T16:55:40Z",
+                        "_type": "review",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06"
+                        },
+                        "body": "tl;dr - this is a hacker CTF class. If that sounds like fun, you'll enjoy the class. If you don't know what that is, you will likely have a hard time full of learning.\n\nMe: Graduate this semester w/ 3.5. I do software dev for a living, but have a strong background in security as well, having done a number of hacking challenges/CTFs(but not necessarily done well).\n\nMy thoughts on this class: One of the best class I've taken. TA's and instructor are responsive and willing to be flexible. If you're familiar with CTFs or have written a ROP chain, this class will be fun and an \"easy\" pass, maybe even an A. If you're not comfortable exploiting a buffer overflow, this class will be harder than Algorithms.\n\nCourse layout: As mentioned in other reviews, there's maybe 10 minutes of lecture a week that introduces a security flaw and how to get past it. Then there's 1-2 tutorials that walk you through most of an exploit, and 10 challenges. The challenges get progressively hard, with at least ~1-3 being within reach of most everyone. The challenges also get harder every week as more complex topics are covered. Expect to spend ~1-4 hours per challenge at least, more if you're unfamiliar with the topics, and more as the challenges get harder. There is very little direction - you can ask questions in piazza, and TAs/the instructor do a good job responding, but you're largely expected to figure it out on your own.\n\nGrading: You get a grade for the overall class, not challenges, based on a point score. Every challenge is worth 20 points the week it's assigned, and then 10 points the next week. An A averages out to all tutorials + 5 challenges, a B is all tutorials + 4 challenges, a C is all tutorials + 3 challenges. As long as you solve all the tutorials, you will not fail. Note, this means that you do not need to complete all the challenges for good grade, and you can frontload points on easier labs to give yourself a buffer on harder challenges (ex: 8 challenges wk 1, 2 challenges wk 2, average of 5, and therefor an A).\n\nSuggested skills going into the course:\n* A strong grasp on assembly\n* Reverse engineering experience (Ida, Ghidra, etc)\n* Python (the pwntools library is used heavily, though not required)\n* Ability to research topics on your own a la \"Try Harder(tm)\"",
+                        "workload": 25,
+                        "_id": "external-import-5a2d9582-4dbc-4411-a2ce-61f6fa6d56d0",
+                        "_createdAt": "2020-04-28T16:55:40Z",
+                        "rating": 5,
+                        "id": "external-import-5a2d9582-4dbc-4411-a2ce-61f6fa6d56d0",
+                        "difficulty": 4,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "course": null
+                    },
+                    {
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "id": "external-import-aa971804-146e-45a2-b7ef-f3a22c446696",
+                        "created": "2019-11-25T16:09:54Z",
+                        "_id": "external-import-aa971804-146e-45a2-b7ef-f3a22c446696",
+                        "difficulty": 4,
+                        "course": null,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19"
+                        },
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "rating": 5,
+                        "workload": 30,
+                        "_createdAt": "2019-11-25T16:09:54Z",
+                        "_type": "review",
+                        "body": "Note: the \"30 hours/week\" workload is a wild guess. I am terrible at tracking and even estimating that kind of thing.\n\nThis has been one of my favorite classes in the program. It was my last class, and while it was a fun way to end the program, I wish I'd been able to take it earlier so I could pivot to the Cybersecurity masters, if this is any indicator of the kind of content there.\n\nAs you might guess from other reviews, the prerequisites are no joke. The course website mentions \"Operating systems or equivalent (e.g., CS 3210 at GT).\" -- GIOS (CS-6200) IS NOT SUFFICIENT (honestly I'm not really sure if there is an OMSCS class that is). If you look at the course syllabus for CS 3210, it covers x86 assembly, which CS-6200 doesn't touch.\n\nYou need some familiarity with assembly. The very first lab in the course is about getting familiar with some of the tools you'll be using (mainly gdb) and figuring out what programs are doing from their disassembly. A bit later in the course (lab 3 or so) you'll also be writing your own assembly. If you've never dealt with any kind of assembly, you'll probably feel drowned and never quite recover.\n\nI say \"any kind of assembly\" because, for what it's worth, I had never done any x86 asm. But I have used MIPS and PIC, so I was at least familiar with how asm usually works.\n\nThe teaching style also may not be everyone's cup of tea, but for this kind of material it's a little hard to imagine another method working. This course is about breaking systems, and using them in unintended ways to gain some benefit. You really need to dig into it yourself, and see what works and what doesn't, and more importantly _why_. If you are spoonfed a method of exploitation, you're more likely to struggle to adapt that method in places where it doesn't work quite right. Also, the TAs are very available for support; make use of them.\n\nThe course is set up as a big competition. Solving a problem gives you points, and being the first or second to solve gives you some bonus points. If you're very competitive (like me), this can be both boon and bane. I spent a lot of time on the course because of the scoreboard, which also meant I was learning a lot, but I got pretty burned out by the end. However, the bar for passing (and even getting an A) is reasonable, and you don't need to be near the top of the scoreboard.\n\nAll in all, highly recommend the class. Also highly recommend taking it without any other classes so you have time to really dig into the material."
+                    },
+                    {
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "_type": "review",
+                        "rating": 2,
+                        "course": null,
+                        "body": "This is my first review of any courses for this website, although this is the 7th course I've taken in the OMSCS program. A little about my background. I have an undergrad in CS and work currently doing software and network engineering. I took the IIS course previously and found the projects fun, but the lectures and material dry. I decided to give CS6265 a try because I enjoyed the projects so interesting in IIS. \n\nUnfortunately it was a huge mistake to take this course. As a previous post mentioned, prior to to doing a lab, you get a 5-7 min intro video and then are on your own to try and figure things out. I feel very capable using a debugger and walking to through assembly code, but this course requires the knowledge of how to do binary patching and use tools like Ghidra or Cutter. I ended up dropping the course 4 weeks in due to the fact I was spending 35+ hours per week trying to figure the labs out. I know with online courses their is going to be a certain amount of self learning, but this is by far the worst course I've taken in terms of explaining concepts/material. I don't think the labs would be extremely difficult if the course literally had any material besides these lab intro videos.\n\ntl;dr\nThis course lacks the necessary material to complete the lab assignments. I spent most of the time teaching myself how to use the tools and the theory needed to complete the assignment. Avoid this class unless you have a strong background in binary exploitation.",
+                        "id": "external-import-2770a5b7-74b7-4653-bee6-f3e317ce7acc",
+                        "difficulty": 5,
+                        "workload": 35,
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_id": "external-import-2770a5b7-74b7-4653-bee6-f3e317ce7acc",
+                        "created": "2019-10-14T00:06:53Z",
+                        "_createdAt": "2019-10-14T00:06:53Z"
+                    },
+                    {
+                        "course": null,
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi"
+                        },
+                        "body": "Whoever wrote the first review to this class totally deceived me. It is NOT an 8 hour a week class. This course is a nightmare for an online class, a total shitshow. There are 10 weekly \"labs\" which make you think they are more like homeworks, but in reality each weekly lab runs well over 20+ hours. The learning curve is ridiculous, the amount of tools you need to know, computer architecture, reading and writing assembly code. \n\nThe material itself is super interesting, but do not expect ANY instruction. The weekly lectures are 7 minutes long LOL. The lecture is totally high level and doesnt show you how to do anything. There are weekly \"tutorials\" that are anything but. The tutorial doesnt walk you through, or step by step anything, it is just another challenge you have to solve and fill in the gaps. Many students spent hours and hours even just trying to solve the tutorial. The on campus class meets 3 hours a week and so shares a lot more information with each other. We have \"recitations\" where you can come and ask questions, but unless you are able to frequently make those in person (and how many online part time students can?) you are kinda out of luck when you get stuck. Unless you have kind class mates who share information with you on slack.\n\nI regret being the guinea pig for this online class. it is by far the most time I have spent on any class, and I was interesting in the material, but the professor and instructions are nonexistent. Might as well go self study something.",
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "id": "external-import-f298fe57-b4db-49b7-b609-8952e7c5bc29",
+                        "created": "2019-09-24T20:57:53Z",
+                        "difficulty": 5,
+                        "_type": "review",
+                        "workload": 30,
+                        "_id": "external-import-f298fe57-b4db-49b7-b609-8952e7c5bc29",
+                        "_createdAt": "2019-09-24T20:57:53Z",
+                        "rating": 3
+                    },
+                    {
+                        "rating": 4,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0I7mi",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2019-3",
+                            "_updatedAt": "2022-07-22T00:46:58Z",
+                            "startDate": "2019-08-19"
+                        },
+                        "_id": "external-import-27edfb7f-1899-4345-8230-7a5e1a6e953c",
+                        "created": "2019-08-06T23:39:39Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LWtS",
+                        "course": null,
+                        "workload": 8,
+                        "_updatedAt": "2022-07-11T19:08:18Z",
+                        "body": "The course was fun and exciting",
+                        "id": "external-import-27edfb7f-1899-4345-8230-7a5e1a6e953c",
+                        "difficulty": 3,
+                        "_createdAt": "2019-08-06T23:39:39Z",
+                        "_type": "review"
+                    }
+                ],
+                "id": "external-import-CS-6265",
+                "slug": "information-security-lab-binary-exploitation",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    },
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "created": "2022-07-05T23:23:15Z",
+                "syllabus": {
+                    "file": {
+                        "_type": "file",
+                        "asset": {
+                            "_ref": "file-7b68bbad426d45efa67d0f18934ecdbe7a17ef8c-pdf",
+                            "_type": "reference"
+                        }
+                    }
+                },
+                "_updatedAt": "2022-08-25T21:40:01Z",
+                "_rev": "iLpqNfBINCDhaBRaVOHylL",
+                "tags": [
+                    "ISL"
+                ],
+                "_type": "course",
+                "officialURL": "https://omscs.gatech.edu/cs-6265-information-security-lab",
+                "_id": "external-import-CS-6265",
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/7b68bbad426d45efa67d0f18934ecdbe7a17ef8c.pdf",
+                "rating": 4.608695652173913,
+                "difficulty": 4.217391304347826,
+                "workload": 28.565217391304348
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "information-security-lab-binary-exploitation"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

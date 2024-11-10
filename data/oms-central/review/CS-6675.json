@@ -1,0 +1,376 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "created": "2022-07-05T23:23:15Z",
+                "slug": "advanced-internet-computing-systems-and-applications",
+                "codes": [
+                    "CS-6675"
+                ],
+                "creditHours": 3,
+                "description": "Survey of basic Internet computing concepts and techniques used in Internet systems and applications, combined with in-depth study of fundamental principles underlying Internet computing.",
+                "syllabus": {
+                    "file": {
+                        "_type": "file",
+                        "asset": {
+                            "_ref": "file-70cd0c0880a4180f52b867f654bd796c297ee9ce-pdf",
+                            "_type": "reference"
+                        }
+                    }
+                },
+                "textbooks": [
+                    {
+                        "name": "Building Secure and Reliable Network Applications",
+                        "_key": "e347a49d779ac211548760cc918537c6",
+                        "url": "https://amzn.to/3dINggH"
+                    },
+                    {
+                        "_key": "1461e03a41fe37db7dc5d8784d8f3b4f",
+                        "url": "https://amzn.to/3Cwb8i3",
+                        "name": "Understanding Search Engines: Mathematical Modeling and Text Retrieval"
+                    },
+                    {
+                        "name": "Modern Information Retrieval, 1st Edition",
+                        "_key": "08b74101e71f953c3fb3ae64a3536bfe",
+                        "url": "https://amzn.to/3PPlUTE"
+                    },
+                    {
+                        "name": "The Developer's Guide to the Java(TM) Web Server(TM): Building Effective and Scalable Server-Side Applications, 1st Edition",
+                        "_key": "173ce027ebd2272c13172e32241c7615",
+                        "url": "https://amzn.to/3TfL1Sh"
+                    },
+                    {
+                        "name": "Web Server Technology, 1st Edition",
+                        "_key": "2a3db20b975e99d111cb05d3a326f6f4",
+                        "url": "https://amzn.to/3R64piS"
+                    },
+                    {
+                        "name": "Web Proxy Servers (Web Infrastructure Series), 1st Edition",
+                        "_key": "65f515b25dcd1049f8dcd45073559592",
+                        "url": "https://amzn.to/3dINHrl"
+                    },
+                    {
+                        "name": "The Grid: Blueprint for a New Computing Infrastructure, 1st Edition ",
+                        "_key": "65c35054398242e7909d2b842a19e189",
+                        "url": "https://amzn.to/3ApIbBT"
+                    }
+                ],
+                "officialURL": "https://omscs.gatech.edu/cs-6675-advanced-internet-systems-and-applications",
+                "_updatedAt": "2022-08-25T21:32:22Z",
+                "id": "external-import-CS-6675",
+                "isFoundational": true,
+                "_type": "course",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "syllabusUrl": "https://cdn.sanity.io/files/3yw11hu2/production/70cd0c0880a4180f52b867f654bd796c297ee9ce.pdf",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "name": "Advanced Internet Computing Systems and Applications",
+                "_id": "external-import-CS-6675",
+                "isDeprecated": false,
+                "tags": [],
+                "_rev": "iLpqNfBINCDhaBRaVOGvYl",
+                "reviews": [
+                    {
+                        "_id": "CZnPCJFeW1IiYXKDMXSJIs",
+                        "difficulty": 1,
+                        "_rev": "CZnPCJFeW1IiYXKDMXSJFa",
+                        "id": "CZnPCJFeW1IiYXKDMXSJIs",
+                        "semester": {
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4",
+                            "_updatedAt": "2024-07-23T22:42:48Z",
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z",
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester"
+                        },
+                        "authorId": "88vp4skNB3QCasINaU5Heg==",
+                        "created": "2024-07-31T13:55:57Z",
+                        "body": "This course was a complete waste of time for someone working as an engineer already.\n\n- Wildly inconsistent grading that seemed to favor a \"by the rubric\" approach rather than celebrating unique ideas. Oh, you didn't EXACTLY use 1.5 pages per response for a question? Goodbye a ton of points! Who cares if it's a succint response that covers a unique idea? This kind of grading HEAVILY incentivizes students to use systems like ChatGPT to complete their assignments, which was 1000% in rampant use the further the semester went on (as evidenced by the ridiculous amount of peer reviews needing to be done, but we will get to that later)\n- The peer reviews need to go, or be HEAVILY reduced. At most, give a student one to do a week. Giving 3 peer reviews, again, incentivizes students to just use ChatGPT. \n- Get rid of the \"P\" assignment entirely. The P assignments were a COMPLETE waste of time. I wish we could focus on...designing systems...instead of responding to the dumb questions that, again, incentivize students to just use systems like ChatGPT.\n\nHonestly, screw this class. I'm pissed I wasted my time this summer and much rather would've done other things.",
+                        "rating": 1,
+                        "_type": "review",
+                        "course": null,
+                        "_updatedAt": "2024-07-31T13:55:57Z",
+                        "workload": 3,
+                        "_createdAt": "2024-07-31T13:55:57Z"
+                    },
+                    {
+                        "workload": 15,
+                        "course": null,
+                        "semester": {
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z",
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "id": "EUg8zgPZjzAV0BcRkS5u0a",
+                        "created": "2024-05-02T15:52:27Z",
+                        "_id": "EUg8zgPZjzAV0BcRkS5u0a",
+                        "difficulty": 2,
+                        "rating": 4,
+                        "_type": "review",
+                        "_updatedAt": "2024-05-02T15:52:27Z",
+                        "_createdAt": "2024-05-02T15:52:27Z",
+                        "_rev": "EUg8zgPZjzAV0BcRkS5tzO",
+                        "authorId": "Zipr8wSl9cgM/YJwGrdmYg==",
+                        "body": "Spring 2024.\n\nBackground: Professional SWE (~3 YOE), but I have no professional experience in web dev and minimal academic CS background, so most of the topics were new to me.\n\nOverview: For someone with my background, this was an informative class, though if you have prior background in this tech, then you may wish to skip it as it only covers the very basics. Though the topics and delivery can be a bit dry, I nevertheless learned a lot and appreciated the structure and pacing; if you took the old iteration of HCI (pre-Spring 2024), then the class is structured similarly, with M assignments, P assignments, and a final (individual) project. Like HCI, it is a no-code class, though you can certainly write code for your final project.\n\nOne of the biggest pros of the class is that all assignments except for exams and surveys are released at the beginning of the semester. Additionally, exams are open-book and open-note.\n\nMy biggest complaint has to do with how opaque the grading was, even though it was very lenient. I got a very comfortable A in the class, but the rubric is completely hidden, and how many points you lost depended more on which TA graded your assignments than on your performance. Additionally, as someone who didn't have any system design background, I struggled a bit on the open-ended design assignments and ended up winging most of them. Did I learn? Definitely--but it would've been great to have more guidance.\n\nAssignments:\n- P assignments (5x): Max 8 pages, due every other week, staggered with M assignments. In these assignments, you digest and regurgitate the lecture contents in your own words.\n* M assignments (5x): Max 8 pages, due every other week, staggered with P assignments. These are open-ended \"design anything based on what you learned in the covered modules.\"\n* Exams (x2): Open-note, open-book, unproctored MC exams. You have an 8 hr window to complete the exams after beginning. These tended to be curved by 10-15%.\n* Peer Feedbacks (3x/week): Get those participation points.\n* Individual final project (max 20 pages): This is basically a longer M assignment, split up into a few check-ins at the end of the semester. It can be an extension of an M assignment, and yes, you may do an HCI-esque redesign as long as you discuss the system design changes you need to make to support your redesign. Some people coded for this project, but you can go entirely no-code as well."
+                    },
+                    {
+                        "_type": "review",
+                        "body": "I agree with previous reviews that if you don't like writing then do not take this course. Every week you have to essentially write a 6-8 page essay and only in the final few weeks do you have to focus on the project where coding is optional to help you write the 15-20 pages. \n\nOn the other hand, they are extremely lenient in marking. I peer-reviewed some extremely poorly written essays, but the averages were always 80+. \n\nThe interesting part was peer reviews. Some seemed like they used ChatGBT to write it and few students gave meaningful reviews that help you improve. \n\nThe TAs were also receptive to feedback. Students didn't like the brief one-sentence reviews from the TAs so the TAs started expanding which was nice to see. \n\nThe exams are open book and no HonorLock is used, but they are on top of the weekly assignments. \n\nThe topics were interesting, but the lectures had errors or were confusing at times. I feel like Data Warehousing and later concepts we didn't ingest properly due to the time constraints with the final project and final exam. ",
+                        "semester": {
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21",
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a"
+                        },
+                        "course": null,
+                        "_rev": "lGxZgNCQ2Kl6bNjaLG14KA",
+                        "rating": 4,
+                        "workload": 14,
+                        "_id": "lGxZgNCQ2Kl6bNjaLG14P7",
+                        "created": "2024-02-12T20:03:39Z",
+                        "_createdAt": "2024-02-12T20:03:39Z",
+                        "difficulty": 3,
+                        "_updatedAt": "2024-02-12T20:03:39Z",
+                        "id": "lGxZgNCQ2Kl6bNjaLG14P7",
+                        "authorId": "XF7CqI5QZr6qy67/zIwMMQ=="
+                    },
+                    {
+                        "semester": {
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15"
+                        },
+                        "_id": "mqJGDfC7Skica06Vv2gGcc",
+                        "_rev": "mqJGDfC7Skica06Vv2gGZQ",
+                        "_createdAt": "2023-08-04T03:56:53Z",
+                        "course": null,
+                        "body": "0 coding, 100% writing\n\nFirst off, I will say - if you do not like writing - avoid this class.\n\nMost of the other reviews here are pretty accurate. The synopsis and course syllabus would suggest that this is a system design oriented course that would help with FAANG interviews. \n\nIn reality it's just a bunch of busy work and you don't learn much. There is a 6-8 page paper due every weekend, lectures & readings to complete every week, and you have to review 3 other 6-8 page paper submissions every week for participation. Posting on Ed discussion is also important for the participation grade.\n\nThe assignment grading is very lenient. As long as you make some kind of effort and write something that makes it seem like you tried a little, you should get a 90+.\n\nThere are two exams - 1 midterm, 1 final. Both are open note, open book, open internet. I found some of the questions to be a little tricky but in general if you have a good understanding of the concepts, they are doable.\n\nMany of the topics covered are fascinating and very relevant to modern software systems, but the execution of the course itself is poor. I did not find the lectures to be particularly engaging.\n\nTo be honest this just felt like a high school English class where you watch some lectures and read a book and then you are asked to answer questions in paragraph form.\n\nAs with most courses in the program, you get what you put in. If you have time on your hands and you are really motivated, yes, you can get something out of this class. But for most people, I would not recommend taking it.\n\nIf you don't mind writing, and you're looking for a less stressful course, this may be a good option.",
+                        "_updatedAt": "2023-08-04T03:56:53Z",
+                        "_type": "review",
+                        "rating": 2,
+                        "workload": 10,
+                        "created": "2023-08-04T03:56:53Z",
+                        "authorId": "Z20xW3/v/uKQQ6NsLlvTkw==",
+                        "difficulty": 2,
+                        "id": "mqJGDfC7Skica06Vv2gGcc"
+                    },
+                    {
+                        "_updatedAt": "2023-07-10T01:34:27Z",
+                        "_id": "CrXvrwZya5xycNYk8cxkcZ",
+                        "difficulty": 3,
+                        "course": null,
+                        "body": "Background:  Non-Stem major but have been developing for a while.   I honestly loved this class.  It's modeled similar to HCI.  During the summer it had the right balance of work.  There have been numerous instances at my job where I've been able to converse intelligently with industry leaders on topics such blockchain, recommendation engines and even load balancers.  The main reason is this class.  Part of my job is also architecture, so the class was helpful from the point of view of practicing system design.  I was lucky that on some of my peer reviews, the students were knowledgeable in the subject matter to challenge my ideas. ",
+                        "_type": "review",
+                        "rating": 5,
+                        "workload": 15,
+                        "_rev": "CrXvrwZya5xycNYk8cxka8",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:45:42Z",
+                            "startDate": "2022-05-16",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQ0gf",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2022-2"
+                        },
+                        "authorId": "ISqsINnH+dKXlfOK+CEfYA==",
+                        "id": "CrXvrwZya5xycNYk8cxkcZ",
+                        "created": "2023-07-10T01:34:27Z",
+                        "_createdAt": "2023-07-10T01:34:27Z"
+                    },
+                    {
+                        "course": null,
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2022-3",
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester"
+                        },
+                        "workload": 20,
+                        "authorId": "KCXPaUVMNdTn9FFaBtCk/g==",
+                        "difficulty": 3,
+                        "_type": "review",
+                        "rating": 4,
+                        "body": "Interesting in content, but poor participation of professor and TA in discussions.  The discussion board is silent, questions are left unanswered. The only thing you need to do is to watch lectures and submit a 6-page document on weekly basis. You won't solve a problem, you just need to demonstrate you have digested the content and can present what you've learned using words. TAs are not engaged.",
+                        "created": "2022-11-28T09:12:53Z",
+                        "_createdAt": "2022-11-28T09:12:53Z",
+                        "id": "4RcuGQ0x0YKEh4MQWgoAoM",
+                        "_updatedAt": "2022-11-28T09:12:53Z",
+                        "_rev": "4RcuGQ0x0YKEh4MQWgoAlz",
+                        "_id": "4RcuGQ0x0YKEh4MQWgoAoM"
+                    },
+                    {
+                        "_rev": "td1oqEWpQVP1w2bdVGpZab",
+                        "_id": "td1oqEWpQVP1w2bdVGpZf2",
+                        "created": "2022-08-05T03:10:08Z",
+                        "difficulty": 4,
+                        "body": "Not sure why someone reviewed to avoid this class at \"all costs\"... it wasn't so bad in my experience. The other reviews explain the assignments well.\nI took it in summer, so the semester was 12 weeks rather than the regular 16 weeks. Because of this, the mandatory project and paper in a regular semester was optional, which meant the other assignments were worth more, 4% of the final grade for 10 assignments. \nSome of the questions in the P assignments were confusing, but the professor and TAs were active in Ed discussions and in office hours. \nThe tests were hardest for me personally and worth a hefty chunk of the final grade. \nThe subject itself was not difficult, and the lectures were well done by the professor.\nThe writing assignments did take several hours to complete, so be warned and work ahead of time. There's no coding in the class, so if you like writing and explaining then this is a good choice of a class. \n",
+                        "workload": 13,
+                        "authorId": "DZ+hYOrbtwB0+sGphS+maQ==",
+                        "id": "td1oqEWpQVP1w2bdVGpZf2",
+                        "_type": "review",
+                        "semester": {
+                            "_id": "external-import-2022-2",
+                            "_updatedAt": "2022-07-22T00:45:42Z",
+                            "startDate": "2022-05-16",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQ0gf",
+                            "_type": "semester",
+                            "term": "summer"
+                        },
+                        "_createdAt": "2022-08-05T03:10:08Z",
+                        "_updatedAt": "2022-08-05T03:10:08Z",
+                        "rating": 4,
+                        "course": null
+                    },
+                    {
+                        "workload": 10,
+                        "body": "\u2022\tThis course is not hard but will require 8 Page writing submission every week for 14 weeks\n\u2022\tZero coding! which could be positive or negative based on personal choice.\n\u2022\t10% participation grade for reviewing student papers and based on your activity on ed discussion forum\n\u2022\tProfessor and TAs are super responsive\n\u2022\tLoved the grading schedule. Grades are released on a consistent basis, every week on Tuesday, something I would like to see in other OMSCS courses.\n\u2022\tGrading is not strict. But if you don\u2019t provide enough explanation or miss answering a question (Bolded keyword) you may not get full marks. \n\u2022\t2 exams which are open book and not proctored with 8 hour time limit. \n\u2022\t I gave a medium to this course because it requires a lot of time every week. My weekly schedule below:-\no\t1 Hour watching lecture videos (20-24 questions will appear on each of the 2 tests)\no\t6-7 Hours submit paper every week\no\t30 mins to 1 hour provide feedback on 3 students paper and review ed discussion forum\no\t1-2 Hour to read weekly readings. (6-10 questions will appear on each of the 2 tests)\n",
+                        "id": "external-import-a45baf98-4dfc-4d7b-908d-821f96076a5d",
+                        "difficulty": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "_createdAt": "2022-04-24T14:01:33Z",
+                        "rating": 4,
+                        "course": null,
+                        "created": "2022-04-24T14:01:33Z",
+                        "semester": {
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z"
+                        },
+                        "_id": "external-import-a45baf98-4dfc-4d7b-908d-821f96076a5d",
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 4,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7"
+                        },
+                        "_createdAt": "2022-04-23T14:28:30Z",
+                        "body": "As some other reviewers have noted, if you have taken HCI, you\u2019re in for something pretty similar here when it comes to assignments. You have a 6-8 page paper due each week, alternating between A) assignments where you mostly do further research and discussion of lecture topics, and B) coming up with a design for a system based on a few weeks\u2019 worth of lecture topics (which you could choose to actually program, although most do system diagrams and such). If you are fine with writing, this should be fairly straightforward; if you don\u2019t like writing, you probably won\u2019t like the class.\n\nWriting the papers will be the majority of your time each week. The lectures are fairly brief, but informative; you have an additional required paper to read (which will also show up on one of the two exams), with suggestions to pick a couple of papers from additional optional paper readings (not on the tests) each week as well. The readings are usually fairly short; most of the required research papers are in the 8-12 page range.\n\nThe topics are all pretty much listed on the course page / syllabus; the course itself is definitely a survey course of many topics. Like a lot of GT courses, you will get out of it what you put in - I enjoyed coming up with new designs for different technologies I had little previous exposure to every other week, but it could also be draining if that's not your thing. I did think this course is more up-to-date on a lot of technologies than many other OMSCS courses are.\n\nYou also have to do three peer reviews each week of submitted papers; these overall don't take that long to do (and at least this semester I almost always had someone who didn't submit a full paper, further shortening time). You usually actually get better feedback here than from the TA grading.\n\nThere are two exams, which were just open-book/open-note; they generally weren't too difficult although there were a handful of questions that perhaps need some proof-reading or to be changed out in future semesters.\n\nLastly, there is an individual project, which is mostly just a longer version of one of the earlier papers - taking the form of actually building out a prototype of a system based on a class topic. Some people did actually program something here while others were more just showing visual designs and such.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "workload": 8,
+                        "id": "external-import-cb2a4f6d-c0c5-40c0-88de-66f0b5c5b5eb",
+                        "created": "2022-04-23T14:28:30Z",
+                        "_type": "review",
+                        "_id": "external-import-cb2a4f6d-c0c5-40c0-88de-66f0b5c5b5eb",
+                        "difficulty": 2,
+                        "course": null
+                    },
+                    {
+                        "_id": "external-import-09c34a65-20bb-44e1-b771-08c0eaae4457",
+                        "body": "This class is an exact clone of HCI.  If you've taken that course, you know what you're getting into here, with one exception:  the grading is ridiculously easy.  The previous 2 reviews are accurate in their content (this certainly won't help with FAANG interviews), and it is a series of 10 papers (40% total) 8 page maximum not minimum, two exams (30% combined), a final project (20%), and participation (10%).  However, I STRONGLY disagree on the difficulty.  HCI had strict formatting requirements, and actually graded the assignment critically.  The bad prompts and lack of direction in this course's assignments are made up for by some of the most lenient grading I've seen in OMSCS.  A lot of my peers are stressing over minor details, when it's clear that handing in anything that displays an attempt to meet the requirements will get an A.\n\nThrough peer reviews, I've seen a lot of my peer's papers, and frankly, some of them absolutely suck.  I would have received a bad grade on some of these papers if I had handed them in for 11th grade English.  I'm talking an entire paper that doesn't have a single citation, 3-page papers with no real substance to them at all, diagrams that have been clearly stretched beyond reason in order to take up space, answering an entire section in 2 vague sentences, etc.  However, the averages for each paper has been an A for the entire semester.  Now, to be fair, this is the first semester this class is offered online and I would expect the grading to get more strict as it goes on.\n\nIf you're looking for a class like HCI, want a high-level view of some internet concepts, and want to write a lot of papers this is a good choice.  Also, the professor is actively on the discussion forum answering questions, which is rare in OMSCS.  Overall, I think this class will improve a lot as it iterates, Dr. Liu is very involved and definitely cares about the course.  The assignment descriptions will likely improve, I'd image the grading will become more difficult with it.\n\nTo be clear though... there are no coding options given for the assignments, just writing, which is not what the course description says.  Hopefully that will also change in the future.  I've enjoyed this class for what it is, but I also have no problem writing papers like it's HCI.  If you want to take this subject, but are on the fence with these descriptions, I would wait a few semesters and check back in.",
+                        "difficulty": 2,
+                        "rating": 4,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-09c34a65-20bb-44e1-b771-08c0eaae4457",
+                        "created": "2022-03-30T14:24:56Z",
+                        "workload": 8,
+                        "_createdAt": "2022-03-30T14:24:56Z",
+                        "_type": "review",
+                        "course": null,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester"
+                        }
+                    },
+                    {
+                        "course": null,
+                        "_createdAt": "2022-03-18T02:02:06Z",
+                        "_type": "review",
+                        "workload": 24,
+                        "body": "AVOID AT ALL COSTS!\n\nThere is an EIGHT PAGE PAPER due every week for TEN weeks in a row. The other reviewer correctly explains the breakdown of the papers but they do not mention that the length requirement is 8 PAGES of content each!\n\nAfter the barrage of papers, then you work on a final project for the remaining 4 weeks. There are also two exams (midterm and final). The midterm took me about 3 hours but it is open internet with no proctoring.\n\nI had different expectations going into this course. I hoped it would be a system design primer, for example, to help you prepare for FAANG interviews. The reality is that the course is just busy work where you really don't learn much.\n\nI have an A so far but I regret taking the course. Pursue a different course. +1 to the other reviewer's comments",
+                        "difficulty": 4,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 1,
+                        "_id": "external-import-7f12e3c1-9919-4d0f-8794-1aafb05759be",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "semester": {
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "id": "external-import-7f12e3c1-9919-4d0f-8794-1aafb05759be",
+                        "created": "2022-03-18T02:02:06Z"
+                    },
+                    {
+                        "difficulty": 4,
+                        "id": "external-import-b1dd803c-69b8-440e-9425-ccbced09f2ed",
+                        "workload": 16,
+                        "rating": 1,
+                        "_type": "review",
+                        "semester": {
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "body": "The structure of this course is based off of HCI which would have been nice to know prior to taking this course as I wouldn't have taken it.\n\nThere are 5 \"P\" Assignments with questions based off of lectures. The questions are fairly vague and can be difficult to answer since some topics covered in the course are not easily searchable. \n\nThere are 5 \"M\" Assignments where you're supposed to do a design lifecycle on an application of your choosing. This is based off of HCI, however that is a design based course where you walk through a design lifecycle focused on user experience. No sort of design is covered in this course, outside of performance considerations for different technologies. However for these assignments they seem to want you to design an entire tech stack from servers to data structures without ever covering anything remotely like this in the course.\n\nFeedback from TAs on papers is usually just a single sentence with only a general indication of where you are losing points. Considering there appears to only be 75 people in the course, I think more feedback could be given.\n\nTest 1 questions were on par with how paper questions are written - confusing and vague. It is open everything and you have an 8 hour window to take it. I took 4.5 hrs and scored a 92 however there was a curve of 4 or 5 points. The test itself had several grammar and spelling mistakes, and answers are not released.\n\nI gave this course a Hard difficulty rating due to the M assignments, and the vagueness of questions on the P assignments and Test.  \n\nI will finish updating after the semester ends. Overall would not recommend this course in the state it is in now. While the technology in this course is interesting, I would've preferred to cover fewer topics and gone more in depth. Hope they improve in the future.",
+                        "_createdAt": "2022-03-16T06:25:33Z",
+                        "created": "2022-03-16T06:25:33Z",
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_id": "external-import-b1dd803c-69b8-440e-9425-ccbced09f2ed"
+                    }
+                ],
+                "rating": 3.1666666666666665,
+                "difficulty": 2.75,
+                "workload": 13
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "advanced-internet-computing-systems-and-applications"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "isExperimentalCompile": true,
+    "gsp": true,
+    "scriptLoader": []
+}

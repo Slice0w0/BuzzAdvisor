@@ -1,0 +1,138 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "_type": "course",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "_id": "external-import-PUBP-6502",
+                "name": "Information and Communications Technology Policy",
+                "isFoundational": false,
+                "programs": [
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "slug": "information-and-communications-technology-policy",
+                "syllabusUrl": null,
+                "reviews": [
+                    {
+                        "_id": "umwsvGRG2B01q89aZKy2Xb",
+                        "_createdAt": "2022-11-30T00:42:40Z",
+                        "id": "umwsvGRG2B01q89aZKy2Xb",
+                        "workload": 2,
+                        "authorId": "+IMwQk/gzhjskyFDHkqKMA==",
+                        "difficulty": 1,
+                        "_rev": "umwsvGRG2B01q89aZKy2SI",
+                        "_type": "review",
+                        "rating": 5,
+                        "body": "Simply the easiest course in the program, I took it as my flex-core course since I'm on the Information Security track of the OMS program, and I am so glad I did. Interesting material, 4 annotated reading assignments, 4 quizzes, 2 very straightforward projects, and that about sums it up. Take this if you're looking for a light workload or a good flex core option to double up with another more demanding course.",
+                        "course": null,
+                        "_updatedAt": "2022-11-30T00:42:40Z",
+                        "created": "2022-11-30T00:42:40Z",
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:41:19Z",
+                            "startDate": "2022-08-22",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFOwvx",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2022-3"
+                        }
+                    },
+                    {
+                        "body": "I thought this class was fairly easy and straightforward. The course guides you on history of telecom policy then builds up to where we are today. There were 4 open book/note quizzes, 4 reading assignments, and one 7 slide presentation. One thing I'd never seen before was the use of the app Persuall, where you were required to make annotations, create discussions, and ask questions on the readings. You are graded on your comment  distribution and depth of questions/comments the system scores it automatically. I would highly recommend this course if you are pairing it with a class that has a higher workload. As a Policy track student I wish I would have waited to take this course with one of my Energy or IS courses. ",
+                        "id": "external-import-de25f440-f1d6-4925-b7b1-5bf7b2088e57",
+                        "created": "2021-08-12T18:03:45Z",
+                        "workload": 3,
+                        "semester": {
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer"
+                        },
+                        "_id": "external-import-de25f440-f1d6-4925-b7b1-5bf7b2088e57",
+                        "difficulty": 1,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 4,
+                        "course": null,
+                        "_createdAt": "2021-08-12T18:03:45Z",
+                        "_type": "review"
+                    },
+                    {
+                        "_id": "external-import-816ebdd3-15c7-4217-90f4-35804c05ed05",
+                        "body": "I just finished this course in Summer 2021. For background, I'm in OCY Policy track with a background in IT risk management.\n\nOverall, this was a good course and enjoyed it. It starts off almost like a history course on telecom from the telegraph to 5G by the end of the course and covers policy issues in between. The lecture videos by Dr. Mueller are really informative and help in understanding new concepts. In the annotated reading assignments, students have the freedom to draw parallels from the lectures, work, or similar situations in everyday life or even relate topics to security or privacy - you'll get what you put into them. \n\nBreakdown of the assignments: \n\n4 Quizzes (40%) - Open note quizzes with 20 questions each. Straightforward but don't rush through them.\n\n4 Reading Assignments (40%) - Longer reading assignments which require annotations in Perusall (think discussion posts on steroids). I believe these were autograded based on overall content, mechanics, and number of posts. Not going to lie - these could be painful mostly because I found some students' annotations to be low quality and sometimes not relevant which was more of a distraction. My tip for this - read the assignment in pieces then go back in with your thoughts and make the annotations to not get lost in the rabbitholes. The readings were easy but could be time consuming, so consider starting early.\n\nPolicy Bingo - (20%) Randomly assigned criteria and then you have to find a case that matches up to the criteria (hence, bingo). Put together a short slide deck defending each criteria assigned and then draw parallels from the lectures. Pretty easy depending upon your random draw.\n\nTo sum it up, great class and Dr. Mueller is amazing and interacts with students on Perusall which is refreshing. I learned a lot about telecom policy and some of the security and policy issues facing emerging technology. This is a lighter load class and would definitely recommend.\n\n\n\n",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "id": "external-import-816ebdd3-15c7-4217-90f4-35804c05ed05",
+                        "created": "2021-08-05T15:01:51Z",
+                        "rating": 4,
+                        "workload": 3,
+                        "difficulty": 2,
+                        "_createdAt": "2021-08-05T15:01:51Z",
+                        "course": null,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "difficulty": 1,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z",
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester"
+                        },
+                        "_id": "external-import-95da3747-74d4-4205-acea-f392de181934",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "course": null,
+                        "created": "2020-12-03T23:18:50Z",
+                        "workload": 1,
+                        "body": "This is the easiest class I've taken in post-secondary education. I put in maybe a total of 20 hours of work throughout the semester for it, with spans of several weeks not having to think about it at all. There's 4 quizzes, 4 reading assignments that require annotations, \"policy bingo\" which involves making a powerpoint with ~6 slides, and a short final paper. That's it. That being said, this class still teaches you a lot of really interesting content on telecom policy. I did learn a good amount about the history of telecom issues as well as modern concerns like 5G. Professor Mueller is also incredibly accessible. He is present at office hours and responds nearly instantaneously to Piazza posts. I can't say enough positive things about him and his passion for helping students learn policy. So TL;DR, take this class if you need light course work and are interested in telecom policy. I'm glad I did. ",
+                        "_createdAt": "2020-12-03T23:18:50Z",
+                        "_type": "review",
+                        "rating": 5,
+                        "id": "external-import-95da3747-74d4-4205-acea-f392de181934"
+                    }
+                ],
+                "created": "2022-07-05T23:23:15Z",
+                "_updatedAt": "2022-08-24T17:28:55Z",
+                "isDeprecated": false,
+                "_rev": "959qsafI8uoLDPJecfSklv",
+                "tags": [],
+                "creditHours": 3,
+                "description": "Examination of the convergence of information technology, communications and telecommunication, policymaking within the executive/regulatory branches, special interest group role, and key domestic and international issues.",
+                "id": "external-import-PUBP-6502",
+                "codes": [
+                    "PUBP-6502"
+                ],
+                "rating": 4.5,
+                "difficulty": 1.25,
+                "workload": 2.25
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "information-and-communications-technology-policy"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

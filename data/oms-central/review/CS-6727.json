@@ -1,0 +1,46 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "created": "2022-07-05T23:23:15Z",
+                "_type": "course",
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "_id": "external-import-CS-6727",
+                "id": "external-import-CS-6727",
+                "_updatedAt": "2022-08-24T17:23:18Z",
+                "creditHours": 5,
+                "isDeprecated": true,
+                "slug": "cyber-security-practicum",
+                "syllabusUrl": null,
+                "name": "Cyber Security Practicum",
+                "programs": [
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "isFoundational": false,
+                "reviews": [],
+                "description": "Capstone independent study project placing each student in a commercial, academic or government setting where he or she identifies a major cyber security problem, and explores and evaluates a solution that addresses it with realistic assumptions about the organizational context. The chose problem must be approved by course instructor.",
+                "tags": [],
+                "codes": [
+                    "CS-6727",
+                    "ECE-6727",
+                    "PUBP-6727"
+                ],
+                "_rev": "959qsafI8uoLDPJecfS4nn",
+                "rating": null,
+                "difficulty": null,
+                "workload": null
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "cyber-security-practicum"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

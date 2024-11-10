@@ -1,0 +1,42 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "_updatedAt": "2022-08-24T17:42:19Z",
+                "id": "449cba43-6f4c-4fa3-8e5f-09b6ad89429d",
+                "created": "2022-08-19T21:30:48Z",
+                "name": "Seminar: CS Educators Seminar",
+                "creditHours": 1,
+                "_createdAt": "2022-08-19T21:30:48Z",
+                "syllabusUrl": null,
+                "slug": "seminar-cs-educators-seminar",
+                "isDeprecated": false,
+                "_id": "449cba43-6f4c-4fa3-8e5f-09b6ad89429d",
+                "_rev": "vLev53Cwnp4JOI2CCHptei",
+                "_type": "course",
+                "isFoundational": false,
+                "reviews": [],
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "codes": [
+                    "CS-8001-OED"
+                ],
+                "rating": null,
+                "difficulty": null,
+                "workload": null
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "seminar-cs-educators-seminar"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

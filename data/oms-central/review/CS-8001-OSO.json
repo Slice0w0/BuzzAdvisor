@@ -1,0 +1,42 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "_rev": "vLev53Cwnp4JOI2CCHppWQ",
+                "programs": [
+                    {
+                        "acronym": "CS"
+                    }
+                ],
+                "_updatedAt": "2022-08-24T17:42:05Z",
+                "slug": "seminar-computational-sociology-seminar",
+                "name": "Seminar: Computational Sociology Seminar",
+                "creditHours": 1,
+                "codes": [
+                    "CS-8001-OSO"
+                ],
+                "isDeprecated": false,
+                "_id": "270c4d16-25dd-4f69-9e41-b50e73ed74e2",
+                "_createdAt": "2022-08-19T21:31:17Z",
+                "syllabusUrl": null,
+                "reviews": [],
+                "isFoundational": false,
+                "created": "2022-08-19T21:31:17Z",
+                "_type": "course",
+                "id": "270c4d16-25dd-4f69-9e41-b50e73ed74e2",
+                "rating": null,
+                "difficulty": null,
+                "workload": null
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "seminar-computational-sociology-seminar"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

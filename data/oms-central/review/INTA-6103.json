@@ -1,0 +1,254 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "_id": "external-import-INTA-6103",
+                "codes": [
+                    "INTA-6103"
+                ],
+                "creditHours": 3,
+                "_updatedAt": "2022-08-24T17:30:19Z",
+                "reviews": [
+                    {
+                        "course": null,
+                        "_createdAt": "2023-11-28T17:01:53Z",
+                        "created": "2023-11-28T17:01:53Z",
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "body": "I enjoyed the class. A lot of reading material is assigned for each module, but it can be done. The assignments are all written (reading reflections, discussion posts, midterm, and final) and are usually oriented around reading assignments. A word to the wise would be to make sure you give yourself plenty of time to do the lectures and reading assignments each week; otherwise, you will quickly find yourself getting behind in the class. If you have an interest in international relations, then this will be a very enjoyable class. This is an elective for the OMS Cybersecurity program, but there's less around cybersecurity than I would have expected. I found the information in class useful and made me think about how cyber would relate to the topics discussed (e.g., security dilemma, nuclear weaponry and deterrence, etc.). Don't let that be a deterrent (pun not intended but not withdrawn) to taking this class. It gives you an understanding of foreign policy and sets the table for how the cyber domain fits.",
+                        "_rev": "llHPdpE6t2d8pDZnVBaM1n",
+                        "difficulty": 3,
+                        "_type": "review",
+                        "id": "llHPdpE6t2d8pDZnVBaM4u",
+                        "workload": 10,
+                        "_id": "llHPdpE6t2d8pDZnVBaM4u",
+                        "_updatedAt": "2023-11-28T17:01:53Z",
+                        "rating": 5,
+                        "authorId": "cAG/XYpU07QHrYCqBe14zg=="
+                    },
+                    {
+                        "workload": 20,
+                        "body": "Regrettably, I must admit that my expectations were misguided by previous reviews regarding the course workload. I recognize that each student has their own approach to studying and comprehending the material. However, considering an average weekly reading load of 100 pages, it seems that those who manage to complete the requirements in just a few hours weekly must possess an exceptional proficiency in reading and a deep understanding of international relations.\n\nRegarding the course content itself, I find it lacking in development. The instructional materials consist of dry slide presentations, a compilation of reading materials from various schools of thought, and lecture scripts that appear to have not been proofread. Additionally, the scheduling of assignments lacks consideration, as does the responsiveness to student inquiries within the promised 24-hour timeframe. These are areas that require substantial improvement.\n\nIn addition to addressing the aforementioned areas of improvement within the course team, I propose that future iterations of the course incorporate more objective quizzes. This would serve as an alternative to the current format of entirely subjective assignments, which place a considerable burden on students in terms of writing effort, as well as on instructors and teaching assistants in terms of grading efforts. Moreover, the grading consistency across students is not maintained.\n\nFor individuals considering enrollment in this course in the future, I strongly advise seeking feedback from students who have already completed it before finalizing your decision to enroll.",
+                        "_createdAt": "2023-08-22T21:09:19Z",
+                        "rating": 2,
+                        "authorId": "FCD8FEhYJscmlLA0Ff1t7A==",
+                        "_updatedAt": "2023-08-22T21:09:19Z",
+                        "course": null,
+                        "_type": "review",
+                        "id": "K6ig95Tl30l7DwM0z0unVp",
+                        "semester": {
+                            "_id": "c302ae44-e285-436c-943e-18184f6f6249",
+                            "_updatedAt": "2023-07-26T19:05:14Z",
+                            "startDate": "2023-05-15",
+                            "_createdAt": "2023-07-26T19:05:14Z",
+                            "_rev": "G2CNO6q5LhmMM5wp3Xva4U",
+                            "_type": "semester",
+                            "term": "summer"
+                        },
+                        "difficulty": 3,
+                        "_id": "K6ig95Tl30l7DwM0z0unVp",
+                        "created": "2023-08-22T21:09:19Z",
+                        "_rev": "K6ig95Tl30l7DwM0z0unR8"
+                    },
+                    {
+                        "workload": 4,
+                        "difficulty": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 5,
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "course": null,
+                        "id": "external-import-d5d5426b-652d-4d77-8e8c-9d751c89e867",
+                        "created": "2021-12-27T22:38:19Z",
+                        "body": "This course was both enjoyable and very, very pertinent to cybersecurity. I saw some other comments from students who said the course seemed to have very little with cybersecurity, but I know from experience this class was very good and should prove useful in the future for those students who plan to enlarge their career prospects.\n\nI've already worked in infosec for many years, and most of that time was overseas. As a practitioner, I've had to work both with foreign governments on policy and with the nitty-gritty details of reading log files or coding a script to solve some issue.\n\nIf students think cybersecurity is just coding, then that's fine and you can work as a low-level analyst or network administrator. There's nothing wrong with that. But I've had to explain issues to visiting congressional delegations and to agencies of foreign governments in their own jargon and from their POV so they could understand the geopolitical ramifications. This is where this class comes in handy. It gives a VOCABULARY you can use and be aware of when -- at the managerial or executive level -- you need to frame a discussion in a certain way.\n\nAnd even if you are a threat analyst, appreciating the historical and geopolitical intricacies of a situation can illuminate (possibly) some things for you with attribution.\n\nLike many things in life, you get out of something what you put in. This class was a very welcome breath of fresh air and I can see wholeheartedly why it's part of the curriculum. If you cannot see how or why it's part of the course, then either trust me or drop the course.\n\nThere are lots of readings. You get out of them what you put in. I've actually connected with some of the authors (those who are alive, because some of the readings are quite old) via LinkedIn when I've cited them in my writings, and I've found it very valuable for networking and for enlarging my own knowledge.\n\nAs for the movies (someone commented on them previously), the movies are a great addition. They help focus on extracting meaning from another medium (besides the written word) and also to view issues surrounding war and peace from a cultural standpoint. Importantly, in at least the film I saw, even though the film was produced 58 years ago, it specifically focused on the same problems of deterrence we find with cyber -- how can deterrence take place when we want to keep our cyber strengths hidden from our enemy? This of course then impacts attribution and ways we struggle in cybersecurity with some of those issues. Again, you get out of it what you put in.\n\nOne interesting thing: I was chatting with a friend who runs a global research institute during the semester and I mentioned I was in the Masters program and he asked me if I had ever read XYZ author. I told him that there were a couple assigned readings by that XYZ author. He said they were about to hire XYZ author for their cybersecurity department. So, again, you get out of it what you put in. This was a serendipitous occurrence and shows the web of relationships emanating from this class.",
+                        "_createdAt": "2021-12-27T22:38:19Z",
+                        "_type": "review",
+                        "_id": "external-import-d5d5426b-652d-4d77-8e8c-9d751c89e867"
+                    },
+                    {
+                        "workload": 1,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt"
+                        },
+                        "body": "This morning I realized I was out of axe deodorant and added it to my shopping list. Was planning on hitting the store on Wednesday. What does this have to do with a review? Nothing. It is the equivalent of this class having anything to do with cybersecurity. \n\nIt is a VERY EASY A and yet I could not stand any of it. I'm probably the only person infuriated by such an experience. Normally when I'm in a masters program I expect the curriculum to actually match the degree subject. Normally when I'm enrolled at a top university I expect something beyond the basics. The professors do not do a good job tying in cybersecurity because they know very little about it. They do not even know how to use Canvas correctly. Even if they are passionate about the subject, it is just a rehash of political science theory taught in undergrad. A broad overview. How about applying it to cyberspace. Fifteen modules and only one directly broaches the subject? What? This is not interesting, not practical. \n\nIf you need padding or a light course to pair with a more difficult one, this course is perfect. Perfect. Very little work and some weeks have no deliverables. If you prefer to actually learn anything related to the degree, wait for 8803 Geopolitics of Cyber.\n\nAlso keep this in mind if you wind up in this class: do not try to critically think. Reading memos are just copy and paste quotes between what this author said and what that author said. Never mind that some of these ideas may have been discredited. Don't try to question the material. Discussion boards are hideous essays, not real discussions. And get that initial post right or points are deducted. Pathetic. Looks like these assignments flew in from 2005 when higher ed was just getting the hang of online. One student even used 37 references for a discussion board. Posts are supposed to be between 250 to 500-words! This is shorter than the average blog. How is it possible to have that many references unless every other word is cited. What is the point?\n\nAnd no, I do not want to watch movies like we are in high school. Does anyone really think this is academic? I did go in to this class with an open mind, hoping against hope that finally we will cover cyber in what is apparently a half-baked program. Because next semester I take the capstone and have no clue as to what to do. Maybe I will propose to review films about the Cold War.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_type": "review",
+                        "rating": 1,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "course": null,
+                        "_createdAt": "2021-12-20T19:31:44Z",
+                        "id": "external-import-41526651-0532-4e6e-b828-46c0f9d17a2f",
+                        "created": "2021-12-20T19:31:44Z",
+                        "_id": "external-import-41526651-0532-4e6e-b828-46c0f9d17a2f",
+                        "difficulty": 1
+                    },
+                    {
+                        "course": null,
+                        "semester": {
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z"
+                        },
+                        "body": "I really enjoyed this class and glad I took it. I do agree with some of the other reviews that it is a political science course. The instructors did a good job to align the coursework to cybersecurity and there were a few modules towards the end of the course that dealt directly with cyber ops, although I would have liked to have seen more cyber topics in the course. I feel like an open mind is helpful, especially in the earlier parts of the course, to understand the \"why\" perspective of nation states or terrorist organizations as threat actors in the cyber realm.\n\nThe assignments were all writing based and included 3 reading memos, 4 discussions, a midterm and final. Reading memos were 3 pages and meant to identify an argument within a set of readings and discuss consistencies/inconsistencies and provide policy implications. The discussions included an initial 500 word post and 2 follow-ups. The midterm was 6-8 pages based on a movie of your choice from a listing of three. The final was 10 pages based on two essay questions of your choice from a listing.\n\nOverall, fantastic course and learned quite a bit. I put in about 4 hours a week on average with some weeks being much less. If you enjoy political science with a cyber twist here and there, I would definitely recommend.",
+                        "rating": 5,
+                        "_id": "external-import-7ee35d72-6257-4305-8d3a-b526cf70ab39",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_type": "review",
+                        "workload": 4,
+                        "_createdAt": "2021-12-16T22:47:24Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "id": "external-import-7ee35d72-6257-4305-8d3a-b526cf70ab39",
+                        "created": "2021-12-16T22:47:24Z",
+                        "difficulty": 2
+                    },
+                    {
+                        "difficulty": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 1,
+                        "course": null,
+                        "created": "2021-12-14T23:14:10Z",
+                        "_createdAt": "2021-12-14T23:14:10Z",
+                        "_id": "external-import-810004e0-ec75-4ae9-ad25-c36e4d4f9d3c",
+                        "body": "FUCK YOU FOR PUTTING THIS BEHIND A PAYWALL. I have removed my review. ",
+                        "workload": 1,
+                        "id": "external-import-810004e0-ec75-4ae9-ad25-c36e4d4f9d3c",
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:20Z"
+                    },
+                    {
+                        "difficulty": 2,
+                        "rating": 3,
+                        "id": "external-import-490c0470-a149-4529-b6b0-7caa478589b6",
+                        "created": "2021-12-09T18:12:06Z",
+                        "_createdAt": "2021-12-09T18:12:06Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_id": "external-import-490c0470-a149-4529-b6b0-7caa478589b6",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "course": null,
+                        "_type": "review",
+                        "workload": 3,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23"
+                        },
+                        "body": "This class was good for a political science course. If you enjoy history and geopolitics, you will enjoy this class. They tried to tie some of the material to cyber, which was useful. I truly believe this class would be more beneficial to the cyber program if all papers and discussions were applying cyber related use cases to the international security theories. \n\nOverall, the class averaged about 3 hours of work a week. I spent about 2 hours on each discussion post or reading memo. 8 hours for the midterm and 8 hours for the final.  If you did all the reading assigned, I assume it would be closer to 15 hours a week. The discussions were probably more align with an actual graduate level discussion. It felt like a paper more than a discussion. The reading memos were straight forward, they were looking for you to discuss theories in each. The midterm and final are longer papers with more freedom to pick a topic. \n\nThe instructors are very passionate and responded quickly. I did enjoy listening to the lectures. In the end, I did learn some concepts that will be beneficial in strategy purposes in industry. This class can be easily paired with another course."
+                    },
+                    {
+                        "_type": "review",
+                        "semester": {
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall"
+                        },
+                        "_id": "external-import-4c4798f6-954c-4b4d-9972-fd3bd2d8d0ff",
+                        "id": "external-import-4c4798f6-954c-4b4d-9972-fd3bd2d8d0ff",
+                        "created": "2021-12-02T21:34:24Z",
+                        "workload": 4,
+                        "_createdAt": "2021-12-02T21:34:24Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "body": "This class is very fair and the material was interesting to me. Both instructors and TAs are very responsive on piazza and provide good feedback on assignments. There are 4 Discussions (1 initial 200-500 word post & 2 reponses), 3 Essays on the readings (3 page max paper) and an essay for the Mid-Term and Final Exam which you have a week to complete. There is a lot of assigned reading however you can skim and get a general idea of what the debate is. You can definitely pair this course with another. I would enjoy this class even more if I wasn't taking it with CS6035 which takes up majority of my time. ",
+                        "rating": 4,
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 2
+                    },
+                    {
+                        "_type": "review",
+                        "workload": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "rating": 4,
+                        "_id": "external-import-b6acbbdf-4bfc-41e5-8b93-13991f78d7f5",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 3,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3"
+                        },
+                        "body": "We're about halfway through the semester but I thought I'd write a review since this is the first time this class is being offered online. \nThe class assignments are 4 discussions, 3 memos, 1 mid-term essay, and 1 final essay. \nThe course content includes lectures and probably 150-200 pages of reading a week. Don't freak out at that amount of reading--you definitely don't have to read every word of every page assigned. I've been skimming and copy + pasting important quotes and page numbers from the texts into a document that I can reference for writing assignments. \nThe content of this course is really interesting, but not super relevant specifically to cybersecurity. It has been way more fun than some of the telecom/information management classes though. \nI am pairing the class with INTA6742 and have had no issues balancing the workload plus a full time job. ",
+                        "_createdAt": "2021-10-07T15:51:45Z",
+                        "id": "external-import-b6acbbdf-4bfc-41e5-8b93-13991f78d7f5",
+                        "created": "2021-10-07T15:51:45Z",
+                        "course": null
+                    }
+                ],
+                "id": "external-import-INTA-6103",
+                "programs": [
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "isFoundational": false,
+                "_rev": "iLpqNfBINCDhaBRaVHVUnX",
+                "tags": [],
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "description": "Examines traditional and nontraditional issues in international security, including the uses of military force, military strategy and policy, arms control, peacekeeping, the environment, and migration.",
+                "created": "2022-07-05T23:23:15Z",
+                "name": "International Security",
+                "isDeprecated": false,
+                "slug": "international-security",
+                "syllabusUrl": null,
+                "_type": "course",
+                "rating": 3.3333333333333335,
+                "difficulty": 2.4444444444444446,
+                "workload": 5.555555555555555
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "international-security"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

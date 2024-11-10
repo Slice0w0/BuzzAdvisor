@@ -1,0 +1,416 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "_type": "course",
+                "programs": [
+                    {
+                        "acronym": "AN"
+                    }
+                ],
+                "reviews": [
+                    {
+                        "_updatedAt": "2024-08-06T00:27:39Z",
+                        "_id": "5yEnY5RWDfL2hzwFTF3szq",
+                        "difficulty": 2,
+                        "_type": "review",
+                        "rating": 5,
+                        "workload": 4,
+                        "created": "2024-08-06T00:27:39Z",
+                        "_rev": "5yEnY5RWDfL2hzwFTF3swR",
+                        "authorId": "HTfiMV4RG5iSnsJSdVqlwg==",
+                        "_createdAt": "2024-08-06T00:27:39Z",
+                        "semester": {
+                            "_updatedAt": "2024-07-23T22:42:48Z",
+                            "startDate": "2024-05-19",
+                            "_createdAt": "2024-05-09T04:46:16Z",
+                            "_rev": "W0COWgSkHirTIh5E8dL4ME",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "f50633a0-0caf-44de-a999-817ca41d76f4"
+                        },
+                        "body": "I really enjoyed this class. It was sort of a chill class with a lot of tools and techniques to operate lean. This is the type of class you combine with a demanding class. The complementary green belt certification is also a nice one. ",
+                        "course": null,
+                        "id": "5yEnY5RWDfL2hzwFTF3szq"
+                    },
+                    {
+                        "_createdAt": "2023-10-01T10:52:01Z",
+                        "workload": 12,
+                        "rating": 1,
+                        "id": "pqi0YI0b4n0uiYRAYCXSEJ",
+                        "_id": "pqi0YI0b4n0uiYRAYCXSEJ",
+                        "created": "2023-10-01T10:52:01Z",
+                        "semester": {
+                            "_createdAt": "2023-08-12T05:26:25Z",
+                            "_rev": "Ge7QFtjd7Oo12iAJ8d1HFr",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "fb19b4f4-c1e2-4848-b1c1-910e16d5267a",
+                            "_updatedAt": "2023-08-12T05:26:25Z",
+                            "startDate": "2023-08-21"
+                        },
+                        "difficulty": 5,
+                        "body": "The class has been revamped for Fall 23 with brand new projects/assignments. So far the experience has been horrendous and I do not recommend anyone taking it until they work out all the kinks and have actually given some thoughts on all the materials, timelines, and assignments. \n\nReasons why it has been terrible:\n1/ the assignments are not well thought out at all. Most of the asks make no sense. Students would raise questions and the TAs try their best to answer but it would turns out totally contradicting to what the professor say in the office hours. Evident 1 - homework clearly stated our statement must be measurable when the situation given is clearly not measurable. TA told us to measure some non-sense and turned the professor admitted in the OH they are not measurable. \n2/ Grading time is supposed to be 1-2 weeks. I have assignments from 3 weeks ago not graded yet. The problem is that the assignments are built upon one another. Now I'm asked to do the second part while I don't even know if my first part is right. \n3/ There's a big class project that is totally open and I mean minimal guidance and we are not allowed to ask for feedback if we are on the right track. They insist they will provide feedback in the designated timeframe which is November and the class ends in early December! So if you are on the wrong track, you are totally screwed. You will not have enough to finish a big project in such short timeframe.\n4/ Office hours are on Thursday and it supposedly should be available within 48 hours. It usually takes long than that but all the homework are due Sunday. So if you do not attend OH live, you will never know essential info to finish the assignments. (See point 1 above).\n5/ There's absolutely nothing I have learned that I can't just learn from reading a six sigma book. If the assignments and projects are better designed and we actually get feedback, I would say I learn something beyond reading a book. Since the opposite is true, Six Sigma gives me a very sour taste. Not only I want my money back, I should actually be compensated for wasting my time. \n\nI rated the difficulty at 5 not because Six Sigma is difficult but the course is just terribly designed. ",
+                        "course": null,
+                        "authorId": "9DbrZ5JX9ELqd/5uxbo3JQ==",
+                        "_updatedAt": "2023-10-01T10:52:01Z",
+                        "_rev": "pqi0YI0b4n0uiYRAYCXSDU",
+                        "_type": "review"
+                    },
+                    {
+                        "_createdAt": "2022-11-29T01:30:08Z",
+                        "_id": "umwsvGRG2B01q89aZGqBaY",
+                        "workload": 7,
+                        "body": "This is often described as a \"fluff\" course, but I think the blend of mechanical and analytic techniques with business practice actually made this one of the more valuable classes. You won't learn anything technical here, but if you want to get started after school on deep analytics, this course gives you the tools to design projects, support them, advocate for funding and show responsibility. And you get to call yourself a six sigma yellow belt!",
+                        "difficulty": 2,
+                        "id": "umwsvGRG2B01q89aZGqBaY",
+                        "rating": 5,
+                        "_updatedAt": "2022-11-29T01:30:08Z",
+                        "created": "2022-11-29T01:30:08Z",
+                        "_type": "review",
+                        "course": null,
+                        "_rev": "umwsvGRG2B01q89aZGqBVF",
+                        "authorId": "Hv+TgHXXTPdsLG7sIilQGQ==",
+                        "semester": {
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2022-1",
+                            "_updatedAt": "2022-07-22T00:45:51Z",
+                            "startDate": "2022-01-10",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0GON7"
+                        }
+                    },
+                    {
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "workload": 3,
+                        "_id": "external-import-a316e526-496a-4730-8952-785702414c73",
+                        "difficulty": 1,
+                        "_createdAt": "2022-02-27T15:38:00Z",
+                        "_type": "review",
+                        "rating": 4,
+                        "course": null,
+                        "semester": {
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall"
+                        },
+                        "body": "This course was easier than anything I had done for my undergrad. It was fun, informative and involved loads of application to whatever work or personal problems we had. I felt like the most difficult part was trying to come up with data/scenarios to apply the concepts for, since six sigma is applicable to especially manufacturing, call centre etc. environments. I ended up cleaning up my kitchen, playing beer pong, chopping some onions etc. to complete the weekly assessments.\n\nThe free six sigma yellow belt certification and minitab quality trainer certification are a nice bonus on your LinkedIn/CV, and the minitab course was a great intro/refresher on basic stats concepts. Another nice thing was the small class size and having the same TA grading my work and giving project feedback every week.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-a316e526-496a-4730-8952-785702414c73",
+                        "created": "2022-02-27T15:38:00Z"
+                    },
+                    {
+                        "_createdAt": "2021-07-26T16:46:19Z",
+                        "_type": "review",
+                        "semester": {
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "body": "Those who say that average workload is 1 hour are wrong. The Money Ball reading for each week are 3 to 2 hours if you get an audio book. Plus videos. Plus assignments. Plus discussion in canvas. I'd say 4 to 6 h. \nI needed an easy class for summer instead of MGT8803 and I chose DACI. In the hindsight I wish I'd chosen Digital Marketing how I planned it. But digital marketing was so boringly covering in DAB 6203, so I switched to DACI. Now I regret it.\nThe class was fine though. The professor and TAs were very good. I just don't think the covered material is so useful. I have mixed fillings that I could have used those 4-6 hours weekly better.",
+                        "id": "external-import-864d05f5-e789-4a89-86e8-0593aed4ccf5",
+                        "difficulty": 1,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_id": "external-import-864d05f5-e789-4a89-86e8-0593aed4ccf5",
+                        "rating": 3,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "created": "2021-07-26T16:46:19Z",
+                        "course": null,
+                        "workload": 5
+                    },
+                    {
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "created": "2021-07-07T00:57:23Z",
+                        "_createdAt": "2021-07-07T00:57:23Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "course": null,
+                        "workload": 5,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "_type": "review",
+                        "id": "external-import-98eff1d7-18f9-4d6c-9a0b-f5b304f9330f",
+                        "_id": "external-import-98eff1d7-18f9-4d6c-9a0b-f5b304f9330f",
+                        "body": "While this is notably not the most challenging course in OMSA (as noted by some students), the content and tools obtained in the course are very applicable & important. \n\nThe course provides you with a framework to identify and address problems\u2014as well as a framework of how to weed out so called problems. While not the most analytically rigorous, as someone who has been in industry, I believe this type of thinking and question is very much lacking as is a necessary skill to make you a better data scientist, analyst, manager, etc. This course helps answer: how do you know what problems are worth you time? How do you get your leadership to identify problems? How do you breakdown and lead people through problem solving? How do you yourself look at a situation and break it down. As with many courses, you get what you put in.\n\nGrading: many students complained that the grading was too harsh. This is silly. While the TA's do comb through the assignments and dock off points willingly, they rubric and expectations are published prior to the assignment. Follow this and you\u2019ll be fine. Don\u2019t and they will take points off\u2014and they should. I am pleasantly surprised and appreciated all the feedback I received on my assignments! It's clear they care and spend a lot of time grading. \n\nSidebar: Should you take the course and want to go on to get your green belt or black belt, the course instructor (in the videos) offers certification as well: lee@leecampe.com (I contacted via LinkedIn)!",
+                        "difficulty": 2,
+                        "rating": 4
+                    },
+                    {
+                        "difficulty": 1,
+                        "_id": "external-import-1fe76447-6c31-4fb8-8beb-574399bdf00d",
+                        "body": "This course teaches the basics of lean six sigma concepts. The weekly video content is relatively brief and then a homework assignment is due each week based on the new material introduced in the videos. Each homework introduces a new technique or tool for collecting, organizing or analyzing data with a metric improvement mindset. There are also 5 discussion homeworks on the book Moneyball with deadlines that occur in the same week as the normal homeworks, so sometimes you have two assignments in the same week. The homework assignments are quite varied, but grading rubrics and examples are shown in weekly office hour sessions with the professor, so if you make sure to include all the components required by the rubrics you should get good marks. You will do an individual final project worth half of your grade, where you combine various tools covered in the homework assignments to gather data, analyze it and make recommendations for improvement for a metric of personal relevance. \n\nThe course revolves around identifying measurable metrics (\u201cY\u2019s\u201d) that could stand to be improved, analyzing them along with potentially related causal factors (\u201cX\u2019s\u201d), and thinking about how you could influence the causal factors to improve the target metric. The material in this course is pretty easy conceptually. If you are looking for a course with technical depth, this is not the course for you. Even the parts of the assignments with some calculations can be completed successfully without too much understanding of the calculations since excel templates are provided by the course that allow you to plug in your own data and get results without digging much into the details. This course is much more about developing a continuous improvement mindset than learning about the mathematical aspects of six sigma.\n\nYour enjoyment, learning and time spent in this course depend largely upon how much thought and effort you put into the homeworks. It is possible to get an A with minimal effort, but if you put more time into the assignments you have the chance to do some things that can make tangible improvements in your life. For instance, for one assignment I reorganized the cabinets in my kitchen and now I have easy access to all my board games at the kitchen table, so I\u2019ve played more games with my family as a consequence. I also did a weight loss project for my final project and lost ~7 pounds during the last month of the course, which is not something I would have probably tried to do otherwise, and if I had, I might not have gone about it in an effective way.\n\nIn summary, this a low stress course that can serve as an easy A to pair with a tougher course where the benefits and learning you gain depend largely upon how much effort you put into the assignments.",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review",
+                        "rating": 5,
+                        "course": null,
+                        "id": "external-import-1fe76447-6c31-4fb8-8beb-574399bdf00d",
+                        "created": "2021-06-22T12:16:29Z",
+                        "workload": 6,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-06-22T12:16:29Z"
+                    },
+                    {
+                        "_type": "review",
+                        "_id": "external-import-dde4c7bd-a6da-47f5-8f92-ffd4cb9b0470",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "rating": 4,
+                        "id": "external-import-dde4c7bd-a6da-47f5-8f92-ffd4cb9b0470",
+                        "created": "2021-05-10T01:05:00Z",
+                        "_createdAt": "2021-05-10T01:05:00Z",
+                        "difficulty": 1,
+                        "workload": 3,
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "course": null,
+                        "semester": {
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester"
+                        },
+                        "body": "I enjoyed the class overall. It seemed to focus more on a frame of mind when approaching management decisions than a specific skill but I do think it'll be helpful in the long run. As a student, you have a lot of leeway in how difficult the course is - ie you can use analytic techniques learned in other classes to flesh out some things in your data for the project, but the extent to which you analyze data is optional... I would have liked a little more in the way of actually using and manipulating a \"real-world\" type dataset using methods reviewed in the course.  I'd also say the workload varied a lot each week; some weeks I probably spent 8 or so hours on the class (cleaning out my garage using Lean methods), while most weeks were closer to 1 or 2 hours.\n\nYes, the coursework is very easy; but a class doesn't need to be challenging to be useful sometimes. At least in my opinion."
+                    },
+                    {
+                        "_createdAt": "2021-05-06T17:42:08Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "_type": "review",
+                        "workload": 3,
+                        "id": "external-import-77045960-c283-4f0a-a533-15f581a1bd68",
+                        "created": "2021-05-06T17:42:08Z",
+                        "body": "Yes, it's an easy class, and while it does a sufficiently good job of walking you through a broader six-sigma approach to various case studies (with a 4 week summation project), it represents a missed opportunity to dig a bit deeper into data analysis as part of an Analytics program. Rather than an emphasis on self-collection of tiny datasets it would be far more interesting to incorporate some larger example datasets and do rudimentary analysis on those as part of the process. The \"Measure\" and \"Analyze\" phase could easily be expanded (at the expense of the 4 week project timelines at the end if need be) to make room for this more interesting level of insight. Maybe move on from excel and minitab-level analysis into a bit of spoon-fed R work (as was done in 6203) to edge this up to a 1.5-2.0 in difficulty and make it more relevant. Otherwise it is an interesting subject that feels like it could have been handled in a two day seminar.\n\nAll that said, the videos were good and the professor (not in the videos) was engaging and extremely clear, with little ambiguity on assignments or what was expected.",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "difficulty": 1,
+                        "course": null,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1"
+                        },
+                        "_id": "external-import-77045960-c283-4f0a-a533-15f581a1bd68",
+                        "rating": 3
+                    },
+                    {
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "workload": 2,
+                        "body": "The class was very easy, if you need something that's lighter load to pair with a harder topic this is a good option. \n\nIt was mentioned the course work and setup might change in future semesters since Lee is no longer the instructor of this class. \n\nWeekly Assignments\nFinal individual project\nNo exams or quizzes \n\nOverall the class wasn't very exciting and I'm not sure I would recommend it. The weekly material was vague but easy enough to complete. The final project was also pretty easy and the rubric made everything simple to complete. Instructor and TAs were very responsive if there were questions or confusion. ",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-037548c0-a7d9-4f78-b2ea-47a869fbbaff",
+                        "created": "2020-11-30T19:08:59Z",
+                        "rating": 2,
+                        "difficulty": 1,
+                        "_createdAt": "2020-11-30T19:08:59Z",
+                        "_type": "review",
+                        "_id": "external-import-037548c0-a7d9-4f78-b2ea-47a869fbbaff",
+                        "course": null,
+                        "semester": {
+                            "_updatedAt": "2022-07-22T00:46:29Z",
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2020-3"
+                        }
+                    },
+                    {
+                        "workload": 5,
+                        "id": "external-import-ecacc1d8-ad4b-444f-849e-9f0dc4352cf6",
+                        "difficulty": 1,
+                        "_type": "review",
+                        "rating": 4,
+                        "course": null,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "created": "2020-11-30T05:01:29Z",
+                        "_createdAt": "2020-11-30T05:01:29Z",
+                        "semester": {
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z",
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester"
+                        },
+                        "_id": "external-import-ecacc1d8-ad4b-444f-849e-9f0dc4352cf6",
+                        "body": "This was an easy course with max of 5 hours per week. TAs and Professor were very professional and were always there when you need clarification on lessons. This course is useful for business especially in operations. Take this if you need a course to pair with a difficult one."
+                    },
+                    {
+                        "_id": "external-import-5a93f9fa-b9d9-4fd0-aa00-3b6c770608ed",
+                        "body": "Do not take this class. Complete waste of time and money. The entire course is based on Lean Six Sigma principles (look it up if you're unfamiliar). \n\nVideos were made off the cuff. Assignments are vague and unclear. Material is outdated.\n\nFairly certain Lee Campe conned the university into having him as an instructor all these years. \n\nSeems like an easy A, if that's what you need.",
+                        "_createdAt": "2020-09-14T01:30:02Z",
+                        "course": null,
+                        "created": "2020-09-14T01:30:02Z",
+                        "difficulty": 1,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "_type": "review",
+                        "workload": 4,
+                        "id": "external-import-5a93f9fa-b9d9-4fd0-aa00-3b6c770608ed",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "semester": {
+                            "startDate": "2020-08-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN14Is",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2020-3",
+                            "_updatedAt": "2022-07-22T00:46:29Z"
+                        },
+                        "rating": 1
+                    },
+                    {
+                        "body": "Lee Campe does a great job teaching this class, which makes the concepts simple to grasp. Lee is more concerned with your ability to learn and produce than memorize and regurgitate. I believe that is what makes this class so easy as others have pointed out. This is one of the classes that contributes to the \"breeze your way to a degree by doing the business track\" stereotype. However, I would say this is the most practical and immediately applicable classes I have taken so far in OMSA. If you are doing the BA track, I highly recommend you take this course. I won't be surprised if I use concepts I learned in this course to help me complete, or at least design, my practicum.",
+                        "_id": "external-import-8549fd7b-948d-42f9-86a9-c9ebc84c19be",
+                        "_type": "review",
+                        "rating": 5,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2020-2",
+                            "_updatedAt": "2022-07-22T00:46:39Z",
+                            "startDate": "2020-05-11",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HiC5"
+                        },
+                        "created": "2020-08-04T06:18:30Z",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "_createdAt": "2020-08-04T06:18:30Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "course": null,
+                        "workload": 4,
+                        "difficulty": 2,
+                        "id": "external-import-8549fd7b-948d-42f9-86a9-c9ebc84c19be"
+                    },
+                    {
+                        "created": "2020-07-12T21:34:58Z",
+                        "_id": "external-import-6f7009db-06ff-436e-9c36-fe9ac53621b5",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "course": null,
+                        "difficulty": 1,
+                        "_type": "review",
+                        "id": "external-import-6f7009db-06ff-436e-9c36-fe9ac53621b5",
+                        "body": "This class is an introduction to lean six sigma concepts and problem solving/problem solving.\n\nThe class has weekly assignments that seem like busywork, but are not difficult. Reading and writing about Moneyball by Michael Lewis also makes up some of the assignments.\n\nHalf of the grade is a final project where you apply the lessons to a real-world improvement project using data. You are able to make corrections to the final project after receiving feedback to get a better grade.\n\nLee is a very engaging instructor and provides detailed examples from his life and consulting experience in the lesson material.",
+                        "rating": 3,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HiC5",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2020-2",
+                            "_updatedAt": "2022-07-22T00:46:39Z",
+                            "startDate": "2020-05-11"
+                        },
+                        "_createdAt": "2020-07-12T21:34:58Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "workload": 3
+                    },
+                    {
+                        "id": "external-import-20633c56-d14d-419f-94db-63f95aaf4811",
+                        "created": "2020-04-17T18:52:06Z",
+                        "difficulty": 1,
+                        "_createdAt": "2020-04-17T18:52:06Z",
+                        "_type": "review",
+                        "_id": "external-import-20633c56-d14d-419f-94db-63f95aaf4811",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "rating": 5,
+                        "course": null,
+                        "workload": 4,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HxAi",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2020-1",
+                            "_updatedAt": "2022-07-22T00:46:49Z",
+                            "startDate": "2020-01-06"
+                        },
+                        "body": "This course is very easy, and not time-consuming at all. But, I've taken easy classes I've hated, and hard classes I've enjoyed. The ease isn't a factor in me saying it's probably my favorite class I've taken in OMSA. It's very useful and relevant knowledge - how to take a problem and turn it into measurable tasks and results. I was able to use course projects and immediately apply them to my day-to-day life, sometimes simultaneously applying information from other courses. Plus you get a Six Sigma yellow belt, and if you want to do a little bit of extra credit, a Six Sigma green belt!\n\nI think this is very relevant to most people and would recommend taking it if you're in the business track or opted out of something and have room for an elective. It's very applicable, and IMO should replace MGT 6203 as a required course for all.\n\nHalf of your final grade is a number of small assignments (some of which are writing posts about the required reading, *Moneyball*) and half is a lengthier project. Generally if you do something subpar, the instructors will tell you to redo it and give you a day or two!"
+                    },
+                    {
+                        "semester": {
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2019-2",
+                            "_updatedAt": "2022-07-22T00:47:06Z",
+                            "startDate": "2019-05-13",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "ZekwWJQOMa6mGjNYSN1gYI"
+                        },
+                        "_id": "external-import-f45c80db-87d7-4d10-8095-80e3e6881f10",
+                        "_createdAt": "2020-02-10T03:19:50Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "id": "external-import-f45c80db-87d7-4d10-8095-80e3e6881f10",
+                        "created": "2020-02-10T03:19:50Z",
+                        "difficulty": 1,
+                        "workload": 5,
+                        "rating": 4,
+                        "body": "Good course. Easy to get an A (I think the entire class did). Having said that, I probably didn't get as much out of it as I would have hoped as I am already a Green Belt from way back. In my mind I suppose I was thinking this class might take off more in the direction of statistical process control, etc. (i.e, \"Understanding Variation\" by Wheeler)\n\nIf you have never been exposed to the six sigma concepts and/or would like an easy class to pair with one of the many harder ones in OMSA, then this is the one for you. The prof seems a decent guy, the lectures are interesting, and the course is overall enjoyable. Projects are fun and easily graded. ",
+                        "course": null,
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:19Z"
+                    }
+                ],
+                "creditHours": 3,
+                "tags": [],
+                "syllabusUrl": null,
+                "_rev": "vLev53Cwnp4JOI2CCHqH2a",
+                "_id": "external-import-MGT-8823",
+                "id": "external-import-MGT-8823",
+                "created": "2022-07-05T23:23:15Z",
+                "slug": "special-topics-data-analysis-for-continuous-improvement",
+                "_updatedAt": "2022-08-24T17:43:35Z",
+                "isFoundational": false,
+                "codes": [
+                    "MGT-8823"
+                ],
+                "name": "Special Topics: Data Analysis for Continuous Improvement",
+                "isDeprecated": false,
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "rating": 3.625,
+                "difficulty": 1.5,
+                "workload": 4.6875
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "special-topics-data-analysis-for-continuous-improvement"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "isExperimentalCompile": true,
+    "gsp": true,
+    "scriptLoader": []
+}

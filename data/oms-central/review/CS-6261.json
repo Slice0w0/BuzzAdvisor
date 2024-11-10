@@ -1,0 +1,279 @@
+{
+    "props": {
+        "pageProps": {
+            "course": {
+                "programs": [
+                    {
+                        "acronym": "CY"
+                    }
+                ],
+                "isFoundational": false,
+                "_rev": "959qsafI8uoLDPJecfUegV",
+                "creditHours": 3,
+                "_updatedAt": "2022-08-24T17:41:55Z",
+                "syllabusUrl": null,
+                "id": "external-import-CS-8803-OC1",
+                "created": "2022-07-05T23:23:15Z",
+                "name": "Security Operations and Incidence Response",
+                "codes": [
+                    "CS-8803-OCY",
+                    "PUBP-8803-OCY"
+                ],
+                "isDeprecated": false,
+                "reviews": [
+                    {
+                        "_updatedAt": "2024-07-30T20:48:41Z",
+                        "_rev": "uSG6j0nzFMARMpT3ZlTK4i",
+                        "_createdAt": "2024-07-30T20:48:41Z",
+                        "id": "uSG6j0nzFMARMpT3ZlTK8g",
+                        "created": "2024-07-30T20:48:41Z",
+                        "rating": 2,
+                        "_id": "uSG6j0nzFMARMpT3ZlTK8g",
+                        "semester": {
+                            "startDate": "2024-01-08",
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05",
+                            "_updatedAt": "2024-05-09T04:45:52Z"
+                        },
+                        "authorId": "0shAosspKKAAzIwNRqRsMQ==",
+                        "body": "The course includes good material along with busy work. The valuable content, such as Splunk, is applicable to cybersecurity jobs. However, the busy work consists of weekly written assignments and two group projects. The course could not be delivered worse, and no one is accountable except for the professor and TAs. They set due dates on Saturdays, claiming it was so the TAs could have time to grade work and release grades on time, but they did not fulfill this promise. The group work was also a total failure. They assigned people from all over the world with different time zones without considering these factors. When classmates criticized the TA team, the professor did nothing except ask students to be understanding and compassionate. However, they were not compassionate themselves if a student was late on an assignment. This was by far the worst class I have taken during the entire program in terms of logistics.",
+                        "difficulty": 1,
+                        "course": null,
+                        "workload": 10,
+                        "_type": "review"
+                    },
+                    {
+                        "created": "2024-07-07T21:51:20Z",
+                        "_updatedAt": "2024-07-07T21:51:20Z",
+                        "difficulty": 3,
+                        "_id": "WfMSoAtIKQwJFLQ7RxXeIa",
+                        "body": "Terrific course.\nCovers the basics of threat hunting in Splunk (self-taught but couple projects to practice) and has interesting discussions and analysis of hacks and data breaches both historically and in current news. If you are interesting in the security space at all I really recommend this class, and would recommend it over Network Security or Information Security as it is more useful both for getting an understanding of the challenges in the industry and for trying out defensive tools with pretty realistic projects. Lectures can be a bit dull but I think the discussions and projects are terrific, the level of work is very doable and the TAs and Professor put in a good amount of effort. Favorite class in OMSCS so far, but beware of some writing (couple hours a week). ",
+                        "id": "WfMSoAtIKQwJFLQ7RxXeIa",
+                        "workload": 8,
+                        "course": null,
+                        "_createdAt": "2024-07-07T21:51:20Z",
+                        "_rev": "WfMSoAtIKQwJFLQ7RxXeFp",
+                        "rating": 5,
+                        "semester": {
+                            "_updatedAt": "2024-05-09T04:45:52Z",
+                            "startDate": "2024-01-08",
+                            "_createdAt": "2024-05-09T04:45:27Z",
+                            "_rev": "NgmyNwM8hvgytbAbDDuWfw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "cfd8efb3-0d83-463e-bea7-c821e9841d05"
+                        },
+                        "authorId": "y6xgZdnX5shQuDopNlh0iw==",
+                        "_type": "review"
+                    },
+                    {
+                        "id": "GwvFL8R3QHQn27j3sXRvFq",
+                        "workload": 3,
+                        "_id": "GwvFL8R3QHQn27j3sXRvFq",
+                        "created": "2023-04-13T23:57:21Z",
+                        "course": null,
+                        "difficulty": 2,
+                        "_updatedAt": "2023-04-13T23:57:21Z",
+                        "authorId": "A7bshHUMPA6haZ7e6koosg==",
+                        "_type": "review",
+                        "body": "I'm sorely disappointed with this course. \n\nWhile there were some interesting lectures (particularly the one regarding an actual incident at Georgia Tech), I believe that some of the TAs this semester were subpar and that overall made the experience in this course very frustrating. The TA team severely underperformed.\n\nThere were multiple instances where the TA team had poorly applied some settings and ended up creating a chaotic environment. The first group discussion had the entirety of the course's student in one chat discussion, making it difficult to have any meaningful discussion. \n\nThen there's the inconsistent grading. We have one TA who graded fairly leniently, but there were two who were more strict, but did not seem to agree on grading. While one TA marked down reports because there was too much technical details, another TA marked down reports because there wasn't enough. Grading was extremely slow. It took the TAs over a month to grade Project 3. \n\nThen, there is the final project. I understand the value of trying to simulate working with coworkers that are slow to get what you're asking for, or don't get exactly what you're asking for. But, it's not okay to tell students that they need request for information to complete the project, and then basically ghost them for days. If you want to roleplay the lazy IT admin, at least you could set expectations from the beginning, or start roleplaying the lazy admin with short responses immediately after the start of the project. While I appreciate the TAs providing access to the entirety of the logs and evidence a couple days before the students need to make their first update, I think there was a lot of lost potential for this project. \n\nIs it still the course that feels fairly practical and applicable to jobs? I would say yes. There's a lot more topics that could be elaborated on, but the class has good foundations. However, I feel that the TAs did not live up to the expectations set by the course, and honestly I don't remember the last time I felt so let down by a course. \n",
+                        "_createdAt": "2023-04-13T23:57:21Z",
+                        "_rev": "GwvFL8R3QHQn27j3sXRvF2",
+                        "rating": 2,
+                        "semester": {
+                            "startDate": "2023-01-09",
+                            "_createdAt": "2022-07-21T21:55:13Z",
+                            "_rev": "3eqo578hxQNJIGFal0EORN",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "7c19a637-676e-46c3-9576-d5113631dabb",
+                            "_updatedAt": "2022-07-22T00:41:10Z"
+                        }
+                    },
+                    {
+                        "created": "2021-12-23T15:29:35Z",
+                        "difficulty": 2,
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_type": "review",
+                        "_id": "external-import-28288b12-f297-456f-a0d4-a688c6788c3a",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0Gdwt",
+                            "_type": "semester",
+                            "term": "fall",
+                            "_id": "external-import-2021-3",
+                            "_updatedAt": "2022-07-22T00:46:01Z",
+                            "startDate": "2021-08-23"
+                        },
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "id": "external-import-28288b12-f297-456f-a0d4-a688c6788c3a",
+                        "_createdAt": "2021-12-23T15:29:35Z",
+                        "course": null,
+                        "workload": 8,
+                        "body": "Overall, this was a solid course, probably the most job-applicable learning that I've had in the program so far.\n\nGrades are based on current event discussions, case studies, projects, and a final group project:\n\n- There are 5 current event discussions totaling 10% of the grade. Each member in a small group picks a current event and the group discusses it. Participate and provide 3 well-thought responses, and this is an easy grade boost.\n- 9 case studies - readings and lectures are provided on various incidents along with questions. Respond to the questions in a 500-word short response; each of these took about an hour or so, including watching the lectures and reading related articles\n- 4 projects - I'll provide more on these below\n- Group project - investigate an incident within a group; you have to provide a couple status updates, and how you do here will likely depend on how your group is constructed and everyone contributing to the effort. This one was a lot of work, but very rewarding.\n\nMore on the 4 individual projects:\n- Project 1 - IR Plan - Develop an incident response plan for a web server compromise. Not particularly difficult, but make sure that you include everything requested and that you cite any materials used (numerous students got hit with OSI violations for copy/pasting parts of other IR plans)\n- Project 2 - Web server compromise investigation - a more straightforward investigation regarding a web server compromise. You use splunk to investigate and develop an IR report based on a provided template\n- Project 3 - Phishing investigation - similar to the web server compromise investigation, you investigate to determine if an email is phishing and who may be impacted. This also adds on an investigation log (tracking all of the actions taken as an investigator)\n- Project 4 - IDS Signatures - develop snort rules to detect various types of attack traffic. Read the relevant documentation and figure out how to apply it; there is also a chance for extra credit on this project. Probably the quickest of the set of projects.\n\n\n",
+                        "rating": 4
+                    },
+                    {
+                        "difficulty": 2,
+                        "workload": 5,
+                        "body": "So, here's the deal. This class is a great summer course to pair with another required core or even another elective. It's pretty straight forward with all the projects. You get more hands on with Splunk in the projects and you'll do a decent bit of writing regarding weekly Incident Reports/Compromises. \n\nThat being said, the last project is really all I'm going to write about in this post, as in my opinion you need to be aware going into it. It's Projects 2 and 3 on steroids. May God help you if you don't have a good group that wants to meet on the regular. Out of the 5 people in my group 1 maybe 2 people were actually helpful. Start early and pay attention to detail. Use EVERY tool you can to get to the bottom of the incident. If you don't, you might miss some important details. \n\nOverall the course is straightforward and I did enjoy it. ",
+                        "rating": 4,
+                        "course": null,
+                        "id": "external-import-0f7a3c37-71e3-4230-8d57-285eac13b038",
+                        "created": "2021-08-11T13:17:59Z",
+                        "_createdAt": "2021-08-11T13:17:59Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "_id": "external-import-0f7a3c37-71e3-4230-8d57-285eac13b038",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_type": "review",
+                        "semester": {
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z"
+                        }
+                    },
+                    {
+                        "id": "external-import-87276843-744f-45d9-b855-a6a41eb3ccc8",
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_createdAt": "2021-08-09T14:03:17Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXf4",
+                        "body": "I have no experience in the world of incident Response so this was an interesting insight. First off, there are no quizzes or exams and I sighed a breath of relief when I saw that. There is however a lot of writing. 5 discussion boards, where you must contribute at least 3 meaningful posts to get full marks. Then there were case studies 'max' 500 words where you watch a lecture about a breach, read the related article(s) and then answer a few prompts they have for you. Finally there are the projects 4 out of 5 are writing projects and 1 is a 'coding' project where you work with a firewall.\n\nI found the discussion board assignments to be tedious since you are relying others to provide input that you can reply to/riff on. At the beginning of the semester where everyone is more active it was pretty easy but towards the end of the semester my group started posting closer to the deadline and it became a bit of a frenzy to get all the comments in on time.\n\nI enjoyed the case studies because they did a good job of explaining how the attackers got in. It was almost like 'ooh I need to do the case study, let me make a bowl of popcorn before I watch these lectures.' You then needed to answer some prompts related to those case studies. Some of them were so broadly written that you could have skipped the lectures. These are pretty easy to get full marks on, especially since its 'max' 500 words. I put max in quotes because they had no problem when I submitted a 650 word document on one, I got 100% on it. On the other hand I received a 100% on another where I only wrote 300 words.\n\nProjects were fun but then felt repetitive. The firewall one was so easy for me (full time software engineer) that I finished it in (no exaggeration) less than an hour including the extra credit objective. The other 4 were writing projects. One was writing a policy for a response team to follow while the other 3 were performing incident response and writing an incident report. These incident report projects start solo, then go to a team of 2 then the final one, which is the actual Final Project, has you working in a team of 5. The first 2 were somewhat easy, technically inclined speaking. If you have technical experience, whether as an admin or an engineer I think the first 2 are easy enough, the last one though is pretty close to a real event, tons to sift, analyze, and connect the dots. If I could compare I think the first 2 report projects were a 3/10 in difficulty then the final was an 8/10. Thankfully you work in a 'super group' of teams on piazza. Your group is placed in a thread on piazza with 3 other teams, so 20 students total, and you all share evidence, so if they find something it's fair grounds for you to use their findings, as long as it's the same super group.\n\nOne thing I do want to mention is grading in summer 2021 felt hit or miss. This is the only course in my academic career that I've been salty with grading while having an A. Since you work in multiple groups in this course you hear a lot of different experiences from your fellow students. In my final project group we had a few conversations about grading and compared where we lost points and the results lead us to believe that the TA's were not completely in sync on how to grade. You may have done X and received -3 points with one TA and someone else could do the same X and received -0 points from another TA. Several of my final project group partners said stuff like 'hopefully we don't get John/Jane Doe to grade our project' multiple times while we were working on it.\n\nOverall though I enjoyed it, it was a little repetitive but I enjoyed a peak into the Incident Response world. I'm hoping my one qualm regarding grading is smoothed out as the course matures.",
+                        "workload": 5,
+                        "semester": {
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2021-2",
+                            "_updatedAt": "2022-07-22T00:46:09Z",
+                            "startDate": "2021-05-17",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "hYpuG860ZzKHD47MHFQTVJ"
+                        },
+                        "created": "2021-08-09T14:03:17Z",
+                        "course": null,
+                        "difficulty": 2,
+                        "_id": "external-import-87276843-744f-45d9-b855-a6a41eb3ccc8",
+                        "rating": 4
+                    },
+                    {
+                        "created": "2021-05-05T18:02:05Z",
+                        "_type": "review",
+                        "body": "# TL;DR\nCS-8803 : Security Operations & Incident Response is a good and relatively easy class. Some of the assignments are monotonous but the project are *generally* really enjoyable. Easy A and could probably be paired with a medium difficulty class. Seven classes in and this is probably top 2. \n\n# Professors and TA's\nThe Professors (as of taking the class) work on the Security Team at Georgia Tech. In my opinion this is invaluable, you cannot get any closer to \"working in the field\" than that. The three professors were very knowledgeable, friendly, and worked very well together. \n\nThe TA's (as of taking this class) were very kind and quick to respond. The combination of the TA's and professors made for a very enjoyable learning experience.\n\n# Instruction\n**Lectures:** The lectures for this class were on the disappointing side, they were short (I do not think any of the lessons were over 15 min long) and not the most informative. As someone who does not like lectures this was a little refreshing. The reason I say they were disappointing is because the professors seem soo knowledgeable but they provide very little in the lectures. These lectures are needed to complete some assignments.\n\n**Office Hours:** This is where I think the instruction shines. Weekly office hours that all the professors and most of the TA's attend *every time*. The teaching staff drop a lot of knowledge and real world experience in these while fielding the students' questions. Some of these office hours include a general overview of tools needed to complete assignments (which could and probably should be lectures). The tone of these office hours is very laid back and friendly. One office hour in specific, the professors brought on the primary investigator that did the incident response procedures for one of the projects. I would *highly* recommend attending these or at least watching the recordings. \n\n# Assignments\n**Case Studies:** 500 word MAX response to 2 - 4 questions based on lecture videos/articles/papers. These are beyond easy and require minimal critical thinking. They usually ask for your opinion on a topic. These are easily knocked out in an hour. \n\n**Current Event Discussions:** Probably the least valuable aspect of the class. Each discussion, a new group member picks a topic, everyone reads it and engages in a discussion. In my opinion current event discussions are something out of secondary school. I see why its important to keep up on news about incidents and talk with people about it but these felt forced.\n\n**Projects:** Another very strong point of the class. There were five projects total.\n - Project 1: Writing an incident response plan. If you have ever taken an incident response class before or anything policy related, this is not hard to write (especially since they pretty much spell it out in the project description). There are a million sources online for this type of thing too.\n - Project 2: Web Server Compromise. You are tasked with analyzing web access logs using Splunk (provided to you by GaTech). They give you some background and a list of things to take into consideration. Your job is to figure out what happened, answer some questions and write an incident report. This project took minimal technical knowledge.\n - Project 3: Another Web Server Compromise. Similar to the previous assignment but this time you are partnered with another student in the class. Early in the semester the TA's send out a survey to gauge your skill level in these topics to help make groups. If I have one piece of advice to make this class more enjoyable, *SELL YOURSELF SHORT!* This survey is used to make groups for this project and the final project. I was confident in my skills and it came back to bite me later. This assignment took a little more technical know-how than the previous assignment. My partner was *very* little use in the investigation aspect but was helpful when writing the report.\n - Project 4: Writing IDS Signatures. Assignment instructions spell out what you need to do, read the Suricarta documentation and this is a piece of cake. I thought this was an underwhelming/unfulfilling project. This assignment has opportunity to get extra credit points, even though I had a perfect grade in the class up to this point, I would recommend trying to get the extra points.\n - Final Project: This is another incident investigation and report but cranked up to 11. You are paired up in a group of 4 other students and have to engage in some light \"role-playing\" with the Professors and TA's to get what you need to complete the assignment. This is similar to a table top exercise you would do as part of and IR team. I think this was the most enjoyable and subsequently least enjoyable assignment of the class. The other members of has little to zero technical ability and a two outright refused to do any investigation or interaction with the instructors. This lead to a disorganized report and us missing some key aspects of the incident. Bad group stuff aside, you are allowed to lightly collaborate with two other groups which was helpful in my case. The TA's were very quick and forgiving when it came to asking for evidence. This was the only assignment that I did not get a perfect score on but the extra credit from Proj. 4 kept me at a perfect A.\n# Conclusion\nI *really* like this class but some minor gripes and bad groups made it slightly less enjoyable. Other students complained that the instruction did not provide what you needed to complete the assignments. While I agree slightly this is a masters level course, you should be ready to do outside research. All in all, easy A and would strongly recommend to anyone who thinks they would enjoy incident response or need to fill an elective class. ",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "rating": 4,
+                        "semester": {
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14",
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring"
+                        },
+                        "course": null,
+                        "id": "external-import-17592082-5b53-4200-9f0c-d90867737d19",
+                        "workload": 5,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_id": "external-import-17592082-5b53-4200-9f0c-d90867737d19",
+                        "difficulty": 2,
+                        "_createdAt": "2021-05-05T18:02:05Z"
+                    },
+                    {
+                        "difficulty": 2,
+                        "course": null,
+                        "_id": "external-import-d683360c-9d60-4245-8539-1b2810c5d2f6",
+                        "workload": 5,
+                        "_updatedAt": "2022-07-11T19:08:20Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LY5W",
+                        "rating": 4,
+                        "id": "external-import-d683360c-9d60-4245-8539-1b2810c5d2f6",
+                        "created": "2021-04-13T22:45:01Z",
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HBkw",
+                            "_type": "semester",
+                            "term": "spring",
+                            "_id": "external-import-2021-1",
+                            "_updatedAt": "2022-07-22T00:46:19Z",
+                            "startDate": "2021-01-14"
+                        },
+                        "body": "This still needs to go through some course design but it is on its way. \n\nThe case studies are somewhat staid. One regarding Stuxnet is an interesting topic, but is out of scope for the class. Discussion boards will be hit or miss, depending on who is randomly assigned. But the format provides consistency once it gets going. And if you get a good group, there will be great discussions.\n\nFour individual projects were fairly graded, but seem only tangentially related to the lectures. And for some reason the instructors decided to pair up students for one of the projects. Without warning. And when asked why it was changed, they responded with self righteous indignation. \n\nAlso, writing Suricata rules seems like an arbitrary game someone dreamed up to have fun. Do not know why this is included.\n\nNow, having completed all the individual projects / case studies / discussion boards, I want to offer a big F YOU to my final project members. You are all wasting my time. Again. It is yet another semester where I am stuck with free riders and phone it ins. This time, four! What are the chances? No one has even bothered to read the project instructions. Granted, the instructions are strange, vague. No surprise that many students are confused. But still. If you are in a group, stop being a piece of shit and learn how to communicate.",
+                        "_createdAt": "2021-04-13T22:45:01Z",
+                        "_type": "review"
+                    },
+                    {
+                        "course": null,
+                        "_id": "external-import-fd337734-6202-44a2-8aec-b7cab56d9593",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "body": "# TL;DR\n\nOverall a good class with some startup burps.  Informative, and not too heavy (good for Summer semester, or pairing with another class).\n\n# Staff\n\nThe faculty of the class are actual security professionals from the Ga Tech staff, which made this class much more down to earth than some.  The lectures were a mix of case studies and information-blasts about security operations and incident response.  I rather enjoyed all of them; the case studies were interesting and well presented, and the general secops/ir information was not merely academic theory.  The presentation was also quite good, with some humor injected here and there to keep it interesting and not boring.\n\n# Assignments\n\nThe assignments consisted of case study writeups, class/group discussions, individual projects, and 1 group project.  No quizzes nor tests.\n\nThe case study writeups were all of the form, \"Based on the case study lecture + papers, ...(2-4 questions)\".  These writeups could evidently be quite short, as I got perfect marks on all of them and they kept getting shorter as the class wore on; I suspect they were checking to see if you watched/read the material at all, but also required some of your own opinion and thought since many of the questions were of the \"what would you do\", \"what do you think about\" format.\n\nThe class discussions I didn't get much value from; every iteration a new member of your group is nominated to bring up a subject, and then you discuss it in an online forum.  It was clear that at least with my group the workflow was to read something someone wrote, then write some response to it, just to get the points.  It felt like a very much 'write-only' forum, but this will vary depending on your group, of course.\n\nThe projects were (mostly) fun and relevant.\n\nProject 1 is to look at actual logs of a web server compromise and explain what happened.  Although Splunk was encouraged (since it's the right tool for the job), it was not required.  A writeup of what you found is the deliverable.\n\nProject 2 is to take the data from Project 1, and format it in a standard Incident Response format, which is discussed in the lectures.  Of course, doing this is also acceptable for P1 so you can knock 2 out in one go.  The one difference is that you are given essentially all the answers for Project 1, so if you weren't able to find the exploit (or did it incorrectly) you are required in P2 to use the *actual* compromise findings.\n\nThe (infamous) Project 3.  This project was to describe how the internet works; colloquially, \"what happens when you type in www.gatech.edu into a browser?\"  Unfortunately this project was so ill concieved as to be a hugh stain on an otherwise enjoyable class.  Essentially, the rubric on what you were to be covering was a mess; it was vague and unordered, provoked 10x more questions than it answered, and turned out to be a red herring.  A clearly hastily-written mail was sent with the grades explaining what they were looking for, which contained things so bizarrely out of left field that it is beyond reason as to where they originated with very few of them even related to \"what happens when you type www.gatech.edu into a browser?\".  The one people refer to most often was The Kaminsky DNS Attack.  While that's an interesting subject, it's not really what they SAID they were asking for.\n\nAfter some anguish and outcry in both slack and piazza, a clarification was sent explaing the mail were things that SOME PEOPLE put in their papers that caused them to get more points, rather than these were requirements that lost you points if you didn't have them.  Since there was no actual feedback on the paper itself (boo!), I remain unconvinced.\n\nThe problem with this project is that they were looking for essentially the textbook of the Computer Networking class, but didn't tell you that.  The amount of research and information you COULD have put into the project was enough to BE a full textbook, but they didn't set expectations very well, and the absurd directions that evidently some people went into skewed the grading.  Even with a huge curve, the disparity in grades was enormous, which indicates that the instructions were very unclear, to almost everyone.  This project needs SERIOUS REWORK.\n\nProject 4 is to write some Snort rules for various scenarios.  These were very straightforward, and even having zero Snort experience I found it pretty stress-free.\n\nThe group project is to role-play an IR team; the group is given a compromise scenario and must come up with what happened and document it.  Group dynamics aside, this was a pretty cut and dry exercise.  The staff role plays the IT team of the mythical company so part of the project is to figure out what extra information you need for your investigation and ask them for it, so they can role-play the crusty neckbeards if they want.  (We found that if you didn't ask for something overly broad, the requests were handled well and quickly.)\n",
+                        "id": "external-import-fd337734-6202-44a2-8aec-b7cab56d9593",
+                        "difficulty": 2,
+                        "rating": 4,
+                        "_createdAt": "2020-08-21T16:18:41Z",
+                        "workload": 4,
+                        "semester": {
+                            "_createdAt": "2022-07-05T23:07:36Z",
+                            "_rev": "3eqo578hxQNJIGFal0HiC5",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2020-2",
+                            "_updatedAt": "2022-07-22T00:46:39Z",
+                            "startDate": "2020-05-11"
+                        },
+                        "created": "2020-08-21T16:18:41Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "_type": "review"
+                    },
+                    {
+                        "body": "Class is still ongoing, but I LOVE this class. Each week has an interesting case study that helps you learn from major security incidents of the past. Ongoing discussions in peer groups provide varied perspectives on other incidents outside of the case-studies. Projects have clearly defined objectives and help you understand the incident response process. And my favorite part--this class is taught by actual security professionals that aren't caught up in \"gotcha\" trickery or the \"this is grad school so figure it out for yourself\" mantra that is so common in other CS classes. They understand that their role is to facilitate learning and help students enhance their skill sets. Office hours are incredibly helpful and it's clear that instructors want to help student learning. Thanks so much to the instructors running this class--you really understand the purpose of the class and don't give students the runaround as I've experienced in other security-related CS classes (looking at you, CS 6035). ",
+                        "course": null,
+                        "semester": {
+                            "_rev": "3eqo578hxQNJIGFal0HiC5",
+                            "_type": "semester",
+                            "term": "summer",
+                            "_id": "external-import-2020-2",
+                            "_updatedAt": "2022-07-22T00:46:39Z",
+                            "startDate": "2020-05-11",
+                            "_createdAt": "2022-07-05T23:07:36Z"
+                        },
+                        "difficulty": 2,
+                        "_createdAt": "2020-06-15T01:19:41Z",
+                        "rating": 5,
+                        "_type": "review",
+                        "_updatedAt": "2022-07-11T19:08:19Z",
+                        "id": "external-import-ab84ad51-a731-4a04-b61f-684b4a2a2a89",
+                        "created": "2020-06-15T01:19:41Z",
+                        "_rev": "Gng42kcwkgwKuUtBk2LXPC",
+                        "workload": 6,
+                        "_id": "external-import-ab84ad51-a731-4a04-b61f-684b4a2a2a89"
+                    }
+                ],
+                "_type": "course",
+                "tags": [],
+                "_createdAt": "2022-07-05T23:23:15Z",
+                "_id": "external-import-CS-8803-OC1",
+                "slug": "security-operations-and-incidence-response",
+                "rating": 3.8,
+                "difficulty": 2,
+                "workload": 5.9
+            }
+        },
+        "__N_SSG": true
+    },
+    "page": "/courses/[slug]/reviews",
+    "query": {
+        "slug": "security-operations-and-incidence-response"
+    },
+    "buildId": "Vx7FtzSKkcCEIM1Zaf-DC",
+    "isFallback": false,
+    "isExperimentalCompile": true,
+    "gsp": true,
+    "scriptLoader": []
+}
