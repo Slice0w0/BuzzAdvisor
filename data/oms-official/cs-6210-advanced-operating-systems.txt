@@ -1,0 +1,27 @@
+Preview
+Sample Syllabi
+Spring 2023 syllabus and schedule (PDF)Spring 2021 syllabus and schedule (PDF)Spring 2020 syllabus and schedule (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Course Content
+To access the public version of this course's content, click here, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.
+Before Taking This Class...
+Suggested Background Knowledge
+Students are expected to have completed an undergraduate OS course, or have industry experience. General knowledge of operating systems content will be assumed. To gain a better understanding of the prerequisite concepts necessary for success in this course, please take this brief diagnostic preparedness test. This test is for prospective students' personal purposes, to gauge readiness for this graduate-level Advanced Operating Systems course. Another resource for students to utilize in gauging preparedness is the CS 6210 Prerequisites and Concepts list. Please take the time to review the concepts in this document. If a student does not feel comfortable with the listed tasks, it may be beneficial to review this subject matter prior to registering for the course.
+CS 2200 offers a good preparation for the pre-requisites assumed in this course. To access Prof. Ramachandran's on-campus lecture recordings for CS 2200, visit the GT Computing Youtube channel for CS 2200.
+Technical Requirements and Software
+Hardware Requirements
+	You will need a machine which supports VT-X or AMD-V.  i.e. machines that run on i3, i5 or, i7 and later Intel processors OR Athlon 64 X2, 64 FX  and later for AMD processors. Apple M1/M2 is currently not supported.
+You will need a minimum of 8GB RAM.
+
+Software Requirements
+	Browser and connection speed: An up-to-date version of Chrome is required. We use proctoring software Honorlock for our examinations and it currently only supports Chrome. 2+ Mbps is recommended.
+Operating system:
+		PC: Windows 10 or higher with latest updates installed
+Mac: OS X 10.9 or higher with latest updates installed. We do not support M1/M2 Macs.
+Linux: any recent distribution that has the supported browsers installed
+
+MS Teams will be used for office hours.
+
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

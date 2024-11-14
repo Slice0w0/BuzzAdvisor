@@ -1,0 +1,27 @@
+
+Course Goals
+Learn modeling skills for formulating various analytics problems as linear, convex nonlinear, and integer optimization problems.
+Learn basic optimization theory including duality theory and convexity theory, which will give the students a deeper understanding of not only how to formulate an optimization model, but also why.
+Learn fundamental algorithmic schemes for solving linear, nonlinear, and integer optimization problems.
+Learn computational skills for implementing and solving an optimization problem using modern optimization modeling language and solvers.
+
+Sample Syllabus
+Fall 2022 syllabus and schedule (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Before Taking This Class...
+Suggested Background Knowledge
+Linear Algebra
+Multivariate Calculus
+Basic Probability
+Familiarity with programming in Python
+
+Technical Requirements and Software
+Internet connection (DSL, LAN, or cable connection desirable)
+PuLP optimization software (free download; see http://www.coin-or.org/PuLP/ -- Windows version and (for Mac users) a Linux version)
+CVX in Python: CVXOPT, CVXPY software (available at http://cvxopt.org and https://www.cvxpy.org)
+CVX in MATLAB: CVX software (available at http://cvxr.com/cvx/)
+Python programming language (free download; see http://www.python.org). Preferably use the Anaconda distribution (http://www.anaconda.com)
+Adobe Acrobat PDF reader (free download; see https://get.adobe.com/reader/)
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

@@ -1,0 +1,40 @@
+
+Course Goals
+There are three broad learning goals for this course. At the end of this course, you will understand:
+The principles and characteristics of human-computer interaction, such as direct manipulation, usability affordances, and interaction design heuristics.
+The workflow for designing and evaluating user-centered designs, from needfinding to prototyping to evaluation.
+The current state of research and development in human-computer interaction, such as augmented reality, wearable devices, and robotics.
+
+Connected to those three learning goals are three learning outcomes. The learning outcomes are subsumed under the general learning outcome, "To design effective interactions between humans and computers". At the end of this course, you will be able to:
+Design user interfaces and experiences grounded in known principles of usability and human-computer interaction.
+Iteratively prototype, evaluate, and improve user-centered designs with user feedback.
+Apply those skills to open or new areas of development in human-computer interaction.
+
+Preview
+Sample Syllabi
+Spring 2021 syllabus and scheduleFall 2020 syllabus and scheduleSummer 2020 syllabus and schedule
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Course Content
+To access the public version of this course's content, click here, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.
+Before Taking This Class...
+Suggested Background Knowledge
+This class does not have significant prerequisites before participation. In lieu of readiness questions, the following bullet points describe the tasks you will complete as part of this class; you may use this description of tasks to evaluate your readiness to take this class.
+In this class, you will:
+Analyze and evaluate user interfaces, both ones that we provide and ones that you go out and find on your own.
+Conduct needfinding exercises to uncover problems that can be address through HCI methods.
+Prototype user interfaces based on principles you learn within class in response to those needs.
+Evaluate your user interfaces based on feedback you receive from potential users.
+Revise your user interfaces accordingly and iterate on the prototyping process.
+Apply those principles to an emerging area of HCI.
+
+Technical Requirements and Software
+Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. 2+ Mbps is recommended.
+Operating system:
+	PC: Windows XP or higher with latest updates installed
+Mac: OS X 10.6 or higher with latest updates installed
+Linux: any recent distribution will work so long as you can install Python and OpenCV
+
+Virtual Machine: You will be provided a virtual machine (VM) useful for performing class assignments and projects. For the projects, the supplied resources are identical to those used to test your submissions. Details for downloading and installing the VM can be found on Canvas.​
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

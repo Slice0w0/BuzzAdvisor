@@ -1,0 +1,12 @@
+Sample Syllabi
+Summer 2024 syllabus (PDF)Spring 2024 syllabus (PDF)Fall 2022 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Course Content
+To access the public version of this course's content, click here, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.
+Before Taking This Class...
+Suggested Background Knowledge
+Learners should be familiar with at least one scripting or programming language, e.g., PHP, Python, Java. Some familiarity with software engineering concepts and Git/source control will be helpful. Willingness to learn basic system administration tasks is necessary. Flexibility and readiness to work remotely with team members is a must.
+Technical Requirements and Software
+See the College of Computing's technical requirements.​
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

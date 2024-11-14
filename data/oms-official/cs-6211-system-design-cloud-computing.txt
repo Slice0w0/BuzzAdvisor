@@ -1,0 +1,8 @@
+Sample Syllabus
+Spring 2021 syllabus
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Before Taking This Class...
+Suggested Background Knowledge
+Students should have completed CS 6210 with a letter grade of A (or high B) or have taken an equivalent course elsewhere before taking this course.
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

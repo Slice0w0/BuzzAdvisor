@@ -1,0 +1,13 @@
+Course Goals
+You will learn various cryptographic schemes and how they are used in practice. For example, you will learn what AES, CBC, RSA, DSA, TLS stand for and how they "work". But the main objectives are more fundamental. The goals are to build the understanding of what "secure" is and how to evaluate and measure security. You will also learn how to compare security of various schemes, and how to select parameters to achieve required security guarantees. Note that you will not be learning the internal details of block ciphers or how to build/implement them.
+Sample Syllabi
+Fall 2024 syllabus (PDF)Spring 2024 syllabus (PDF)Spring 2023 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Before Taking This Class...
+Suggested Background Knowledge
+No previous knowledge of cryptography is necessary. This course is about applying theory to practical problems, but it is still a theory course. The main requirement is basic "mathematical maturity". You have to be able to read and write mathematical definitions, statements and proofs.
+It is expected that you were successful in your undergraduate discrete math class and took basic algorithms and computability/complexity theory classes. In particular, you have to know how to measure the running time of an algorithm and how to do proofs by contradiction and contraposition. You also have to know the basics of probability theory and modular arithmetic. You should also have familiarity with Python for the coding portions of the course.
+If you cannot recall what terms like permutation, sample space, random variable, conditional probability, big-O notation mean, you should consider taking the course in a later semester and refresh your knowledge of the above topics in the meanwhile. I recommend you review an undergraduate textbook on discrete math.
+All necessary elements of number theory will be presented during the course.
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

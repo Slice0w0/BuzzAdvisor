@@ -1,0 +1,19 @@
+Course Goals
+Students will learn:
+Classes of security vulnerabilities
+How to exploit security vulnerabilities
+How to defend or mitigate security vulnerabilities
+
+Preview
+Sample Syllabi
+Summer 2024 syllabus (PDF)Summer 2023 syllabus (PDF)Summer 2022 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Before Taking This Class...
+Suggested Background Knowledge
+Operating systems or equivalent (e.g., CS 3210 at GT).
+Technical Requirements and Software
+Internet connection (DSL, LAN, or cable connection desirable)
+Adobe Acrobat PDF reader (free download; see https://get.adobe.com/reader/)
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

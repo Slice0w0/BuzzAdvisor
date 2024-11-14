@@ -1,0 +1,9 @@
+
+Sample Syllabus
+Spring 2025 syllabus
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Before Taking This Class...
+Technical Requirements and Software
+Students are required by the institute to own an approved Windows or Mac OS laptop. This course will use Java and the Processing graphics library.
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

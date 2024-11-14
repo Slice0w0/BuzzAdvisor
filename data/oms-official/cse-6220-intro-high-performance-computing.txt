@@ -1,0 +1,28 @@
+
+Course Goals
+This course is a graduate-level introduction to parallel computing. Its goal is to give you the foundations to develop, analyze, and implement parallel and locality-efficient algorithms and data structures.
+Preview
+Sample Syllabi
+Fall 2024 SyllabusSummer 2024 SyllabusSpring 2024 Syllabus
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Course Content
+To access the public version of this course's content, click here, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.
+Before Taking This Class...
+Suggested Background Knowledge
+Please review the course readiness survey for CSE 6220. If you are unable to answer any of them you may want to refresh your knowledge of the area prior to taking this course.
+It is also recommended that you:
+Have taken CS 6515: Intro to Grad Algorithms or an undergraduate algorithms class
+Have programming experience in a “low- level” “high-level” language like C or C++ (for the programming assignments)
+Have experience using command line interfaces in *nix environments (e.g., Unix, Linux
+
+Technical Requirements and Software
+Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. We also support Internet Explorer 9 and the desktop versions of Internet Explorer 10 and above (not the metro versions). 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed.
+Operating system:
+	PC: Windows XP or higher with latest updates installed
+Mac: OS X 10.6 or higher with latest updates installed
+Linux: any recent distribution that has the supported browsers installed
+
+We may also elect to provide virtual machines with a standardized environment, though most of the assignments can be completed by directly logging into the HPC resource we will provide via secure shell (ssh).
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

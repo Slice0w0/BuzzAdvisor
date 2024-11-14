@@ -1,0 +1,31 @@
+
+Preview
+Sample Syllabi
+Fall 2024 syllabusSpring 2024 syllabusFall 2022 syllabus
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Course Content
+To access the public version of this course's content, click here, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.
+Before Taking This Class...
+Suggested Background Knowledge
+Students should have a working knowledge of Python for doing mathematical programming. All assignments will be in Python using the OpenCV system as the backend. For those familiar with programming in general, they should be able to pick it up on their own. However, it should be emphasized that this course is not about learning to program, but using programming to experiment with Computer Vision concepts.
+This course has more math than many CS courses: linear algebra, vector calculus, linear algebra, probability, and linear algebra. (Get the hint?)
+No prior knowledge of vision is assumed. Some experience with programming with images is helpful. Experience with any image/signal processing will also be informative.
+
+If you answer "no" to any of the following questions, it may be beneficial to refresh your knowledge of some material prior to taking CS 6476:
+Do you remember what a Gaussian distribution is and what its parametric form looks like?
+If you had a 2D array of numbers and you wanted to compute the derivative in the x direction, could you do that? How about the magnitude of the “gradient”?
+If you had to draw a line on an image with your own code, could you do that (ie no libraries)?
+If you wanted to convert a color image into a monochrome version (gray scale), would you know how to compute it?
+Are you comfortable with code that works in theory but in practice the results are poorer than you expect? And do you enjoy fiddling (that’s the technical term) with parameters of your algorithm to get it to work on real images?
+
+Technical Requirements and Software
+At least 32GB of available disk space and ability to install additional (free) software. For course projects, you will need to install the Oracle VirtualBox VM and run a Linux virtual machine that contains the setup for the project. Although it is possible to install the software for the projects natively in Linux, such a setup will not be supported.
+Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. We also support Internet Explorer 9 and the desktop versions of Internet Explorer 10 and above (not the metro versions). 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed.
+Operating system:
+	PC: Windows XP or higher with latest updates installed
+Mac: OS X 10.6 or higher with latest updates installed
+Linux: any recent distribution that has the supported browsers installed
+
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

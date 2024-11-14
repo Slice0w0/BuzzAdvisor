@@ -1,0 +1,13 @@
+
+Sample Syllabus
+Fall 2024 syllabus (PDF)Summer 2024 syllabus (PDF)Spring 2024 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Course Content
+To access the public version of this course's content, click here, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.
+Before Taking This Class...
+Suggested Background Knowledge
+Good knowledge of data structures and algorithms, good programming skills, and ability to write sizeable software in Java or C++. Should be able to work in Linux environment.
+Technical Requirements and Software
+Students will work in a Linux environment.
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

@@ -1,0 +1,22 @@
+
+Preview
+Course Overview
+Sample Lesson
+Sample Syllabus
+Fall 2024 syllabus (PDF)Summer 2024 syllabus (PDF)Spring 2023 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Course Content
+To access the public version of this course's content, click here, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.
+Before Taking This Class...
+Suggested Background Knowledge
+An introductory course in artificial intelligence is recommended but not required. To discover whether you are ready to take CS 7641: Machine Learning, please review our Course Preparedness Questions, to determine whether another introductory course may be necessary prior to registration.
+Technical Requirements and Software
+Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. We also support Internet Explorer 9 and the desktop versions of Internet Explorer 10 and above (not the metro versions). 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed.
+Operating system:
+	PC: Windows XP or higher with latest updates installed
+Mac: OS X 10.6 or higher with latest updates installed
+Linux: any recent distribution that has the supported browsers installed
+
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

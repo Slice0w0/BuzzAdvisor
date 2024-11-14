@@ -1,0 +1,30 @@
+
+Course Goals
+There are several learning outcomes for the course, based on four primary modules:
+Module 1 - Data, Individuals, and Society
+Objective: After completing this module, students will be able to understand the power and impact that analytics and AI/ML have on individuals and society, especially concerning issues such as fairness and bias, ethics, legality, data collection and public use.
+Module 2 – The BS of Big Data
+Objective: After completing this module, students will be able to understand the underlying components of big data, apply basic statistical techniques to data scenarios, and understand the issues faced when learning from big data, ranging from data biases, overfitting, causation vs correlation, etc.
+Module 3 – Fairness in AI/ML
+Objective: After completing this module, students will be able to understand and apply basic AI/ML techniques to data scenarios, with a focus on identifying fairness and bias issues found in the design of decision-making systems. We will work systematically towards understanding technical approaches to current AI/ML applications such as facial recognition, natural language processing, and predictive algorithms, all while being mindful of its social and legal context.
+Module 4 - Applications and Future Opportunities
+Objective: After completing this module, students will be able to utilize tools and methods to quantify bias and examine ways to use algorithmic fairness to mitigate this bias, taking into consideration ethical and legal issues associated with it. Students will apply their knowledge of analytics and AI/ML to transform a current biased data-set into a more objective solution.
+In this class, you will be challenged to broaden your understanding of state-of-the-art AI/ML algorithms and solutions; considering the potential impacts they may have on society. You will have ample opportunity to critically analyze various situations and viewpoints provided in papers, books, on the web, and from your own observations. You will be able to practice your learned knowledge by writing coherent and well- structured critiques of situations and papers, leading and participating in class discussions, and designing your own algorithmic solutions. The issue of data misuse and abuse is not easily solvable; concrete right or wrong answers are not easily determined until after solutions are typically deployed into society. In view of this, you are entitled to your opinions on any topics presented throughout the course, whatever they happen to be. You will not be penalized for your viewpoints; however, you must be able to support your viewpoints and resulting solutions effectively. This means showing that you have actually given your approach to a problem some thought, can discuss its various trade-offs and implications, and can be supportive of other viewpoints, even though your personal views may be different.
+Sample Syllabi
+Fall 2024 syllabus (PDF)Summer 2024 syllabus (PDF)Spring 2024 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Course Videos
+You can view the lecture videos for this course here.
+Before Taking This Class...
+Suggested Background Knowledge
+This class does not have significant prerequisites before participation. Prior programming experience and working knowledge in Python and Jupyter notebooks is required. Social media presence is required to complete certain portions of module 1.
+Technical Requirements and Software
+Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. We also support Internet Explorer 9 and the desktop versions of Internet Explorer 10 and above (not the metro versions). 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed.
+Operating system:
+	PC: Windows XP or higher with latest updates installed
+Mac: OS X 10.6 or higher with latest updates installed
+Linux: any recent distribution that has the supported browsers installed
+
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

@@ -1,0 +1,22 @@
+Preview
+Current Syllabus
+Current syllabus
+Course Content
+To access the public version of this course's content, click here, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.
+Before Taking This Class...
+Suggested Background Knowledge
+Qualifications for taking this class adhere with the Admission Criteria given by Georgia Institute of Technology. Upon entering this class, it is assumed that students have completed an undergraduate degree in computer science or a related field.
+CS 6035 Relevant Technical Information:
+Basic Information Security Prerequisites
+Project and Technical Prerequisites
+
+Technical Requirements and Software
+Important Information for CS 6035
+A few notes on Virtual Machines (VMs):
+Apple ARM-based SoCs are NOT supported in this course.
+Due to technical limitations, only an Intel-based VM is provided.
+You will be provided VMs in this class that were built using VirtualBox.
+This course DOES NOT support or test with any other virtualization software.
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. Please refer to the CS 6035 Academic Honesty section of the current syllabus for further course specific information.

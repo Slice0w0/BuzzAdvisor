@@ -1,0 +1,30 @@
+Preview
+Sample Syllabi
+Spring 2023 syllabus (PDF)Summer 2022 syllabus (PDF)Fall 2021 syllabus (PDF)
+Note: sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Course Content
+To access the public version of this course's content, click here, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.
+Before Taking This Class...
+Suggested Background Knowledge
+To undertake this course, you should have taken an undergraduate level course on, or be otherwise familiar with, basic hardware and software aspects of computer systems organization. You should also be familiar with the following:
+C and C++ programming experience
+Ubuntu 20.04 LTS (or similar Linux experience, such as working from the command line)
+Using Vagrant (with VirtualBox or an alternative). We also provide a Dockerfile for those with experience in using Docker.
+Using Makefiles
+Using GDB or an IDE with a debugger
+Using GCC or an IDE with gcc support
+
+Please review the CS 6200 Readiness Survey to determine your readiness to take this course.
+Technical Requirements and Software
+Browser and connection speed: An up-to-date version of Chrome, Firefox, or Edge is strongly recommended. 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed.
+Operating system (64-bit OS for compatibility with 64-bit VMs):
+	PC: Windows XP or higher with latest updates installed
+Mac: OS X 10.6 or higher with latest updates installed
+		Note on M1 Macs: M1 Macs known limitations cause utilities like ptrace and address sanitizer (recommended for projects) to be terminated abruptly. Students are encouraged to use alternate platforms or utilities for projects.
+
+Linux: any recent distribution that has the supported browsers installed
+
+Virtual Machine: You will be provided a virtual machine (VM) useful for performing class assignments and projects. For the projects, the supplied resources are identical to those used to test your submissions. Details for downloading and installing the VM can be found in a pinned Piazza post.
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

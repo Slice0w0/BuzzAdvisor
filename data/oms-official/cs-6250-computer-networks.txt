@@ -1,0 +1,23 @@
+
+Sample Syllabi
+Summer 2024 syllabus (PDF)Spring 2024 syllabus (PDF)Summer 2023 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Before Taking This Class...
+Suggested Background Knowledge
+This class is appropriate for students with previous background in networking. Some familiarity with both network programming, scripting languages (e.g., Python), and using virtual machines will be helpful.
+If you can confidently answer “yes” to these questions, you should be fine:
+Can you explain the main distinction between TCP and UDP?
+Can you comfortably complete the Python tutorial and write basic programs in Python?
+Do you understand the three way handshake of TCP?
+Can you get files off of a virtual machine without a mapped directory?
+
+Technical Requirements and Software
+Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. We also support Internet Explorer 9 and the desktop versions of Internet Explorer 10 and above (not the metro versions). 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed.
+Operating system:
+	PC: Windows XP or higher with latest updates installed
+Mac: OS X 10.6 or higher with latest updates installed
+Linux: any recent distribution that has the supported browsers installed
+
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

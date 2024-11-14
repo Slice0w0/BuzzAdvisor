@@ -1,0 +1,14 @@
+
+Preview
+Check out the demo reels from Spring 2022 below!
+Sample Syllabus
+Summer 2022 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Before Taking This Class...
+Suggested Background Knowledge
+Students are not expected to be familiar with the Unity Engine. Outside of C# experience, familiarity with a strongly typed object-oriented programming language such as Java is helpful.
+Useful prerequisite knowledge for the course includes linear algebra and computer graphics basics. Understanding of affine transformations of homogeneous coordinates, transformation order, quaternions, 3D projection, matrix stacks, scene graphs, graphics lighting models such as the Phong reflection model, are all relevant.
+Technical Requirements and Software
+All software development is performed with the Unity Engine and the C# programming language. Students need a Windows PC or Mac capable of running Unity.
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

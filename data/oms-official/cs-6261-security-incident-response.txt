@@ -1,0 +1,18 @@
+Course Goals
+Once completed, the students should have the following capabilities:
+Understand the foundational tools necessary to have a successful incident response program.
+Understand modern incident response methods and apply those methods to create an incident response process.
+Observe suspicious IT behavior and discern malicious activity.
+Apply methods of containing, eradicating, and responding to an emerging cybersecurity threat.
+Evaluate performance of a prior incident in order to improve future processes.
+
+Sample Syllabi
+Fall 2024 syllabus (PDF)Spring 2024 syllabus (PDF)Fall 2023 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Before Taking This Class...
+Suggested Background Knowledge
+Students should have some familiarity with system logs and log analysis tools like Splunk.  Students should also have an understanding of how computer systems and networks function.
+Technical Requirements and Software
+See Georgia Tech's hardware and software requirements.
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

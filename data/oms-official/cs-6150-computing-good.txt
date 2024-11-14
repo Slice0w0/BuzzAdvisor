@@ -1,0 +1,27 @@
+Overview
+How can computing help make the world a better place? Can we avoid wars, alleviate homelessness and improve global health using computers? What are the technical challenges that arise and what humanistic issues have to be taken into account and understood in the process? In this C4G course, we explore problems faced by developing countries and underserved populations from a computing perspective. Examples of problem domains from past offerings include homelessness, mental illness, autism, migrant farm worker health, childhood blindness, and food security.
+The course will be project-centered with teams of students choosing project topics early in the semester and working towards a deployed solution by the end of the semester. Project topics may come from external partners - these partner organizations generally work on pressing social problems and provide services to communities and individuals in need. More details will be on the Canvas site, and linked from the course site, once ready.
+For more on the Computing-for-Good initiative, visit http://c4g.gatech.edu.
+This course is not foundational and does not count toward any specializations at present, but it can be counted as a free elective. 
+**CS 8903-C4G**
+CS 8903-C4G is a Fall Semester elective in the Online Master of Science in  Computer Science (OMSCS) program. The course focuses on the development of projects for various nonprofits around the world. In CS 6150, student teams select project topics and create solutions; by contrast, in CS 8903-C4G, student teams select prior projects from CS 6150 upon which they will improve.
+CS 6150 and CS 8903-C4G are separate courses. Students may take CS 8903-C4G following CS 6150, or vice versa, as neither course is a prerequisite for the other. To request a slot in CS 8903-C4G, please contact Head TA Dante Ciolfi (dantec@gatech.edu).
+For information on registering for CS 8903-C4G, see this document.
+Course Goals
+The learning objectives of the course are:
+Learn to think about computing for social good and all its complexities.
+Undertake a significant, semester-long project working on a team: Identify a problem/project/organization that you are passionate about; design, evaluate and deploy a solution.
+Develop a rudimentary understanding of a domain of social importance.
+Develop an understanding of the key issues in humanitarian computing, including sustainability, resource availability (or lack thereof), novice user design, and diversity in user and stakeholder populations.
+
+Preview
+Sample Syllabi
+Spring 2024 syllabus (PDF)Spring 2023 syllabus (PDF)Spring 2022 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Course Videos
+You can view the lecture videos for this course here.
+Before Taking This Class...
+Suggested Background Knowledge
+It is recommended that students taking this course have already completed graduate courses in at least TWO of the following topics: (A) Databases (B) Networking (C) Logistics (D) Web development (E) Global Health (F) Technology and Society (G) User Interface Design.
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

@@ -1,0 +1,23 @@
+
+Course Goals
+By the end of this course students will:
+Become familiar with 1-qubit and 2-qubit gate operations and gain the ability to build simple quantum circuits
+Become familiar with the concepts of superposition and entanglement and be able to analyze quantum state transformations
+Understand quantum algorithms (Deutsch-Jozsa, Bernstein Vazirani, Grover, and Shor) and compare effectiveness versus classical algorithms
+Understand the problem of noise and analyze the effectiveness of simple error correction codes
+Become familiar with NISQ model of computation, and perform intelligent qubit mapping and error mitigation
+
+Sample Syllabi
+Fall 2024 syllabus (PDF)Summer 2024 syllabus (PDF)Spring 2024 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Before Taking This Class...
+Technical Requirements and Software
+Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. 2+ Mbps is recommended.
+Operating system:
+	PC: Windows XP or higher with latest updates installed
+Mac: OS X 10.6 or higher with latest updates installed
+Linux: any recent distribution
+
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

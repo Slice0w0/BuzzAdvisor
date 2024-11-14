@@ -1,0 +1,14 @@
+
+Sample Syllabus
+Fall 2024 syllabus (PDF)Spring 2023 syllabus (PDF)Fall 2022 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Before Taking This Class...
+Suggested Background Knowledge
+Students should have taken introductory courses in probability in statistics. They should also have basic programming proficiency and be comfortable with calculus.
+Technical Requirements and Software
+High-speed internet connection
+Laptop or desktop computer with a minimum of a 2 GHz processor and 2 GB of RAM
+Windows for PC computer or Mac iOS for Apple computers
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

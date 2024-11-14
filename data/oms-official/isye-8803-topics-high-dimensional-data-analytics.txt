@@ -1,0 +1,24 @@
+
+Course Goals
+By the end of the course, you will:
+Learn machine learning and statistical methods for image processing and analysis of functional data.
+Learn a variety of regularization techniques and their applications.
+Be able to use multilinear algebra and tensor analysis techniques for performing dimension-reduction on a broad range of high-dimensional data.
+Understand how to use well-known optimization methods to create efficient learning algorithms.
+
+Sample Syllabi
+Fall 2024 syllabus (PDF)Summer 2024 syllabus (PDF)Summer 2023 syllabus (PDF)
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.​
+Before Taking This Class...
+Suggested Background Knowledge
+This class assumes knowledge of regression and linear algebra, as well as basic programming knowledge in Python, R, or Matlab.
+Technical Requirements and Software
+High-speed internet connection
+Laptop or desktop computer with a minimum of a 2 GHz processor and 2 GB of RAM
+Windows or Mac iOS
+Complete Microsoft Office Suite or comparable, and ability to use Adobe PDF software (install, download, open, and convert)
+Mozilla Firefox, Chrome, and/or Safari browsers
+Matlab and R
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.

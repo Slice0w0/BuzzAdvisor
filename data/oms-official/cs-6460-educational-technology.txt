@@ -1,0 +1,25 @@
+Preview
+Sample Syllabus
+Summer 2020 syllabus and scheduleFall 2019 syllabus and schedule
+Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.
+Before Taking This Class...
+Suggested Background Knowledge
+To be ready for the class, students should have completed their program foundational requirement in order to have experience on the receiving end of educational technology. Students should also be comfortable with writing a handful of essays, participating in group activities and discussions, and tackling a large-scale individual or group project.
+To succeed in this course, you should be able to answer “yes” to the following questions:  
+Have you completed the program's foundational requirement? (While not required, answering 'yes' guarantees you'll have examples of educational technology to think about in the course.)
+Are you comfortable with a class where participation is assessed directly?
+Are you comfortable with a class that involves a significant amount of essay writing?
+Are you comfortable either in a group on a project, or taking on a significantly-sized project individually?
+Are you passionate about education or educational technology? Do you already have some vague ideas of the kinds of things you'd like to research or build?
+Are you comfortable with a very open-ended class, where learning is largely student-driven?
+
+Technical Requirements and Software
+Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. We also support Internet Explorer 9 and the desktop versions of Internet Explorer 10 and above (not the metro versions). 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed.
+Operating system:
+	PC: Windows XP or higher with latest updates installed
+Mac: OS X 10.6 or higher with latest updates installed
+Linux: any recent distribution that has the supported browsers installed
+
+
+Academic Integrity
+All Georgia Tech students are expected to uphold the Georgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.
