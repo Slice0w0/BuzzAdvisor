@@ -1,0 +1,11 @@
+{
+    "foundational": false,
+    "admin": "C",
+    "Overview": "The primary objective of this course is to provide an in-depth treatment of digital and analog side-channels and their use for attacks and defenses in cyber security. Upon completion of the course, the student will have a high degree of confidence in discussing the fundamental mechanisms of side-channel creation, analysis, and application to various cybersecurity problems, and have competence in considering these mechanisms during software and hardware development.",
+    "Course Goals": "As part of this course, students:",
+    "Sample Syllabus": "Fall 2021 syllabus and schedule(PDF)Spring 2021 syllabus and schedule(PDF)Fall 2020 syllabus and schedule(PDF)",
+    "Before Taking This Class...": "Suggested prerequisites are graduate standing and some background in high performance computer architecture (e.g. ECE 4100/6100). Students should also be able to modify existing programs and write new programs in C/C++.",
+    "Suggested Background Knowledge": "Suggested prerequisites are graduate standing and some background in high performance computer architecture (e.g. ECE 4100/6100). Students should also be able to modify existing programs and write new programs in C/C++.",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

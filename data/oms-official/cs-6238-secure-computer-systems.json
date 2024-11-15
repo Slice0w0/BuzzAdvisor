@@ -1,0 +1,11 @@
+{
+    "foundational": true,
+    "admin": "C",
+    "Overview": "Applications and services are supported by software platforms such as operating systems and databases. Secure execution of such applications depends on the trust assumptions that can be made about these systems. By providing right mechanisms for protecting sensitive information and other resources, operating systems and databases can facilitate the development of secure applications. A uniform approach for exploring security support in operating systems and databases is attractive because both types of systems must offer similar mechanisms to mediate access to protected information. This course will take such an approach and it will explore problems such as authentication and access control that are traditionally handled at the system level. Students will also gain in depth understanding of the implementations of mechanisms that address these problems and security policies that can be supported by them. System level security issues in distributed systems will be covered as well.",
+    "Course Goals": "After completing the course, the students should have the following capabilities:",
+    "Sample Syllabi": "Spring 2023 syllabus and schedule(PDF)Summer 2021 syllabus and schedule(PDF)Spring 2021 syllabus and schedule(PDF)",
+    "Before Taking This Class...": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Suggested Background Knowledge": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

@@ -1,0 +1,12 @@
+{
+    "foundational": false,
+    "admin": "C",
+    "Overview": "This course covers advanced techniques for writing exploits and patching vulnerabilities, taught through an intense, hands-on security laboratory. A significant part of this course involves solvingCapture-The-Flag (CTF)and discussing strategies for solving such problems. This course covers a variety of topics including (but not limited to) reverse engineering, exploitation, binary analysis, and web.",
+    "Course Goals": "Students will learn:",
+    "Preview": "",
+    "Sample Syllabi": "Summer 2024 syllabus(PDF)Summer 2023 syllabus(PDF)Summer 2022 syllabus(PDF)",
+    "Before Taking This Class...": "Operating systems or equivalent (e.g., CS 3210 at GT).",
+    "Suggested Background Knowledge": "Operating systems or equivalent (e.g., CS 3210 at GT).",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

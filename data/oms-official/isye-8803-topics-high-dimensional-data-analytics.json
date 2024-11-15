@@ -1,0 +1,11 @@
+{
+    "foundational": false,
+    "admin": "A",
+    "Overview": "This course focuses on analysis of high-dimensional structured data including profiles, images, and other types of functional data using statistical machine learning. A variety of topics such as functional data analysis, image processing, multilinear algebra and tensor analysis, and regularization in high-dimensional regression and its applications including low rank and sparse learning is covered. Optimization methods commonly used in statistical modeling and machine learning and their computational aspects are also discussed.",
+    "Course Goals": "By the end of the course, you will:",
+    "Sample Syllabi": "Fall 2024 syllabus(PDF)Summer 2024 syllabus(PDF)Summer 2023 syllabus(PDF)",
+    "Before Taking This Class...": "This class assumes knowledge of regression and linear algebra, as well as basic programming knowledge in Python, R, or Matlab.",
+    "Suggested Background Knowledge": "This class assumes knowledge of regression and linear algebra, as well as basic programming knowledge in Python, R, or Matlab.",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

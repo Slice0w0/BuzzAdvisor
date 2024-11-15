@@ -1,0 +1,15 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "In Artificial Intelligence for Robotics, learn from Sebastian Thrun, the leader of Google and Stanford's autonomous driving team, how to program all the major systems of a robotic car. This class will teach students basic methods in Artificial Intelligence, including probabilistic inference, planning and search, localization, tracking, mapping and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars and autonomous vehicles.",
+    "Course Goals": "Upon successfully completing this course, you will be able to:",
+    "Preview": "",
+    "Course Overview": "",
+    "Sample Lesson": "",
+    "Sample Syllabi": "Fall 2024 syllabus(PDF)Summer 2024 syllabus(PDF)Spring 2024 syllabus(PDF)",
+    "Course Videos": "You can view the lecture videos for this coursehere.",
+    "Before Taking This Class...": "You should be able to navigate the command line (terminal) and execute Python scripts. Students should know Python:",
+    "Suggested Background Knowledge": "You should be able to navigate the command line (terminal) and execute Python scripts. Students should know Python:",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

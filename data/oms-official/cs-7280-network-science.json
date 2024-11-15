@@ -1,0 +1,9 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "It is often the case thatcomplex systems, both living and man-made, can be represented as static or dynamicnetworksof many interacting components. These components are typically much simpler in terms of behavior or function than the overall system, implying that the additional complexity of the latter is anemergent network property.",
+    "Course Goals": "Current syllabus(PDF)",
+    "Sample Syllabus": "Current syllabus(PDF)",
+    "Before Taking This Class...": "The course hopes to attract students from different academic backgrounds and research interests (including math, physics, engineering, biology, neuroscience or sociology). Consequently, the instructor will try to keep the course as \"self-contained\" as possible. However, some knowledge (at the level of a good undergrad course) with calculus, probability, linear algebra, and programming is necessary.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

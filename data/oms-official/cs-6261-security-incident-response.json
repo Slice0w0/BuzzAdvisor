@@ -1,0 +1,11 @@
+{
+    "foundational": false,
+    "admin": "C",
+    "Overview": "This course provides students with the background information and skill sets necessary to participate in and lead a cyber security incident response effort.",
+    "Course Goals": "Once completed, the students should have the following capabilities:",
+    "Sample Syllabi": "Fall 2024 syllabus(PDF)Spring 2024 syllabus(PDF)Fall 2023 syllabus(PDF)",
+    "Before Taking This Class...": "Students should have some familiarity with system logs and log analysis tools like Splunk.  Students should also have an understanding of how computer systems and networks function.",
+    "Suggested Background Knowledge": "Students should have some familiarity with system logs and log analysis tools like Splunk.  Students should also have an understanding of how computer systems and networks function.",
+    "Technical Requirements and Software": "See Georgia Tech'shardwareandsoftwarerequirements.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

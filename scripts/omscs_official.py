@@ -52,14 +52,25 @@ if __name__ == '__main__':
                     response = requests.get(f"https://omscs.gatech.edu{href}")
 
                     soup = BeautifulSoup(response.text, 'html.parser')
-                    div_tag = soup.find('div', class_="field field--name-field-multi-body field--type-text-with-summary field--label-hidden field__item")
+                    # div_tag = soup.find('div', class_="field field--name-field-multi-body field--type-text-with-summary field--label-hidden field__item")
                     
-                    print(f"https://omscs.gatech.edu{href}")
-                    if div_tag:
-                        # print(href)
-                        with open(f'../data/oms-official/{href}.txt', 'w') as f:
-                            for child in list(div_tag.children):
-                                if child.text.strip():
-                                    f.write(child.text + "\n")
+                    # print(f"https://omscs.gatech.edu{href}")
+                    # if div_tag:
+                    #     # print(href)
+                    #     with open(f'../data/oms-official/{href}.txt', 'w') as f:
+                    #         for child in list(div_tag.children):
+                    #             if child.text.strip():
+                    #                 f.write(child.text + "\n")
+                    print(href)
+                    for header in soup.find_all(['h4', 'h5']):
+                        # Find the following 'p' tag
+                        p_tag = header.find_next_sibling('p')
+                        if p_tag:
+                            # Use the header text as the key and paragraph text as the value
+                            # print(header.get_text(strip=True))
+                            course_data[header.get_text(strip=True)] = p_tag.get_text(strip=True)
+                    
+                    with open(f'../data/oms-official/{href}.json', 'w') as f:
+                        json.dump(course_data, f, ensure_ascii=False, indent=4)
     else:
         print(f"Failed to retrieve the webpage. Status code: {response.status_code}")

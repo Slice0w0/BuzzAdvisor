@@ -1,0 +1,12 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "The course explores automated decision-making from a computational perspective through a combination of classic papers and more recent work. It examines efficient algorithms, where they exist, for learning single-agent and multi-agent behavioral policies and approaches to learning near-optimal decisions from experience.",
+    "Preview": "",
+    "Sample Syllabi": "Spring 2024 syllabus(PDF)Spring 2023 syllabus(PDF)Fall 2022 syllabus(PDF)",
+    "Course Content": "To access the public version of this course's content, clickhere, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.",
+    "Before Taking This Class...": "Successful completion of “CS 7641: Machine Learning” is strongly recommended, especially understanding neural networks. Students should also be familiar with or willing to learn:",
+    "Suggested Background Knowledge": "Successful completion of “CS 7641: Machine Learning” is strongly recommended, especially understanding neural networks. Students should also be familiar with or willing to learn:",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

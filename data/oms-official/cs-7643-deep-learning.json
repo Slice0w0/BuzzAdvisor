@@ -1,0 +1,11 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "Deep learning is a sub-field of machine learning that focuses on learning complex, hierarchical feature representations from raw data. The dominant method for achieving this, artificial neural networks, has revolutionized the processing of data (e.g. images, videos, text, and audio) as well as decision-making tasks (e.g. game-playing). Its success has enabled a tremendous amount of practical commercial applications and has had significant impact on society.",
+    "Course Goals": "Spring 2024 syllabus(PDF)Spring 2023 syllabus(PDF)Fall 2022 syllabus(PDF)",
+    "Sample Syllabus": "Spring 2024 syllabus(PDF)Spring 2023 syllabus(PDF)Fall 2022 syllabus(PDF)",
+    "Before Taking This Class...": "It is recommended that students have a strong mathematical background (linear algebra, calculus especially taking partial derivatives, and probabilities & statistics) and at least an introductory course in Machine Learning (e.g. equivalent to CS 7641). This shouldnotbe your first ML class, and self-study (e.g. online Coursera/Udacity courses) do not count.Strongprogramming skills (specifically Python) are necessary to complete the assignments.",
+    "Suggested Background Knowledge": "It is recommended that students have a strong mathematical background (linear algebra, calculus especially taking partial derivatives, and probabilities & statistics) and at least an introductory course in Machine Learning (e.g. equivalent to CS 7641). This shouldnotbe your first ML class, and self-study (e.g. online Coursera/Udacity courses) do not count.Strongprogramming skills (specifically Python) are necessary to complete the assignments.",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

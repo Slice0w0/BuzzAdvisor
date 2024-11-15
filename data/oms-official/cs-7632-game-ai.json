@@ -1,0 +1,10 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "Welcome to CS 7632 Game AI.",
+    "Sample Syllabus": "Example syllabus from previous offering(PDF)",
+    "Before Taking This Class...": "It is strongly recommended that students take CS 6601: Artificial Intelligence prior to taking this course.",
+    "Suggested Background Knowledge": "It is strongly recommended that students take CS 6601: Artificial Intelligence prior to taking this course.",
+    "Technical Requirements and Software": "The majority of software development is performed with the Unity Engine and the C# programming language. Students need a Windows PC or Mac capable of running Unity. Some assignments may use supplementary tools such as Python.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

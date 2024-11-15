@@ -166,3 +166,5 @@ cython_debug/
 data/chroma_data
 
 .DS_Store
+
+*-cp

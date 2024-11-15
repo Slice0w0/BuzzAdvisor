@@ -1,0 +1,13 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "This course covers modern computer architecture, including branch prediction, out-of-order instruction execution, cache optimizations, multi-level caches, memory and storage, cache coherence and consistency, and multi- and many-core processors.",
+    "Course Goals": "After taking this course, students should be able to:",
+    "Preview": "",
+    "Sample Syllabi": "Fall 2024 syllabus(PDF)Summer 2024 syllabus(PDF)Spring 2024 syllabus(PDF)",
+    "Course Content": "To access the public version of this course's content, clickhere, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.",
+    "Before Taking This Class...": "If you answer \"no\" to any of the following questions, it may be beneficial to refresh your knowledge of the prerequisite material prior to taking CS 6290:",
+    "Suggested Background Knowledge": "If you answer \"no\" to any of the following questions, it may be beneficial to refresh your knowledge of the prerequisite material prior to taking CS 6290:",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

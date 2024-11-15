@@ -1,0 +1,11 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "This course will cover both fundamental concepts in distributed computing and discuss system designs enabling distributed applications. The objectives of the course include: In-depth understanding of core concepts of distributed computing, including study of both abstract concepts and practical techniques for building system support for distributed applications; construction of distributed system components by doing project work; and understanding of the current state of the art in several areas of distributed systems.",
+    "Course Goals": "There are several learning outcomes of this course, centered around the following main topics:",
+    "Sample Syllabi": "Fall 2024 syllabus(PDF)Spring 2024 syllabus(PDF)Spring 2023 syllabus(PDF)",
+    "Before Taking This Class...": "No pre-requisites are enforced. However, you are expected to enter the course with graduate-level understanding of computer systems and/or computer networking, such as you would receive from CS6200, CS6210, or CS6250.",
+    "Suggested Background Knowledge": "No pre-requisites are enforced. However, you are expected to enter the course with graduate-level understanding of computer systems and/or computer networking, such as you would receive from CS6200, CS6210, or CS6250.",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

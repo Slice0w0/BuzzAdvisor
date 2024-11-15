@@ -1,0 +1,12 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "This course introduces students to the real world challenges of implementing machine learning based trading strategies including the algorithmic steps from information gathering to market orders. The focus is on how to apply probabilistic machine learning approaches to trading decisions. We consider statistical approaches like linear regression, Q-Learning, KNN, and regression trees and how to apply them to actual stock trading situations.",
+    "Preview": "",
+    "Sample Syllabi": "Spring 2022 syllabus and scheduleFall 2022 syllabus and scheduleSummer 2022 syllabus and schedule",
+    "Course Content": "To access the public version of this course's content, clickhere, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.",
+    "Before Taking This Class...": "All types of students are welcome! The ML topics might be \"review\" for CS students, while finance parts will be review for finance students. However, even if you have experience in these topics, you will find that we consider them in a different way than you might have seen before, in particular with an eye towards implementation for trading.If you answer \"no\" to the following questions, it may be beneficial to refresh your knowledge of the prerequisite material prior to taking CS 7646:",
+    "Suggested Background Knowledge": "All types of students are welcome! The ML topics might be \"review\" for CS students, while finance parts will be review for finance students. However, even if you have experience in these topics, you will find that we consider them in a different way than you might have seen before, in particular with an eye towards implementation for trading.If you answer \"no\" to the following questions, it may be beneficial to refresh your knowledge of the prerequisite material prior to taking CS 7646:",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

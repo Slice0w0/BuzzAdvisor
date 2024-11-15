@@ -1,0 +1,11 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "The objective of this course is to learn the theory and practice behind building automatic translators (compilers) for higher level programming languages and to engineer and build key phases of a compiler in Java or C++ for a small language.",
+    "Sample Syllabus": "Fall 2024 syllabus(PDF)Summer 2024 syllabus(PDF)Spring 2024 syllabus(PDF)",
+    "Course Content": "To access the public version of this course's content, clickhere, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.",
+    "Before Taking This Class...": "Good knowledge of data structures and algorithms, good programming skills, and ability to write sizeable software in Java or C++. Should be able to work in Linux environment.",
+    "Suggested Background Knowledge": "Good knowledge of data structures and algorithms, good programming skills, and ability to write sizeable software in Java or C++. Should be able to work in Linux environment.",
+    "Technical Requirements and Software": "Students will work in a Linux environment.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

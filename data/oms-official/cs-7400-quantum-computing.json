@@ -1,0 +1,10 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "Quantum computing promises exponential speedups for a class of important problems. Quantum computers with dozen(s) of qubits have already been demonstrated, and qubit counts expected to cross hundred in the next few years. Quantum Computing is an interdisciplinary field with topics ranging from physical devices (ion trap, superconducting, spin etc.) to error-correction codes (surface code or Shor code) to system & architecture (memory/microarchitecture) to compiler and tools (simulation and programming), to algorithms and applications. The goal of this course is to provide students in CS and ECE with the fundamental background on quantum computing and equip them with the skills to write code and optimize quantum programs on real quantum computers. This course will focus more on the “computing” aspects of quantum computing and will be cover the architecture, compiler, and applications of quantum computing for both the near-term (NISQ model of computation) and long-term (fault tolerant quantum computing).",
+    "Course Goals": "By the end of this course students will:",
+    "Sample Syllabi": "Fall 2024 syllabus(PDF)Summer 2024 syllabus(PDF)Spring 2024 syllabus(PDF)",
+    "Before Taking This Class...": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

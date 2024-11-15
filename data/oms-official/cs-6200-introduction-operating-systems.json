@@ -1,0 +1,12 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "Introduction to Operating Systems is a graduate-level introductory course in operating systems. This course teaches basic operating system abstractions, mechanisms, and their implementations. The core of the course focuses on OS support for concurrency (threads) and synchronization, resource management (CPU, memory, I/O), and distributed services. The practical component of the course teaches multithread programming, inter-process communication, and distributed interactions via RPC.",
+    "Preview": "",
+    "Sample Syllabi": "Spring 2023 syllabus(PDF)Summer 2022 syllabus(PDF)Fall 2021 syllabus(PDF)",
+    "Course Content": "To access the public version of this course's content, clickhere, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.",
+    "Before Taking This Class...": "To undertake this course, you should have taken an undergraduate level course on, or be otherwise familiar with, basic hardware and software aspects of computer systems organization. You should also be familiar with the following:",
+    "Suggested Background Knowledge": "To undertake this course, you should have taken an undergraduate level course on, or be otherwise familiar with, basic hardware and software aspects of computer systems organization. You should also be familiar with the following:",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

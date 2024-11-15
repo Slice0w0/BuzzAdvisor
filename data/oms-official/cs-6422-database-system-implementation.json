@@ -1,0 +1,11 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "This course offers a hands-on dive into designing and implementing relational database management systems. Students will learn about the internals of a database system—focusing on storage management, indexing, and query execution. By building a fully functional database using C++, students will tackle real-world challenges through engaging programming assignments, gaining practical experience along the way.",
+    "Course Goals": "This course focuses on designing and implementing database management systems, with a strong focus on hands-on programming. By the end of this course, the student will:",
+    "Sample Syllabus": "Spring 2025 syllabus",
+    "Before Taking This Class...": "To be successful in this class, students should meet the following prerequisites:",
+    "Suggested Background Knowledge": "To be successful in this class, students should meet the following prerequisites:",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

@@ -1,0 +1,12 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "This course provides an introduction to computer vision including: fundamentals of image formation; camera imaging geometry; feature detection and matching; multiview geometry including stereo, motion estimation and tracking; and classification. We’ll develop basic methods for applications that include finding known models in images, depth recovery from stereo, camera calibration, image stabilization, automated alignment (e.g. panoramas), tracking, and action recognition.",
+    "Preview": "",
+    "Sample Syllabi": "Fall 2024 syllabusSpring 2024 syllabusFall 2022 syllabus",
+    "Course Content": "To access the public version of this course's content, clickhere, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.",
+    "Before Taking This Class...": "If you answer \"no\" to any of the following questions, it may be beneficial to refresh your knowledge of some material prior to taking CS 6476:",
+    "Suggested Background Knowledge": "If you answer \"no\" to any of the following questions, it may be beneficial to refresh your knowledge of some material prior to taking CS 6476:",
+    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

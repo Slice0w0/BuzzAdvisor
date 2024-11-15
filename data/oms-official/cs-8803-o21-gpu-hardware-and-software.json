@@ -1,0 +1,7 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "This course explores the software and hardware aspects of GPU development. Through hands-on projects, you'll gain basic CUDA programming skills, learn optimization techniques, and develop a solid understanding of GPU architecture. Additionally, you'll delve into compiler principles to comprehend software-related GPU issues and read research papers on hardware challenges. By the end, you'll have enhanced your knowledge of compilers, programming, and computer architecture for modern GPUs.",
+    "Sample Syllabi": "Fall 2024 syllabus(PDF)Summer 2024 syllabus(PDF)Spring 2024 syllabus(PDF)",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

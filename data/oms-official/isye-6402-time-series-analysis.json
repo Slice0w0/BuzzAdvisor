@@ -1,0 +1,12 @@
+{
+    "foundational": false,
+    "admin": "A",
+    "Overview": "Time Series Analysis has wide applicability in economic and financial fields but also to geophysics, oceanography, atmospheric science, astronomy, engineering, and many other fields of practice. This course will illustrate time series analysis using many applications from these fields.",
+    "Course Goals": "By the end of this class, students will:",
+    "Preview": "",
+    "Sample Syllabi": "Fall 2024 syllabus(PDF)Spring 2024 syllabus(PDF)Spring 2023 syllabus(PDF)",
+    "Before Taking This Class...": "A sound familiarity with undergraduate or graduate statistics and probability but also basic programming proficiency, linear algebra, and basic calculus. A sound familiarity with linear regression modeling.",
+    "Suggested Background Knowledge": "A sound familiarity with undergraduate or graduate statistics and probability but also basic programming proficiency, linear algebra, and basic calculus. A sound familiarity with linear regression modeling.",
+    "Technical Requirements and Software": "Throughout this course, students will be exposed to not only fundamental concepts of time series analysis but also many data examples using the R statistical software. Thus by the end of this course, students will also familiarize with the implementation of time series models using the R statistical software along with interpretation for the results derived from such implementations.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}

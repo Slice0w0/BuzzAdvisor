@@ -1,0 +1,11 @@
+{
+    "foundational": true,
+    "admin": "CS",
+    "Overview": "Welcome to CS6457 Video Game Design. The course covers many game design topics including game engine concepts and technologies, structural elements of games, and game design process.",
+    "Preview": "Check out the demo reels from Spring 2022 below!",
+    "Sample Syllabus": "Summer 2022 syllabus(PDF)",
+    "Before Taking This Class...": "Students are not expected to be familiar with the Unity Engine. Outside of C# experience, familiarity with a strongly typed object-oriented programming language such as Java is helpful.",
+    "Suggested Background Knowledge": "Students are not expected to be familiar with the Unity Engine. Outside of C# experience, familiarity with a strongly typed object-oriented programming language such as Java is helpful.",
+    "Technical Requirements and Software": "All software development is performed with the Unity Engine and the C# programming language. Students need a Windows PC or Mac capable of running Unity.",
+    "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
+}
