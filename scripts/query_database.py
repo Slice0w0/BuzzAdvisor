@@ -5,7 +5,7 @@ from langchain.chains import create_sql_query_chain
 from langchain_openai import ChatOpenAI
 
 # Set the OpenAI API key
-os.environ["OPENAI_API_KEY"] = "sk-proj-3cA5ioGL6EYKKbaDyy80T3BlbkFJ4cu5ePa7Rzn41qVeo7Le"
+os.environ["OPENAI_API_KEY"] = ""
 
 # Define the URI for your SQLite database
 db = SQLDatabase.from_uri("sqlite:///data/gatech_courses.db")
