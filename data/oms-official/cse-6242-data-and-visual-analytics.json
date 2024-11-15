@@ -1,13 +1,13 @@
 {
+    "course-name": "cse-6242-data-and-visual-analytics",
     "foundational": true,
     "admin": "A",
-    "Overview": "This course will introduce you to broad classes of techniques and tools for analyzing and visualizing data at scale. It emphasizes how to complement computation and visualization to perform effective analysis. We will cover methods from each side, and hybrid ones that combine the best of both worlds. Students will work in small teams to complete a project exploring novel approaches for interactive data & visual analytics.",
+    "Overview": "More information is available on theCSE 6242 course website.",
     "Course Goals": "In this course, you will:",
     "Preview": "",
-    "Sample Syllabi": "Fall 2024 syllabusPast syllabi",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Course Videos": "You can view the lecture videos for this coursehere.",
-    "Before Taking This Class...": "It is recommended that you:",
-    "Suggested Background Knowledge": "It is recommended that you:",
-    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Suggested Background Knowledge": "It is recommended that you:\n- Have taken CSE 6040 and did very well in it (for Georgia Tech Analytics students)\n- Have taken CS 1301 (for Georgia Tech Analytics students)\n- Are proficient in at least one high-level programming language (e.g., Python, C++, Java) and are efficient with debugging principles and practices; if you are not, you should instead first take CSE 6040 (for OMS Analytics students) and if needed, CS 1301 and CS 1371.\n- Are confident in your ability to learn multiple tools, skills, and programming languages on the fly.\n- Have basic knowledge of linear algebra, probability, and statistics",
+    "Technical Requirements and Software": "\n- 8 GB RAM (16 GB recommended)\n- 512 GB disk (SSD recommended)\n- Dual-core Core i5 (8th generation or better recommended)",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

@@ -1,11 +1,11 @@
 {
+    "course-name": "cs-6460-educational-technology",
     "foundational": true,
     "admin": "CS",
-    "Overview": "CS 6460: Educational Technology will be a heavily project-based class in which students will: deeply investigate the tools, methods, and theories behind educational technology; demonstrate mastery of a subset of the field; propose either implementing a tool for or conducting research in educational technology; and deliver a final project along with a presentation and publication-ready paper.",
+    "Overview": "More information is available on theCS 6460 course website.",
     "Preview": "",
-    "Sample Syllabus": "Summer 2020 syllabus and scheduleFall 2019 syllabus and schedule",
-    "Before Taking This Class...": "To be ready for the class, students should have completed their program foundational requirement in order to have experience on the receiving end of educational technology. Students should also be comfortable with writing a handful of essays, participating in group activities and discussions, and tackling a large-scale individual or group project.",
-    "Suggested Background Knowledge": "To be ready for the class, students should have completed their program foundational requirement in order to have experience on the receiving end of educational technology. Students should also be comfortable with writing a handful of essays, participating in group activities and discussions, and tackling a large-scale individual or group project.",
-    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Sample Syllabus": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
+    "Suggested Background Knowledge": "To succeed in this course, you should be able to answer “yes” to the following questions:",
+    "Technical Requirements and Software": "\n- Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. We also support Internet Explorer 9 and the desktop versions of Internet Explorer 10 and above (not the metro versions). 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed.\n- Operating system:PC: Windows XP or higher with latest updates installedMac: OS X 10.6 or higher with latest updates installedLinux: any recent distribution that has the supported browsers installed\n- PC: Windows XP or higher with latest updates installed\n- Mac: OS X 10.6 or higher with latest updates installed\n- Linux: any recent distribution that has the supported browsers installed",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

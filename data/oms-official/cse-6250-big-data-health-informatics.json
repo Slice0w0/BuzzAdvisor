@@ -1,12 +1,11 @@
 {
+    "course-name": "cse-6250-big-data-health-informatics",
     "foundational": true,
     "admin": "CS",
-    "Overview": "Data science plays an important role in many industries. In facing massive amounts of heterogeneous data, scalable machine learning and data mining algorithms and systems become extremely important for data scientists. The growth of volume, complexity, and speed in data drives the need for scalable data analytic algorithms and systems. In this course, we study such algorithms and systems in the context of healthcare applications.",
+    "Overview": "We also study big data analytic technology:",
     "Preview": "",
-    "Sample Syllabi": "Fall 2024 syllabus(PDF)Spring 2024 syllabus(PDF)Spring 2023 syllabus(PDF)",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Course Content": "To access the public version of this course's content, clickhere, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.",
-    "Before Taking This Class...": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
-    "Suggested Background Knowledge": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
-    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Technical Requirements and Software": "\n- Browser and connection speed: An up-to-date version of Chrome, Firefox, or Internet Explorer is strongly recommended. 2+ Mbps is recommended; the minimum requirement is 1 Mbps download speed.\n- Operating system:PC: Windows XP or higher with latest updates installedMac: OS X 10.6 or higher with latest updates installedLinux: any recent distribution that has the supported browsers installed\n- PC: Windows XP or higher with latest updates installed\n- Mac: OS X 10.6 or higher with latest updates installed\n- Linux: any recent distribution that has the supported browsers installed\n- Cloud Computing: Amazon Web Service (AWS) or MS Azure\n- Virtual Machine: Docker or other virtual machine will be needed",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

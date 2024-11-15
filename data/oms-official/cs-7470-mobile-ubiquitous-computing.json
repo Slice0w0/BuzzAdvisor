@@ -1,8 +1,9 @@
 {
+    "course-name": "cs-7470-mobile-ubiquitous-computing",
     "foundational": true,
     "admin": "CS",
     "Overview": "Mobile and ubiquitous computing are often referred to as the third generation of computing where humans continuously interact not with just one but many computing devices. The latter are thereby embedded into the everyday environment of their users in such a way that users may not even be aware of their interaction with computers. In this class, students will explore this third generation of computing that enables such ubiquitous computing. Students will learn about the technical foundations of sensing, computing, and communication that are the prerequisite for smooth and seamless interactions in a continuous manner. Based on these foundations, students will work on practical projects that address cutting edge real-world problems and will develop innovative solutions to them through means of mobile and ubiquitous computing. Beyond providing a solid technical foundation for mobile and ubiquitous computing, the course will focus on aspects of how to actually build and deploy mobile and ubiquitous computing systems.",
     "Preview": "",
-    "Sample Syllabi": "Spring 2024 syllabusSpring 2022 syllabus",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

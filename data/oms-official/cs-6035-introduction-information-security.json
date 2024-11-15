@@ -1,12 +1,12 @@
 {
+    "course-name": "cs-6035-introduction-information-security",
     "foundational": true,
     "admin": "CS",
     "Overview": "Introduction to Information Security is a graduate-level introductory course in information security. It teaches the basic concepts and principles of information security and the fundamental approaches to secure computers and networks. Its main topics include: security basics; security management and risk assessment; software security; operating systems security; database security; cryptography algorithms and protocols; network authentication and secure network applications; malicious malware; network threats and defenses; web security; mobile security; legal and ethical issues; and privacy.",
     "Preview": "",
     "Current Syllabus": "Current syllabus",
     "Course Content": "To access the public version of this course's content, clickhere, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.",
-    "Before Taking This Class...": "Qualifications for taking this class adhere with theAdmission Criteriagiven by Georgia Institute of Technology. Upon entering this class, it is assumed that students have completed an undergraduate degree in computer science or a related field.",
-    "Suggested Background Knowledge": "Qualifications for taking this class adhere with theAdmission Criteriagiven by Georgia Institute of Technology. Upon entering this class, it is assumed that students have completed an undergraduate degree in computer science or a related field.",
-    "Technical Requirements and Software": "Important Information for CS 6035",
+    "Suggested Background Knowledge": "CS 6035 Relevant Technical Information:\n- Basic Information Security Prerequisites\n- Project and Technical Prerequisites",
+    "Technical Requirements and Software": "A few notes on Virtual Machines (VMs):\n- Apple ARM-based SoCs areNOTsupported in this course.\n- Due to technical limitations, only an Intel-based VM is provided.\n- You will be provided VMs in this class that were built using VirtualBox.\n- This courseDOES NOTsupport or test with any other virtualization software.",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. Please refer to theCS 6035 Academic Honestysection of the current syllabus for further course specific information."
 }

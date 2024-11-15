@@ -1,11 +1,11 @@
 {
+    "course-name": "cs-7210-distributed-computing",
     "foundational": true,
     "admin": "CS",
     "Overview": "This course will cover both fundamental concepts in distributed computing and discuss system designs enabling distributed applications. The objectives of the course include: In-depth understanding of core concepts of distributed computing, including study of both abstract concepts and practical techniques for building system support for distributed applications; construction of distributed system components by doing project work; and understanding of the current state of the art in several areas of distributed systems.",
     "Course Goals": "There are several learning outcomes of this course, centered around the following main topics:",
-    "Sample Syllabi": "Fall 2024 syllabus(PDF)Spring 2024 syllabus(PDF)Spring 2023 syllabus(PDF)",
-    "Before Taking This Class...": "No pre-requisites are enforced. However, you are expected to enter the course with graduate-level understanding of computer systems and/or computer networking, such as you would receive from CS6200, CS6210, or CS6250.",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Suggested Background Knowledge": "No pre-requisites are enforced. However, you are expected to enter the course with graduate-level understanding of computer systems and/or computer networking, such as you would receive from CS6200, CS6210, or CS6250.",
-    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Technical Requirements and Software": "\n- High-speed Internet connection\n- Laptop or desktop computer with aminimumof a 2 GHz processor and 2 GB of RAM\n- Windows for PC computers OR Mac iOS for Apple computers.\n- Complete Microsoft Office Suite or comparable and ability to use Adobe PDF software (install, download, open and convert)\n- Mozilla Firefox, Chrome and/or Safari browsers (Note: HonorLock requires students to use Chrome)",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

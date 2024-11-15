@@ -1,9 +1,9 @@
 {
+    "course-name": "cs-8803-o15-introduction-computer-law",
     "foundational": false,
     "admin": "CS",
-    "Overview": "An understanding of certain aspects of the law can help computer scientists contribute more to their enterprise. We will learn about the various types of law that computer scientists may encounter. Students will be exposed to the US legal system, intellectual property, licensing and contracts, and data privacy. In what we believe to be the first of its kind in a computer law course, students will analyze third-party commercial-grade code as a technical expert (witness) might do to support a litigation. At the end of the course, students should be aware of basic legal issues in the computer field and understand when they need advice from a lawyer.",
-    "Sample Syllabi": "Summer 2024 syllabus(PDF)Summer 2023 syllabus(PDF)Summer 2023 schedule(PDF)",
-    "Before Taking This Class...": "Students should have some experience with the Java language and an integrated development environment for the code analysis project. If you wish to learn Java or refresh your skills, you may do so using the following free online course:Introduction to Object-Oriented Programming with Java.",
+    "Overview": "This course is not foundational and does not count toward any specializations at present, but it can be counted as a free elective.",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Suggested Background Knowledge": "Students should have some experience with the Java language and an integrated development environment for the code analysis project. If you wish to learn Java or refresh your skills, you may do so using the following free online course:Introduction to Object-Oriented Programming with Java.",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

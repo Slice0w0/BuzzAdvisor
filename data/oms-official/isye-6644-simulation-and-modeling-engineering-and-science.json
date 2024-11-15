@@ -1,12 +1,12 @@
 {
+    "course-name": "isye-6644-simulation-and-modeling-engineering-and-science",
     "foundational": false,
     "admin": "A",
-    "Overview": "This course covers modeling of discrete-event dynamic systems and introduces simulation-based methods for using these models to solve engineering design and analysis problems.",
-    "Course Goals": "",
+    "Overview": "This course is not foundational and does not count toward any specializations at present, but it can be counted as a free elective.",
+    "Course Goals": "\n- Learn how to develop simulation models and conduct simulation studies.\n- Become familiar with the organization of simulation languages. We will do a great deal of modeling with Arena, a comprehensive simulation package with animation capabilities.\n- Review statistical aspects including input analysis, random variate generation, output analysis, and variance reduction techniques.",
     "Preview": "",
-    "Sample Syllabi": "Spring 2024 syllabus(PDF)Spring 2023 syllabus(PDF)Fall 2022 syllabus(PDF)",
-    "Before Taking This Class...": "You will be expected to come in knowing a bit of basic calculus, probability, and statistics. But do not worry too much – we will provide bootcamps on that material so as to make the class pretty much self-contained. In addition, this course will involve extensive computer programming, so it would be nice to have at least a little experience in something like Excel, just to bring back the programming memories.",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Suggested Background Knowledge": "You will be expected to come in knowing a bit of basic calculus, probability, and statistics. But do not worry too much – we will provide bootcamps on that material so as to make the class pretty much self-contained. In addition, this course will involve extensive computer programming, so it would be nice to have at least a little experience in something like Excel, just to bring back the programming memories.",
-    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Technical Requirements and Software": "\n- Internet connection (DSL, LAN, or cable connection desirable)\n- R statistical software (free download; seecran.r-project.org)\n- Arena simulation software (free student download; seewww.arenasimulation.com/academic/students)\n- Adobe Acrobat PDF reader (free download; seehttps://get.adobe.com/reader/)",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

@@ -1,13 +1,13 @@
 {
+    "course-name": "cs-6340-software-analysis",
     "foundational": true,
     "admin": "CS",
-    "Overview": "Have you ever wondered how your development environment can determine that you have an unused variable before you compiled the code? How do strongly-typed programming languages prevent bugs in your code? How can we be ahead of our users in finding bugs in complicated systems that may not have been caught by our testing efforts? In this class, we will explore these topics along with several others that together make up the field of software analysis.",
-    "Course Goals": "After successfully completing the course, you will be able to do the following:",
+    "Overview": "More information is available on theCS 6340 course website.",
+    "Course Goals": "After successfully completing the course, you will be able to do the following:\n- Evaluate the suitability of different analysis and testing techniques for different types of programs and under a given set of constraints\n- Implement and run analyses to determine useful facts about a given program\n- Describe qualitative properties of different techniques for analyzing and testing programs\n- Compute the outcome of a given analysis or testing technique on a program",
     "Preview": "",
-    "Sample Syllabi": "Summer 2024 syllabus(PDF)Spring 2024 syllabus(PDF)Summer 2023 syllabus(PDF)",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Course Content": "To access the public version of this course's content, clickhere, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.",
-    "Before Taking This Class...": "We expect you to be fluent in a C-family language, such as C, C++, Java, or C#. Most classwork will be in C++, and the effort required will be greatly increased if you are not already fluent in a C-family language.",
-    "Suggested Background Knowledge": "We expect you to be fluent in a C-family language, such as C, C++, Java, or C#. Most classwork will be in C++, and the effort required will be greatly increased if you are not already fluent in a C-family language.",
+    "Suggested Background Knowledge": "The instructors and teaching assistants have only a limited capability to assist students with learning these tasks, and they will not be explicitly covered in video lessons. We have created aReadiness Assessmentthat you can use to determine prerequisite tasks that you may wish to learn or re-familiarize yourself with before enrolling in this course.",
     "Technical Requirements and Software": "Georgia Tech's Office of Student Computer Ownership issuesminimum hardware requirementsto incoming undergraduates; you should meet or exceed these guidelines.",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

@@ -1,10 +1,10 @@
 {
+    "course-name": "cs-6515-intro-graduate-algorithms",
     "foundational": true,
     "admin": "CS",
     "Overview": "This course is a graduate-level course in the design and analysis of algorithms. We study techniques for the design of algorithms (such as dynamic programming) and algorithms for fundamental problems (such as fast Fourier transform FFT). In addition, we study computational intractability, specifically, the theory of NP-completeness. The main topics covered in the course include: dynamic programming; divide and conquer, including FFT; randomized algorithms, including RSA cryptosystem;  graph algorithms; max-flow algorithms; linear programming; and NP-completeness.",
-    "Sample Syllabus": "Fall 2024 syllabus(PDF)Summer 2024 syllabus(PDF)Spring 2024 syllabus(PDF)",
+    "Sample Syllabus": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Course Content": "To access the public version of this course's content, clickhere, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.",
-    "Before Taking This Class...": "Students are expected to have an undergraduate course on the design and analysis of algorithms. In particular, they should be familiar with basic graph algorithms, including DFS, BFS, and Dijkstra's shortest path algorithm, and basic dynamic programming and divide and conquer algorithms (including solving recurrences). An undergraduate course in discrete mathematics is assumed, and students should be comfortable analyzing the asymptotic running time of algorithms.",
-    "Suggested Background Knowledge": "Students are expected to have an undergraduate course on the design and analysis of algorithms. In particular, they should be familiar with basic graph algorithms, including DFS, BFS, and Dijkstra's shortest path algorithm, and basic dynamic programming and divide and conquer algorithms (including solving recurrences). An undergraduate course in discrete mathematics is assumed, and students should be comfortable analyzing the asymptotic running time of algorithms.",
+    "Suggested Background Knowledge": "CS 8001 OLP is a one credit-hour seminar designed to fulfill prerequisites to succeed in CS 6515. More information is available on theCS 8001 Seminars page.",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

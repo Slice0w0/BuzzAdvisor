@@ -1,9 +1,9 @@
 {
+    "course-name": "cs-6211-system-design-cloud-computing",
     "foundational": true,
     "admin": "CS",
-    "Overview": "This is a hands on project-intensive immersive course aimed at senior-level undergraduates and graduate students to give them an in-depth experience in developing different layers of a cloud computing infrastructure including software defined networks, distributed runtime systems, network function virtualization, and application development.",
-    "Sample Syllabus": "Spring 2021 syllabus",
-    "Before Taking This Class...": "Students should have completedCS 6210with a letter grade of A (or high B) or have taken an equivalent course elsewhere before taking this course.",
+    "Overview": "The course is organized into four project-driven modules (roughly equal duration):",
+    "Sample Syllabus": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Suggested Background Knowledge": "Students should have completedCS 6210with a letter grade of A (or high B) or have taken an equivalent course elsewhere before taking this course.",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

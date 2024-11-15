@@ -1,11 +1,11 @@
 {
+    "course-name": "isye-8803-topics-high-dimensional-data-analytics",
     "foundational": false,
     "admin": "A",
-    "Overview": "This course focuses on analysis of high-dimensional structured data including profiles, images, and other types of functional data using statistical machine learning. A variety of topics such as functional data analysis, image processing, multilinear algebra and tensor analysis, and regularization in high-dimensional regression and its applications including low rank and sparse learning is covered. Optimization methods commonly used in statistical modeling and machine learning and their computational aspects are also discussed.",
+    "Overview": "This course is not foundational and does not count toward any specializations at present, but it can be counted as a free elective.",
     "Course Goals": "By the end of the course, you will:",
-    "Sample Syllabi": "Fall 2024 syllabus(PDF)Summer 2024 syllabus(PDF)Summer 2023 syllabus(PDF)",
-    "Before Taking This Class...": "This class assumes knowledge of regression and linear algebra, as well as basic programming knowledge in Python, R, or Matlab.",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.​",
     "Suggested Background Knowledge": "This class assumes knowledge of regression and linear algebra, as well as basic programming knowledge in Python, R, or Matlab.",
-    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Technical Requirements and Software": "\n- High-speed internet connection\n- Laptop or desktop computer with aminimumof a 2 GHz processor and 2 GB of RAM\n- Windows or Mac iOS\n- Complete Microsoft Office Suite or comparable, and ability to use Adobe PDF software (install, download, open, and convert)\n- Mozilla Firefox, Chrome, and/or Safari browsers\n- Matlab and R",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

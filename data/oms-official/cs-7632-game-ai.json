@@ -1,10 +1,10 @@
 {
+    "course-name": "cs-7632-game-ai",
     "foundational": true,
     "admin": "CS",
-    "Overview": "Welcome to CS 7632 Game AI.",
-    "Sample Syllabus": "Example syllabus from previous offering(PDF)",
-    "Before Taking This Class...": "It is strongly recommended that students take CS 6601: Artificial Intelligence prior to taking this course.",
-    "Suggested Background Knowledge": "It is strongly recommended that students take CS 6601: Artificial Intelligence prior to taking this course.",
+    "Overview": "While Game AI generally leverages concepts from classic AI research, you will see that there are many unique implementation strategies for achieving a fun game play experience. The Game AI course covers topics including agent movement, path planning, decision making, goal-oriented behavior, learning, and procedural content generation.",
+    "Sample Syllabus": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
+    "Suggested Background Knowledge": "Students are not expected to be familiar with the Unity Engine. For those not already familiar with C#, familiarity with a strongly typed object-oriented programming language such as Java is helpful.",
     "Technical Requirements and Software": "The majority of software development is performed with the Unity Engine and the C# programming language. Students need a Windows PC or Mac capable of running Unity. Some assignments may use supplementary tools such as Python.",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

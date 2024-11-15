@@ -1,10 +1,10 @@
 {
+    "course-name": "cs-6250-computer-networks",
     "foundational": true,
     "admin": "C",
-    "Overview": "This course provides a quick refresh of introductory material, and offers a broad coverage of protocols and algorithms that span across all layers of the Internet protocol stack.",
-    "Sample Syllabi": "Summer 2024 syllabus(PDF)Spring 2024 syllabus(PDF)Summer 2023 syllabus(PDF)",
-    "Before Taking This Class...": "This class is appropriate for students with previous background in networking. Some familiarity with both network programming, scripting languages (e.g., Python), and using virtual machines will be helpful.",
-    "Suggested Background Knowledge": "This class is appropriate for students with previous background in networking. Some familiarity with both network programming, scripting languages (e.g., Python), and using virtual machines will be helpful.",
-    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Overview": "Throughout the course, students will work on hands-on projects to learn about routing, SDN, BGP hijacking, and Internet measurements. For students who would like to explore more, there is an additional project that engages with tools for Internet-wide measurements. As part of the project, students will study how large-scale events that are associated with unrest are reflected as connectivity disruptions for networks in specific parts of the world.",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
+    "Suggested Background Knowledge": "If you can confidently answer “yes” to these questions, you should be fine:",
+    "Technical Requirements and Software": "\n- Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. We also support Internet Explorer 9 and the desktop versions of Internet Explorer 10 and above (not the metro versions). 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed.\n- Operating system:PC: Windows XP or higher with latest updates installedMac: OS X 10.6 or higher with latest updates installedLinux: any recent distribution that has the supported browsers installed\n- PC: Windows XP or higher with latest updates installed\n- Mac: OS X 10.6 or higher with latest updates installed\n- Linux: any recent distribution that has the supported browsers installed",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

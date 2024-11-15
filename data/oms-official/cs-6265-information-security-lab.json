@@ -1,12 +1,12 @@
 {
+    "course-name": "cs-6265-information-security-lab",
     "foundational": false,
     "admin": "C",
-    "Overview": "This course covers advanced techniques for writing exploits and patching vulnerabilities, taught through an intense, hands-on security laboratory. A significant part of this course involves solvingCapture-The-Flag (CTF)and discussing strategies for solving such problems. This course covers a variety of topics including (but not limited to) reverse engineering, exploitation, binary analysis, and web.",
-    "Course Goals": "Students will learn:",
+    "Overview": "This course is not foundational and does not count toward any specializations at present, but it can be counted as a free elective.",
+    "Course Goals": "Students will learn:\n- Classes of security vulnerabilities\n- How to exploit security vulnerabilities\n- How to defend or mitigate security vulnerabilities",
     "Preview": "",
-    "Sample Syllabi": "Summer 2024 syllabus(PDF)Summer 2023 syllabus(PDF)Summer 2022 syllabus(PDF)",
-    "Before Taking This Class...": "Operating systems or equivalent (e.g., CS 3210 at GT).",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Suggested Background Knowledge": "Operating systems or equivalent (e.g., CS 3210 at GT).",
-    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Technical Requirements and Software": "\n- Internet connection (DSL, LAN, or cable connection desirable)\n- Adobe Acrobat PDF reader (free download; seehttps://get.adobe.com/reader/)",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

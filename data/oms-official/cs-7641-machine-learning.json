@@ -1,14 +1,13 @@
 {
+    "course-name": "cs-7641-machine-learning",
     "foundational": true,
     "admin": "CS",
-    "Overview": "This is a graduate Machine Learning Series, initially created by Charles Isbell (University of Wisconsin-Madison) and Michael Littman (Brown University) where the lectures are Socratic discussions on the material. The course is lead by TJ LaGrow (Georgia Tech) with significant refactoring and refurbishment.",
-    "Preview": "",
+    "Overview": "Reinforcement LearningReinforcement Learning is the area of Machine Learning concerned with the actions that software agents ought to take in a particular environment in order to maximize rewards. You can apply Reinforcement Learning to robot control, chess, backgammon, checkers and other activities that a software agent can learn. Reinforcement Learning uses behaviorist psychology in order to achieve reward maximization.",
     "Course Overview": "",
     "Sample Lesson": "",
-    "Sample Syllabus": "Fall 2024 syllabus(PDF)Summer 2024 syllabus(PDF)Spring 2023 syllabus(PDF)",
+    "Sample Syllabus": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Course Content": "To access the public version of this course's content, clickhere, then log into your Ed Lessons account. If you have not already created an Ed Lessons account, enter your name and email address, then click the activation link sent to your email, then revisit that link.",
-    "Before Taking This Class...": "An introductory course in artificial intelligence is recommended but not required. To discover whether you are ready to take CS 7641: Machine Learning, please review ourCourse Preparedness Questions, to determine whether another introductory course may be necessary prior to registration.",
     "Suggested Background Knowledge": "An introductory course in artificial intelligence is recommended but not required. To discover whether you are ready to take CS 7641: Machine Learning, please review ourCourse Preparedness Questions, to determine whether another introductory course may be necessary prior to registration.",
-    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Technical Requirements and Software": "\n- Browser and connection speed: An up-to-date version of Chrome or Firefox is strongly recommended. We also support Internet Explorer 9 and the desktop versions of Internet Explorer 10 and above (not the metro versions). 2+ Mbps is recommended; the minimum requirement is 0.768 Mbps download speed.\n- Operating system:PC: Windows XP or higher with latest updates installedMac: OS X 10.6 or higher with latest updates installedLinux: any recent distribution that has the supported browsers installed\n- PC: Windows XP or higher with latest updates installed\n- Mac: OS X 10.6 or higher with latest updates installed\n- Linux: any recent distribution that has the supported browsers installed",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

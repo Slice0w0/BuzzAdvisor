@@ -42,6 +42,7 @@ if __name__ == '__main__':
                         href = a['href']
 
                         course_data = {
+                            'course-name': href.lstrip('/'),
                             'foundational': li.text.strip()[0] == '*',
                             'admin': 'CS'
                         }
@@ -62,13 +63,22 @@ if __name__ == '__main__':
                     #             if child.text.strip():
                     #                 f.write(child.text + "\n")
                     print(href)
-                    for header in soup.find_all(['h4', 'h5']):
-                        # Find the following 'p' tag
-                        p_tag = header.find_next_sibling('p')
-                        if p_tag:
-                            # Use the header text as the key and paragraph text as the value
+                    for header in soup.find_all(['h4', 'h5']):  # all subtitles are h4 and h5
+
+                        # extract all the following <p> texts
+                        p_tag = header.find_next_sibling()
+                        while p_tag is not None and p_tag.name == 'p': 
                             # print(header.get_text(strip=True))
                             course_data[header.get_text(strip=True)] = p_tag.get_text(strip=True)
+                            p_tag = p_tag.find_next_sibling()
+                        
+                        # if include any lists, added it into the extracted text
+                        if p_tag is not None and p_tag.name == 'ul':
+                            li_texts = "\n".join(f"- {li.get_text(strip=True)}" for li in p_tag.find_all('li'))
+
+                            if header.get_text(strip=True) not in course_data:
+                                course_data[header.get_text(strip=True)] = ""
+                            course_data[header.get_text(strip=True)] += "\n" + li_texts
                     
                     with open(f'../data/oms-official/{href}.json', 'w') as f:
                         json.dump(course_data, f, ensure_ascii=False, indent=4)

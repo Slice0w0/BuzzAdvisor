@@ -1,10 +1,10 @@
 {
+    "course-name": "cs-6675-advanced-internet-systems-and-applications",
     "foundational": true,
     "admin": "CS",
     "Overview": "This course introduces a selection of key cutting-edge technologies in Internet computing systems and technologies. The course covers eight broad categories of topics in advanced Internet systems and technologies: Cloud computing and data centers, Internet Server technologies (e.g., multi-tier application servers, Content Distribution Networks, Key-value stores), Peer to Peer computing, Crowd computing, Internet Search (crawl, indexing, ranking and retrieval), Blockchain and digital cryptocurrency (e.g., Bitcoin and Ethereum), Mobile and edge computing, Big data systems and Intelligent Internet services. For each topic, you will learn the basic concepts, the design principles and fundamentals, as well as the techniques and system optimizations. It does not presuppose any earlier knowledge of the above eight categories of topics.",
     "Preview": "",
-    "Sample Syllabi": "Fall 2024 syllabus(PDF)Summer 2024 syllabus(PDF)Spring 2024 syllabus(PDF)",
-    "Before Taking This Class...": "Preliminary knowledge about computing and communication networking.",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Suggested Background Knowledge": "Preliminary knowledge about computing and communication networking.",
     "Technical Requirements and Software": "The course project has homework and project components. For Homework, students can choose reading critique or programming. Students are free to choose any programming language they prefer to do the programming option. For course project, it is an innovation driven research or software development.",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."

@@ -1,10 +1,10 @@
 {
+    "course-name": "cs-6261-security-incident-response",
     "foundational": false,
     "admin": "C",
-    "Overview": "This course provides students with the background information and skill sets necessary to participate in and lead a cyber security incident response effort.",
-    "Course Goals": "Once completed, the students should have the following capabilities:",
-    "Sample Syllabi": "Fall 2024 syllabus(PDF)Spring 2024 syllabus(PDF)Fall 2023 syllabus(PDF)",
-    "Before Taking This Class...": "Students should have some familiarity with system logs and log analysis tools like Splunk.  Students should also have an understanding of how computer systems and networks function.",
+    "Overview": "This course is not foundational and does not count toward any specializations at present, but it can be counted as a free elective.",
+    "Course Goals": "Once completed, the students should have the following capabilities:\n- Understand the foundational tools necessary to have a successful incident response program.\n- Understand modern incident response methods and apply those methods to create an incident response process.\n- Observe suspicious IT behavior and discern malicious activity.\n- Apply methods of containing, eradicating, and responding to an emerging cybersecurity threat.\n- Evaluate performance of a prior incident in order to improve future processes.",
+    "Sample Syllabi": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Suggested Background Knowledge": "Students should have some familiarity with system logs and log analysis tools like Splunk.  Students should also have an understanding of how computer systems and networks function.",
     "Technical Requirements and Software": "See Georgia Tech'shardwareandsoftwarerequirements.",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."

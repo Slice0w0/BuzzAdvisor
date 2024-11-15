@@ -1,11 +1,11 @@
 {
+    "course-name": "isye-6420-bayesian-statistics",
     "foundational": true,
     "admin": "A",
-    "Overview": "This course provides an introduction to Bayesian statistical inference and its applications.",
-    "Course Goals": "By the end of this course, students will model and infer from Bayesian philosophical perspective. The aim is to make you proficient in the following:",
-    "Sample Syllabus": "Fall 2024 syllabus(PDF)Spring 2023 syllabus(PDF)Fall 2022 syllabus(PDF)",
-    "Before Taking This Class...": "Students should have taken introductory courses in probability in statistics. They should also have basic programming proficiency and be comfortable with calculus.",
+    "Overview": "More information is available on theISYE 6420 course website.",
+    "Course Goals": "By the end of this course, students will model and infer from Bayesian philosophical perspective. The aim is to make you proficient in the following:\n- Given a real-life data set, to select an appropriate statistical model to conduct inference, to formulate any prior information in terms of probability distributions (priors), and to understand what the conducted inference implies.\n- In addition to understanding concepts and being able to select the right methodology for the problem in hand, the course is aimed at hands on approaches and delivering explicit results.\n- Another aim of this course is for you to build a solid basis for your data modeling skills, so you can continue to learn throughout your career. New techniques will certainly be developed after you graduate, and we want you to be able to pick them up quickly.\n- In addition, when you accumulate more information about the problem in hand, you will be able to coherently incorporate this information and update your inference.",
+    "Sample Syllabus": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Suggested Background Knowledge": "Students should have taken introductory courses in probability in statistics. They should also have basic programming proficiency and be comfortable with calculus.",
-    "Technical Requirements and Software": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information.",
+    "Technical Requirements and Software": "\n- High-speed internet connection\n- Laptop or desktop computer with a minimum of a 2 GHz processor and 2 GB of RAM\n- Windows for PC computer or Mac iOS for Apple computers",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }

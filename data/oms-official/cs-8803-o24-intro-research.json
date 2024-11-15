@@ -1,9 +1,9 @@
 {
+    "course-name": "cs-8803-o24-intro-research",
     "foundational": false,
     "admin": "CS",
-    "Overview": "This course serves as a general introduction to research methods and CS research more specifically. Students will understand how to conduct, analyze, and communicate research in a variety of CS domains. Students will develop their own independent research in the form of a group written literature review and an independent research proposal.",
-    "Course Goals": "To demonstrate mastery of the goals above, students will be able to do the following:",
-    "Sample Syllabus": "Fall 2024 syllabus(PDF)",
-    "Before Taking This Class...": "Students will need to be familiar with how to write in word processers and be able to learn how to write in structured markdown document editors (LaTeX). Resources will be provided on how to write in LateX.",
+    "Overview": "This course is not foundational and does not count toward any specializations at present, but it can be counted as a free elective.",
+    "Course Goals": "To demonstrate mastery of the goals above, students will be able to do the following:\n- Identify elements of the research lifecycle.\n- Identify common research methodologies in computer science in a variety of subfields.\n- Develop a comprehensive research proposal, outlining an original research question, a method of answering that question with appropriate data analysis methods, and able to communicate the broader societal impacts and intellectual merit of pursuing such research.\n- Identify social structures of research, including funding agencies, PhD programs, etc.\n- Demonstrate how to search for, read, and interpret academic research articles.\n- Demonstrate how to synthesize research articles into an original literature review.",
+    "Sample Syllabus": "Note: Sample syllabi are provided for informational purposes only. For the most up-to-date information, consult the official course documentation.",
     "Academic Integrity": "All Georgia Tech students are expected to uphold theGeorgia Tech Academic Honor Code. This course may impose additional academic integrity stipulations; consult the official course documentation for more information."
 }
