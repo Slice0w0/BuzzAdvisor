@@ -14,9 +14,6 @@ from langchain_openai import OpenAIEmbeddings
 
 dotenv.load_dotenv()
 OPEN_API_KEY = os.getenv("OPEN_API_KEY")
-
-dotenv.load_dotenv()
-OPEN_API_KEY = os.getenv("OPEN_API_KEY")
 COURSE_INFO_CHROMA_PATH = os.getenv("REVIEWS_CHROMA_PATH")
 MODEL = os.getenv("MODEL")
 

@@ -14,7 +14,7 @@ course_agent_prompt = hub.pull("hwchase17/openai-functions-agent")
 
 tools = [
     Tool(
-        name="Review",
+        name="Reviews",
         func=review_chain.invoke,
         description="""Useful when you need to answer questions
         about student experiences, feelings, or any other qualitative
@@ -28,7 +28,7 @@ tools = [
         """,
     ),
     Tool(
-        name="Course Info",
+        name="Course Ratings",
         func=course_info_chain.invoke,
         description="""Useful for answering objective questions that 
         involve counting, percentages, aggregations,  or listing facts 
