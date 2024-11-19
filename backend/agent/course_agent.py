@@ -17,24 +17,25 @@ tools = [
         name="Review",
         func=review_chain.invoke,
         description="""Useful when you need to answer questions
-        about patient experiences, feelings, or any other qualitative
-        question that could be answered about a patient using semantic
-        search. Not useful for answering objective questions that involve
-        counting, percentages, aggregations, or listing facts. Use the
-        entire prompt as input to the tool. For instance, if the prompt is
-        "Are patients satisfied with their care?", the input should be
-        "Are patients satisfied with their care?".
+        about student experiences, feelings, or any other qualitative
+        question such as course recommendations that could be answered 
+        about a student using semantic search. Not useful for answering 
+        objective questions that involve counting, percentages, aggregations, 
+        or listing facts about courses' level of difficulty, rating, and workload, etc.. 
+        Use the entire prompt as input to the tool. For instance, 
+        if the prompt is "Give me some challenging courses", the input should be
+        "Give me some challenging courses".
         """,
     ),
     Tool(
         name="Course Info",
         func=course_info_chain.invoke,
-        description="""Useful for answering questions about patients,
-        physicians, hospitals, insurance payers, patient review
-        statistics, and hospital visit details. Use the entire prompt as
-        input to the tool. For instance, if the prompt is "How many visits
-        have there been?", the input should be "How many visits have
-        there been?".
+        description="""Useful for answering objective questions that 
+        involve counting, percentages, aggregations,  or listing facts 
+        about courses' level of difficulty, rating, and workload, etc.. 
+        Use the entire prompt as input to the tool. For instance, 
+        if the prompt is "Give me the top five most difficult courses", 
+        the input should be "Give me the top five most difficult courses".
         """,
     ),
 ]
