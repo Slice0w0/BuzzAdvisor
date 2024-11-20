@@ -1,29 +1,29 @@
 import sys
 import os
-import dotenv
 import sqlite3
+import dotenv
 from langchain_openai import ChatOpenAI
 from langchain_community.utilities import SQLDatabase
 from langchain_core.prompts import PromptTemplate
 from langchain.chains import create_sql_query_chain
 from langchain_openai import ChatOpenAI
+from langchain_community.agent_toolkits.sql.toolkit import SQLDatabaseToolkit
+from langchain_community.agent_toolkits import create_sql_agent
 
 
 # Set the OpenAI API key (ensure this is securely stored in production)
-
 dotenv.load_dotenv()
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-COURSE_RATING_SQLITE_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), os.getenv("COURSE_RATING_SQLITE_PATH"))
+# OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-print(COURSE_RATING_SQLITE_PATH)
 # Initialize the language model
 llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
 
-
+# Define the SQLite database file path
+db_path = "data/gatech_courses.db"
 
 def get_sql_query(question):
     # Define the prompt template, using "question" instead of "input"
-    db = SQLDatabase.from_uri(f"sqlite:///{COURSE_RATING_SQLITE_PATH}")
+    db = SQLDatabase.from_uri("sqlite:///data/gatech_courses.db")
     template = '''
     Given an input question, first create a syntactically correct SQL query to retrieve up to {top_k} results from the database.
     Use the following format:
@@ -58,13 +58,13 @@ def get_sql_query(question):
     })
     return response
 
-def execute_sql_query(query):
+def execute_sql_query(db_path, query):
     """
     Executes the SQL query on the specified SQLite database.
     Returns the results as a list of tuples.
     """
     # Connect to the SQLite database
-    conn = sqlite3.connect(COURSE_RATING_SQLITE_PATH)
+    conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
 
     # Execute the SQL query
@@ -102,21 +102,19 @@ def generate_response_with_gpt(question, results):
     gpt_response = llm(prompt)
     return gpt_response
 
-def generate(question):
-    # Retrieve the SQL query from query_database
-    sql_query = get_sql_query(question)
-    print(sql_query)
 
-    # Execute the SQL query and retrieve the results
-    results = execute_sql_query(sql_query)
-
-    # Generate a natural language response based on the query results
-    response = generate_response_with_gpt(question, results)
-    return response
 # Example question that matches the context of the SQL query
-question = "Could you give a brief introduction for course CS-6400?"
+question = "Could you give me the course with the biggest difficulty?"
+
+# Retrieve the SQL query from query_database
+sql_query = get_sql_query(question)
+#print(sql_query)
+
+# Execute the SQL query and retrieve the results
+results = execute_sql_query(db_path, sql_query)
+
+# Generate a natural language response based on the query results
+response = generate_response_with_gpt(question, results)
 
 # Print the response
-print("Generated Response:\n", generate(question))
-
-
+print("Generated Response:\n", response)
