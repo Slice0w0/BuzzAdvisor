@@ -1,0 +1,11 @@
+query,category
+"I like essay-writing more than coding writing, can you recommend some courses to me?",recommendation
+"I want some interesting courses, do you have any recommendation?",recommendation
+"Are there anything I need to be aware of before taking CS 6035",information
+"I am quite busy this semester, so are there any courses with smaller workload?",recommendation
+"What are some of the most difficuly courses? Maybe give me the top 5 candidates?",rating
+"Are there any good courses for AI track?",recommendation
+"What do I need to know before taking CS 6340?",information
+"Recommend me some hard-core or solid courses",recommendation
+"I'm from a finance background, are there any courses that fit my knowledge base?",recommendation
+"I want to study more operation's research or system engineering, is that possible?",information
