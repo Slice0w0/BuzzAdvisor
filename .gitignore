@@ -163,7 +163,8 @@ cython_debug/
 
 
 # ignore chroma
-data/chroma_data
+data/chroma_data*
+
 
 .DS_Store
 

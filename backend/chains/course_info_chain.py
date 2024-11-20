@@ -14,7 +14,7 @@ from langchain_openai import OpenAIEmbeddings
 
 dotenv.load_dotenv()
 OPEN_API_KEY = os.getenv("OPEN_API_KEY")
-COURSE_INFO_CHROMA_PATH = os.getenv("REVIEWS_CHROMA_PATH")
+COURSE_INFO_CHROMA_PATH = os.getenv("COURSE_INFO_CHROMA_PATH")
 MODEL = os.getenv("MODEL")
 
 review_system_template_str = """Your job is to use courses information
