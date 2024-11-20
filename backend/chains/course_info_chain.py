@@ -18,7 +18,7 @@ COURSE_INFO_CHROMA_PATH = os.getenv("REVIEWS_CHROMA_PATH")
 MODEL = os.getenv("MODEL")
 
 review_system_template_str = """Your job is to use courses information
-provided to answer questions about questions about course prerequisite, 
+provided to answer questions about course prerequisite, 
 suggested backgrounds, technical requirements, Contents, Goals, etc. 
 Use the following context to answer questions.
 Be as detailed as possible, but don't make up any information

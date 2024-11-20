@@ -15,7 +15,7 @@ dotenv.load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 COURSE_RATING_SQLITE_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), os.getenv("COURSE_RATING_SQLITE_PATH"))
 
-print(COURSE_RATING_SQLITE_PATH)
+# print(COURSE_RATING_SQLITE_PATH)
 # Initialize the language model
 llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
 
@@ -73,7 +73,7 @@ def execute_sql_query(query):
 
     # Close the connection
     conn.close()
-    print(f"results:{results}")
+    #print(f"results:{results}")
     return results
 
 def generate_response_with_gpt(question, results):
@@ -105,7 +105,7 @@ def generate_response_with_gpt(question, results):
 def generate(question):
     # Retrieve the SQL query from query_database
     sql_query = get_sql_query(question)
-    print(sql_query)
+    #print(sql_query)
 
     # Execute the SQL query and retrieve the results
     results = execute_sql_query(sql_query)
@@ -114,9 +114,9 @@ def generate(question):
     response = generate_response_with_gpt(question, results)
     return response
 # Example question that matches the context of the SQL query
-question = "Could you give a brief introduction for course CS-6400?"
+#question = "Could you give a brief introduction for course CS-6400?"
 
 # Print the response
-print("Generated Response:\n", generate(question))
+#print("Generated Response:\n", generate(question))
 
 
