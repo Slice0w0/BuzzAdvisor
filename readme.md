@@ -37,6 +37,7 @@ streamlit run frontend/chatbot.py
 
 ## .env
 
+```
 OPEN_API_KEY=
 OPENAI_API_KEY=
 
@@ -45,3 +46,4 @@ COURSE_INFO_CHROMA_PATH=./data/chroma_data_course_info/
 MODEL=gpt-3.5-turbo-0125
 
 COURSE_RATING_SQLITE_PATH=data/gatech_courses.db
+```
