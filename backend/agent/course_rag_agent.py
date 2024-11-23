@@ -7,6 +7,8 @@ from chains.course_rating_chain import generate as course_rating_chain
 from langchain import hub
 from langchain.agents import AgentExecutor, Tool, create_openai_functions_agent
 from langchain_openai import ChatOpenAI
+from langchain_core.runnables.history import RunnableWithMessageHistory
+from langchain.memory import ChatMessageHistory
 
 dotenv.load_dotenv()
 MODEL = os.getenv("MODEL")
@@ -68,4 +70,15 @@ course_rag_agent_executor = AgentExecutor(
     tools=tools,
     return_intermediate_steps=True,
     verbose=True,
+)
+
+memory = ChatMessageHistory(session_id="course-rag")
+
+course_rag_agent_with_chat_history = RunnableWithMessageHistory(
+    course_rag_agent_executor,
+    # This is needed because in most real world scenarios, a session id is needed
+    # It isn't really used here because we are using a simple in memory ChatMessageHistory
+    lambda session_id: memory,
+    input_messages_key="input",
+    history_messages_key="chat_history",
 )
