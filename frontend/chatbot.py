@@ -21,7 +21,7 @@ with st.sidebar:
         # Try this course recommender system
         # """
         """
-        Welcome to the **CS 6220 Learning and Planning Agent**, your personalized academic assistant.
+        Welcome to the **Buzz Advisor**, your personalized academic assistant at Georgia Tech.
         """
     )
     metric = st.selectbox("Major:", ["Computer Science", "Math", "Biology", "Business"])
@@ -63,6 +63,8 @@ if "messages" not in st.session_state:
 
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
+        if "content" in msg.keys():
+            st.markdown(msg["content"])
         if "output" in msg.keys():
             st.markdown(msg["output"])
         if "explanation" in msg.keys():

@@ -20,7 +20,7 @@ python3 scripts/insert_data.py
 
 python3 scripts/insert_chroma_course_info.py
 
-python3 scripts/insert_chroma_course_info.py
+python3 scripts/insert_chroma_review.py
 ```
 
 ## start backend

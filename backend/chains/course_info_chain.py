@@ -11,6 +11,10 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain.schema.runnable import RunnablePassthrough, RunnableMap
 from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
+# import logging
+# from langchain import debug
+
+# logging.basicConfig(level=logging.DEBUG)
 
 dotenv.load_dotenv()
 OPEN_API_KEY = os.getenv("OPEN_API_KEY")
@@ -54,7 +58,7 @@ course_info_vector_db = Chroma(
     embedding_function=OpenAIEmbeddings(openai_api_key=OPEN_API_KEY)
 )
 
-course_info_retriever = course_info_vector_db.as_retriever(k=1)
+course_info_retriever = course_info_vector_db.as_retriever(k=10)
 
 # Define a function to process each document's content and metadata
 def format_with_metadata(documents):
