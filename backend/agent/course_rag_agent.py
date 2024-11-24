@@ -19,40 +19,35 @@ tools = [
     Tool(
         name="Reviews",
         func=review_chain.invoke,
-        description="""Useful when you need to answer questions
-        about student experiences, feelings, or any other qualitative
-        question such as course recommendations that could be answered 
-        about a student using semantic search. Not useful for answering 
-        objective questions that involve counting, percentages, aggregations, 
-        or listing facts about courses' level of difficulty, rating, and workload, etc.. 
-        Use the entire prompt as input to the tool. For instance, 
-        if the prompt is "Give me some challenging courses", the input should be
-        "Give me some challenging courses".
-        """,
+        description=(
+            "Use this tool to answer questions about student experiences, feelings, or qualitative "
+            "aspects such as course recommendations. Not suitable for objective queries involving "
+            "statistics or factual details about courses' difficulty, ratings, or workload. "
+            "Please pass the entire user question as input to this tool. For example, if the user asks, "
+            '"Can you recommend some challenging courses?", pass the full question as input.'
+        ),
     ),
     Tool(
         name="Course_Ratings",
         func=course_rating_chain,
-        description="""Useful for answering objective questions that 
-        involve counting, percentages, aggregations,  or listing facts 
-        about courses' level of difficulty, rating, and workload, etc.. 
-        Use the entire prompt as input to the tool. For instance, 
-        if the prompt is "Give me the top five most difficult courses", 
-        the input should be "Give me the top five most difficult courses".
-        """,
+        description=(
+            "This tool is designed to handle objective questions that involve statistics, percentages, "
+            "aggregations, or factual details about courses' difficulty, ratings, and workload. "
+            "Ensure you pass the entire user question as input to this tool. For instance, if the user inquires, "
+            '"What are the top five most difficult courses?", provide the complete question as input.'
+        ),
     ),
     Tool(
         name="Course_Information",
         func=course_info_chain.invoke,
-        description="""Useful when you need to answer questions
-        about subject questions about courses' prerequisite, course contents, and workload, etc.. 
-        Use the entire prompt as input to the tool. For instance, 
-        if the prompt is "What's the technical background needed for CS 6515", the input should be
-        "What's the technical background needed for CS 6515"
-        """,
+        description=(
+            "Utilize this tool to answer questions regarding courses' prerequisites, content, and workload. "
+            "It is important to pass the entire user question as input to this tool. For example, if the user asks, "
+            '"What technical background is needed for CS 6515?", input the full question.'
+        ),
     ),
-
 ]
+
 
 chat_model = ChatOpenAI(
     model=MODEL,
