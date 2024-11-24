@@ -1,6 +1,6 @@
-# learning-assistant
+# Buzz Advisor
 
-Learning and Planning LLM Assistant
+Buzz Advisor: LLM Academic Assistant at Georgia Tech
 
 ## packages
 
