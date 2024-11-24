@@ -43,7 +43,10 @@ with st.sidebar:
         "- Could you recommend the top three most difficult courses which statisfies the foundational requirement?"
     )
     st.markdown(
-        "- Could you recommend five courses with the highest rating and the least workload?"
+        "- Is there anything I need to be aware of before taking CS 6035?"
+    )
+    st.markdown(
+        "- Can you recommend me some hard-core or solid courses?"
     )
     # st.markdown(
     #     "- At which hospitals are patients complaining about billing and "
@@ -53,9 +56,9 @@ with st.sidebar:
     # "[View the source code](https://github.com/streamlit/llm-examples/blob/main/Chatbot.py)"
     # "[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)"
 
-st.title("💬 Course Recommender")
-st.info("Ask me questions about Gatech Courses")
-st.caption("🚀 AI Learning and Planning Agent")
+st.title("💬 Buzz Advisor")
+st.info("Ask me questions about Georgia Tech's Courses")
+st.caption("🚀 AI Academic Assistant")
 if "messages" not in st.session_state:
     st.session_state["messages"] = [
         {"role": "assistant", "content": "How can I help you?"}
