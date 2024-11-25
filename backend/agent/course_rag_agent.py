@@ -24,7 +24,7 @@ tools = [
             "aspects such as course recommendations. Not suitable for objective queries involving "
             "statistics or factual details about courses' difficulty, ratings, or workload. "
             "Please pass the entire user question as input to this tool. For example, if the user asks, "
-            '"Can you recommend some challenging courses?", pass the full question as input.'
+            '"Can you recommend some interesting courses?", pass the full question as input.'
         ),
     ),
     Tool(
@@ -41,7 +41,7 @@ tools = [
         name="Course_Information",
         func=course_info_chain.invoke,
         description=(
-            "Utilize this tool to answer questions regarding courses' prerequisites, content, and workload. "
+            "Utilize this tool to answer questions regarding courses' prerequisites, content, and overview. "
             "It is important to pass the entire user question as input to this tool. For example, if the user asks, "
             '"What technical background is needed for CS 6515?", input the full question.'
         ),
