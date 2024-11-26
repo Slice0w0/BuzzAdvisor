@@ -42,8 +42,10 @@ tools = [
         func=course_info_chain.invoke,
         description=(
             "Utilize this tool to answer questions regarding courses' prerequisites, content, and overview. "
-            "It is important to pass the entire user question as input to this tool. For example, if the user asks, "
-            '"What technical background is needed for CS 6515?", input the full question.'
+            "Ensure you pass the entire user question as input to this tool. For example, if the user asks, "
+            '"What technical background is needed for CS 6515?", input the full question.' 
+            "For example, if the user asks, "
+            '"What is the prerequisite for CS 6250?", input the full question.'
         ),
     ),
 ]

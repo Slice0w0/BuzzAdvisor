@@ -60,18 +60,25 @@ course_info_vector_db = Chroma(
 
 course_info_retriever = course_info_vector_db.as_retriever(k=5)
 
-# Define a function to process each document's content and metadata
-def format_with_metadata(documents):
-    logging.info([doc.metadata['source'] for doc in documents["context"]])
-    return [
-        f"Review: {doc.page_content}\nCourse: {doc.metadata['source'].split('/')[-1].rstrip('.json')}"
-        for doc in documents["context"]
-    ]
+# # Define a function to process each document's content and metadata
+# def format_with_metadata(documents):
+#     logging.info([doc.metadata['source'] for doc in documents["context"]])
+#     return [
+#         f"Content: {doc.page_content}\nCourse: {doc.metadata['source'].split('/')[-1].rstrip('.json')}"
+#         for doc in documents["context"]
+#     ]
 
-# Create a chain that incorporates the formatted documents with metadata
+# # Create a chain that incorporates the formatted documents with metadata
+# course_info_chain = (
+#     {"context": course_info_retriever, "question": RunnablePassthrough()}
+#     | RunnableMap({"context": format_with_metadata, "question": lambda x: x})  # Format context with metadata
+#     | course_info_prompt_template
+#     | chat_model
+#     | StrOutputParser()
+# )
+
 course_info_chain = (
     {"context": course_info_retriever, "question": RunnablePassthrough()}
-    | RunnableMap({"context": format_with_metadata, "question": lambda x: x})  # Format context with metadata
     | course_info_prompt_template
     | chat_model
     | StrOutputParser()
