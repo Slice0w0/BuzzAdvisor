@@ -77,8 +77,8 @@ streamlit run frontend/chatbot.py
 ### Dataset
 
 Our dataset is collected through web scrapping over the 
-- [OMS Central](./data/oms-central): https://www.omscentral.com/
-- [OMSCS Official Website](./data/oms-official): https://omscs.gatech.edu/current-courses
+- OMS Central: https://www.omscentral.com/
+- OMSCS Official Website: https://omscs.gatech.edu/current-courses
 
 
 ### Performance Measurement 
