@@ -1,6 +1,12 @@
 # BuzzAdvisor
 
-A RAG-Based LLM Academic Advisor Agent
+A RAG-Based LLM Academic Advisor Agent. BuzzAdvisor can handle multiple types of questions from students, including course reviews, ratings, and information, and provide fast responses with accuracy.
+
+Type of Questions BuzzAdvisor can handle: <br>
+1. Review-Related Questions: “Could you recommend me an interesting CS course?”  <br>
+2. Course-Specific Questions: ”What are the prerequisites and syllabus for CS 6220?”  <br>
+3. Quantitative Questions: What are the 5 most difficult courses in CS?”  <br>
+
 
 ## Environment Setup
 
